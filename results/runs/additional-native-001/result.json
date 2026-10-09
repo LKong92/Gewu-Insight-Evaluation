@@ -1,0 +1,24 @@
+{
+  "cases": [
+    {
+      "module": "science-capture",
+      "build_exit": 0,
+      "ephemeral_synthetic_only": true,
+      "actual_publisher_access_claim": false,
+      "exit_code": 0,
+      "output": "31 Science capture and layout checks passed.\n"
+    },
+    {
+      "module": "science-session",
+      "build_exit": 0,
+      "ephemeral_synthetic_only": true,
+      "actual_publisher_access_claim": false,
+      "exit_code": 0,
+      "output": "Science native/WebKit probe: 79 checks passed; no live App, user data or external requests.\n"
+    }
+  ],
+  "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+  "product_content_sha256": "d1b7dc3d97077255d4cd61a8de48979b23cbf98b5d8a7cd18517aee8425cd977",
+  "production_data_accessed": false,
+  "independent_benchmark_denominator_increment": 0
+}

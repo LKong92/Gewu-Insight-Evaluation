@@ -1,0 +1,182 @@
+{
+  "schema_version": "v4.1-retained-requirements-schema22",
+  "seed": 20260819,
+  "pilot_fixtures_per_family": 1,
+  "formal_fixtures_per_family": 4,
+  "invariants": [
+    "identity_uniqueness",
+    "association_multiplicity",
+    "resource_set_integrity",
+    "resource_role_correctness",
+    "lineage_integrity",
+    "current_selection",
+    "preferred_selection",
+    "exact_idempotence",
+    "content_relation_populated",
+    "content_noncollapse",
+    "invalid_pdf_rejection",
+    "path_mapping",
+    "scoped_deletion",
+    "restart_persistence",
+    "foreign_keys",
+    "no_orphan_db_references",
+    "no_orphan_owned_files",
+    "no_unexpected_deletion",
+    "rollback_integrity"
+  ],
+  "families": [
+    {
+      "id": "C01_three_entry_same_work",
+      "purpose": "Journal, Subject, and Author observations converge on one work while retaining associations.",
+      "applicable": [
+        "identity_uniqueness",
+        "association_multiplicity",
+        "restart_persistence",
+        "foreign_keys"
+      ]
+    },
+    {
+      "id": "C02_preprint_to_vor",
+      "purpose": "A version of record becomes automatic current and the preprint remains in Paper Files.",
+      "applicable": [
+        "resource_set_integrity",
+        "resource_role_correctness",
+        "lineage_integrity",
+        "current_selection",
+        "path_mapping",
+        "no_unexpected_deletion",
+        "foreign_keys"
+      ]
+    },
+    {
+      "id": "C03_accepted_to_published",
+      "purpose": "Accepted manuscript and published version remain distinct with correct ranking.",
+      "applicable": [
+        "resource_set_integrity",
+        "resource_role_correctness",
+        "lineage_integrity",
+        "current_selection",
+        "no_unexpected_deletion",
+        "foreign_keys"
+      ]
+    },
+    {
+      "id": "C04_byte_identical_refresh",
+      "purpose": "Byte-identical refresh reuses the exact resource and is idempotent.",
+      "applicable": [
+        "resource_set_integrity",
+        "current_selection",
+        "exact_idempotence",
+        "no_orphan_owned_files",
+        "foreign_keys"
+      ]
+    },
+    {
+      "id": "C05_clean_annotated_same_content",
+      "purpose": "Clean and annotated copies share a content fingerprint but never collapse by exact identity.",
+      "applicable": [
+        "resource_set_integrity",
+        "content_relation_populated",
+        "content_noncollapse",
+        "current_selection",
+        "no_unexpected_deletion",
+        "foreign_keys"
+      ]
+    },
+    {
+      "id": "C06_nonpublication_never_current",
+      "purpose": "Supplements and attachments remain related files and cannot become automatic current.",
+      "applicable": [
+        "resource_set_integrity",
+        "resource_role_correctness",
+        "current_selection",
+        "preferred_selection",
+        "foreign_keys"
+      ]
+    },
+    {
+      "id": "C07_manual_preferred_then_auto",
+      "purpose": "Manual preference is honored and clearing it restores deterministic automatic selection.",
+      "applicable": [
+        "resource_set_integrity",
+        "current_selection",
+        "preferred_selection",
+        "restart_persistence",
+        "foreign_keys"
+      ]
+    },
+    {
+      "id": "C08_multiple_roots",
+      "purpose": "Library folders, Spaces, and My Publications share one work and files.",
+      "applicable": [
+        "identity_uniqueness",
+        "association_multiplicity",
+        "path_mapping",
+        "restart_persistence",
+        "foreign_keys"
+      ]
+    },
+    {
+      "id": "C09_scoped_relation_deletion",
+      "purpose": "Deleting one monitor, shortcut, or file relation does not delete shared state.",
+      "applicable": [
+        "association_multiplicity",
+        "resource_set_integrity",
+        "scoped_deletion",
+        "no_unexpected_deletion",
+        "foreign_keys"
+      ]
+    },
+    {
+      "id": "C10_move_rename_repair_restart",
+      "purpose": "Move/rename, path repair, associated-file remapping, and restart preserve state.",
+      "applicable": [
+        "resource_set_integrity",
+        "path_mapping",
+        "restart_persistence",
+        "no_orphan_db_references",
+        "no_orphan_owned_files",
+        "foreign_keys"
+      ]
+    },
+    {
+      "id": "C11_invalid_failure_recovery",
+      "purpose": "Invalid PDF is rejected; a failed download leaves inspectable state and a later valid retry recovers.",
+      "applicable": [
+        "invalid_pdf_rejection",
+        "resource_set_integrity",
+        "current_selection",
+        "exact_idempotence",
+        "no_orphan_db_references",
+        "no_orphan_owned_files",
+        "foreign_keys"
+      ]
+    },
+    {
+      "id": "C12_schema10_nondestructive_migration",
+      "purpose": "Four structurally distinct legacy schemas migrate to current schema22 without losing identity, files, folders or provenance.",
+      "applicable": [
+        "identity_uniqueness",
+        "resource_set_integrity",
+        "path_mapping",
+        "restart_persistence",
+        "foreign_keys",
+        "no_unexpected_deletion"
+      ]
+    },
+    {
+      "id": "C13_standalone_merge_and_rollback",
+      "purpose": "A standalone Library item becomes Paper Files atomically; guarded/shared or injected-failure cases roll back.",
+      "applicable": [
+        "identity_uniqueness",
+        "resource_set_integrity",
+        "path_mapping",
+        "scoped_deletion",
+        "no_unexpected_deletion",
+        "rollback_integrity",
+        "foreign_keys"
+      ]
+    }
+  ],
+  "status": "engineering_requirements_only_no_results"
+}

@@ -1,0 +1,97 @@
+{
+  "base": [
+    {
+      "stage": "initial",
+      "comparison": {
+        "agree": 1225,
+        "total": 1263,
+        "rate": 0.9699129057798892,
+        "kappa": 0.8519128768594202
+      },
+      "input_files": [
+        "data/reviews/initial/codex_base.json",
+        "data/reviews/initial/deepseek_base.json"
+      ]
+    },
+    {
+      "stage": "scoped-001",
+      "comparison": {
+        "agree": 1241,
+        "total": 1263,
+        "rate": 0.9825811559778306,
+        "kappa": 0.9160989926806291
+      },
+      "input_files": [
+        "data/reviews/history/scoped-001/inputs/codex/decisions.json",
+        "data/reviews/history/scoped-001/inputs/deepseek/decisions.json"
+      ]
+    },
+    {
+      "stage": "connected-002",
+      "comparison": {
+        "agree": 1247,
+        "total": 1263,
+        "rate": 0.9873317498020586,
+        "kappa": 0.9383613037828739
+      },
+      "input_files": [
+        "data/reviews/history/connected-002/inputs/codex/decisions.json",
+        "data/reviews/history/connected-002/inputs/deepseek/decisions.json"
+      ]
+    },
+    {
+      "stage": "supplement-003",
+      "comparison": {
+        "agree": 1251,
+        "total": 1263,
+        "rate": 0.9904988123515439,
+        "kappa": 0.9534163208852005
+      },
+      "input_files": [
+        "data/reviews/history/supplement-003/inputs/codex/decisions.json",
+        "data/reviews/history/supplement-003/inputs/deepseek/decisions.json"
+      ]
+    },
+    {
+      "stage": "supplement-004-accepted",
+      "comparison": {
+        "agree": 1251,
+        "total": 1263,
+        "rate": 0.9904988123515439,
+        "kappa": 0.9533767695970762
+      },
+      "input_files": [
+        "data/reviews/history/supplement-004-accepted/inputs/codex/decisions.json",
+        "data/reviews/history/supplement-004-accepted/inputs/deepseek/decisions.json"
+      ]
+    },
+    {
+      "stage": "accepted",
+      "comparison": {
+        "agree": 1251,
+        "total": 1263,
+        "rate": 0.9904988123515439,
+        "kappa": 0.9533767695970762
+      },
+      "input_files": [
+        "data/reviews/codex_base.json",
+        "data/reviews/deepseek_base.json"
+      ]
+    }
+  ],
+  "broad": {
+    "initial": {
+      "agree": 100,
+      "total": 110,
+      "rate": 0.9090909090909091,
+      "kappa": 0.617790132036136
+    },
+    "accepted_pre_human": {
+      "agree": 108,
+      "total": 110,
+      "rate": 0.9818181818181818,
+      "kappa": 0.8486932599724896
+    }
+  },
+  "agreement_after_human_not_reported_as_AI_agreement": true
+}

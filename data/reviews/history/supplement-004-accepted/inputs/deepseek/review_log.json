@@ -1,0 +1,198 @@
+{
+  "round": "SUPPLEMENT-004",
+  "items": [
+    {
+      "question_id": "A-CAN-30c14cc4117a8034f0362299:membership",
+      "reading_status": "completed",
+      "original_sources_read": [
+        {
+          "evidence_id": "AFUP-df8ece146bfaea50a47ee30c",
+          "locator": {
+            "local_working_prose_sha256": "6f9331f3c141d0c6a08d231a8848a863aa8169a2dd2383044481af38e6377535",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "AFUP-3ffa67311d22c2bf0eea1e8f",
+          "locator": "visual_transcription（“Xu Xiao-Dong 2) / 2) (Shanghai Institute of Optics and Fine Mechanics, Chinese Academy of Sciences, Shanghai 201800, China)”）"
+        },
+        {
+          "evidence_id": "AFUP-36308df44895d6f3e6a98093",
+          "locator": {
+            "local_working_prose_sha256": "f6c9b69178e465d6143ab9881cdb9b8a1b1a82f02fe6817f1c6a648be27b168f",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "ARAW-0700447886c05135aa4dbfb1",
+          "locator": {
+            "local_working_prose_sha256": "6cb0916f17b281bf4442fa64c45730dba71b2be802841dc9f5a278a810b419cc",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "AREPAIR-918ece119431937631238eae",
+          "locator": {
+            "local_working_prose_sha256": "cbb2782f6a2104075f48975ebad89c2c8949fa0ad43c9b50c8787a4c1da1fdf2",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        }
+      ],
+      "new_sources_read": [
+        {
+          "evidence_id": "SUPP003-E03-01-r1-raw",
+          "locator": {
+            "local_working_prose_sha256": "641172d25b317c0817324b1e0beeb58083fa25889d08f3e23b60b5a77f3e57c6",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-01-r1-txt",
+          "locator": {
+            "local_working_prose_sha256": "dbc0ba0fb55559b12665e01e58824449609c58125679116be9ca44764a25a87c",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        }
+      ],
+      "independent_reasoning": {
+        "local_working_prose_sha256": "3746c75cf1380b8ca203fa264648e2050a639c5985865d3387a831f4dac8bf16",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "remaining_gap": {
+        "local_working_prose_sha256": "06b92acfc301eed80d6ea1b88f66a53733fb2c34b7e2d6703a878c06281a1712",
+        "availability": "Retained in the controlled original-language audit archive."
+      }
+    },
+    {
+      "question_id": "A-CAN-398d2389206ed022850463b4:membership",
+      "reading_status": "completed",
+      "original_sources_read": [
+        {
+          "evidence_id": "AFUP-6ab33c750208a16ebe838d46",
+          "locator": {
+            "local_working_prose_sha256": "c0f309859ea0a3099d2c0525adb998230a3ba9072ba3ccb9b164bbc29da4194d",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "AFUP-6ab33c750208a16ebe838d46",
+          "locator": "author_byline “Xiaodong Xu , Takeda Shin-ichi , Michael R Wisnom , Stephen R Hallett”、affiliation “Bristol Composites Institute Composites University Technology Centre (UTC) …”、publication_details “Published - 9 Sept 2015”、document_version “X.Xu_et_al_composites2015_final”"
+        },
+        {
+          "evidence_id": "AREPAIR-ecd16add3af7e5fdc58fbd31",
+          "locator": {
+            "local_working_prose_sha256": "4df2f32dfd64b5cea807f5861ead8ead4440b715fe27620569081948d5b10ede",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "AREPAIR-dbb6f2a34d37332a469b7ab2",
+          "locator": {
+            "local_working_prose_sha256": "054ce292d8e9b70e31ae105331836e3c4fb7adb6a05fc4abdc75ece00512e163",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        }
+      ],
+      "new_sources_read": [
+        {
+          "evidence_id": "SUPP003-E03-01-r1-raw",
+          "locator": {
+            "local_working_prose_sha256": "da08755f390e6f96c37299f87047c8db8ec61ae4dee41ca0a7d43e5607bc970c",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-01-r1-txt",
+          "locator": {
+            "local_working_prose_sha256": "3f7889eb38982b353cb8f04db5eff7f6fad37775e726454d0531d46df7796c5f",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-02-r1-raw",
+          "locator": {
+            "local_working_prose_sha256": "65bae7e33edc3e216a402e7275a01a1fd7f8fd7a4e558176762184bead295ad6",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-02-r1-txt",
+          "locator": {
+            "local_working_prose_sha256": "7755b03f45c93a2a972b31a4ccd99bee8c62eb98946f2349d23cb595ac829a97",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        }
+      ],
+      "independent_reasoning": {
+        "local_working_prose_sha256": "785c69705ccf0e3dd28f90c606f215821b5559dd95d2061a77de06790a2200fa",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "remaining_gap": null
+    },
+    {
+      "question_id": "A-CAN-4397157b8738a06f1b29d776:membership",
+      "reading_status": "completed",
+      "original_sources_read": [
+        {
+          "evidence_id": "AREPAIR-c9d80cc2e35209184a243653",
+          "locator": {
+            "local_working_prose_sha256": "b2833e59f6922d8b3cd95d905e96f38b21426cb97e890f415e3fb01a2febd8c4",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "A81-ceb9932b0603d3b70eb3a80f",
+          "locator": {
+            "local_working_prose_sha256": "2cda6bc32d4e6c10f708884d74d9485f81e5fd7d5aec9b9002254b443f394bb5",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "ASCH-a2991f899efd75393b28b829",
+          "locator": {
+            "local_working_prose_sha256": "442aabc2d2f7f8708421e06c82b41249431dbfe17a33b36902803ac5ae78abfc",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "ARAW-0700447886c05135aa4dbfb1",
+          "locator": {
+            "local_working_prose_sha256": "1cc034064e8d4269c058c46afa6e66a0318be52ba04048a296a2e7bb4569968b",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "A43-cea8d71c5b68f4c001f1c87d",
+          "locator": {
+            "local_working_prose_sha256": "7692d4ee0a02338c7bfc45e6de8b51ae9d0bb0661a02838dc5b812dac9c5e5f9",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        }
+      ],
+      "new_sources_read": [
+        {
+          "evidence_id": "SUPP003-E03-01-r1-raw",
+          "locator": {
+            "local_working_prose_sha256": "366dfa6089c12fe447155830e08c1351961531abd3f4c4908d316328db83cf2e",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-01-r1-txt",
+          "locator": {
+            "local_working_prose_sha256": "3f7889eb38982b353cb8f04db5eff7f6fad37775e726454d0531d46df7796c5f",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        }
+      ],
+      "independent_reasoning": {
+        "local_working_prose_sha256": "c6d154ce8fe36ddff763bc5114e1f3b7d551a56f758ee87a35ff0e23fc4b6537",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "remaining_gap": {
+        "local_working_prose_sha256": "f11af4403bd006e0d6f67d89c299505feda041f978260136367aeaec146ea35f",
+        "availability": "Retained in the controlled original-language audit archive."
+      }
+    }
+  ]
+}

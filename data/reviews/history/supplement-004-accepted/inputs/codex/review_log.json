@@ -1,0 +1,174 @@
+{
+  "round": "SUPPLEMENT-004",
+  "items": [
+    {
+      "question_id": "A-CAN-30c14cc4117a8034f0362299:membership",
+      "reading_status": "completed",
+      "original_sources_read": [
+        {
+          "evidence_id": "ADOS-30c14cc4117a8034f0362299",
+          "locator": "/displayed_candidate_descriptions/0 and locked target"
+        },
+        {
+          "evidence_id": "ARAW-0700447886c05135aa4dbfb1",
+          "locator": "exact 3vbIHxFL9FgC row"
+        },
+        {
+          "evidence_id": "AFUP-df8ece146bfaea50a47ee30c",
+          "locator": "full article Chinese/English title,10-author byline,abstract and DOI"
+        },
+        {
+          "evidence_id": "AFUP-3ffa67311d22c2bf0eea1e8f",
+          "locator": "physical pages1 and5 extracted then visually inspected; original superscripts/names/institutions"
+        },
+        {
+          "evidence_id": "AID-6ed104fbbe647a00ad30887a",
+          "locator": "target Stanford laboratory PI/contact"
+        }
+      ],
+      "new_sources_read": [
+        {
+          "evidence_id": "SUPP003-E03-01-r1-raw",
+          "locator": "Bio full three paragraphs, Academic Appointments, Additional Info ORCID href"
+        },
+        {
+          "evidence_id": "SUPP003-E03-01-r1-json",
+          "locator": "entire archived retrieval receipt; collected in SUPPLEMENT-003, no new retrieval"
+        }
+      ],
+      "independent_reasoning": {
+        "local_working_prose_sha256": "7e9d19df6b57b4c8eea6266105fed7fca9d10e836dd138beedebb77cbb5388f4",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "remaining_gap": {
+        "local_working_prose_sha256": "34e8c355d896f24a5cbc254074808e38a9d9c451f1c059f88621270eed0174f3",
+        "availability": "Retained in the controlled original-language audit archive."
+      }
+    },
+    {
+      "question_id": "A-CAN-398d2389206ed022850463b4:membership",
+      "reading_status": "completed",
+      "original_sources_read": [
+        {
+          "evidence_id": "ADOS-398d2389206ed022850463b4",
+          "locator": "/displayed_candidate_descriptions/0 and locked target"
+        },
+        {
+          "evidence_id": "AFUP-6ab33c750208a16ebe838d46",
+          "locator": "entire visible work page; original HTML first-author metadata sequence and byline profile link"
+        },
+        {
+          "evidence_id": "AFUP-5b66b5da0078683c8ce9ad2a",
+          "locator": "entire returned verification page"
+        },
+        {
+          "evidence_id": "AID-6ed104fbbe647a00ad30887a",
+          "locator": "target Stanford laboratory PI/contact"
+        }
+      ],
+      "new_sources_read": [
+        {
+          "evidence_id": "SUPP003-E03-01-r1-raw",
+          "locator": "Bio full three paragraphs, Academic Appointments, Additional Info ORCID href"
+        },
+        {
+          "evidence_id": "SUPP003-E03-01-r1-json",
+          "locator": "entire archived retrieval receipt; collected in SUPPLEMENT-003, no new retrieval"
+        },
+        {
+          "evidence_id": "SUPP003-E03-02-r1-raw",
+          "locator": "Background in full, Contact ORCID and Scholar hrefs, entire Articles In Journals/Conference Papers lists"
+        },
+        {
+          "evidence_id": "SUPP003-E03-02-r1-json",
+          "locator": "entire archived retrieval receipt"
+        }
+      ],
+      "independent_reasoning": {
+        "local_working_prose_sha256": "79c6ecc6c056fdbf962b9c77b92ba63a424347c9d2c65026d12b42e09074f342",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "remaining_gap": null
+    },
+    {
+      "question_id": "A-CAN-4397157b8738a06f1b29d776:membership",
+      "reading_status": "completed",
+      "original_sources_read": [
+        {
+          "evidence_id": "ADOS-4397157b8738a06f1b29d776",
+          "locator": "displayed candidate description and target context"
+        },
+        {
+          "evidence_id": "ARAW-0700447886c05135aa4dbfb1",
+          "locator": "exact candidate row: Spectroscopic Characterization of Yb: Cayalo4 Shaped Crystal Fibers"
+        },
+        {
+          "evidence_id": "ASCH-29911527ada64418421be8c6",
+          "locator": "entire exact citation detail HTML: title, full Authors, Journal and full Description"
+        },
+        {
+          "evidence_id": "ASCH-a2991f899efd75393b28b829",
+          "locator": "requested/returned URLs and fields 0–2; not entire receipt tail"
+        },
+        {
+          "evidence_id": "A81-ceb9932b0603d3b70eb3a80f",
+          "locator": "entire exact Crossref JSON, especially title, DOI, full author array and empty relation"
+        },
+        {
+          "evidence_id": "A60-fd2c9b869b13be79eefd3be6",
+          "locator": "entire SSRN returned verification HTML; no article text"
+        },
+        {
+          "evidence_id": "ALINK-826ca96431d486d70e649327",
+          "locator": "entire SSRN HTTP403 ContentBlocked response; no article text"
+        },
+        {
+          "evidence_id": "ALINK-b90d03435a04d1c1445e51e2",
+          "locator": "entire retrieval receipt and exact SSRN URL"
+        },
+        {
+          "evidence_id": "AREPAIR-87dd93ac076ac06837fb3649",
+          "locator": "all five search-result titles and DOIs; distinguishes Tm work"
+        },
+        {
+          "evidence_id": "AREPAIR-c9d80cc2e35209184a243653",
+          "locator": "all five result titles/DOIs; item4 full author array, title, DOI and links for related 2024 journal work"
+        },
+        {
+          "evidence_id": "A43-d1e27ef385e4aaa805f8f5a6",
+          "locator": "entire visible HAL page, full author/affiliation list and no-file status"
+        },
+        {
+          "evidence_id": "A43-cea8d71c5b68f4c001f1c87d",
+          "locator": "response/docs/0 key inventory; authFullName_s, authIdHasPrimaryStructure_fs, uri_s and doiId_s; selected fields, not whole JSON"
+        },
+        {
+          "evidence_id": "A43-5b381bb84aa36d919d44cd5e",
+          "locator": "entire archived publisher excerpt JSON including explicit noPDFbytes source_representation"
+        },
+        {
+          "evidence_id": "AID-6ed104fbbe647a00ad30887a",
+          "locator": "entire visible target Stanford laboratory page"
+        }
+      ],
+      "new_sources_read": [
+        {
+          "evidence_id": "SUPP003-E03-01-r1-raw",
+          "locator": "Bio full three paragraphs, Academic Appointments, Additional Info ORCID href"
+        },
+        {
+          "evidence_id": "SUPP003-E03-01-r1-json",
+          "locator": "entire archived retrieval receipt; collected in SUPPLEMENT-003, no new retrieval"
+        }
+      ],
+      "independent_reasoning": {
+        "local_working_prose_sha256": "e10485cfd01f1d21dc7370f0ac3cc91521ad49c08e07216b00048923f8f7a55e",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "remaining_gap": {
+        "local_working_prose_sha256": "9d85a044a593d693177f0100162b0d0c20d1742c5aec041fd9a7dae89d0a0d75",
+        "availability": "Retained in the controlled original-language audit archive."
+      }
+    }
+  ]
+}

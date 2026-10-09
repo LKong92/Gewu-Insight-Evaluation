@@ -1,0 +1,29 @@
+{
+  "schema": "full010.reporting-amendment.v1",
+  "created_at": "2026-10-07T14:01:39.673035+00:00",
+  "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+  "timing": "User requested after seeing adjudicated results; not a preregistered primary endpoint.",
+  "authorization": "User requested author discovery be counted by target authorship alone: 156/166, excluding date from this score.",
+  "author_primary_field": "membership",
+  "date_and_research_type": "Retained as separately named auxiliary measurements, not author-membership conditions.",
+  "original_joint_result": "Retained with its original explicit three-condition meaning.",
+  "subject_scope": "All110 broad cases reviewed by both models; symmetric12-case supplement, accepted scoped corrections,2 actual human choices merged. Strict labels unchanged.",
+  "journal_primary_definition": "Unchanged; field-specific and joint results remain distinguishable.",
+  "new_review_required_for_author_reporting": false,
+  "judgments_changed": 0,
+  "samples_added_or_removed": 0,
+  "software_changed": false,
+  "final_seal": true,
+  "input_hashes": {
+    "reference.json": "9156185c914c4d02463dd82c1b7f8a330e695c4adcf87844cdea781d1e204e8e",
+    "inputs/human_submission.json": "bb390656a4cf0785f17819380060dc51c497004c859503f191ecff83b7ef185d",
+    "inputs/codex/decisions.json": "5e5aea921cc53f1ce3dfa8c337d4b27247c686bc1071bd338e9da50d075ab7db",
+    "inputs/deepseek/decisions.json": "ff1fcbef1c63c5ad2192f31763b86ee17f740a721ae826d47f5092521642cc31",
+    "inputs/cases.json": "17de4db016c6d5e8c677d8a24cff4221cb5ff504b661005f7922f37caa42836a",
+    "inputs/rubric.txt": "bffb88c76f3729d423a0bafc2ccc006a0b04acd2845ffc97145806e8d8afbe5e",
+    "statistics_A.json": "682d199a980db912210b5e9bdc944a14ce0e540fce1da0a8582c608d76c6d061"
+  },
+  "broad_result": "104 yes /5 no /1 uncertain over110; no date/type conjunction.",
+  "completion_time": "2026-10-07T15:52:16.503787+00:00",
+  "human_record_id": "249159379deb02f02afe8ee4"
+}

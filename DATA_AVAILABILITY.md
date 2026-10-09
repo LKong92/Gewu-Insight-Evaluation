@@ -1,0 +1,3 @@
+# Data availability
+
+The evaluation data and reproducibility materials are deposited at https://github.com/LKong92/Gewu-Insight-Evaluation/releases/tag/manuscript-evaluation. Access can be requested from the authors. The package contains discovery cases, independent model decisions, human adjudications, final reference labels, sampling and screening records, frozen-software provenance, recorded engineering and workflow observations, and verification, scoring and replay tools. Third-party full-text documents are retained separately; source identifiers, citation locations and checksums are provided where applicable.

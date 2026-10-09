@@ -1,0 +1,97 @@
+{
+  "phase": "fixed_version_execution",
+  "scenario": "C19-V02",
+  "supplementary_evidence": true,
+  "independent_scenario_increment": 0,
+  "formal_result": false,
+  "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+  "source_files_verified": 393,
+  "product_code_modified": false,
+  "original_app_touched": false,
+  "passed": true,
+  "boundary": "actual SIGKILL between committed metadata items; no in-transaction kill claim",
+  "fixtures": "synthetic metadata provider payloads; unchanged native refresh/queue/persistence",
+  "interrupted_pid": 60592,
+  "interruption_returncode": -9,
+  "resume_pid": 60594,
+  "resume_returncode": 0,
+  "checks": {
+    "new_OS_process": true,
+    "completed_three": true,
+    "exactly_three_unique_log_targets": true,
+    "first_item_not_requested_again": true,
+    "remaining_items_requested": true,
+    "keys_and_manual_default_preserved": true,
+    "resources_preserved": true,
+    "placements_preserved": true,
+    "file_bytes_preserved": true,
+    "foreign_keys_valid": true,
+    "native_UI_completed": true
+  },
+  "evidence": [
+    {
+      "path": "after.json",
+      "sha256": "b42253dd6404932595f46060622002aef8d0d1acd8cdec4d81bddbd0b1ced72e"
+    },
+    {
+      "path": "at_interrupt.json",
+      "sha256": "23f3bf68dcfe02271d15d416255a7cd83ff8a36527240f2fa53a58b11e2f0fde"
+    },
+    {
+      "path": "before.json",
+      "sha256": "9f5c5d92ac781298099b1bafa7d97fd066de6bad6f2321d2f82f42e3c3010120"
+    },
+    {
+      "path": "execute_c19_process_formal.py",
+      "sha256": "c78be738263c7e2344946975eb19a5e5b7e9363b55ad6b68435b1132f040d273"
+    },
+    {
+      "path": "execution_authorization.json",
+      "sha256": "4759b0644571d4c3280bef33274614cc06b0fce6239cfd1d6a221478913e13b1"
+    },
+    {
+      "path": "finished.json",
+      "sha256": "ffb32125bf74ab9755e39b0dca00646729bbb143cf2c07843bef19ebd584ddca"
+    },
+    {
+      "path": "interrupt.stderr",
+      "sha256": "71d4c9c95963e6328097b8bbb08f9491208556a2790408f21fd9b1aebe6c5bd1"
+    },
+    {
+      "path": "interrupt.stdout",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "interrupt_ready.json",
+      "sha256": "745730fa84a0572a4a868310b9f6d9afe19361d35e82762068c3445615f006f0"
+    },
+    {
+      "path": "job.json",
+      "sha256": "c5200f725788b64ff95e9c44f3ab2bc652d29ad68bc0d020fa199b472d10a6d8"
+    },
+    {
+      "path": "recovered.json",
+      "sha256": "63da459cbaa660b71a8e29a9f19f5876782c1938f078347abb92df4958b613ff"
+    },
+    {
+      "path": "resume.stderr",
+      "sha256": "71d4c9c95963e6328097b8bbb08f9491208556a2790408f21fd9b1aebe6c5bd1"
+    },
+    {
+      "path": "resume.stdout",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "resume_process.json",
+      "sha256": "1024b9dc539264ead269e98c430a05a9e8a6457c5a9cda17c2688c31d303b964"
+    },
+    {
+      "path": "run_b.py",
+      "sha256": "716b2f1bafc20839d31ad7092e0e50d5648595c27bd1fc9f35ddf7655f9fccad"
+    },
+    {
+      "path": "ui_jobs.json",
+      "sha256": "6b881a467f69b5881a28d6366a840379a821d97ecf085328ec0c47719145bc7d"
+    }
+  ]
+}

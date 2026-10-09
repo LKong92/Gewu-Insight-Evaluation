@@ -1,0 +1,512 @@
+{
+  "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+  "processing_mode": "offline_latest_product_reprocessing_of_24_public_author_profiles",
+  "live_acquisition_claim": false,
+  "authors": [
+    {
+      "author_id": "AUTHOR-01",
+      "name": "Xiaodong Xu",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 110,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 15,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/0"
+      }
+    },
+    {
+      "author_id": "AUTHOR-02",
+      "name": "Kin Fai Mak",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 20,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 5,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/1"
+      }
+    },
+    {
+      "author_id": "AUTHOR-03",
+      "name": "Jie Shan",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 28,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 10,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/2"
+      }
+    },
+    {
+      "author_id": "AUTHOR-04",
+      "name": "Immanuel Bloch",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 34,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 7,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/3"
+      }
+    },
+    {
+      "author_id": "AUTHOR-05",
+      "name": "Monika Aidelsburger",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 7,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 2,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/4"
+      }
+    },
+    {
+      "author_id": "AUTHOR-06",
+      "name": "Markus Greiner",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 1,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 0,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/5"
+      }
+    },
+    {
+      "author_id": "AUTHOR-07",
+      "name": "Henry Snaith",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 94,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 10,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/6"
+      }
+    },
+    {
+      "author_id": "AUTHOR-08",
+      "name": "Michael Graetzel",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 127,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 17,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/7"
+      }
+    },
+    {
+      "author_id": "AUTHOR-09",
+      "name": "Nam-Gyu Park",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 43,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 9,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/8"
+      }
+    },
+    {
+      "author_id": "AUTHOR-10",
+      "name": "Xin Li",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 0,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 0,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/9"
+      }
+    },
+    {
+      "author_id": "AUTHOR-11",
+      "name": "Jennifer L. M. Rupp",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 27,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 6,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/10"
+      }
+    },
+    {
+      "author_id": "AUTHOR-12",
+      "name": "Y. Shirley Meng",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 65,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 14,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/11"
+      }
+    },
+    {
+      "author_id": "AUTHOR-13",
+      "name": "Jens Kehlet Norskov",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 19,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 2,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/12"
+      }
+    },
+    {
+      "author_id": "AUTHOR-14",
+      "name": "Karsten Reuter",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 112,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 7,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/13"
+      }
+    },
+    {
+      "author_id": "AUTHOR-15",
+      "name": "Olexandr Isayev",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 37,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 8,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/14"
+      }
+    },
+    {
+      "author_id": "AUTHOR-16",
+      "name": "Nergis Mavalvala",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 32,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 6,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/15"
+      }
+    },
+    {
+      "author_id": "AUTHOR-17",
+      "name": "Alessandra Buonanno",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 64,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 9,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/16"
+      }
+    },
+    {
+      "author_id": "AUTHOR-18",
+      "name": "B. S. Sathyaprakash",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 58,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 7,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/17"
+      }
+    },
+    {
+      "author_id": "AUTHOR-19",
+      "name": "David Baker",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 277,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 4,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/18"
+      }
+    },
+    {
+      "author_id": "AUTHOR-20",
+      "name": "John Jumper",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 3,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 2,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/19"
+      }
+    },
+    {
+      "author_id": "AUTHOR-21",
+      "name": "Martin Steinegger",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 25,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 9,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/20"
+      }
+    },
+    {
+      "author_id": "AUTHOR-22",
+      "name": "Corinne Le Quere",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 47,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 6,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/21"
+      }
+    },
+    {
+      "author_id": "AUTHOR-23",
+      "name": "Nicolas Gruber",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 87,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 4,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/22"
+      }
+    },
+    {
+      "author_id": "AUTHOR-24",
+      "name": "Ken Caldeira",
+      "processing_status": "success_reported_by_complete_aggregate",
+      "processing_evidence": {
+        "path": "results/runs/a-author-rebuild-001/result.json",
+        "pointer": "",
+        "fields": [
+          "complete",
+          "author_count",
+          "author_success_count"
+        ]
+      },
+      "observed_occurrences": 34,
+      "occurrence_count_basis": "by_author entry, or zero when absent from the complete aggregate",
+      "evaluated_candidates": 7,
+      "source_roster": {
+        "path": "provenance/stage_inputs/author_roster.json",
+        "pointer": "/authors/23"
+      }
+    }
+  ],
+  "binding_note": "The pre-acquisition pending marker is historical. No provider identifier is invented from processing success; archived source responses retain provider-level evidence."
+}

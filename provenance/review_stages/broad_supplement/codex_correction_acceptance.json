@@ -1,0 +1,13 @@
+{
+  "checked_at": "2026-10-07T15:30:23.753997+00:00",
+  "accepted": true,
+  "actual_scope": 1,
+  "unchanged_answers": 109,
+  "unchanged_reading_records": 11,
+  "original_round_times_preserved": true,
+  "label_changed": false,
+  "target_error_corrected": true,
+  "quote_verified_from_same_abstract": true,
+  "zip_sha256": "5bb1ac53f5ae3da3dfcd262b9094d796440d3a941f617efa8a363af95e8f74c4",
+  "scientific_correctness_not_proved_by_structure": true
+}

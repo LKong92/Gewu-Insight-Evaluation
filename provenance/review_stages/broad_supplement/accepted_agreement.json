@@ -1,0 +1,65 @@
+{
+  "checked_at": "2026-10-07T15:38:49.273008+00:00",
+  "same": 108,
+  "total": 110,
+  "rate": 0.9818181818181818,
+  "cohen_kappa": 0.8486932599724896,
+  "codex_counts": {
+    "yes": 103,
+    "no": 6,
+    "uncertain": 1
+  },
+  "deepseek_counts": {
+    "yes": 103,
+    "no": 6,
+    "uncertain": 1
+  },
+  "matrix": [
+    {
+      "codex": "no",
+      "deepseek": "no",
+      "count": 5
+    },
+    {
+      "codex": "no",
+      "deepseek": "yes",
+      "count": 1
+    },
+    {
+      "codex": "uncertain",
+      "deepseek": "uncertain",
+      "count": 1
+    },
+    {
+      "codex": "yes",
+      "deepseek": "no",
+      "count": 1
+    },
+    {
+      "codex": "yes",
+      "deepseek": "yes",
+      "count": 102
+    }
+  ],
+  "disagreements": [
+    "A-CAN-3019cca49594db03e8218a10:broad_membership",
+    "A-CAN-57049cde7388c86e19048b50:broad_membership"
+  ],
+  "both_uncertain": [
+    "A-CAN-6a23f8fc34dfc477ea03d260:broad_membership"
+  ],
+  "agreement_excluding_common_uncertain": {
+    "same": 107,
+    "total": 109
+  },
+  "initial_raw_agreement_preserved": {
+    "same": 100,
+    "total": 110
+  },
+  "is_initial_blind_agreement": false,
+  "reference_not_finalized": true,
+  "accepted_snapshots": {
+    "codex": "archive://comparison/broad-001/supplement-002/received/codex-correction-001",
+    "deepseek": "archive://comparison/broad-001/supplement-002/received/deepseek-correction-001"
+  }
+}

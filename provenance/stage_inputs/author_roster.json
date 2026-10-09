@@ -1,0 +1,200 @@
+{
+  "version": "0.4.1-pre-acquisition",
+  "created_at": "2026-10-01T05:04:08.834798+00:00",
+  "selection": "Purposive public-identity roster, three researchers for each topic; fixed before formal candidate acquisition. Names selected for domain and identity coverage, not a random sample of researchers. No replacement based on returned publication counts or benchmark outcomes.",
+  "purpose": "Author axis tests attribution and year/type eligibility for all papers returned for the target author, not topical membership. Topic assignment defines roster diversity only.",
+  "authors": [
+    {
+      "author_id": "AUTHOR-01",
+      "name": "Xiaodong Xu",
+      "topic": "two_dimensional_magnetism",
+      "institution_identity_anchors": "University of Washington",
+      "primary_identity_url": "https://phys.washington.edu/people/xiaodong-xu",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-02",
+      "name": "Kin Fai Mak",
+      "topic": "two_dimensional_magnetism",
+      "institution_identity_anchors": "Cornell University",
+      "primary_identity_url": "https://physics.cornell.edu/kin-fai-mak",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-03",
+      "name": "Jie Shan",
+      "topic": "two_dimensional_magnetism",
+      "institution_identity_anchors": "Cornell University",
+      "primary_identity_url": "https://www.duffield.cornell.edu/people/jie-shan/",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-04",
+      "name": "Immanuel Bloch",
+      "topic": "nonequilibrium_quantum",
+      "institution_identity_anchors": "Max Planck Institute of Quantum Optics; LMU",
+      "primary_identity_url": "https://www.mpq.mpg.de/person/34641/4571983",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-05",
+      "name": "Monika Aidelsburger",
+      "topic": "nonequilibrium_quantum",
+      "institution_identity_anchors": "Max Planck Institute of Quantum Optics; LMU",
+      "primary_identity_url": "https://www.mpq.mpg.de/6908956/12-monika-aidelsburger-new-w2-research-group-engineered-quantum-systems",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-06",
+      "name": "Markus Greiner",
+      "topic": "nonequilibrium_quantum",
+      "institution_identity_anchors": "Harvard University",
+      "primary_identity_url": "https://www.physics.harvard.edu/people/facpages/greiner",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-07",
+      "name": "Henry Snaith",
+      "topic": "perovskite_stability",
+      "institution_identity_anchors": "University of Oxford",
+      "primary_identity_url": "https://www.physics.ox.ac.uk/our-people/snaith",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-08",
+      "name": "Michael Graetzel",
+      "topic": "perovskite_stability",
+      "institution_identity_anchors": "EPFL",
+      "primary_identity_url": "https://www.epfl.ch/labs/lpi/graetzel/",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-09",
+      "name": "Nam-Gyu Park",
+      "topic": "perovskite_stability",
+      "institution_identity_anchors": "Sungkyunkwan University",
+      "primary_identity_url": "https://pure.skku.edu/en/persons/nam-gyu-park/",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-10",
+      "name": "Xin Li",
+      "topic": "solid_state_interfaces",
+      "institution_identity_anchors": "Harvard University",
+      "primary_identity_url": "https://seas.harvard.edu/news/long-lasting-stable-solid-state-lithium-battery",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-11",
+      "name": "Jennifer L. M. Rupp",
+      "topic": "solid_state_interfaces",
+      "institution_identity_anchors": "Technical University of Munich; formerly MIT",
+      "primary_identity_url": "https://www.professoren.tum.de/rupp-jennifer",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-12",
+      "name": "Y. Shirley Meng",
+      "topic": "solid_state_interfaces",
+      "institution_identity_anchors": "University of Chicago; Nanyang Technological University",
+      "primary_identity_url": "https://pme.uchicago.edu/directory/y-shirley-meng",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-13",
+      "name": "Jens Kehlet Norskov",
+      "topic": "ml_catalysis",
+      "institution_identity_anchors": "Technical University of Denmark",
+      "primary_identity_url": "https://www.staff.dtu.dk/jkno",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-14",
+      "name": "Karsten Reuter",
+      "topic": "ml_catalysis",
+      "institution_identity_anchors": "Fritz Haber Institute of the Max Planck Society",
+      "primary_identity_url": "https://www.fhi.mpg.de/th-department/director",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-15",
+      "name": "Olexandr Isayev",
+      "topic": "ml_catalysis",
+      "institution_identity_anchors": "Carnegie Mellon University",
+      "primary_identity_url": "https://www.cmu.edu/chemistry/people/faculty/isayev.html",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-16",
+      "name": "Nergis Mavalvala",
+      "topic": "gravitational_wave_analysis",
+      "institution_identity_anchors": "Massachusetts Institute of Technology",
+      "primary_identity_url": "https://physics.mit.edu/faculty/nergis-mavalvala/",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-17",
+      "name": "Alessandra Buonanno",
+      "topic": "gravitational_wave_analysis",
+      "institution_identity_anchors": "Max Planck Institute for Gravitational Physics",
+      "primary_identity_url": "https://www.aei.mpg.de/339140/homepage-of-alessandra-buonanno",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-18",
+      "name": "B. S. Sathyaprakash",
+      "topic": "gravitational_wave_analysis",
+      "institution_identity_anchors": "Pennsylvania State University; Cardiff University",
+      "primary_identity_url": "https://igc.psu.edu/people/bio/bss25/",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-19",
+      "name": "David Baker",
+      "topic": "protein_structure",
+      "institution_identity_anchors": "University of Washington",
+      "primary_identity_url": "https://www.ipd.uw.edu/people/faculty_and_staff/",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-20",
+      "name": "John Jumper",
+      "topic": "protein_structure",
+      "institution_identity_anchors": "Google DeepMind",
+      "primary_identity_url": "https://deepmind.google/science/alphafold/",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-21",
+      "name": "Martin Steinegger",
+      "topic": "protein_structure",
+      "institution_identity_anchors": "Seoul National University",
+      "primary_identity_url": "https://biosci.snu.ac.kr/people/faculty?mode=view&profidx=94",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-22",
+      "name": "Corinne Le Quere",
+      "topic": "ocean_carbon",
+      "institution_identity_anchors": "University of East Anglia",
+      "primary_identity_url": "https://research-portal.uea.ac.uk/en/persons/corinne-le-quere/",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-23",
+      "name": "Nicolas Gruber",
+      "topic": "ocean_carbon",
+      "institution_identity_anchors": "ETH Zurich",
+      "primary_identity_url": "https://up.ethz.ch/the-group/group-leader.html",
+      "provider_binding_status": "pending_verified_profile_id"
+    },
+    {
+      "author_id": "AUTHOR-24",
+      "name": "Ken Caldeira",
+      "topic": "ocean_carbon",
+      "institution_identity_anchors": "Carnegie Science; Breakthrough Energy",
+      "primary_identity_url": "https://carnegiescience.edu/bio/dr-ken-caldeira-emeritus",
+      "provider_binding_status": "pending_verified_profile_id"
+    }
+  ]
+}

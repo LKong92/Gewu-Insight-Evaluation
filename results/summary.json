@@ -1,0 +1,410 @@
+{
+  "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+  "product_content_sha256": "d1b7dc3d97077255d4cd61a8de48979b23cbf98b5d8a7cd18517aee8425cd977",
+  "evaluated_A_cases": 421,
+  "A_axis_counts": {
+    "journal": 145,
+    "subject": 110,
+    "author": 166
+  },
+  "base_AI_question_fields": 1263,
+  "additional_broad_AI_question_fields": 110,
+  "combined_AI_question_fields_per_reviewer": 1373,
+  "human_adjudications": 14,
+  "human_pending": 0,
+  "explicit_unresolved_fields": 3,
+  "author_monitors": {
+    "configured": 24,
+    "successfully_reprocessed": 24,
+    "represented_in_panel": 22
+  },
+  "journal_three_conditions": {
+    "total": 145,
+    "yes": 137,
+    "no": 8,
+    "unresolved": 0,
+    "panel_rate_bounds": [
+      0.9448275862068966,
+      0.9448275862068966
+    ],
+    "weighted_ratio_bounds": [
+      0.9448275862068967,
+      0.9448275862068967
+    ],
+    "sum_inverse_probability_weights": 1948.8000000000052,
+    "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+  },
+  "author_membership": {
+    "metric": "target_author_membership",
+    "display_name": "Target-author attribution rate in the evaluated panel",
+    "denominator": 166,
+    "confirmed": 156,
+    "not_target_author": 8,
+    "unresolved": 2,
+    "confirmed_panel_rate": 0.9397590361445783,
+    "identification_bounds": [
+      0.9397590361445783,
+      0.9518072289156626
+    ],
+    "inverse_probability_weighted_bounds": [
+      0.9193463803914118,
+      0.9302755082652481
+    ],
+    "date_required_for_this_metric": false,
+    "research_type_required_for_this_metric": false,
+    "auxiliary_date_metric": {
+      "total": 166,
+      "yes": 96,
+      "no": 70,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.5783132530120482,
+        0.5783132530120482
+      ],
+      "weighted_ratio_bounds": [
+        0.5729735892076763,
+        0.5729735892076763
+      ],
+      "sum_inverse_probability_weights": 877.1666666666658,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "auxiliary_type_metric": {
+      "total": 166,
+      "yes": 156,
+      "no": 10,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.9397590361445783,
+        0.9397590361445783
+      ],
+      "weighted_ratio_bounds": [
+        0.9204864145924379,
+        0.9204864145924379
+      ],
+      "sum_inverse_probability_weights": 877.1666666666674,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "previous_joint_metric_preserved": {
+      "total": 166,
+      "yes": 95,
+      "no": 71,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.572289156626506,
+        0.572289156626506
+      ],
+      "weighted_ratio_bounds": [
+        0.5675090252707582,
+        0.5675090252707582
+      ],
+      "sum_inverse_probability_weights": 877.1666666666658,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "generalization": "Evaluated-panel proportion; not an equal-probability estimate of all author candidates."
+  },
+  "strict_topic_relevance": {
+    "total": 110,
+    "yes": 78,
+    "no": 32,
+    "unresolved": 0,
+    "panel_rate_bounds": [
+      0.7090909090909091,
+      0.7090909090909091
+    ],
+    "weighted_ratio_bounds": [
+      0.7090909090909091,
+      0.7090909090909091
+    ],
+    "sum_inverse_probability_weights": 110.0,
+    "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+  },
+  "broad_topic_relevance": {
+    "total": 110,
+    "yes": 104,
+    "no": 5,
+    "unresolved": 1,
+    "confirmed_rate": 0.9454545454545454,
+    "identification_bounds": [
+      0.9454545454545454,
+      0.9545454545454546
+    ],
+    "bounds_are_not_confidence_intervals": true,
+    "metric": "broad_topic_relevance",
+    "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+    "reference_sha256": "bd595df9a2c6b448cdb1560a83d8316fb881fb2a8096a5eb1eec21644a9b93b0",
+    "date_or_type_not_required": true,
+    "denominator_preserved": true,
+    "human_adjudications": 2,
+    "configured_topics": 8,
+    "represented_topics": 6,
+    "topics": [
+      {
+        "key": "two_dimensional_magnetism",
+        "name": "Two-dimensional magnetism",
+        "strict": {
+          "total": 16,
+          "yes": 16,
+          "no": 0,
+          "unresolved": 0,
+          "confirmed_rate": 1.0,
+          "identification_bounds": [
+            1.0,
+            1.0
+          ],
+          "bounds_are_not_confidence_intervals": true
+        },
+        "broad": {
+          "total": 16,
+          "yes": 16,
+          "no": 0,
+          "unresolved": 0,
+          "confirmed_rate": 1.0,
+          "identification_bounds": [
+            1.0,
+            1.0
+          ],
+          "bounds_are_not_confidence_intervals": true
+        }
+      },
+      {
+        "key": "nonequilibrium_quantum",
+        "name": "Nonequilibrium quantum dynamics",
+        "strict": {
+          "total": 9,
+          "yes": 7,
+          "no": 2,
+          "unresolved": 0,
+          "confirmed_rate": 0.7777777777777778,
+          "identification_bounds": [
+            0.7777777777777778,
+            0.7777777777777778
+          ],
+          "bounds_are_not_confidence_intervals": true
+        },
+        "broad": {
+          "total": 9,
+          "yes": 9,
+          "no": 0,
+          "unresolved": 0,
+          "confirmed_rate": 1.0,
+          "identification_bounds": [
+            1.0,
+            1.0
+          ],
+          "bounds_are_not_confidence_intervals": true
+        }
+      },
+      {
+        "key": "perovskite_stability",
+        "name": "Perovskite photovoltaic stability",
+        "strict": {
+          "total": 6,
+          "yes": 6,
+          "no": 0,
+          "unresolved": 0,
+          "confirmed_rate": 1.0,
+          "identification_bounds": [
+            1.0,
+            1.0
+          ],
+          "bounds_are_not_confidence_intervals": true
+        },
+        "broad": {
+          "total": 6,
+          "yes": 6,
+          "no": 0,
+          "unresolved": 0,
+          "confirmed_rate": 1.0,
+          "identification_bounds": [
+            1.0,
+            1.0
+          ],
+          "bounds_are_not_confidence_intervals": true
+        }
+      },
+      {
+        "key": "solid_state_interfaces",
+        "name": "Solid-state battery interfaces",
+        "strict": {
+          "total": 39,
+          "yes": 29,
+          "no": 10,
+          "unresolved": 0,
+          "confirmed_rate": 0.7435897435897436,
+          "identification_bounds": [
+            0.7435897435897436,
+            0.7435897435897436
+          ],
+          "bounds_are_not_confidence_intervals": true
+        },
+        "broad": {
+          "total": 39,
+          "yes": 39,
+          "no": 0,
+          "unresolved": 0,
+          "confirmed_rate": 1.0,
+          "identification_bounds": [
+            1.0,
+            1.0
+          ],
+          "bounds_are_not_confidence_intervals": true
+        }
+      },
+      {
+        "key": "ml_catalysis",
+        "name": "Machine learning in catalysis",
+        "strict": {
+          "total": 0,
+          "yes": 0,
+          "no": 0,
+          "unresolved": 0,
+          "confirmed_rate": null,
+          "identification_bounds": null,
+          "bounds_are_not_confidence_intervals": true
+        },
+        "broad": {
+          "total": 0,
+          "yes": 0,
+          "no": 0,
+          "unresolved": 0,
+          "confirmed_rate": null,
+          "identification_bounds": null,
+          "bounds_are_not_confidence_intervals": true
+        }
+      },
+      {
+        "key": "gravitational_wave_analysis",
+        "name": "Gravitational-wave data analysis",
+        "strict": {
+          "total": 0,
+          "yes": 0,
+          "no": 0,
+          "unresolved": 0,
+          "confirmed_rate": null,
+          "identification_bounds": null,
+          "bounds_are_not_confidence_intervals": true
+        },
+        "broad": {
+          "total": 0,
+          "yes": 0,
+          "no": 0,
+          "unresolved": 0,
+          "confirmed_rate": null,
+          "identification_bounds": null,
+          "bounds_are_not_confidence_intervals": true
+        }
+      },
+      {
+        "key": "protein_structure",
+        "name": "Protein structure prediction",
+        "strict": {
+          "total": 32,
+          "yes": 13,
+          "no": 19,
+          "unresolved": 0,
+          "confirmed_rate": 0.40625,
+          "identification_bounds": [
+            0.40625,
+            0.40625
+          ],
+          "bounds_are_not_confidence_intervals": true
+        },
+        "broad": {
+          "total": 32,
+          "yes": 27,
+          "no": 4,
+          "unresolved": 1,
+          "confirmed_rate": 0.84375,
+          "identification_bounds": [
+            0.84375,
+            0.875
+          ],
+          "bounds_are_not_confidence_intervals": true
+        }
+      },
+      {
+        "key": "ocean_carbon",
+        "name": "Ocean carbon cycling",
+        "strict": {
+          "total": 8,
+          "yes": 7,
+          "no": 1,
+          "unresolved": 0,
+          "confirmed_rate": 0.875,
+          "identification_bounds": [
+            0.875,
+            0.875
+          ],
+          "bounds_are_not_confidence_intervals": true
+        },
+        "broad": {
+          "total": 8,
+          "yes": 7,
+          "no": 1,
+          "unresolved": 0,
+          "confirmed_rate": 0.875,
+          "identification_bounds": [
+            0.875,
+            0.875
+          ],
+          "bounds_are_not_confidence_intervals": true
+        }
+      }
+    ],
+    "strict_broad_transition": [
+      {
+        "strict": "no",
+        "broad": "no",
+        "count": 5
+      },
+      {
+        "strict": "no",
+        "broad": "uncertain",
+        "count": 1
+      },
+      {
+        "strict": "no",
+        "broad": "yes",
+        "count": 26
+      },
+      {
+        "strict": "yes",
+        "broad": "yes",
+        "count": 78
+      }
+    ]
+  },
+  "automatic_results": {
+    "B160": [
+      160,
+      160
+    ],
+    "C104": [
+      104,
+      104
+    ],
+    "additional_regressions": 412
+  },
+  "raw_agreement": {
+    "base": [
+      1225,
+      1263
+    ],
+    "broad": [
+      100,
+      110
+    ]
+  },
+  "post_supplement_agreement": {
+    "base": [
+      1251,
+      1263
+    ],
+    "broad": [
+      108,
+      110
+    ]
+  },
+  "fulltext_gap_count": 1,
+  "scores_not_collapsed_into_one_rate": true
+}

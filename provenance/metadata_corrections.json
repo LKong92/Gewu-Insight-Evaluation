@@ -1,0 +1,60 @@
+[
+  {
+    "field": "A_author_panel_counts",
+    "old": {
+      "AUTHOR-01": 15,
+      "AUTHOR-02": 5,
+      "AUTHOR-03": 10,
+      "AUTHOR-04": 7,
+      "AUTHOR-05": 2,
+      "AUTHOR-07": 10,
+      "AUTHOR-08": 17,
+      "AUTHOR-09": 9,
+      "AUTHOR-11": 6,
+      "AUTHOR-12": 14,
+      "AUTHOR-13": 2,
+      "AUTHOR-14": 7,
+      "AUTHOR-15": 8,
+      "AUTHOR-16": 6,
+      "AUTHOR-17": 9,
+      "AUTHOR-18": 7,
+      "AUTHOR-19": 4,
+      "AUTHOR-20": 2,
+      "AUTHOR-21": 9,
+      "AUTHOR-22": 6,
+      "AUTHOR-23": 4,
+      "AUTHOR-24": 7
+    },
+    "actual_from_case_rows": {
+      "AUTHOR-01": 15,
+      "AUTHOR-02": 5,
+      "AUTHOR-03": 10,
+      "AUTHOR-04": 7,
+      "AUTHOR-05": 2,
+      "AUTHOR-07": 10,
+      "AUTHOR-08": 17,
+      "AUTHOR-09": 9,
+      "AUTHOR-11": 6,
+      "AUTHOR-12": 14,
+      "AUTHOR-13": 2,
+      "AUTHOR-14": 7,
+      "AUTHOR-15": 8,
+      "AUTHOR-16": 6,
+      "AUTHOR-17": 9,
+      "AUTHOR-18": 7,
+      "AUTHOR-19": 4,
+      "AUTHOR-20": 2,
+      "AUTHOR-21": 9,
+      "AUTHOR-22": 6,
+      "AUTHOR-23": 4,
+      "AUTHOR-24": 7
+    },
+    "scope": "Derived aggregate table only; case objects, monitor assignments, inclusion probabilities and reviewer answers unchanged."
+  },
+  {
+    "field": "coverage_source.A_current_cases",
+    "old": 422,
+    "actual_from_final_packet": 421,
+    "scope": "Historical coverage map predates the final scope amendment; report the actual421 without changing old source."
+  }
+]

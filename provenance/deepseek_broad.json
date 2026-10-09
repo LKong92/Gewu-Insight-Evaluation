@@ -1,0 +1,86 @@
+{
+  "round": "TOPIC-BROAD-SUPPLEMENT-002",
+  "reviewer": "DeepSeek",
+  "packet_id": "GEWU-V4-539D00D-TOPIC-BROAD-SUPPLEMENT-002",
+  "packet_sha256": "c8a60537eb76678fe6bcd331b00eaa1c4e3aaec0c4dd982acd0ac96fd18ab33f",
+  "material_sha256": "6c3a5142933a9dacef8529a6146497ffa442e382384f0d5f0c6345ab52932804",
+  "actual_questions_reviewed": 12,
+  "preserved_baseline_answers": 98,
+  "baseline_sha256": "1ddb7c105e4461ad4ac151673923fb9e9047803bf509f8c9753e3811642c77b5",
+  "started_at": "2026-10-07T23:14:27+08:00",
+  "started_at_basis": {
+    "local_working_prose_sha256": "428f97704fe52f6ed36fc76669df16150e17ee27d87ac98d2e9429fb51324088",
+    "availability": "Retained in the controlled original-language audit archive."
+  },
+  "finished_at": "2026-10-07T23:19:15.130383+08:00",
+  "timezone": "UTC+08:00 (CST)",
+  "model_display_name": "DeepSeek V4.1 Flash Max",
+  "backend_model_id": "not_exposed",
+  "prior_participation": {
+    "local_working_prose_sha256": "49602e35e0a853c231642c95bdbd2762b7dc58045f0cc07279032a8ebc1fc601",
+    "availability": "Retained in the controlled original-language audit archive."
+  },
+  "independence_statement": {
+    "local_working_prose_sha256": "95cc0d900593af8b70505260169060340deefe65d6a2589acec2ef8d9c060685",
+    "availability": "Retained in the controlled original-language audit archive."
+  },
+  "read_other_reviewer_answers": false,
+  "read_organizer_results": false,
+  "modified_common_materials": false,
+  "network_used": false,
+  "label_distribution": {
+    "yes": 103,
+    "no": 6,
+    "uncertain": 1
+  },
+  "scope_note": {
+    "local_working_prose_sha256": "c6f20563b58d9e819f8324f7900c9e87c99e63f106bdbdb5b86be6c02a501451",
+    "availability": "Retained in the controlled original-language audit archive."
+  },
+  "relation_basis_distribution": {
+    "background_only": 5,
+    "core_topic": 74,
+    "mechanistically_connected_adjacent": 11,
+    "not_assessable": 1,
+    "substantive_application": 4,
+    "substantive_review": 14,
+    "unrelated": 1
+  },
+  "correction_pass": {
+    "correction_id": "TOPIC-BROAD-SUPPLEMENT-002-CORRECTION-001",
+    "reason": {
+      "local_working_prose_sha256": "90dcf601b940f44c127ea2ab1b58ae7f2825c6dde7470eaadfe223b6865426ff",
+      "availability": "Retained in the controlled original-language audit archive."
+    },
+    "started_at": "2026-10-07T23:33:36+08:00",
+    "started_at_basis": {
+      "local_working_prose_sha256": "00adffb168a942672facb1bfc61aa27047ee82b639613be18a261a2036fe74b7",
+      "availability": "Retained in the controlled original-language audit archive."
+    },
+    "finished_at": "2026-10-07T23:34:35.735004+08:00",
+    "timezone": "UTC+08:00 (CST)",
+    "actual_questions_reviewed": 2,
+    "question_ids": [
+      "A-CAN-c780eae6a18f0d43d6f4957e:broad_membership",
+      "A-CAN-6a23f8fc34dfc477ea03d260:broad_membership"
+    ],
+    "scope": {
+      "local_working_prose_sha256": "22d152989c46b1b93a90549a9525a787c98e29ee8fb60ac49c6220bfe878249a",
+      "availability": "Retained in the controlled original-language audit archive."
+    },
+    "first_pass_times_preserved": {
+      "started_at": "2026-10-07T23:14:27+08:00",
+      "finished_at": "2026-10-07T23:19:15.130383+08:00",
+      "actual_questions_reviewed": 12
+    }
+  },
+  "model_name": "DeepSeek V4.1 Flash",
+  "model_configuration": "Max",
+  "client": "DeepSeek Harness",
+  "recorded_client_model_alias": "deepseek-flash",
+  "model_display_name_source": {
+    "basis": "User confirmation and supplied model-selector screenshot",
+    "record": "provenance/reviewer_models.json",
+    "correction_date": "2026-10-08"
+  }
+}

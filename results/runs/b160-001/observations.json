@@ -1,0 +1,1798 @@
+{
+  "phase": "fixed_version_execution",
+  "formal_result": false,
+  "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+  "source_files_verified": 393,
+  "source_changed": [],
+  "schema": 22,
+  "runner_sha256": "cebc0d9a79867055950cc4e8be1caf1b0b214d0f2f782c4b8080526496ca4ee1",
+  "case_spec_sha256": "0fec3d105afb908cc34743d6741e0e4528ad7955fbf2bef013b77471363ad9fb",
+  "python": "3.9.6 (default, Nov 11 2024, 03:15:38) \n[Clang 16.0.0 (clang-1600.0.26.6)]",
+  "generated_at": "2026-10-06T20:28:39.322091+00:00",
+  "total": 160,
+  "passed": 160,
+  "runner_errors": 0,
+  "cases": [
+    {
+      "case_id": "V4-B1-001",
+      "family": "B1",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B1-002",
+      "family": "B1",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B1-003",
+      "family": "B1",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B1-004",
+      "family": "B1",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B1-005",
+      "family": "B1",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B1-006",
+      "family": "B1",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B1-007",
+      "family": "B1",
+      "expected": false,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": false,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B1-008",
+      "family": "B1",
+      "expected": false,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": false,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B1-009",
+      "family": "B1",
+      "expected": false,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": false,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B1-010",
+      "family": "B1",
+      "expected": false,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": false,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B1-011",
+      "family": "B1",
+      "expected": false,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": false,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B1-012",
+      "family": "B1",
+      "expected": false,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": false,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B1-013",
+      "family": "B1",
+      "expected": 1,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": 1,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B1-014",
+      "family": "B1",
+      "expected": 1,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": 1,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B1-015",
+      "family": "B1",
+      "expected": 1,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": 1,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B1-016",
+      "family": "B1",
+      "expected": 2,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": 2,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B1-017",
+      "family": "B1",
+      "expected": 2,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": 2,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B1-018",
+      "family": "B1",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B1-019",
+      "family": "B1",
+      "expected": 1,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": 1,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B1-020",
+      "family": "B1",
+      "expected": 1,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": 1,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-001",
+      "family": "B2",
+      "expected": "preprint",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "preprint",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-002",
+      "family": "B2",
+      "expected": "accepted_manuscript",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "accepted_manuscript",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-003",
+      "family": "B2",
+      "expected": "published_version",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "published_version",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-004",
+      "family": "B2",
+      "expected": "published_version",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "published_version",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-005",
+      "family": "B2",
+      "expected": "corrected_published_version",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "corrected_published_version",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-006",
+      "family": "B2",
+      "expected": "correction_notice",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "correction_notice",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-007",
+      "family": "B2",
+      "expected": "correction_notice",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "correction_notice",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-008",
+      "family": "B2",
+      "expected": "supplementary_material",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "supplementary_material",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-009",
+      "family": "B2",
+      "expected": "peer_review_file",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "peer_review_file",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-010",
+      "family": "B2",
+      "expected": "peer_review_file",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "peer_review_file",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-011",
+      "family": "B2",
+      "expected": "other",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "other",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-012",
+      "family": "B2",
+      "expected": "unknown",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "unknown",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-013",
+      "family": "B2",
+      "expected": "invalid_file",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "invalid_file",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-014",
+      "family": "B2",
+      "expected": "published_version",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "published_version",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-015",
+      "family": "B2",
+      "expected": "accepted_manuscript",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "accepted_manuscript",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-016",
+      "family": "B2",
+      "expected": "accepted_manuscript",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "accepted_manuscript",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-017",
+      "family": "B2",
+      "expected": "published_version",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "published_version",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-018",
+      "family": "B2",
+      "expected": "corrected_published_version",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "corrected_published_version",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-019",
+      "family": "B2",
+      "expected": "peer_review_file",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "peer_review_file",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-020",
+      "family": "B2",
+      "expected": "other",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "other",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-021",
+      "family": "B2",
+      "expected": "retraction_notice",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "retraction_notice",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-022",
+      "family": "B2",
+      "expected": "expression_of_concern",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "expression_of_concern",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-023",
+      "family": "B2",
+      "expected": "withdrawal_notice",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "withdrawal_notice",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-024",
+      "family": "B2",
+      "expected": "addendum",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "addendum",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-025",
+      "family": "B2",
+      "expected": "perspective",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "perspective",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-026",
+      "family": "B2",
+      "expected": "news_and_views",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "news_and_views",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-027",
+      "family": "B2",
+      "expected": "summary",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "summary",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-028",
+      "family": "B2",
+      "expected": "analysis",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "analysis",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-029",
+      "family": "B2",
+      "expected": "source_data",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "source_data",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B2-030",
+      "family": "B2",
+      "expected": "source_code",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "source_code",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B3-001",
+      "family": "B3",
+      "expected": "preprint",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "preprint",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B3-002",
+      "family": "B3",
+      "expected": "accepted_manuscript",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "accepted_manuscript",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B3-003",
+      "family": "B3",
+      "expected": "published_version",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "published_version",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B3-004",
+      "family": "B3",
+      "expected": "corrected_published_version",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "corrected_published_version",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B3-005",
+      "family": "B3",
+      "expected": "published_version",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "published_version",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B3-006",
+      "family": "B3",
+      "expected": null,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": null,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B3-007",
+      "family": "B3",
+      "expected": "published_version",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "published_version",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B3-008",
+      "family": "B3",
+      "expected": "preprint",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "preprint",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B3-009",
+      "family": "B3",
+      "expected": "preprint",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "preprint",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B3-010",
+      "family": "B3",
+      "expected": "published_version",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "published_version",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B3-011",
+      "family": "B3",
+      "expected": "published_version",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "published_version",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B3-012",
+      "family": "B3",
+      "expected": "preprint",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "preprint",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B3-013",
+      "family": "B3",
+      "expected": "published_version",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "published_version",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B3-014",
+      "family": "B3",
+      "expected": null,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": null,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B3-015",
+      "family": "B3",
+      "expected": "published_version",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "published_version",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B3-016",
+      "family": "B3",
+      "expected": "published_version",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "published_version",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B4-001",
+      "family": "B4",
+      "expected": {
+        "types": [
+          "correction_notice",
+          "published_version"
+        ],
+        "default": "published_version"
+      },
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": {
+        "types": [
+          "correction_notice",
+          "published_version"
+        ],
+        "default": "published_version"
+      },
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B4-002",
+      "family": "B4",
+      "expected": {
+        "types": [
+          "corrected_published_version",
+          "correction_notice",
+          "published_version"
+        ],
+        "default": "corrected_published_version"
+      },
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": {
+        "types": [
+          "corrected_published_version",
+          "correction_notice",
+          "published_version"
+        ],
+        "default": "corrected_published_version"
+      },
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B4-003",
+      "family": "B4",
+      "expected": {
+        "types": [
+          "correction_notice"
+        ],
+        "default": null
+      },
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": {
+        "types": [
+          "correction_notice"
+        ],
+        "default": null
+      },
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B4-004",
+      "family": "B4",
+      "expected": {
+        "types": [
+          "correction_notice",
+          "preprint"
+        ],
+        "default": "preprint"
+      },
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": {
+        "types": [
+          "correction_notice",
+          "preprint"
+        ],
+        "default": "preprint"
+      },
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B4-005",
+      "family": "B4",
+      "expected": {
+        "types": [
+          "accepted_manuscript",
+          "correction_notice"
+        ],
+        "default": "accepted_manuscript"
+      },
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": {
+        "types": [
+          "accepted_manuscript",
+          "correction_notice"
+        ],
+        "default": "accepted_manuscript"
+      },
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B4-006",
+      "family": "B4",
+      "expected": {
+        "types": [
+          "corrected_published_version",
+          "published_version"
+        ],
+        "default": "corrected_published_version"
+      },
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": {
+        "types": [
+          "corrected_published_version",
+          "published_version"
+        ],
+        "default": "corrected_published_version"
+      },
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B4-007",
+      "family": "B4",
+      "expected": {
+        "papers": 1,
+        "events": 1,
+        "status": "linked",
+        "kind": "correction_notice"
+      },
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": {
+        "papers": 1,
+        "events": 1,
+        "status": "linked",
+        "kind": "correction_notice"
+      },
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B4-008",
+      "family": "B4",
+      "expected": {
+        "papers": 1,
+        "events": 1,
+        "status": "linked",
+        "kind": "retraction_notice"
+      },
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": {
+        "papers": 1,
+        "events": 1,
+        "status": "linked",
+        "kind": "retraction_notice"
+      },
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B4-009",
+      "family": "B4",
+      "expected": {
+        "papers": 1,
+        "events": 1,
+        "status": "linked",
+        "kind": "expression_of_concern"
+      },
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": {
+        "papers": 1,
+        "events": 1,
+        "status": "linked",
+        "kind": "expression_of_concern"
+      },
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B4-010",
+      "family": "B4",
+      "expected": {
+        "papers": 1,
+        "events": 1,
+        "status": "linked",
+        "kind": "withdrawal_notice"
+      },
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": {
+        "papers": 1,
+        "events": 1,
+        "status": "linked",
+        "kind": "withdrawal_notice"
+      },
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B4-011",
+      "family": "B4",
+      "expected": {
+        "papers": 1,
+        "events": 1,
+        "status": "linked",
+        "kind": "addendum"
+      },
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": {
+        "papers": 1,
+        "events": 1,
+        "status": "linked",
+        "kind": "addendum"
+      },
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B4-012",
+      "family": "B4",
+      "expected": {
+        "papers": 1,
+        "events": 1,
+        "status": "needs_relation",
+        "kind": "correction_notice"
+      },
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": {
+        "papers": 1,
+        "events": 1,
+        "status": "needs_relation",
+        "kind": "correction_notice"
+      },
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B4-013",
+      "family": "B4",
+      "expected": {
+        "papers": 1,
+        "events": 1,
+        "status": "needs_relation",
+        "kind": "correction_notice"
+      },
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": {
+        "papers": 1,
+        "events": 1,
+        "status": "needs_relation",
+        "kind": "correction_notice"
+      },
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B4-014",
+      "family": "B4",
+      "expected": {
+        "papers": 1,
+        "events": 1,
+        "status": "needs_relation",
+        "kind": "correction_notice"
+      },
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": {
+        "papers": 1,
+        "events": 1,
+        "status": "needs_relation",
+        "kind": "correction_notice"
+      },
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B4-015",
+      "family": "B4",
+      "expected": {
+        "papers": 1,
+        "events": 1,
+        "status": "linked",
+        "kind": "correction_notice"
+      },
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": {
+        "papers": 1,
+        "events": 1,
+        "status": "linked",
+        "kind": "correction_notice"
+      },
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B4-016",
+      "family": "B4",
+      "expected": false,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": false,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B4-017",
+      "family": "B4",
+      "expected": false,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": false,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B4-018",
+      "family": "B4",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B5-001",
+      "family": "B5",
+      "expected": "unannotated",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "unannotated",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B5-002",
+      "family": "B5",
+      "expected": "annotated",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "annotated",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B5-003",
+      "family": "B5",
+      "expected": "unannotated",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "unannotated",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B5-004",
+      "family": "B5",
+      "expected": "unannotated",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "unannotated",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B5-005",
+      "family": "B5",
+      "expected": 2,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": 2,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B5-006",
+      "family": "B5",
+      "expected": 2,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": 2,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B5-007",
+      "family": "B5",
+      "expected": "annotated",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "annotated",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B5-008",
+      "family": "B5",
+      "expected": "unannotated",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "unannotated",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B5-009",
+      "family": "B5",
+      "expected": "annotated",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "annotated",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B5-010",
+      "family": "B5",
+      "expected": "unannotated",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "unannotated",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B6-001",
+      "family": "B6",
+      "expected": {
+        "count": 1,
+        "same_id": true
+      },
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": {
+        "count": 1,
+        "same_id": true
+      },
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B6-002",
+      "family": "B6",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B6-003",
+      "family": "B6",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B6-004",
+      "family": "B6",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B6-005",
+      "family": "B6",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B6-006",
+      "family": "B6",
+      "expected": 0,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": 0,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B6-007",
+      "family": "B6",
+      "expected": 2,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": 2,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B6-008",
+      "family": "B6",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B6-009",
+      "family": "B6",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B6-010",
+      "family": "B6",
+      "expected": 2,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": 2,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B6-011",
+      "family": "B6",
+      "expected": 2,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": 2,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B6-012",
+      "family": "B6",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B6-013",
+      "family": "B6",
+      "expected": {
+        "count": 1,
+        "same_id": true
+      },
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": {
+        "count": 1,
+        "same_id": true
+      },
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B6-014",
+      "family": "B6",
+      "expected": 1,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": 1,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B7-001",
+      "family": "B7",
+      "expected": false,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": false,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B7-002",
+      "family": "B7",
+      "expected": false,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": false,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B7-003",
+      "family": "B7",
+      "expected": false,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": false,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B7-004",
+      "family": "B7",
+      "expected": false,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": false,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B7-005",
+      "family": "B7",
+      "expected": false,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": false,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B7-006",
+      "family": "B7",
+      "expected": false,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": false,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B7-007",
+      "family": "B7",
+      "expected": false,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": false,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B7-008",
+      "family": "B7",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B7-009",
+      "family": "B7",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B7-010",
+      "family": "B7",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B7-011",
+      "family": "B7",
+      "expected": false,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": false,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B7-012",
+      "family": "B7",
+      "expected": false,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": false,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B7-013",
+      "family": "B7",
+      "expected": false,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": false,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B7-014",
+      "family": "B7",
+      "expected": false,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": false,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B8-001",
+      "family": "B8",
+      "expected": "preprint_server",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "preprint_server",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B8-002",
+      "family": "B8",
+      "expected": "preprint_server",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "preprint_server",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B8-003",
+      "family": "B8",
+      "expected": "institutional_repository",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "institutional_repository",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B8-004",
+      "family": "B8",
+      "expected": "institutional_repository",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "institutional_repository",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B8-005",
+      "family": "B8",
+      "expected": "publisher",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "publisher",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B8-006",
+      "family": "B8",
+      "expected": "publisher",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "publisher",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B8-007",
+      "family": "B8",
+      "expected": "user_import",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "user_import",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B8-008",
+      "family": "B8",
+      "expected": "user_import",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "user_import",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B8-009",
+      "family": "B8",
+      "expected": "other",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "other",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B8-010",
+      "family": "B8",
+      "expected": "unknown",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "unknown",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B8-011",
+      "family": "B8",
+      "expected": "user_import",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "user_import",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B8-012",
+      "family": "B8",
+      "expected": "other",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "other",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B8-013",
+      "family": "B8",
+      "expected": "other",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "other",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B8-014",
+      "family": "B8",
+      "expected": "preprint_server",
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": "preprint_server",
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B9-001",
+      "family": "B9",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B9-002",
+      "family": "B9",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B9-003",
+      "family": "B9",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B9-004",
+      "family": "B9",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B9-005",
+      "family": "B9",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B9-006",
+      "family": "B9",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B9-007",
+      "family": "B9",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B9-008",
+      "family": "B9",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B9-009",
+      "family": "B9",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B9-010",
+      "family": "B9",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B9-011",
+      "family": "B9",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B9-012",
+      "family": "B9",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B10-001",
+      "family": "B10",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B10-002",
+      "family": "B10",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B10-003",
+      "family": "B10",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B10-004",
+      "family": "B10",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B10-005",
+      "family": "B10",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B10-006",
+      "family": "B10",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B10-007",
+      "family": "B10",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B10-008",
+      "family": "B10",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B10-009",
+      "family": "B10",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B10-010",
+      "family": "B10",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B10-011",
+      "family": "B10",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    },
+    {
+      "case_id": "V4-B10-012",
+      "family": "B10",
+      "expected": true,
+      "phase": "fixed_version_execution",
+      "formal_result": false,
+      "observed": true,
+      "passed": true,
+      "status": "executed"
+    }
+  ],
+  "production_data_accessed": false,
+  "isolated_run_root": "archive://frozen-round/runs/b160-001",
+  "coverage_limits": [
+    "Fresh synthetic engineering observations after design lock; not semantic reference or final publication scores.",
+    "Metadata-correction cases use documented provider-return fixture boundary.",
+    "No real native UI or OS alias usability measured by this runner."
+  ]
+}

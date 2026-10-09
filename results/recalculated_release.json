@@ -1,0 +1,222 @@
+{
+  "verified": true,
+  "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+  "discovery": {
+    "journal": {
+      "membership": {
+        "total": 145,
+        "yes": 145,
+        "no": 0,
+        "uncertain": 0,
+        "identification_bounds": [
+          1.0,
+          1.0
+        ],
+        "weighted_bounds": [
+          1.0,
+          1.0
+        ]
+      },
+      "date": {
+        "total": 145,
+        "yes": 145,
+        "no": 0,
+        "uncertain": 0,
+        "identification_bounds": [
+          1.0,
+          1.0
+        ],
+        "weighted_bounds": [
+          1.0,
+          1.0
+        ]
+      },
+      "research_eligibility": {
+        "total": 145,
+        "yes": 137,
+        "no": 8,
+        "uncertain": 0,
+        "identification_bounds": [
+          0.9448275862068966,
+          0.9448275862068966
+        ],
+        "weighted_bounds": [
+          0.9448275862068967,
+          0.9448275862068967
+        ]
+      },
+      "joint": {
+        "total": 145,
+        "yes": 137,
+        "no": 8,
+        "uncertain": 0,
+        "identification_bounds": [
+          0.9448275862068966,
+          0.9448275862068966
+        ],
+        "weighted_bounds": [
+          0.9448275862068967,
+          0.9448275862068967
+        ]
+      }
+    },
+    "subject": {
+      "membership": {
+        "total": 110,
+        "yes": 78,
+        "no": 32,
+        "uncertain": 0,
+        "identification_bounds": [
+          0.7090909090909091,
+          0.7090909090909091
+        ],
+        "weighted_bounds": [
+          0.7090909090909091,
+          0.7090909090909091
+        ]
+      },
+      "date": {
+        "total": 110,
+        "yes": 99,
+        "no": 11,
+        "uncertain": 0,
+        "identification_bounds": [
+          0.9,
+          0.9
+        ],
+        "weighted_bounds": [
+          0.9,
+          0.9
+        ]
+      },
+      "research_eligibility": {
+        "total": 110,
+        "yes": 107,
+        "no": 3,
+        "uncertain": 0,
+        "identification_bounds": [
+          0.9727272727272728,
+          0.9727272727272728
+        ],
+        "weighted_bounds": [
+          0.9727272727272728,
+          0.9727272727272728
+        ]
+      },
+      "joint": {
+        "total": 110,
+        "yes": 67,
+        "no": 43,
+        "uncertain": 0,
+        "identification_bounds": [
+          0.6090909090909091,
+          0.6090909090909091
+        ],
+        "weighted_bounds": [
+          0.6090909090909091,
+          0.6090909090909091
+        ]
+      }
+    },
+    "author": {
+      "membership": {
+        "total": 166,
+        "yes": 156,
+        "no": 8,
+        "uncertain": 2,
+        "identification_bounds": [
+          0.9397590361445783,
+          0.9518072289156626
+        ],
+        "weighted_bounds": [
+          0.9193463803914118,
+          0.9302755082652481
+        ]
+      },
+      "date": {
+        "total": 166,
+        "yes": 96,
+        "no": 70,
+        "uncertain": 0,
+        "identification_bounds": [
+          0.5783132530120482,
+          0.5783132530120482
+        ],
+        "weighted_bounds": [
+          0.5729735892076763,
+          0.5729735892076763
+        ]
+      },
+      "research_eligibility": {
+        "total": 166,
+        "yes": 156,
+        "no": 10,
+        "uncertain": 0,
+        "identification_bounds": [
+          0.9397590361445783,
+          0.9397590361445783
+        ],
+        "weighted_bounds": [
+          0.9204864145924379,
+          0.9204864145924379
+        ]
+      },
+      "joint": {
+        "total": 166,
+        "yes": 95,
+        "no": 71,
+        "uncertain": 0,
+        "identification_bounds": [
+          0.572289156626506,
+          0.572289156626506
+        ],
+        "weighted_bounds": [
+          0.5675090252707582,
+          0.5675090252707582
+        ]
+      }
+    }
+  },
+  "broad_topic": {
+    "yes": 104,
+    "no": 5,
+    "uncertain": 1
+  },
+  "agreement": {
+    "base": {
+      "initial": {
+        "agree": 1225,
+        "total": 1263,
+        "rate": 0.9699129057798892,
+        "kappa": 0.8519128768594202
+      },
+      "accepted_pre_human": {
+        "agree": 1251,
+        "total": 1263,
+        "rate": 0.9904988123515439,
+        "kappa": 0.9533767695970762
+      }
+    },
+    "broad": {
+      "initial": {
+        "agree": 100,
+        "total": 110,
+        "rate": 0.9090909090909091,
+        "kappa": 0.617790132036136
+      },
+      "accepted_pre_human": {
+        "agree": 108,
+        "total": 110,
+        "rate": 0.9818181818181818,
+        "kappa": 0.8486932599724896
+      }
+    }
+  },
+  "reference_fields": 1373,
+  "human_choices": 14,
+  "unresolved": 3,
+  "B160_passed": 160,
+  "C104_passed": 104,
+  "screened_units": 72,
+  "additional_regressions_reported_separately": 412
+}

@@ -1,0 +1,33 @@
+{
+  "reviewer": "Codex",
+  "round": "SUPPLEMENT-004",
+  "packet_id": "GEWU-V4-539D00D-SUPP004-FULL-010",
+  "packet_sha256": "4d23575048a4c49831825c7272666e6892f32be0db0f9830f75d75ce7a669f03",
+  "material_sha256": "ed9185173a919e897ef3666a8f497c0f4ebc707fac7dac6867ec868b6bd44019",
+  "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+  "baseline_sha256": "fc9d6a2b7b676372531fb7afda62b7918aba991128ab382874232c2d6a80fc5a",
+  "common_manifest_sha256": "d0471b3ecea1b95f8f70b152d596b71868d103aea98921bb2013049798174682",
+  "scope_sha256": "c23bcf96b30275706adeeac3c43776365e372c72220fe63373e395d3b871d529",
+  "actual_questions_rereviewed": 3,
+  "model_display_name": "not_exposed",
+  "backend_snapshot": "not_exposed",
+  "client": "Codex desktop isolated reviewer subagent",
+  "requested_reviewer_model": "GPT-6 Astra (task assignment; UI/backend model not independently exposed)",
+  "started_at": "2026-10-07T12:47:15.951767+00:00",
+  "started_at_basis": "UTC timestamp captured before reading this round instructions and evidence; outputs/START_TIME.txt",
+  "finished_at": "2026-10-07T12:52:56.412515+00:00",
+  "other_reviewer_answers_seen": false,
+  "product_predictions_seen": false,
+  "historical_reference_labels_seen": false,
+  "own_prior_answers_used": true,
+  "independence_statement": {
+    "local_working_prose_sha256": "8684a7956f74b74fa4a362149e8a95463af756f76674a960053573e6587f6ade",
+    "availability": "Retained in the controlled original-language audit archive."
+  },
+  "label_changes": [
+    "A-CAN-398d2389206ed022850463b4:membership"
+  ],
+  "original_provenance_sha256": "d5187b3e8063c988c2df8e4016a1f835dec7b808742e93d49cb1764a775771b1",
+  "released_base_question_count": 1263,
+  "scope": "Provenance of the source review; released decisions contain discovery questions only."
+}

@@ -1,0 +1,63 @@
+{
+  "round": "TOPIC-BROAD-SUPPLEMENT-002",
+  "reviewer": "Codex",
+  "packet_id": "GEWU-V4-539D00D-TOPIC-BROAD-SUPPLEMENT-002",
+  "packet_sha256": "c8a60537eb76678fe6bcd331b00eaa1c4e3aaec0c4dd982acd0ac96fd18ab33f",
+  "material_sha256": "6c3a5142933a9dacef8529a6146497ffa442e382384f0d5f0c6345ab52932804",
+  "actual_questions_reviewed": 12,
+  "preserved_baseline_answers": 98,
+  "baseline_sha256": "1b15ff6bb88dd64eff759dd95da5c1b033bbb3e882bd2fe129e189bad947a842",
+  "started_at": "2026-10-07T15:12:19.405664+00:00",
+  "finished_at": "2026-10-07T15:17:04.341250+00:00",
+  "model_display_name": "not_exposed",
+  "backend_model_id": "not_exposed",
+  "prior_participation": {
+    "local_working_prose_sha256": "cf537825fc531efeef76c61c3a27d6659cf3bf8854229d869e12231fa9ff8a6e",
+    "availability": "Retained in the controlled original-language audit archive."
+  },
+  "independence_statement": {
+    "local_working_prose_sha256": "a51fad7928a9249ddd0732c3cec002e7da8b406866659ede345e3437a66ff459",
+    "availability": "Retained in the controlled original-language audit archive."
+  },
+  "read_other_reviewer_answers": false,
+  "read_organizer_results": false,
+  "modified_common_materials": false,
+  "network_used": false,
+  "reviewed_label_counts": {
+    "no": 1,
+    "uncertain": 1,
+    "yes": 10
+  },
+  "merged_label_counts": {
+    "yes": 103,
+    "no": 6,
+    "uncertain": 1
+  },
+  "changed_label_count": 8,
+  "changed_answer_objects": 12,
+  "reading_limits": {
+    "local_working_prose_sha256": "d2324365382a456b9ee82f857d9431b2cec9c7e9644211cbc63b7153a37a1409",
+    "availability": "Retained in the controlled original-language audit archive."
+  },
+  "status_note": {
+    "local_working_prose_sha256": "63dda8abdb3a0d4d21795bb0cbd740797fda2613262188b390d2c9cff261a2cb",
+    "availability": "Retained in the controlled original-language audit archive."
+  },
+  "correction_pass": {
+    "started_at": "2026-10-07T15:27:56.354251+00:00",
+    "finished_at": "2026-10-07T15:28:35.621948+00:00",
+    "actual_questions_reviewed": 1,
+    "question_id": "A-CAN-6a23f8fc34dfc477ea03d260:broad_membership",
+    "target": "PROTEIN_STRUCTURE",
+    "reason": {
+      "local_working_prose_sha256": "cedb3988f9fb19f9291e48070ce35372c2197a8b62644da7d83be08f9986377c",
+      "availability": "Retained in the controlled original-language audit archive."
+    },
+    "label_before_correction": "uncertain",
+    "label_after_correction": "uncertain",
+    "answer_changed": true,
+    "other_answer_objects_preserved": 109,
+    "other_reading_items_preserved": 11,
+    "reading_scope": "abstract_and_metadata_only"
+  }
+}

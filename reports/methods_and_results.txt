@@ -1,0 +1,18 @@
+Gewu Insight Evaluation: methods and results
+
+Methods
+We evaluated frozen software revision 539d00dd1a3b0f5857912223868ca232d56680c9. The discovery panel comprised 421 candidates: 145 journal, 110 topic and 166 author candidates. Journal discovery used September 2026; topic and author discovery used January through September 2026. Preserved acquisition responses were replayed through the frozen product. All 24 configured author profiles were reprocessed successfully; the final panel represented 22 authors and six of eight configured topics.
+
+Codex (GPT-6 Astra) and DeepSeek V4.1 Flash Max independently evaluated the same evidence and rubric for 1,263 base discovery fields and 110 broad-topic fields each. DeepSeek Harness was the client. Shared evidence supplementation and rule clarification were followed by scoped independent corrections. Twelve base and two broad residual disagreements received actual human adjudication. The combined reference contains 1,373 fields and retains three uncertain judgments. Original answer objects are preserved; model agreement is calculated before human adjudication.
+
+Journal success required journal membership, date-window compliance and eligible research-document type jointly. Target-author attribution was reported separately from date/type compliance. Strict topic relevance required a primary research concern; broad relevance also admitted substantive methodological, application, review or mechanistic connections while excluding incidental mentions. The reporting amendments and original auxiliary measurements are preserved in provenance.
+
+Results
+Journal success was 137/145 (94.48%). Target-author attribution was confirmed in 156/166 (93.98%), rejected in eight and unresolved in two. Strict topic relevance was confirmed in 78/110 (70.91%). Broad relevance was confirmed in 104/110 (94.55%), with five negative and one unresolved judgment. All strict-positive cases were broad-positive.
+
+Initial agreement was 1,225/1,263 (96.99%; Cohen's kappa 0.8519) for the base discovery fields and 100/110 (90.91%) for broad relevance. After shared supplements and scoped corrections, agreement before human adjudication was 1,251/1,263 (99.05%; kappa 0.9534) and 108/110 (98.18%; kappa 0.8487), respectively. These are inter-model agreement measurements.
+
+All 160 engineering checks across ten families and all 104 workflow scenarios across 26 families passed their recorded assertions on the frozen revision. Workflow observations cover isolated interface, database, file and restart behavior.
+
+Interpretation
+Discovery rates describe the evaluated panel. Unequal author inclusion probabilities are retained; inverse-probability-weighted author-attribution bounds are 91.93%-93.03%. Unresolved-label bounds are 93.98%-95.18% for author attribution and 94.55%-95.45% for broad relevance. These are identification bounds, not confidence intervals. Model consensus with selected human adjudication is not an unbiased measurement of reviewer accuracy. Full literature evidence remains in the controlled source archive.

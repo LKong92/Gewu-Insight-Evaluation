@@ -1,0 +1,36 @@
+{
+  "schema": "gewu-review-policy-v2",
+  "created_at": "2026-10-06T19:45:53.724667+00:00",
+  "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+  "supersedes_historical_policy": "archive://benchmark/rounds/fixed-20261005-001/control/REVIEW_POLICY.json",
+  "authorization": "User expressly requests revising the old human-adjudication rules and minimal manual work after both independent AI reviews.",
+  "reviewers": [
+    "Codex",
+    "DeepSeek"
+  ],
+  "full_fresh_independent_reviews_required": true,
+  "same_question_fields_labels_evidence_and_rules": true,
+  "human_queue_timing": "Only after complete validated sealed submissions by both reviewers and automated evidence/schema diagnostics.",
+  "human_queue_rule": "Only unresolved substantive label disagreements on evaluable questions after documented symmetric material/rule clarification, without showing either reviewer the other answers.",
+  "confidence_threshold_creates_human_task": false,
+  "fixed_sentinel_human_cases": [],
+  "blanket_probability_human_audit": false,
+  "both_uncertain": "Retain unresolved source status; do not automatically create a human question or score as correct.",
+  "schema_or_field_error": "Reject/repair format against the common schema without substituting labels; reviewer must correct semantic interpretation.",
+  "material_gap": "Return to shared material preparation; send the same corrected evidence and scoped re-review request to both, never ask the human to supply an AI answer.",
+  "retain_initial_raw_agreement_and_all_revisions": true,
+  "human_required_fields": [
+    "question_id",
+    "label"
+  ],
+  "human_name_rationale_locator_confidence_required": false,
+  "unreviewed_AI_agreement_is_not_human_accuracy": true,
+  "reported_reference_type": "dual-model consensus with human adjudication of residual disagreements; not fully human-validated gold",
+  "queue_implementation_validated": true,
+  "common_field_contract_validated": true,
+  "user_unlocated_exclusions_applied": true,
+  "locked_at": "2026-10-07T01:28:39.818577+00:00",
+  "revision_mode": "independent_complete_reassessment",
+  "prior_material_superseded_for_final_scoring": true,
+  "released_base_questions": 1263
+}

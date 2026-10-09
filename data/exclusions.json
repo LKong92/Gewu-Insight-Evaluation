@@ -1,0 +1,2582 @@
+{
+  "selected_before_screening": 493,
+  "retained": 421,
+  "records": [
+    {
+      "case_id": "A-CAN-321053be9a4b0dd15663d9e7",
+      "n": 9,
+      "axis": "author",
+      "title": "Challenges to First-Principles Modelling of Astro and Surface Catalysis",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-321053be9a4b0dd15663d9e7:date"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "1ff061266893822022a5dfb4992436ce56cc11df75e1bc06955c9e143bec7b82",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-ae67b0de8b87483544197e8c",
+          "evidence_id": "APUBLIC-09719a4e52196ae10051a4c1",
+          "locator": ".publication_container element 15 descendant small i element 0",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-09719a4e52196ae10051a4c1",
+            "candidate_id": "A-CAN-321053be9a4b0dd15663d9e7",
+            "relationship": "exact_conference_document",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_specific_type",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-3b85038036ed1cb193f170a8",
+      "n": 11,
+      "axis": "author",
+      "title": "Ultrafast photocurrent dynamics in exfoliated MoTe₂",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-3b85038036ed1cb193f170a8:date"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "6dd34fff038690b72bdc12f1aff4bd84f68f2c10e547ca0c0edc24e45200c042",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-f20a471dcd9a13e2c539bf1a",
+          "evidence_id": "APUBLIC-f4e632ad79d279f3a7b9a119",
+          "locator": "archived body characters 0:1017",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-f4e632ad79d279f3a7b9a119",
+            "candidate_id": "A-CAN-3b85038036ed1cb193f170a8",
+            "relationship": "exact_conference_document",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_conference_program_entry",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-58324a3745d0afda66cf21dd",
+      "n": 16,
+      "axis": "author",
+      "title": "Thinking Outside the Box–Beyond Machine Learning for Quantum Chemistry",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-58324a3745d0afda66cf21dd:date"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "6409d8dac8caba4e39dcbff776075524fffaf28bd664a487c78ac880435ebb36",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-b374f158ad272ed66be13f88",
+          "evidence_id": "AVPN-04e8fd7d71539ecbe7d655d6",
+          "locator": ".publication_container element 13 descendant small i element 0",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "AVPN-04e8fd7d71539ecbe7d655d6",
+            "candidate_id": "A-CAN-58324a3745d0afda66cf21dd",
+            "relationship": "exact_document_source",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_specific_type",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        },
+        {
+          "fact_id": "F-e094ef2fd7e43c7d9b2902f0",
+          "evidence_id": "AVPN-04e8fd7d71539ecbe7d655d6",
+          "locator": ".publication_container element 13",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "AVPN-04e8fd7d71539ecbe7d655d6",
+            "candidate_id": "A-CAN-58324a3745d0afda66cf21dd",
+            "relationship": "exact_document_source",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_conference_program_entry",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-5b2be0f8b6de3a0cb54036f6",
+      "n": 17,
+      "axis": "author",
+      "title": "Density Functional Theory and Beyond: Concepts and Applications",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-5b2be0f8b6de3a0cb54036f6:date"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "5863be08b6a39eb417467a4a9280c9fa61ed20291a67ed6011bf67f63b3f0e07",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-86d4faab2372db7230abbd6d",
+          "evidence_id": "AVPN-b03d8860819a37d54f5ab0ec",
+          "locator": "archived body characters452:2724",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "AVPN-b03d8860819a37d54f5ab0ec",
+            "candidate_id": "A-CAN-5b2be0f8b6de3a0cb54036f6",
+            "relationship": "exact_conference_document",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_conference_program_entry",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        },
+        {
+          "fact_id": "F-348812e8a7d97c90f0484ee5",
+          "evidence_id": "AVPN-b03d8860819a37d54f5ab0ec",
+          "locator": "archived body literal opening description",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "AVPN-b03d8860819a37d54f5ab0ec",
+            "candidate_id": "A-CAN-5b2be0f8b6de3a0cb54036f6",
+            "relationship": "exact_conference_document",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_specific_type",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-5efb4e034eba3b57ac6a7550",
+      "n": 19,
+      "axis": "author",
+      "title": "Fermi surface deformations and collective modes in ultracold polar molecules",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-5efb4e034eba3b57ac6a7550:date"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "e2d8175c06c9adf4acc6faddb9667962effd7e879f4d2c62ab94835647fe82ff",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-39b33c71c76b1aced7072d5c",
+          "evidence_id": "APUBLIC-5db0b762c16b1a7c90727736",
+          "locator": "PDF physical page1 literal phrase",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-5db0b762c16b1a7c90727736",
+            "candidate_id": "A-CAN-5efb4e034eba3b57ac6a7550",
+            "relationship": "exact_conference_document",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_specific_type",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-61406514bab0514c611fe939",
+      "n": 20,
+      "axis": "author",
+      "title": "High-repetition-rate quantum gas microscope for simulating the Fermi Hubbard model",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-61406514bab0514c611fe939:date"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "548ea66efa32ee7d49834c15ddfac8a6c0ef92823cbbc4cd3f442bad6028e485",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-1556d9607a9c696e6ef7ff09",
+          "evidence_id": "APUBLIC-665aa34c9bf0c3a515329409",
+          "locator": "archived body characters 0:607",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-665aa34c9bf0c3a515329409",
+            "candidate_id": "A-CAN-61406514bab0514c611fe939",
+            "relationship": "exact_conference_document",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_conference_program_entry",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-624564249b5914016a196952",
+      "n": 21,
+      "axis": "author",
+      "title": "Unbalanced Charge Distribution Inside a Perovskite-Sensitized Solar Cell in Real Space",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-624564249b5914016a196952:date"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "0ca0d7609c35b55fb6d76223ecbb83ab5c7241090e4a107cdbfc693826c825e2",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "evidence_id": "ALINK-31c948d29cbbb2a91839cb42",
+          "locator": "/pages/0",
+          "raw_field_name": "PDF physical page 1",
+          "source_object": {
+            "candidate_id": "A-CAN-624564249b5914016a196952",
+            "requested_url": "https://thinfacew2016.sciencesconf.org/file/Abstract_WorkshopParis_2016.pdf",
+            "source_capture_evidence_id": "ALINK-2e6b64b55e15917cac8a4112",
+            "source_representation": "Exact archived content and reproducible extraction; candidate correspondence still requires independent reviewer verification."
+          },
+          "semantic_type": "verbatim_document_page_text_requires_role_and_date_scope",
+          "source_scope": "this_document",
+          "fact_id": "F-ae710fdb3c7a84e6f30dd690"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-6518aa0f42f5836ab8ba3ded",
+      "n": 22,
+      "axis": "author",
+      "title": "Dyes for dye-sensitized solar cells",
+      "type_readiness": "pending",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-6518aa0f42f5836ab8ba3ded:membership",
+        "A-CAN-6518aa0f42f5836ab8ba3ded:date",
+        "A-CAN-6518aa0f42f5836ab8ba3ded:research_eligibility"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "3bf1575feda27448476fe113838f89ad6fcc406bee1517642b8110ae93acd9ab",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "evidence_id": "ASCH-073590c2f620fb1e3542eafb",
+          "locator": "/fields/1/raw_value",
+          "raw_field_name": "Description",
+          "source_object": {
+            "candidate_id": "A-CAN-6518aa0f42f5836ab8ba3ded",
+            "citation_key": "B0h47WAAAAAJ:INdAjOZKYREC",
+            "requested_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B0h47WAAAAAJ&cstart=2600&pagesize=100&citation_for_view=B0h47WAAAAAJ:INdAjOZKYREC",
+            "source_capture_evidence_id": "ASCH-3417b707ed4f2f7d61ec344f",
+            "source_representation": "Exact displayed fields in corresponding Scholar detail record; source author/identity claims need assessment."
+          },
+          "semantic_type": "provider_description_requires_work_and_document_form_verification",
+          "source_scope": "this_record_exact_scholar_citation_key",
+          "fact_id": "F-b56d044908f956de6998779f"
+        },
+        {
+          "evidence_id": "A43-4a447e87956ed4d9584b47b6",
+          "locator": "/physical_pages/0/text",
+          "raw_field_name": "PDF physical page 8",
+          "source_object": {
+            "candidate_id": "A-CAN-6518aa0f42f5836ab8ba3ded",
+            "requested_url": "https://www.pvsec.org/_userdata/Technical_program/Technical_program_PVSEC-19.pdf",
+            "source_capture_evidence_id": "A43-97aacb759cfde42490b07371",
+            "source_representation": "Exact archived public source field",
+            "document_identity": null
+          },
+          "semantic_type": "verbatim_PDF_page_preserve_version_and_role",
+          "source_scope": "conference_programme_partial_byline",
+          "fact_id": "F-b18800f26c2cd9dc906fe4fa"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-696ace12eab947c42fa06322",
+      "n": 23,
+      "axis": "author",
+      "title": "21 Century Disruptive Photovoltaics: Perovskite Solar Cell",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-696ace12eab947c42fa06322:date"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "91602da41eec74f84beaebda710ecdb2d6cb50c9abd821fdaae37aa1de78648a",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-bf94471f7eb95c9d94346324",
+          "evidence_id": "APUBLIC-8eb6c7f5b51950851086015d",
+          "locator": "PDF physical page13",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-8eb6c7f5b51950851086015d",
+            "candidate_id": "A-CAN-696ace12eab947c42fa06322",
+            "relationship": "exact_conference_document",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_conference_program_entry",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-6fa291ff882bdcc2b45cb695",
+      "n": 24,
+      "axis": "author",
+      "title": "From Big Data to Smart Data: Data-Efficient Machine Learning for Materials and Energy Research",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-6fa291ff882bdcc2b45cb695:date"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "365db8ac6e428ac7b9356ffe6964adfe730b1b341b70c672013b8fb13c506989",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-6031c7212356f2187130192e",
+          "evidence_id": "APUBLIC-1407ab0003240894b3d1e9dd",
+          "locator": ".publication_container element 19 descendant small i element 0",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-1407ab0003240894b3d1e9dd",
+            "candidate_id": "A-CAN-6fa291ff882bdcc2b45cb695",
+            "relationship": "exact_conference_document",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_specific_type",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-a206a6d02d72dab6bad20764",
+      "n": 26,
+      "axis": "author",
+      "title": "Interface Phenomena and Stability Factors for Solid-state Dye-sensitized Solar Cells",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-a206a6d02d72dab6bad20764:membership",
+        "A-CAN-a206a6d02d72dab6bad20764:date"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "709481c69008bcec49c28e45d508cf50b02d5bce60708a251a53c8f3e8ae6575",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "evidence_id": "ASCH-ecb7c8200c99f4caa62e019f",
+          "locator": "/title",
+          "raw_field_name": "title",
+          "source_object": {
+            "candidate_id": "A-CAN-a206a6d02d72dab6bad20764",
+            "citation_key": "I2D3pUMAAAAJ:rTD5ala9j4wC",
+            "requested_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=I2D3pUMAAAAJ&cstart=800&pagesize=100&citation_for_view=I2D3pUMAAAAJ:rTD5ala9j4wC",
+            "source_capture_evidence_id": "ASCH-92903b600d99261ded2df774",
+            "source_representation": "Exact displayed fields in corresponding Scholar detail record; source author/identity claims need assessment."
+          },
+          "semantic_type": "scholar_record_title_not_identity_verdict",
+          "source_scope": "this_record_exact_scholar_citation_key",
+          "fact_id": "F-c4c862f4732930c08b223031"
+        },
+        {
+          "evidence_id": "ASCH-ecb7c8200c99f4caa62e019f",
+          "locator": "/fields/1/raw_value",
+          "raw_field_name": "Description",
+          "source_object": {
+            "candidate_id": "A-CAN-a206a6d02d72dab6bad20764",
+            "citation_key": "I2D3pUMAAAAJ:rTD5ala9j4wC",
+            "requested_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=I2D3pUMAAAAJ&cstart=800&pagesize=100&citation_for_view=I2D3pUMAAAAJ:rTD5ala9j4wC",
+            "source_capture_evidence_id": "ASCH-92903b600d99261ded2df774",
+            "source_representation": "Exact displayed fields in corresponding Scholar detail record; source author/identity claims need assessment."
+          },
+          "semantic_type": "provider_description_requires_work_and_document_form_verification",
+          "source_scope": "this_record_exact_scholar_citation_key",
+          "fact_id": "F-4c85061af34b501b2ccac0ce"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-a688390b4befd37e821bfbc1",
+      "n": 27,
+      "axis": "author",
+      "title": "Investigations of the Polysulfide Conversion Mechanism via Gaussian Approximation Potentials",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-a688390b4befd37e821bfbc1:date"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "7083266e16d09372a62820de19b61e4b578932608221660acba2d786e2e9571a",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-a37da67234199d8024965ff6",
+          "evidence_id": "APUBLIC-8f6fddaa59855630ddfab3d3",
+          "locator": "archived body characters 314:379",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-8f6fddaa59855630ddfab3d3",
+            "candidate_id": "A-CAN-a688390b4befd37e821bfbc1",
+            "relationship": "exact_conference_document",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_conference_program_entry",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        },
+        {
+          "fact_id": "F-82b1805588a5b6c523f6137d",
+          "evidence_id": "APUBLIC-8f6fddaa59855630ddfab3d3",
+          "locator": "archived body characters 816:2321",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-8f6fddaa59855630ddfab3d3",
+            "candidate_id": "A-CAN-a688390b4befd37e821bfbc1",
+            "relationship": "exact_conference_document",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_abstract",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-aae8093e8f240fc2fcfaa5e0",
+      "n": 31,
+      "axis": "author",
+      "title": "Data-Enhanced Multiscale Theory of Operando Energy Conversion Systems",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-aae8093e8f240fc2fcfaa5e0:date"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "8cd0d51de3d47c3a3c4c8742e65094adcc0b600da390147481b66d2b60d0bda5",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-0c56f493e13d2888ecd16333",
+          "evidence_id": "APUBLIC-1407ab0003240894b3d1e9dd",
+          "locator": ".publication_container element 4 descendant small i element 0",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-1407ab0003240894b3d1e9dd",
+            "candidate_id": "A-CAN-aae8093e8f240fc2fcfaa5e0",
+            "relationship": "exact_conference_document",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_specific_type",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-b13d71d4e01933ac822323a7",
+      "n": 32,
+      "axis": "author",
+      "title": "Data-Enhanced Multiscale Modelling of Operando Energy Conversion Systems",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-b13d71d4e01933ac822323a7:date"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "343b4cff8512358a2436b4867fc5d1117f8ecda246956b4b8498eeb8219a4e89",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-6021dd4e75a1287038efed8f",
+          "evidence_id": "AVPN-78e20b79bc8b1f41a48f6d16",
+          "locator": ".publication_container element 52 descendant small i element 0",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "AVPN-78e20b79bc8b1f41a48f6d16",
+            "candidate_id": "A-CAN-b13d71d4e01933ac822323a7",
+            "relationship": "exact_document_source",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_specific_type",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        },
+        {
+          "fact_id": "F-7a4333c0b360f80d130dfadb",
+          "evidence_id": "AVPN-78e20b79bc8b1f41a48f6d16",
+          "locator": ".publication_container element 52",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "AVPN-78e20b79bc8b1f41a48f6d16",
+            "candidate_id": "A-CAN-b13d71d4e01933ac822323a7",
+            "relationship": "exact_document_source",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_conference_program_entry",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-c44d1b048410cff5d5a4dec3",
+      "n": 38,
+      "axis": "author",
+      "title": "Machine Learning for (Dynamic) Heterogeneous Catalysis",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-c44d1b048410cff5d5a4dec3:date"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "9becee5b1930d10e41e17259271add1d9ea9be44bd2cfae2a62bc375e7f37887",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-ff69cc9f2ee48308a1ada7c9",
+          "evidence_id": "APUBLIC-69654048a692655f1196c5c7",
+          "locator": ".publication_container element 14 descendant small i element 0",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-69654048a692655f1196c5c7",
+            "candidate_id": "A-CAN-c44d1b048410cff5d5a4dec3",
+            "relationship": "exact_conference_document",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_specific_type",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-da6d831826bcd7e37f14d047",
+      "n": 44,
+      "axis": "author",
+      "title": "Ferroaxiality and Nematicity in 1T-TiSe₂ and CuₓTiSe₂",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-da6d831826bcd7e37f14d047:date"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "730f5ac3fb59fdb6a7838e29fab75a632c8fcabe4aff559e1f30d4d982e409fe",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-504b4816d6cf4807b59d8153",
+          "evidence_id": "APUBLIC-eaab24676b963c287d0b44a6",
+          "locator": "archived body characters 0:387",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-eaab24676b963c287d0b44a6",
+            "candidate_id": "A-CAN-da6d831826bcd7e37f14d047",
+            "relationship": "exact_conference_document",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_conference_program_entry",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-e45606f15c76950857050405",
+      "n": 46,
+      "axis": "author",
+      "title": "Out of the Crystalline Comfort Zone: Atomistic Modelling of Operando Energy Conversion Systems",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-e45606f15c76950857050405:date"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "44636334ffa609a263e78f03879edcb8920d4e123188cf5923ecd4a200fd7c93",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-696740480f1c36dd89a174b9",
+          "evidence_id": "APUBLIC-09719a4e52196ae10051a4c1",
+          "locator": ".publication_container element 2 descendant small i element 0",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-09719a4e52196ae10051a4c1",
+            "candidate_id": "A-CAN-e45606f15c76950857050405",
+            "relationship": "exact_conference_document",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_specific_type",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-eadb5177d06da9b08639201b",
+      "n": 47,
+      "axis": "author",
+      "title": "Towards a first-principles electronic structure based understanding of reactor response in heterogeneous catalysis",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-eadb5177d06da9b08639201b:date"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "3fbc93bb5d2785b239b16cb80b51c27c07bdc16ea1385dee7ff5e9fb8deda247",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-82cfc540d2d8412db1732a19",
+          "evidence_id": "APUBLIC-0c98e66759d4db95371755b0",
+          "locator": "PDF physical page21",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-0c98e66759d4db95371755b0",
+            "candidate_id": "A-CAN-eadb5177d06da9b08639201b",
+            "relationship": "exact_conference_document",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_conference_program_entry",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-fbf22666ffda33dbcbfd90af",
+      "n": 51,
+      "axis": "author",
+      "title": "IRRAS and DFT Investigations of Ultrathin ZnO Films Formed on Ag (111)",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-fbf22666ffda33dbcbfd90af:date"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "e1ce0f369e8a4ac250fb37d1b935a787ccbb85a84e4b7ec2c235a2e0782113b1",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-0f313e34d259aee953df2042",
+          "evidence_id": "APUBLIC-cc5f3a5a3801089ecf8bb412",
+          "locator": "PDF physical page1",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-cc5f3a5a3801089ecf8bb412",
+            "candidate_id": "A-CAN-fbf22666ffda33dbcbfd90af",
+            "relationship": "exact_document_source",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_abstract",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        },
+        {
+          "fact_id": "F-b36b8d415d02ae5a448f1bc7",
+          "evidence_id": "APUBLIC-5f6a340c6287d6eb63cb9099",
+          "locator": "PDF physical page16 characters3693:3910",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-5f6a340c6287d6eb63cb9099",
+            "candidate_id": "A-CAN-fbf22666ffda33dbcbfd90af",
+            "relationship": "exact_document_source",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_conference_program_entry",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-ff8602ed8d44b9be9a458af8",
+      "n": 53,
+      "axis": "author",
+      "title": "“Topological and Strongly Correlated Phases in Cold Atoms” Tutorial: 29 April 2015 Program: 30 April-1 May 2015",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-ff8602ed8d44b9be9a458af8:date"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "3cdfa63b40b28c40801730447262108abfa6821d2adb0ae862124ed5ab46d931",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "evidence_id": "ASCH-7a33bd77227b4c02b1f1055b",
+          "locator": "/title",
+          "raw_field_name": "title",
+          "source_object": {
+            "candidate_id": "A-CAN-ff8602ed8d44b9be9a458af8",
+            "citation_key": "_tVJPCUAAAAJ:_axFR9aDTf0C",
+            "requested_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_tVJPCUAAAAJ&pagesize=100&citation_for_view=_tVJPCUAAAAJ:_axFR9aDTf0C",
+            "source_capture_evidence_id": "ASCH-6812fba182abf70d0fbf9c32",
+            "source_representation": "Exact displayed fields in corresponding Scholar detail record; source author/identity claims need assessment."
+          },
+          "semantic_type": "scholar_record_title_not_identity_verdict",
+          "source_scope": "this_record_exact_scholar_citation_key",
+          "fact_id": "F-97a79d28e0c8bf2b4a394e60"
+        },
+        {
+          "evidence_id": "ASCH-7a33bd77227b4c02b1f1055b",
+          "locator": "/fields/1/raw_value",
+          "raw_field_name": "Description",
+          "source_object": {
+            "candidate_id": "A-CAN-ff8602ed8d44b9be9a458af8",
+            "citation_key": "_tVJPCUAAAAJ:_axFR9aDTf0C",
+            "requested_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_tVJPCUAAAAJ&pagesize=100&citation_for_view=_tVJPCUAAAAJ:_axFR9aDTf0C",
+            "source_capture_evidence_id": "ASCH-6812fba182abf70d0fbf9c32",
+            "source_representation": "Exact displayed fields in corresponding Scholar detail record; source author/identity claims need assessment."
+          },
+          "semantic_type": "provider_description_requires_work_and_document_form_verification",
+          "source_scope": "this_record_exact_scholar_citation_key",
+          "fact_id": "F-48c221a17ca1bfb38f239307"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-12bb8987cdbe1caa6f1fa259",
+      "n": null,
+      "axis": "author",
+      "title": "Abs. 1467. pdf, 216th Meeting (c) 2009 The Electrochemical Society",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [],
+      "stage": "base_screening",
+      "original_record_sha256": "3c72fff896b79ba0f26498da5b5a3da05367055f73086a9c1ad29143ac908783",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-1526cb626e65477d42502b50",
+          "evidence_id": "AVPN-1e8575d01536a38aac6ba6d6",
+          "locator": "PDF physical page1 title",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "AVPN-1e8575d01536a38aac6ba6d6",
+            "candidate_id": "A-CAN-12bb8987cdbe1caa6f1fa259",
+            "relationship": "exact_conference_document",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_specific_type",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        },
+        {
+          "fact_id": "F-e126bea903fa520c42f98bdc",
+          "evidence_id": "AVPN-1e8575d01536a38aac6ba6d6",
+          "locator": "PDF physical page1 title and volume",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "AVPN-1e8575d01536a38aac6ba6d6",
+            "candidate_id": "A-CAN-12bb8987cdbe1caa6f1fa259",
+            "relationship": "exact_conference_document",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_document_role_block",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-d9c3a6624b3f4f1e1f4c8212",
+      "n": null,
+      "axis": "author",
+      "title": "216th ECS Meeting, Abstract# 1467,© The Electrochemical Society",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [],
+      "stage": "base_screening",
+      "original_record_sha256": "0119124ef8a9c51facea675b0c7b1598c60d77dbd0bdc12e1a6dfc1b162cc35b",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-c045fc1fb6276d655e339291",
+          "evidence_id": "AVPN-1e8575d01536a38aac6ba6d6",
+          "locator": "PDF physical page1 title",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "AVPN-1e8575d01536a38aac6ba6d6",
+            "candidate_id": "A-CAN-d9c3a6624b3f4f1e1f4c8212",
+            "relationship": "exact_conference_document",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_specific_type",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        },
+        {
+          "fact_id": "F-0bc640c742b2965a22d58308",
+          "evidence_id": "AVPN-1e8575d01536a38aac6ba6d6",
+          "locator": "PDF physical page1 title and volume",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "AVPN-1e8575d01536a38aac6ba6d6",
+            "candidate_id": "A-CAN-d9c3a6624b3f4f1e1f4c8212",
+            "relationship": "exact_conference_document",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_document_role_block",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-3ecc383f974d5643c06de358",
+      "n": null,
+      "axis": "author",
+      "title": "Enhanced Oxygen Reduction Activity on Silver-Palladium Alloyed Thin Film Electrocatalysts in Alkaline Media",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "conference_abstract_talk_poster_programme",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [],
+      "stage": "base_screening",
+      "original_record_sha256": "4ddfd5a90483d3fc27387803b72f473bc0a700776bf778e6d310ebb824fe2cfd",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-80c672174441123fbcc0dde2",
+          "evidence_id": "AREPAIR-0d94436c03bbb3a42d88cd36",
+          "locator": "/message/items/0/abstract",
+          "raw_field_name": "abstract",
+          "source_object": {
+            "DOI": "10.1149/ma2020-02372397mtgabs",
+            "title": [
+              "Enhanced Oxygen Reduction Activity on Silver-Palladium Alloyed Thin Film Electrocatalysts in Alkaline Media"
+            ],
+            "URL": "https://doi.org/10.1149/ma2020-02372397mtgabs"
+          },
+          "semantic_type": "raw_source_abstract_text_or_markup",
+          "source_scope": "this_work_or_unverified_proposal"
+        },
+        {
+          "fact_id": "F-584e0ebc2e2f58ab7ec79f84",
+          "evidence_id": "AREPAIR-89242579141fff1b9ca14d55",
+          "locator": "/results/0/abstract_inverted_index",
+          "raw_field_name": "abstract_inverted_index",
+          "source_object": {
+            "doi": "https://doi.org/10.1149/ma2020-02372397mtgabs",
+            "id": "https://openalex.org/W3117864245",
+            "ids": {
+              "openalex": "https://openalex.org/W3117864245",
+              "doi": "https://doi.org/10.1149/ma2020-02372397mtgabs",
+              "mag": "3117864245"
+            },
+            "title": "Enhanced Oxygen Reduction Activity on Silver-Palladium Alloyed Thin Film Electrocatalysts in Alkaline Media",
+            "display_name": "Enhanced Oxygen Reduction Activity on Silver-Palladium Alloyed Thin Film Electrocatalysts in Alkaline Media"
+          },
+          "semantic_type": "raw_abstract_inverted_index",
+          "source_scope": "this_work_or_unverified_proposal"
+        },
+        {
+          "fact_id": "F-1e4769053d36278acb5db67b",
+          "evidence_id": "AREPAIR-89242579141fff1b9ca14d55",
+          "locator": "/results/0/type",
+          "raw_field_name": "type",
+          "source_object": {
+            "doi": "https://doi.org/10.1149/ma2020-02372397mtgabs",
+            "id": "https://openalex.org/W3117864245",
+            "ids": {
+              "openalex": "https://openalex.org/W3117864245",
+              "doi": "https://doi.org/10.1149/ma2020-02372397mtgabs",
+              "mag": "3117864245"
+            },
+            "title": "Enhanced Oxygen Reduction Activity on Silver-Palladium Alloyed Thin Film Electrocatalysts in Alkaline Media",
+            "display_name": "Enhanced Oxygen Reduction Activity on Silver-Palladium Alloyed Thin Film Electrocatalysts in Alkaline Media"
+          },
+          "semantic_type": "source_document_type",
+          "source_scope": "this_work_or_unverified_proposal"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-0353c95aaf2dad2c81ea8ff1",
+      "n": null,
+      "axis": "author",
+      "title": "Hardware-efficient neutral atom quantum computing method and device",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "patent",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [],
+      "stage": "base_screening",
+      "original_record_sha256": "618f20122434a1fa329973c31a35f9cb3cecde875b14a6f03cc7671218c60131",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-e5a8abc390e7ce8ebabf7f6b",
+          "evidence_id": "APUBLIC-907d8363c14ea59e3b13e8cb",
+          "locator": "meta index 4",
+          "raw_field_name": "DC.type",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-907d8363c14ea59e3b13e8cb",
+            "candidate_id": "A-CAN-0353c95aaf2dad2c81ea8ff1",
+            "relationship": "exact_patent_publication",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_declared_type",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        },
+        {
+          "fact_id": "F-5a99e2f75899068c0bab9fbb",
+          "evidence_id": "APUBLIC-907d8363c14ea59e3b13e8cb",
+          "locator": "div.abstract element 0",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-907d8363c14ea59e3b13e8cb",
+            "candidate_id": "A-CAN-0353c95aaf2dad2c81ea8ff1",
+            "relationship": "exact_patent_publication",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_abstract",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-43d89039fc8db705ee8f91f3",
+      "n": null,
+      "axis": "author",
+      "title": "Recycling all solid state battery technology",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "patent",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [],
+      "stage": "base_screening",
+      "original_record_sha256": "4d323b7d66c888b26321c23b260fab5c9a66f2e7537aed8f019a1ba5038d7b81",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-0f57882e2927f3cb0c72a3fe",
+          "evidence_id": "APUBLIC-d0270fdad4cf931e87dd0de5",
+          "locator": "meta index 4",
+          "raw_field_name": "DC.type",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-d0270fdad4cf931e87dd0de5",
+            "candidate_id": "A-CAN-43d89039fc8db705ee8f91f3",
+            "relationship": "exact_patent_publication",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_declared_type",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        },
+        {
+          "fact_id": "F-97cc6cf7651931c87611ddb1",
+          "evidence_id": "APUBLIC-d0270fdad4cf931e87dd0de5",
+          "locator": "div.abstract element 0",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-d0270fdad4cf931e87dd0de5",
+            "candidate_id": "A-CAN-43d89039fc8db705ee8f91f3",
+            "relationship": "exact_patent_publication",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_abstract",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-58f7ff914f5c3e8d31867ccd",
+      "n": null,
+      "axis": "author",
+      "title": "Sodium-deficient chloride-based sodium solid electrolyte",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "patent",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [],
+      "stage": "base_screening",
+      "original_record_sha256": "9cff7ebcb9401a37b551fd5ce76d4eb3b34d4b10b2b9ce6b78e4e51f6b5b7bc5",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-e5d7f2ad3660ef3d2b171dbb",
+          "evidence_id": "APUBLIC-4c342a1408e0f7e5acae55af",
+          "locator": "meta index 4",
+          "raw_field_name": "DC.type",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-4c342a1408e0f7e5acae55af",
+            "candidate_id": "A-CAN-58f7ff914f5c3e8d31867ccd",
+            "relationship": "exact_patent_publication",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_declared_type",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        },
+        {
+          "fact_id": "F-1c1a291145d52fc01d5ec301",
+          "evidence_id": "APUBLIC-4c342a1408e0f7e5acae55af",
+          "locator": "div.abstract element 0",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-4c342a1408e0f7e5acae55af",
+            "candidate_id": "A-CAN-58f7ff914f5c3e8d31867ccd",
+            "relationship": "exact_patent_publication",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_abstract",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-0aad70d0425ab1d2f5b4bf0d",
+      "n": null,
+      "axis": "author",
+      "title": "Bevin Huang",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "thesis",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [],
+      "stage": "base_screening",
+      "original_record_sha256": "2376d8e5ab592eb6d5e61b613cf186709d3723ab983e8103ecb613b8f3faff32",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-734be9de688ca34ac86dff7e",
+          "evidence_id": "APUBLIC-3adf1fc405573034eb4bb848",
+          "locator": "PDF physical page 3 characters 0:1379",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-3adf1fc405573034eb4bb848",
+            "candidate_id": "A-CAN-0aad70d0425ab1d2f5b4bf0d",
+            "relationship": "exact_thesis",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_abstract",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        },
+        {
+          "fact_id": "F-1eeaff0a16ff6784dd6e0784",
+          "evidence_id": "APUBLIC-3adf1fc405573034eb4bb848",
+          "locator": "PDF physical page 2 characters 0:408",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-3adf1fc405573034eb4bb848",
+            "candidate_id": "A-CAN-0aad70d0425ab1d2f5b4bf0d",
+            "relationship": "exact_thesis",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_author_role_block",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-4766a8b6edb5d16431c18331",
+      "n": 13,
+      "axis": "author",
+      "title": "Magnetic Nanoparticles",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "front_matter_or_cover",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-4766a8b6edb5d16431c18331:membership"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "57b3e635ad8897c943df64191e32b9b7677ddf58e650f8894bc19bf820d255d5",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "evidence_id": "A71-ea4417a919d9f48d52763eed",
+          "locator": "/message/DOI",
+          "raw_field_name": "DOI",
+          "source_object": {
+            "candidate_id": "A-CAN-4766a8b6edb5d16431c18331",
+            "requested_url": "https://api.crossref.org/works/10.1002%2F9783527652570.fmatter",
+            "source_capture_evidence_id": "A71-ea4417a919d9f48d52763eed",
+            "source_representation": "Exact archived public source field"
+          },
+          "semantic_type": "crossref_raw_DOI_preserve_exact_object",
+          "source_scope": "this_document",
+          "fact_id": "F-296c1c9c90c4eea14c0e47e7"
+        },
+        {
+          "evidence_id": "A71-ea4417a919d9f48d52763eed",
+          "locator": "/message/title",
+          "raw_field_name": "title",
+          "source_object": {
+            "candidate_id": "A-CAN-4766a8b6edb5d16431c18331",
+            "requested_url": "https://api.crossref.org/works/10.1002%2F9783527652570.fmatter",
+            "source_capture_evidence_id": "A71-ea4417a919d9f48d52763eed",
+            "source_representation": "Exact archived public source field"
+          },
+          "semantic_type": "crossref_raw_title_preserve_exact_object",
+          "source_scope": "this_document",
+          "fact_id": "F-4e4c914584ebdbc943b725d9"
+        },
+        {
+          "evidence_id": "A71-ea4417a919d9f48d52763eed",
+          "locator": "/message/type",
+          "raw_field_name": "type",
+          "source_object": {
+            "candidate_id": "A-CAN-4766a8b6edb5d16431c18331",
+            "requested_url": "https://api.crossref.org/works/10.1002%2F9783527652570.fmatter",
+            "source_capture_evidence_id": "A71-ea4417a919d9f48d52763eed",
+            "source_representation": "Exact archived public source field"
+          },
+          "semantic_type": "crossref_raw_type_preserve_exact_object",
+          "source_scope": "this_document",
+          "fact_id": "F-f2fae481751f7a82ed27227f"
+        },
+        {
+          "evidence_id": "A71-ea4417a919d9f48d52763eed",
+          "locator": "/message/container-title",
+          "raw_field_name": "container-title",
+          "source_object": {
+            "candidate_id": "A-CAN-4766a8b6edb5d16431c18331",
+            "requested_url": "https://api.crossref.org/works/10.1002%2F9783527652570.fmatter",
+            "source_capture_evidence_id": "A71-ea4417a919d9f48d52763eed",
+            "source_representation": "Exact archived public source field"
+          },
+          "semantic_type": "crossref_raw_container-title_preserve_exact_object",
+          "source_scope": "this_document",
+          "fact_id": "F-dcf9ad922405d59ae0b6dae2"
+        },
+        {
+          "evidence_id": "A71-ea4417a919d9f48d52763eed",
+          "locator": "/message/resource",
+          "raw_field_name": "resource",
+          "source_object": {
+            "candidate_id": "A-CAN-4766a8b6edb5d16431c18331",
+            "requested_url": "https://api.crossref.org/works/10.1002%2F9783527652570.fmatter",
+            "source_capture_evidence_id": "A71-ea4417a919d9f48d52763eed",
+            "source_representation": "Exact archived public source field"
+          },
+          "semantic_type": "crossref_raw_resource_preserve_exact_object",
+          "source_scope": "this_document",
+          "fact_id": "F-132d1352930b4d8895ac9a93"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-bb912343deb140ebd381ee32",
+      "n": 34,
+      "axis": "author",
+      "title": "Published on 26 May 2015",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "front_matter_or_cover",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-bb912343deb140ebd381ee32:membership"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "53e0f69e634eb0fdb5a300b1c7b60c23832767a71915e219c7089ecbd5ff2142",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "evidence_id": "A81-5f84d1b240f835afdcf4ac35",
+          "locator": "/message/DOI",
+          "raw_field_name": "DOI",
+          "source_object": {
+            "candidate_id": "A-CAN-bb912343deb140ebd381ee32",
+            "requested_url": "https://api.crossref.org/works/10.1039/c5cs90050f",
+            "source_capture_evidence_id": "A81-5f84d1b240f835afdcf4ac35",
+            "source_representation": "Exact archived public source field"
+          },
+          "semantic_type": "crossref_raw_DOI_preserve_precision_and_object_scope",
+          "source_scope": "this_document",
+          "fact_id": "F-2e0fe87db5c4d19b2ffdae63"
+        },
+        {
+          "evidence_id": "A81-5f84d1b240f835afdcf4ac35",
+          "locator": "/message/resource",
+          "raw_field_name": "resource",
+          "source_object": {
+            "candidate_id": "A-CAN-bb912343deb140ebd381ee32",
+            "requested_url": "https://api.crossref.org/works/10.1039/c5cs90050f",
+            "source_capture_evidence_id": "A81-5f84d1b240f835afdcf4ac35",
+            "source_representation": "Exact archived public source field"
+          },
+          "semantic_type": "crossref_raw_resource_preserve_precision_and_object_scope",
+          "source_scope": "this_document",
+          "fact_id": "F-b78fcbcc89969d5c7e2d767a"
+        },
+        {
+          "evidence_id": "A81-5f84d1b240f835afdcf4ac35",
+          "locator": "/message/title",
+          "raw_field_name": "title",
+          "source_object": {
+            "candidate_id": "A-CAN-bb912343deb140ebd381ee32",
+            "requested_url": "https://api.crossref.org/works/10.1039/c5cs90050f",
+            "source_capture_evidence_id": "A81-5f84d1b240f835afdcf4ac35",
+            "source_representation": "Exact archived public source field"
+          },
+          "semantic_type": "crossref_raw_title_preserve_precision_and_object_scope",
+          "source_scope": "this_document",
+          "fact_id": "F-5ca1da784af40a6f45235faf"
+        },
+        {
+          "evidence_id": "A81-5f84d1b240f835afdcf4ac35",
+          "locator": "/message/volume",
+          "raw_field_name": "volume",
+          "source_object": {
+            "candidate_id": "A-CAN-bb912343deb140ebd381ee32",
+            "requested_url": "https://api.crossref.org/works/10.1039/c5cs90050f",
+            "source_capture_evidence_id": "A81-5f84d1b240f835afdcf4ac35",
+            "source_representation": "Exact archived public source field"
+          },
+          "semantic_type": "crossref_raw_volume_preserve_precision_and_object_scope",
+          "source_scope": "this_document",
+          "fact_id": "F-0cee11308e22defe61833f16"
+        },
+        {
+          "evidence_id": "A81-5f84d1b240f835afdcf4ac35",
+          "locator": "/message/issue",
+          "raw_field_name": "issue",
+          "source_object": {
+            "candidate_id": "A-CAN-bb912343deb140ebd381ee32",
+            "requested_url": "https://api.crossref.org/works/10.1039/c5cs90050f",
+            "source_capture_evidence_id": "A81-5f84d1b240f835afdcf4ac35",
+            "source_representation": "Exact archived public source field"
+          },
+          "semantic_type": "crossref_raw_issue_preserve_precision_and_object_scope",
+          "source_scope": "this_document",
+          "fact_id": "F-ee88e2922bd29d23e6a93fa0"
+        },
+        {
+          "evidence_id": "A81-5f84d1b240f835afdcf4ac35",
+          "locator": "/message/page",
+          "raw_field_name": "page",
+          "source_object": {
+            "candidate_id": "A-CAN-bb912343deb140ebd381ee32",
+            "requested_url": "https://api.crossref.org/works/10.1039/c5cs90050f",
+            "source_capture_evidence_id": "A81-5f84d1b240f835afdcf4ac35",
+            "source_representation": "Exact archived public source field"
+          },
+          "semantic_type": "crossref_raw_page_preserve_precision_and_object_scope",
+          "source_scope": "this_document",
+          "fact_id": "F-20da7f645a4a4a6077a9d22e"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-c3c3f8ad2757d1d346867591",
+      "n": 37,
+      "axis": "author",
+      "title": "Www. rsc. org/ees Volume 5| Number 9| September 2012| Pages 8401–8764",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "front_matter_or_cover",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-c3c3f8ad2757d1d346867591:membership"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "047888fa95ffc7c5f130acae5e8cf2fbd976c6a6728bca3fbf3804f9244095ca",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "evidence_id": "A81-29be2989a66225c4aa31779f",
+          "locator": "/message/DOI",
+          "raw_field_name": "DOI",
+          "source_object": {
+            "candidate_id": "A-CAN-c3c3f8ad2757d1d346867591",
+            "requested_url": "https://api.crossref.org/works/10.1039/c2ee90034c",
+            "source_capture_evidence_id": "A81-29be2989a66225c4aa31779f",
+            "source_representation": "Exact archived public source field"
+          },
+          "semantic_type": "crossref_raw_DOI_preserve_precision_and_object_scope",
+          "source_scope": "this_document",
+          "fact_id": "F-834fd54f9d9b903c02142452"
+        },
+        {
+          "evidence_id": "A81-29be2989a66225c4aa31779f",
+          "locator": "/message/resource",
+          "raw_field_name": "resource",
+          "source_object": {
+            "candidate_id": "A-CAN-c3c3f8ad2757d1d346867591",
+            "requested_url": "https://api.crossref.org/works/10.1039/c2ee90034c",
+            "source_capture_evidence_id": "A81-29be2989a66225c4aa31779f",
+            "source_representation": "Exact archived public source field"
+          },
+          "semantic_type": "crossref_raw_resource_preserve_precision_and_object_scope",
+          "source_scope": "this_document",
+          "fact_id": "F-d025e47ffe47b353e6112205"
+        },
+        {
+          "evidence_id": "A81-29be2989a66225c4aa31779f",
+          "locator": "/message/title",
+          "raw_field_name": "title",
+          "source_object": {
+            "candidate_id": "A-CAN-c3c3f8ad2757d1d346867591",
+            "requested_url": "https://api.crossref.org/works/10.1039/c2ee90034c",
+            "source_capture_evidence_id": "A81-29be2989a66225c4aa31779f",
+            "source_representation": "Exact archived public source field"
+          },
+          "semantic_type": "crossref_raw_title_preserve_precision_and_object_scope",
+          "source_scope": "this_document",
+          "fact_id": "F-816069efd385ca58ffb1e0f0"
+        },
+        {
+          "evidence_id": "A81-29be2989a66225c4aa31779f",
+          "locator": "/message/volume",
+          "raw_field_name": "volume",
+          "source_object": {
+            "candidate_id": "A-CAN-c3c3f8ad2757d1d346867591",
+            "requested_url": "https://api.crossref.org/works/10.1039/c2ee90034c",
+            "source_capture_evidence_id": "A81-29be2989a66225c4aa31779f",
+            "source_representation": "Exact archived public source field"
+          },
+          "semantic_type": "crossref_raw_volume_preserve_precision_and_object_scope",
+          "source_scope": "this_document",
+          "fact_id": "F-21b56fe06e6db792fb52c3f5"
+        },
+        {
+          "evidence_id": "A81-29be2989a66225c4aa31779f",
+          "locator": "/message/issue",
+          "raw_field_name": "issue",
+          "source_object": {
+            "candidate_id": "A-CAN-c3c3f8ad2757d1d346867591",
+            "requested_url": "https://api.crossref.org/works/10.1039/c2ee90034c",
+            "source_capture_evidence_id": "A81-29be2989a66225c4aa31779f",
+            "source_representation": "Exact archived public source field"
+          },
+          "semantic_type": "crossref_raw_issue_preserve_precision_and_object_scope",
+          "source_scope": "this_document",
+          "fact_id": "F-6897ce1c2dee6aa0e87a3e69"
+        },
+        {
+          "evidence_id": "A81-29be2989a66225c4aa31779f",
+          "locator": "/message/page",
+          "raw_field_name": "page",
+          "source_object": {
+            "candidate_id": "A-CAN-c3c3f8ad2757d1d346867591",
+            "requested_url": "https://api.crossref.org/works/10.1039/c2ee90034c",
+            "source_capture_evidence_id": "A81-29be2989a66225c4aa31779f",
+            "source_representation": "Exact archived public source field"
+          },
+          "semantic_type": "crossref_raw_page_preserve_precision_and_object_scope",
+          "source_scope": "this_document",
+          "fact_id": "F-35e2230240939b01f18499bc"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-b72a92f3562a88152537d119",
+      "n": 33,
+      "axis": "author",
+      "title": "JACS Select: MOLECULAR DESIGN OF THIN FILM OPTOELECTRONIC MATERIALS FOR SOLAR CELLS",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "editorial_or_curated_collection",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [
+        "A-CAN-b72a92f3562a88152537d119:membership",
+        "A-CAN-b72a92f3562a88152537d119:date"
+      ],
+      "stage": "base_screening",
+      "original_record_sha256": "59feb7328e17a7d492d8e96c391d9aa159ab84d7d849eca8bcc7c6b2987418cd",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "evidence_id": "ASCH-a889198aded80cf882c40a3c",
+          "locator": "/title",
+          "raw_field_name": "title",
+          "source_object": {
+            "candidate_id": "A-CAN-b72a92f3562a88152537d119",
+            "citation_key": "B0h47WAAAAAJ:9ozBiMEOI0QC",
+            "requested_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B0h47WAAAAAJ&cstart=2500&pagesize=100&citation_for_view=B0h47WAAAAAJ:9ozBiMEOI0QC",
+            "source_capture_evidence_id": "ASCH-65b60aa7ce5470a6261d506b",
+            "source_representation": "Exact displayed fields in corresponding Scholar detail record; source author/identity claims need assessment."
+          },
+          "semantic_type": "scholar_record_title_not_identity_verdict",
+          "source_scope": "this_record_exact_scholar_citation_key",
+          "fact_id": "F-d91347259715c66fdf348c8a"
+        },
+        {
+          "evidence_id": "ASCH-a889198aded80cf882c40a3c",
+          "locator": "/fields/1/raw_value",
+          "raw_field_name": "Description",
+          "source_object": {
+            "candidate_id": "A-CAN-b72a92f3562a88152537d119",
+            "citation_key": "B0h47WAAAAAJ:9ozBiMEOI0QC",
+            "requested_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=B0h47WAAAAAJ&cstart=2500&pagesize=100&citation_for_view=B0h47WAAAAAJ:9ozBiMEOI0QC",
+            "source_capture_evidence_id": "ASCH-65b60aa7ce5470a6261d506b",
+            "source_representation": "Exact displayed fields in corresponding Scholar detail record; source author/identity claims need assessment."
+          },
+          "semantic_type": "provider_description_requires_work_and_document_form_verification",
+          "source_scope": "this_record_exact_scholar_citation_key",
+          "fact_id": "F-12d5c4d7ea1e6bf5a0646240"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-6790eb83642c695d2d8cb866",
+      "n": null,
+      "axis": "journal",
+      "title": "When treatments create new conditions",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "editorial_or_curated_collection",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [],
+      "stage": "base_screening",
+      "original_record_sha256": "1c5c4e37a006c0f3baf123ba6efcbafd24554f5a8c14929c5b66739710fbd7b6",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-8f4f3e347a17647c8a3e3e0f",
+          "evidence_id": "AFUP-7ac11732f0e27be21cd1c5e3",
+          "locator": "/records/6/content",
+          "raw_field_name": "content",
+          "source_object": {
+            "candidate_id": "A-CAN-6790eb83642c695d2d8cb866",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42691158/",
+            "representation": "Public web-reader/search returned text. Not original HTTP HTML or proof that direct publisher HTTP succeeded.",
+            "source_capture_evidence_id": "AFUP-467bbe560373b83f70ce329c"
+          },
+          "semantic_type": "verbatim_primary_record_text_returned_by_public_web_tool",
+          "source_scope": "this_work"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-694035dd866575b7b8f67904",
+      "n": null,
+      "axis": "journal",
+      "title": "Science still has expertise; what it’s lost is authority",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "editorial_or_curated_collection",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [],
+      "stage": "base_screening",
+      "original_record_sha256": "69826b263db7df3f47d35b51c3a74305025794a13a02fd2239bd8dfa740a9f01",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-217204cfbe58f99f401c43f2",
+          "evidence_id": "AFUP-7ac11732f0e27be21cd1c5e3",
+          "locator": "/records/11/content",
+          "raw_field_name": "content",
+          "source_object": {
+            "candidate_id": "A-CAN-694035dd866575b7b8f67904",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/42784675/",
+            "representation": "Public web-reader/search returned text. Not original HTTP HTML or proof that direct publisher HTTP succeeded.",
+            "source_capture_evidence_id": "AFUP-2fb2816084766c478d000e91"
+          },
+          "semantic_type": "verbatim_primary_record_text_returned_by_public_web_tool",
+          "source_scope": "this_work"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-98ef1fe18fbc6862a868d333",
+      "n": null,
+      "axis": "author",
+      "title": "Hidden states and dynamics of fractional fillings in twisted MoTe₂ bilayers (vol 641, pg 1149, 2025)",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "standalone_correction",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [],
+      "stage": "base_screening",
+      "original_record_sha256": "0dcfb86dc813ae8af1af3e3724a6d79d72ed058aadf6dd6de1e6b6bbb34140d3",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-73d539effe5d6c1aa1ab238a",
+          "evidence_id": "APUBLIC-1f03482b2a586d60c8dbbfd2",
+          "locator": "meta index 15",
+          "raw_field_name": "dc.type",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-1f03482b2a586d60c8dbbfd2",
+            "candidate_id": "A-CAN-98ef1fe18fbc6862a868d333",
+            "relationship": "exact_correction_notice",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_declared_type",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        },
+        {
+          "fact_id": "F-e5332929d95454c823c1ef23",
+          "evidence_id": "APUBLIC-1f03482b2a586d60c8dbbfd2",
+          "locator": "meta index 46",
+          "raw_field_name": "citation_article_type",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-1f03482b2a586d60c8dbbfd2",
+            "candidate_id": "A-CAN-98ef1fe18fbc6862a868d333",
+            "relationship": "exact_correction_notice",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_declared_type",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        },
+        {
+          "fact_id": "F-ea1d1cc6dbe0bd4faaf63c95",
+          "evidence_id": "APUBLIC-1f03482b2a586d60c8dbbfd2",
+          "locator": "[data-test=\"article-category\"] element 0",
+          "raw_field_name": "document_text",
+          "source_object": {
+            "source_evidence_id": "APUBLIC-1f03482b2a586d60c8dbbfd2",
+            "candidate_id": "A-CAN-98ef1fe18fbc6862a868d333",
+            "relationship": "exact_correction_notice",
+            "object_identity_requires_source_reading": true
+          },
+          "semantic_type": "verbatim_specific_type",
+          "source_scope": "explicit_source_correspondence_requires_reviewer_verification"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-ecbe06248a4468cc1a3c5ccb",
+      "n": 48,
+      "axis": "author",
+      "title": "Mor",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "news_commentary_or_digest",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [],
+      "stage": "base_screening",
+      "original_record_sha256": "01c2978838f98030fc69bd91f588224db1596c38d19cfbc407e2918877b587e1",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "evidence_id": "A71-ddfc896bc9adab18822107cc",
+          "locator": "/pages/0",
+          "raw_field_name": "PDF physical page 1",
+          "source_object": {
+            "candidate_id": "A-CAN-ecbe06248a4468cc1a3c5ccb",
+            "requested_url": "https://link.springer.com/content/pdf/10.1038/scibx.2011.1335.pdf",
+            "source_capture_evidence_id": "A71-de18b76bdaaed793ac2a672f",
+            "source_representation": "Complete publisher PDF, one page, visually inspected"
+          },
+          "semantic_type": "verbatim_document_content_preserve_translation_and_roles",
+          "source_scope": "this_document",
+          "fact_id": "F-2991eabe067e7aef466492af"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-3a523882c9b71659ca2fe15e",
+      "n": null,
+      "axis": "journal",
+      "title": "Strong coupling of photon to an electron on helium",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "news_commentary_or_digest",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [],
+      "stage": "base_screening",
+      "original_record_sha256": "51e6b80df752cf4bfa0a89e16bc2f80919882a46bd6f99934c2c415d05f56ae5",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-cebdc598268fb3b2371083d3",
+          "evidence_id": "APUBLIC-3dae25454aae84532174eff2",
+          "locator": "meta index 51",
+          "raw_field_name": "citation_doi",
+          "source_object": {
+            "request_id": "PUB-0040",
+            "page_url": "https://www.nature.com/articles/s41566-026-02018-7?error=cookies_not_supported&code=1000dad5-31db-4222-bf7e-117dfa0ac7b6",
+            "identity_not_automatically_verified": true
+          },
+          "semantic_type": "unclassified_raw_field",
+          "source_scope": "this_work_or_unverified_proposal"
+        },
+        {
+          "fact_id": "F-a23953c46aedab2f3bcff9c9",
+          "evidence_id": "APUBLIC-3dae25454aae84532174eff2",
+          "locator": "meta index 39",
+          "raw_field_name": "citation_title",
+          "source_object": {
+            "request_id": "PUB-0040",
+            "page_url": "https://www.nature.com/articles/s41566-026-02018-7?error=cookies_not_supported&code=1000dad5-31db-4222-bf7e-117dfa0ac7b6",
+            "identity_not_automatically_verified": true
+          },
+          "semantic_type": "unclassified_raw_field",
+          "source_scope": "this_work_or_unverified_proposal"
+        },
+        {
+          "fact_id": "F-3d34c81d136939c4269c3895",
+          "evidence_id": "APUBLIC-3dae25454aae84532174eff2",
+          "locator": "meta index 46",
+          "raw_field_name": "citation_article_type",
+          "source_object": {
+            "request_id": "PUB-0040",
+            "page_url": "https://www.nature.com/articles/s41566-026-02018-7?error=cookies_not_supported&code=1000dad5-31db-4222-bf7e-117dfa0ac7b6",
+            "identity_not_automatically_verified": true
+          },
+          "semantic_type": "unclassified_raw_field",
+          "source_scope": "this_work_or_unverified_proposal"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-4ab9df7246ea21f9bbcefe7d",
+      "n": null,
+      "axis": "journal",
+      "title": "Electrical control of perpendicular altermagnets",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "news_commentary_or_digest",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [],
+      "stage": "base_screening",
+      "original_record_sha256": "7423a85d26ada5dcc5b5b8b15c328b5c1dbf039acdbd6d9b5de603dc732be847",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-aff6baa25f22f9671559c842",
+          "evidence_id": "APUBLIC-4dc07fb7b9e3d94b2b4f3b37",
+          "locator": "meta index 46",
+          "raw_field_name": "citation_doi",
+          "source_object": {
+            "request_id": "PUB-0051",
+            "page_url": "https://www.nature.com/articles/s41563-026-02764-7?error=cookies_not_supported&code=becfb276-cc21-4621-abe8-08aaf2e96816",
+            "identity_not_automatically_verified": true
+          },
+          "semantic_type": "unclassified_raw_field",
+          "source_scope": "this_work_or_unverified_proposal"
+        },
+        {
+          "fact_id": "F-f83d02ab83c096ded9a226bf",
+          "evidence_id": "APUBLIC-4dc07fb7b9e3d94b2b4f3b37",
+          "locator": "meta index 37",
+          "raw_field_name": "citation_title",
+          "source_object": {
+            "request_id": "PUB-0051",
+            "page_url": "https://www.nature.com/articles/s41563-026-02764-7?error=cookies_not_supported&code=becfb276-cc21-4621-abe8-08aaf2e96816",
+            "identity_not_automatically_verified": true
+          },
+          "semantic_type": "unclassified_raw_field",
+          "source_scope": "this_work_or_unverified_proposal"
+        },
+        {
+          "fact_id": "F-d93ceb556a97c49aa1dfe134",
+          "evidence_id": "APUBLIC-4dc07fb7b9e3d94b2b4f3b37",
+          "locator": "meta index 41",
+          "raw_field_name": "citation_article_type",
+          "source_object": {
+            "request_id": "PUB-0051",
+            "page_url": "https://www.nature.com/articles/s41563-026-02764-7?error=cookies_not_supported&code=becfb276-cc21-4621-abe8-08aaf2e96816",
+            "identity_not_automatically_verified": true
+          },
+          "semantic_type": "unclassified_raw_field",
+          "source_scope": "this_work_or_unverified_proposal"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-b0ecbdb754788dd7004a0547",
+      "n": null,
+      "axis": "journal",
+      "title": "Monolayer superconductors enter the circuit",
+      "type_readiness": "verified",
+      "screening_decision": "exclude_from_active_AI_packet",
+      "exclusion_type": "news_commentary_or_digest",
+      "not_an_AI_answer": true,
+      "raw_candidate_retained": true,
+      "proof_source_material": "review/evidence-preflight-013/material",
+      "screened_out_pending_questions": [],
+      "stage": "base_screening",
+      "original_record_sha256": "bb6ff9887862325a756848dccada6b7da33661401f219e10c9ae4577b9c47c26",
+      "counts_as_product_pass": false,
+      "evidence_pointers": [
+        {
+          "fact_id": "F-2c51e233772546acf359d566",
+          "evidence_id": "APUBLIC-7a381c18d241f1eed9ffeac2",
+          "locator": "meta index 51",
+          "raw_field_name": "citation_doi",
+          "source_object": {
+            "request_id": "PUB-0114",
+            "page_url": "https://www.nature.com/articles/s41567-026-03462-6?error=cookies_not_supported&code=1c6b86a0-ee8f-44e9-a0e6-13ed1e396aac",
+            "identity_not_automatically_verified": true
+          },
+          "semantic_type": "unclassified_raw_field",
+          "source_scope": "this_work_or_unverified_proposal"
+        },
+        {
+          "fact_id": "F-04a6feafb3df35c581ed17fd",
+          "evidence_id": "APUBLIC-7a381c18d241f1eed9ffeac2",
+          "locator": "meta index 39",
+          "raw_field_name": "citation_title",
+          "source_object": {
+            "request_id": "PUB-0114",
+            "page_url": "https://www.nature.com/articles/s41567-026-03462-6?error=cookies_not_supported&code=1c6b86a0-ee8f-44e9-a0e6-13ed1e396aac",
+            "identity_not_automatically_verified": true
+          },
+          "semantic_type": "unclassified_raw_field",
+          "source_scope": "this_work_or_unverified_proposal"
+        },
+        {
+          "fact_id": "F-e947dc32dd0da699d645513a",
+          "evidence_id": "APUBLIC-7a381c18d241f1eed9ffeac2",
+          "locator": "meta index 46",
+          "raw_field_name": "citation_article_type",
+          "source_object": {
+            "request_id": "PUB-0114",
+            "page_url": "https://www.nature.com/articles/s41567-026-03462-6?error=cookies_not_supported&code=1c6b86a0-ee8f-44e9-a0e6-13ed1e396aac",
+            "identity_not_automatically_verified": true
+          },
+          "semantic_type": "unclassified_raw_field",
+          "source_scope": "this_work_or_unverified_proposal"
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-0e5f2b9220d209c3500a5ae1",
+      "title": "Solute Drag in Crystallization and Grain Growth of Ceria-based Ceramics: Sintered Pellets and Thin Films",
+      "axis": "author",
+      "exclusion_type": "user_directed_unverifiable_record",
+      "decision_authority": "explicit_user_instruction",
+      "source_type_independently_confirmed": false,
+      "user_instruction": {
+        "local_working_prose_sha256": "286c4bb431fd9ca6d2bfa330a241bba4ea1abc4bc6cf3192c917dbd79cba35be",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "original_case_material": "review/evidence-preflight-015/material",
+      "original_source_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=65CsmX0AAAAJ&cstart=300&pagesize=100&citation_for_view=65CsmX0AAAAJ:J_g5lzvAfSwC",
+      "removed_question_ids": [
+        "A-CAN-0e5f2b9220d209c3500a5ae1:membership",
+        "A-CAN-0e5f2b9220d209c3500a5ae1:date",
+        "A-CAN-0e5f2b9220d209c3500a5ae1:research_eligibility"
+      ],
+      "removed_pending_questions": [
+        "A-CAN-0e5f2b9220d209c3500a5ae1:membership",
+        "A-CAN-0e5f2b9220d209c3500a5ae1:date",
+        "A-CAN-0e5f2b9220d209c3500a5ae1:research_eligibility"
+      ],
+      "not_counted_as_pass": true,
+      "stage": "base_screening",
+      "original_record_sha256": "0e2fb670b7c4ea9b693ebe286a36c5ee537a7bb30a671acdc3ed9bb82673a395",
+      "counts_as_product_pass": false
+    },
+    {
+      "case_id": "A-CAN-27ee4e9dcceb23f19860a416",
+      "title": "Low cost, scalable, hole transport materials for photovoltaic devices",
+      "axis": "author",
+      "exclusion_type": "user_directed_unverifiable_record",
+      "decision_authority": "explicit_user_instruction",
+      "source_type_independently_confirmed": false,
+      "user_instruction": {
+        "local_working_prose_sha256": "286c4bb431fd9ca6d2bfa330a241bba4ea1abc4bc6cf3192c917dbd79cba35be",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "original_case_material": "review/evidence-preflight-015/material",
+      "original_source_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=I2D3pUMAAAAJ&cstart=800&pagesize=100&citation_for_view=I2D3pUMAAAAJ:AZju0d2GQJ0C",
+      "removed_question_ids": [
+        "A-CAN-27ee4e9dcceb23f19860a416:membership",
+        "A-CAN-27ee4e9dcceb23f19860a416:date",
+        "A-CAN-27ee4e9dcceb23f19860a416:research_eligibility"
+      ],
+      "removed_pending_questions": [
+        "A-CAN-27ee4e9dcceb23f19860a416:date",
+        "A-CAN-27ee4e9dcceb23f19860a416:research_eligibility"
+      ],
+      "not_counted_as_pass": true,
+      "stage": "base_screening",
+      "original_record_sha256": "6d051577cef2c980428d0e883dda751be26da9d8892862569f803f962cf8ccfa",
+      "counts_as_product_pass": false
+    },
+    {
+      "case_id": "A-CAN-5bca1819ebda00ce5ac574c2",
+      "title": "Benchmarking semiempirical dispersion correction approaches: structure and energetics of azobenzene derivatives on Ag (111)",
+      "axis": "author",
+      "exclusion_type": "user_directed_unverifiable_record",
+      "decision_authority": "explicit_user_instruction",
+      "source_type_independently_confirmed": false,
+      "user_instruction": {
+        "local_working_prose_sha256": "286c4bb431fd9ca6d2bfa330a241bba4ea1abc4bc6cf3192c917dbd79cba35be",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "original_case_material": "review/evidence-preflight-015/material",
+      "original_source_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQITP28AAAAJ&cstart=600&pagesize=100&citation_for_view=oQITP28AAAAJ:BrmTIyaxlBUC",
+      "removed_question_ids": [
+        "A-CAN-5bca1819ebda00ce5ac574c2:membership",
+        "A-CAN-5bca1819ebda00ce5ac574c2:date",
+        "A-CAN-5bca1819ebda00ce5ac574c2:research_eligibility"
+      ],
+      "removed_pending_questions": [
+        "A-CAN-5bca1819ebda00ce5ac574c2:membership",
+        "A-CAN-5bca1819ebda00ce5ac574c2:date",
+        "A-CAN-5bca1819ebda00ce5ac574c2:research_eligibility"
+      ],
+      "not_counted_as_pass": true,
+      "stage": "base_screening",
+      "original_record_sha256": "54a715d26a1649e51a02be4e20f6fcb4c6f29cbee1e038c9bb17b22ba92a96af",
+      "counts_as_product_pass": false
+    },
+    {
+      "case_id": "A-CAN-d014519892806e219405dfea",
+      "title": "“ChemShell” Embedded Cluster QM/MM Calculations with an Updated and Improved FHI-Aims Implementation",
+      "axis": "author",
+      "exclusion_type": "user_directed_unverifiable_record",
+      "decision_authority": "explicit_user_instruction",
+      "source_type_independently_confirmed": false,
+      "user_instruction": {
+        "local_working_prose_sha256": "286c4bb431fd9ca6d2bfa330a241bba4ea1abc4bc6cf3192c917dbd79cba35be",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "original_case_material": "review/evidence-preflight-015/material",
+      "original_source_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQITP28AAAAJ&cstart=600&pagesize=100&citation_for_view=oQITP28AAAAJ:7T2F9Uy0os0C",
+      "removed_question_ids": [
+        "A-CAN-d014519892806e219405dfea:membership",
+        "A-CAN-d014519892806e219405dfea:date",
+        "A-CAN-d014519892806e219405dfea:research_eligibility"
+      ],
+      "removed_pending_questions": [
+        "A-CAN-d014519892806e219405dfea:membership",
+        "A-CAN-d014519892806e219405dfea:date",
+        "A-CAN-d014519892806e219405dfea:research_eligibility"
+      ],
+      "not_counted_as_pass": true,
+      "stage": "base_screening",
+      "original_record_sha256": "f1e443c19ee73d4c8f4f0add7e34913ef5d0ad25ac5b883707a0e17353b77b65",
+      "counts_as_product_pass": false
+    },
+    {
+      "case_id": "A-CAN-f67021cea3ee44752b61cd1b",
+      "title": "Towards Multiscale Modelling of Ag Particle Sintering",
+      "axis": "author",
+      "exclusion_type": "user_directed_unverifiable_record",
+      "decision_authority": "explicit_user_instruction",
+      "source_type_independently_confirmed": false,
+      "user_instruction": {
+        "local_working_prose_sha256": "286c4bb431fd9ca6d2bfa330a241bba4ea1abc4bc6cf3192c917dbd79cba35be",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "original_case_material": "review/evidence-preflight-015/material",
+      "original_source_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQITP28AAAAJ&cstart=600&pagesize=100&citation_for_view=oQITP28AAAAJ:vDijr-p_gm4C",
+      "removed_question_ids": [
+        "A-CAN-f67021cea3ee44752b61cd1b:membership",
+        "A-CAN-f67021cea3ee44752b61cd1b:date",
+        "A-CAN-f67021cea3ee44752b61cd1b:research_eligibility"
+      ],
+      "removed_pending_questions": [
+        "A-CAN-f67021cea3ee44752b61cd1b:membership",
+        "A-CAN-f67021cea3ee44752b61cd1b:date",
+        "A-CAN-f67021cea3ee44752b61cd1b:research_eligibility"
+      ],
+      "not_counted_as_pass": true,
+      "stage": "base_screening",
+      "original_record_sha256": "4c0d32163b7587c5e5e0160781dc89c3daff1876261640dfe8255874e3bdc24d",
+      "counts_as_product_pass": false
+    },
+    {
+      "case_id": "A-CAN-005e1279a525a026b2ce34bc",
+      "title": "APS Members",
+      "axis": "author",
+      "exclusion_type": "user_directed_unverifiable_record",
+      "decision_authority": "explicit_user_instruction",
+      "source_type_independently_confirmed": false,
+      "user_instruction": {
+        "local_working_prose_sha256": "286c4bb431fd9ca6d2bfa330a241bba4ea1abc4bc6cf3192c917dbd79cba35be",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "original_case_material": "review/evidence-preflight-015/material",
+      "original_source_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=oQITP28AAAAJ&pagesize=100&citation_for_view=oQITP28AAAAJ:F1b5ZUV5XREC",
+      "removed_question_ids": [
+        "A-CAN-005e1279a525a026b2ce34bc:membership",
+        "A-CAN-005e1279a525a026b2ce34bc:date",
+        "A-CAN-005e1279a525a026b2ce34bc:research_eligibility"
+      ],
+      "removed_pending_questions": [
+        "A-CAN-005e1279a525a026b2ce34bc:membership",
+        "A-CAN-005e1279a525a026b2ce34bc:date",
+        "A-CAN-005e1279a525a026b2ce34bc:research_eligibility"
+      ],
+      "not_counted_as_pass": true,
+      "stage": "base_screening",
+      "original_record_sha256": "ec41828790332dffc0d3a73c17396c3c9e8759768315c9de45c853fba383a95a",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 10,
+      "case_id": "A-CAN-27a3641ec8b39b94f4f3560a",
+      "title": "Ocean Mesoscale Eddies in High-resolution Coupled Climate Models",
+      "document_type": "conference_abstract",
+      "evidence_id": "PRIM-PRI16-003",
+      "locator": "HTML title: Abstract; individual Ocean Sciences Meeting entry",
+      "action": "exclude_from_AI_review_cohort",
+      "authorization": "User explicitly authorized removing conference abstracts/posters/programs/theses and other non-research records, with a shared research-literature scope. Keep original sampled output and exclusions in the audit trail.",
+      "does_not_count_as_product_pass": true,
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "861174f3c4bbd648a698341b88a2a53264edaa9d6dfed7c39505e96a730e4665",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 13,
+      "case_id": "A-CAN-31dcf45e90b6a2b530f98f6d",
+      "title": "Drivers of the spatiotemporal dynamics of Nitrous Oxide in the Eastern Tropical Pacific",
+      "document_type": "conference_abstract",
+      "evidence_id": "PRIM-PRI11-001",
+      "locator": "HTML title: Abstract; individual Ocean Sciences Meeting entry",
+      "action": "exclude_from_AI_review_cohort",
+      "authorization": "User explicitly authorized removing conference abstracts/posters/programs/theses and other non-research records, with a shared research-literature scope. Keep original sampled output and exclusions in the audit trail.",
+      "does_not_count_as_product_pass": true,
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "dd6b7a37df58be982f79e2bf60ef7f0f7b937bd9139b681a9829b3a614a8490d",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 14,
+      "case_id": "A-CAN-31f2af08597411127b2b4b64",
+      "title": "Cloud Architecture for Full In Silico Mutagenesis",
+      "document_type": "conference_program_entry",
+      "evidence_id": "PRIM-PRI-009",
+      "locator": "PDF page 133 (printed page 131), 09:50–10:15 Cloud Architecture presentation; no full paper established",
+      "action": "exclude_from_AI_review_cohort",
+      "authorization": "User explicitly authorized removing conference abstracts/posters/programs/theses and other non-research records, with a shared research-literature scope. Keep original sampled output and exclusions in the audit trail.",
+      "does_not_count_as_product_pass": true,
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "d3f424402592d54da4bc825fd2d8c119451a0be880fbb27bca9bf657069e91c0",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 28,
+      "case_id": "A-CAN-5926aae21ca3e431830fe214",
+      "title": "Archive for aragonite saturation",
+      "document_type": "web_tag_archive",
+      "evidence_id": "WEB-056-028",
+      "locator": "Page heading Archive for aragonite saturation and multiple independent posts",
+      "action": "exclude_from_AI_review_cohort",
+      "authorization": "User explicitly authorized removing conference abstracts/posters/programs/theses and other non-research records, with a shared research-literature scope. Keep original sampled output and exclusions in the audit trail.",
+      "does_not_count_as_product_pass": true,
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "bf99d7577194cb076855e9eb108c5693ddd0c0a9c7fda02c606df9d45d0cb4c9",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 31,
+      "case_id": "A-CAN-71ed59decba16fb82681f4e9",
+      "title": "Overcoming Immune Resistance in Prostate Cancer via AI-Designed Cell-Restricted Cytokines",
+      "document_type": "conference_poster_abstract",
+      "evidence_id": "PRIM-PRI14-001",
+      "locator": "PCF official Poster Abstracts media object; three-page abstract with Background/Methods/Results/Conclusions and references",
+      "action": "exclude_from_AI_review_cohort",
+      "authorization": "User explicitly authorized removing conference abstracts/posters/programs/theses and other non-research records, with a shared research-literature scope. Keep original sampled output and exclusions in the audit trail.",
+      "does_not_count_as_product_pass": true,
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "c81454cde62b0ba167939fd07060cf57ad1cc9a1c8490c6f1eb8660aa52d8bf7",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 51,
+      "case_id": "A-CAN-aa8545cf1972529d97af97de",
+      "title": "Tuesday, February 18, 2020 353a",
+      "document_type": "conference_abstract",
+      "evidence_id": "PRIM-PRI9-003",
+      "locator": "Exact DOI 10.1016/j.bpj.2019.11.2034; Biophysical Journal 118 issue 3 supplement S1, page 353a, February 2020",
+      "action": "exclude_from_AI_review_cohort",
+      "authorization": "User explicitly authorized removing conference abstracts/posters/programs/theses and other non-research records, with a shared research-literature scope. Keep original sampled output and exclusions in the audit trail.",
+      "does_not_count_as_product_pass": true,
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "56d43b81fe3ce99a1286e3f92002d9c31fa91410b1c1ef7d61596610f143454c",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 53,
+      "case_id": "A-CAN-ad0433f2a7f81f8fece95380",
+      "title": "Integration of Deep Docking into Virtual Screening Workflow. The CACHE-1 Study Case",
+      "document_type": "conference_abstract",
+      "evidence_id": "PRIM-PRI2-013",
+      "locator": "Single-page CS3-2024 Abstracts_Speakers original, title and nine-author byline",
+      "action": "exclude_from_AI_review_cohort",
+      "authorization": "User explicitly authorized removing conference abstracts/posters/programs/theses and other non-research records, with a shared research-literature scope. Keep original sampled output and exclusions in the audit trail.",
+      "does_not_count_as_product_pass": true,
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "300f82b8748392de62b1af69bb7248dc5e5bbe5abb289d6ee2db0786a9f43bb8",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 68,
+      "case_id": "A-CAN-d8af0ac4922e45ee607db213",
+      "title": "Common Horizon Formation in Simulations of Binary Black Hole Mergers",
+      "document_type": "conference_poster",
+      "evidence_id": "PRIM-PRI3-013",
+      "locator": "Poster Session I: Undergraduate Posters, exact Common Horizon Formation entry",
+      "action": "exclude_from_AI_review_cohort",
+      "authorization": "User explicitly authorized removing conference abstracts/posters/programs/theses and other non-research records, with a shared research-literature scope. Keep original sampled output and exclusions in the audit trail.",
+      "does_not_count_as_product_pass": true,
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "a4a4d0bc8f253ca199130024f4811823a55f8d55ea3203c0e590a78587bcbed7",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 73,
+      "case_id": "A-CAN-e077de239a3318e503558b56",
+      "title": "Nobel Talk",
+      "document_type": "conference_talk",
+      "evidence_id": "PRIM-PRI2-019",
+      "locator": "APS 2025 Nobel Talk; ORAL / Invited presentation by David Baker",
+      "action": "exclude_from_AI_review_cohort",
+      "authorization": "User explicitly authorized removing conference abstracts/posters/programs/theses and other non-research records, with a shared research-literature scope. Keep original sampled output and exclusions in the audit trail.",
+      "does_not_count_as_product_pass": true,
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "242d90442efffdb724e45168a6c1ee40356cfca8b782f92795ef46a01912024c",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 76,
+      "case_id": "A-CAN-f06a72dc987e850b30ab3157",
+      "title": "Department of Astronomy In this work, we explore the dynamics of two similar types of dense stellar systems with a central black hole of mass much greater than a typical …",
+      "document_type": "doctoral_thesis",
+      "evidence_id": "PRIM-PRI4-001",
+      "locator": "PDF pages 1 and 4: Michael A. Gill, Doctor of Philosophy 2011; Miller is dissertation advisor",
+      "action": "exclude_from_AI_review_cohort",
+      "authorization": "User explicitly authorized removing conference abstracts/posters/programs/theses and other non-research records, with a shared research-literature scope. Keep original sampled output and exclusions in the audit trail.",
+      "does_not_count_as_product_pass": true,
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "b45dcbcca96a6ea7a08cb631a966d6adc0ab9c8c361478fbabf356ecb60fa4d6",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 79,
+      "case_id": "A-CAN-f7450265683bb3902fea436a",
+      "title": "Sergey Ovchinnikov",
+      "document_type": "doctoral_thesis",
+      "evidence_id": "PRIM-PRI2-021",
+      "locator": "PDF page 2: Sergey Ovchinnikov dissertation, Doctor of Philosophy 2017; Baker is committee chair",
+      "action": "exclude_from_AI_review_cohort",
+      "authorization": "User explicitly authorized removing conference abstracts/posters/programs/theses and other non-research records, with a shared research-literature scope. Keep original sampled output and exclusions in the audit trail.",
+      "does_not_count_as_product_pass": true,
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "54c13a86ccfcea21303d41538b6772ec4e5cabe4d2468cd7a6271d1dbddcf221",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 81,
+      "case_id": "A-CAN-f9624abe9e50b282b73ffbf0",
+      "title": "Advancing Reproducibility and Open Data in Theoretical and Computational Chemistry",
+      "document_type": "editorial",
+      "evidence_id": "PRIM-PRI2-022",
+      "locator": "PDF page 1 explicitly introduces a joint editorial from JCTC and JCIM",
+      "action": "exclude_from_AI_review_cohort",
+      "authorization": "User explicitly authorized removing conference abstracts/posters/programs/theses and other non-research records, with a shared research-literature scope. Keep original sampled output and exclusions in the audit trail.",
+      "does_not_count_as_product_pass": true,
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "1f0342a08d7c241534c663458b40fa7503cdeb54b03536f1315c768aafff9ce0",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 83,
+      "case_id": "A-CAN-fd6ec0c1791f179307f59651",
+      "title": "Activin receptor subtype-2A regulates innate immune cell activation and non-canonical signaling in pancreatic cancer cells",
+      "document_type": "conference_abstract",
+      "evidence_id": "NREF-NEWREF-0243",
+      "locator": "Exact record DOI 10.1158/1538-7445.am2026-5000, original title Abstract 5000",
+      "action": "exclude_from_AI_review_cohort",
+      "authorization": "User explicitly authorized removing conference abstracts/posters/programs/theses and other non-research records, with a shared research-literature scope. Keep original sampled output and exclusions in the audit trail.",
+      "does_not_count_as_product_pass": true,
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "41a008a95a3260b1321051662709f0f6f9cbe1eba803ed49bf7d86f8873a6f35",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 1,
+      "case_id": "A-CAN-04de47c032a73e5091717cb5",
+      "title": "Global maps of the Ocean microbiome: Presence probability (0-1) of 341 species of autotrophs and 504 species of heterotrophs in surface waters, available as monthly …",
+      "document_type": "standalone_dataset",
+      "evidence_id": "PRIM-PRI3-001",
+      "locator": "/data/attributes/types/resourceTypeGeneral",
+      "action": "exclude_from_AI_review_cohort",
+      "authorization": "Apply the user-confirmed research-literature scope: standalone Dataset records are not research papers; substantive Data Descriptor articles remain eligible for review.",
+      "does_not_count_as_product_pass": true,
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "642d1ae44fd3409d568e172cc9bf2bfb0cdef019a4ffd206ab400f4e37766d73",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 23,
+      "case_id": "A-CAN-513578f4465d7c412e60afa6",
+      "title": "Global maps of the Ocean microbiome: Species richness of three taxonomic groups of autotrophs, and eleven taxonomic groups of heterotrophs in surface waters, available as …",
+      "document_type": "standalone_dataset",
+      "evidence_id": "PRIM-PRI3-002",
+      "locator": "/data/attributes/types/resourceTypeGeneral",
+      "action": "exclude_from_AI_review_cohort",
+      "authorization": "Apply the user-confirmed research-literature scope: standalone Dataset records are not research papers; substantive Data Descriptor articles remain eligible for review.",
+      "does_not_count_as_product_pass": true,
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "2379e0e61533354a915930c2462627dba8156b8bf65816f8ff678ccdbc93c492",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 6,
+      "case_id": "A-CAN-171a8566dc0a0d4774440dda",
+      "title": "Detection and attribution of observed changes in upper ocean stratification",
+      "action": "exclude_from_AI_review_cohort",
+      "reason": "unresolved_exact_original_source_correspondence",
+      "authorization": {
+        "local_working_prose_sha256": "23673325b003ff8b340a469192f24f3b71ffca8439beaba3d0c3c6a91033f48f",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "authorized_at": "2026-10-07T07:48:47.920358+08:00",
+      "document_type": "not_established",
+      "does_not_count_as_product_pass": true,
+      "not_a_product_failure_finding": true,
+      "original_source_status": "source_correspondence_unresolved",
+      "historical_source_records": [
+        {
+          "evidence_id": "PRIM-PRI2-001",
+          "text_evidence_id": "TEXT-PRI2-001",
+          "source_url": "https://meetingorganizer.copernicus.org/EGU2016/EGU2016-16045.pdf",
+          "relationship": "related_or_locator_only; correspondence_unresolved"
+        }
+      ],
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "b02f8f6115c1a1b3f969bc2b7919a33801fa4ab52b1d335e156e7494203d10ea",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 7,
+      "case_id": "A-CAN-1d65022ce2cb4f2c1ff5e278",
+      "title": "Socio-economic valuation of the ecosystem service of gas and climate regulation",
+      "action": "exclude_from_AI_review_cohort",
+      "reason": "unresolved_exact_original_source_correspondence",
+      "authorization": {
+        "local_working_prose_sha256": "23673325b003ff8b340a469192f24f3b71ffca8439beaba3d0c3c6a91033f48f",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "authorized_at": "2026-10-07T07:48:47.920358+08:00",
+      "document_type": "not_established",
+      "does_not_count_as_product_pass": true,
+      "not_a_product_failure_finding": true,
+      "original_source_status": "source_correspondence_unresolved",
+      "historical_source_records": [
+        {
+          "evidence_id": "PRIM-PRI11-003",
+          "text_evidence_id": "TEXT-PRI11-003",
+          "source_url": "https://cordis.europa.eu/docs/projects/files/505/505446/106255061-6_en.pdf",
+          "relationship": "related_or_locator_only; correspondence_unresolved"
+        }
+      ],
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "590624188aabb9b95972fba5d015e262f718ba92392361544283cf112b0666f3",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 8,
+      "case_id": "A-CAN-1e9f95467f3655314d280788",
+      "title": "Page page page Akerud, T. 137",
+      "action": "exclude_from_AI_review_cohort",
+      "reason": "unresolved_exact_original_source_correspondence",
+      "authorization": {
+        "local_working_prose_sha256": "23673325b003ff8b340a469192f24f3b71ffca8439beaba3d0c3c6a91033f48f",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "authorized_at": "2026-10-07T07:48:47.920358+08:00",
+      "document_type": "not_established",
+      "does_not_count_as_product_pass": true,
+      "not_a_product_failure_finding": true,
+      "original_source_status": "source_correspondence_unresolved",
+      "historical_source_records": [
+        {
+          "evidence_id": "PRIM-PRI15-001",
+          "text_evidence_id": "TEXT-PRI15-001",
+          "source_url": "https://api.crossref.org/journals/0022-2836/works?filter=from-pub-date:2002-09-01,until-pub-date:2002-11-30&query.title=Author%20index&rows=10",
+          "relationship": "related_or_locator_only; correspondence_unresolved"
+        }
+      ],
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "dbf08da6581c00da407cbe940008497a88372606253eddcb19f80f33c4b80150",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 25,
+      "case_id": "A-CAN-569ee53cbd715857d8b1276d",
+      "title": "Role of plankton functional diversity for marine ecosystem services SUGGESTION OF ALTERNATIVE TITLE: Functional diversity of marine plankton: effects on ecosystem services in …",
+      "action": "exclude_from_AI_review_cohort",
+      "reason": "unresolved_exact_original_source_correspondence",
+      "authorization": {
+        "local_working_prose_sha256": "23673325b003ff8b340a469192f24f3b71ffca8439beaba3d0c3c6a91033f48f",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "authorized_at": "2026-10-07T07:48:47.920358+08:00",
+      "document_type": "not_established",
+      "does_not_count_as_product_pass": true,
+      "not_a_product_failure_finding": true,
+      "original_source_status": "source_correspondence_unresolved",
+      "historical_source_records": [],
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "7a1d6ecbbd110dc67b1414846fa8a0f4a7a41c79d6ee8cd8bc882573719050ac",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 26,
+      "case_id": "A-CAN-56cb4124d33da3d9e0edc2fd",
+      "title": "Clinical & Experimental Ophthalmology",
+      "action": "exclude_from_AI_review_cohort",
+      "reason": "unresolved_exact_original_source_correspondence",
+      "authorization": {
+        "local_working_prose_sha256": "23673325b003ff8b340a469192f24f3b71ffca8439beaba3d0c3c6a91033f48f",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "authorized_at": "2026-10-07T07:48:47.920358+08:00",
+      "document_type": "not_established",
+      "does_not_count_as_product_pass": true,
+      "not_a_product_failure_finding": true,
+      "original_source_status": "source_correspondence_unresolved",
+      "historical_source_records": [],
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "b6e95d54ebbfb80026535c00e54b7054346c87a3ca87acf9b80f212f1478d7e8",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 30,
+      "case_id": "A-CAN-61db1f366383f5e5c5ecc858",
+      "title": "D3. 5 Heterogeneous Distributed Runs",
+      "action": "exclude_from_AI_review_cohort",
+      "reason": "unresolved_exact_original_source_correspondence",
+      "authorization": {
+        "local_working_prose_sha256": "23673325b003ff8b340a469192f24f3b71ffca8439beaba3d0c3c6a91033f48f",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "authorized_at": "2026-10-07T07:48:47.920358+08:00",
+      "document_type": "not_established",
+      "does_not_count_as_product_pass": true,
+      "not_a_product_failure_finding": true,
+      "original_source_status": "source_correspondence_unresolved",
+      "historical_source_records": [],
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "704c2d757488a5d392b915e9f18e68fc56c2f2b4801640bce7cfe59e93476bcb",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 38,
+      "case_id": "A-CAN-84332204205d15413a55c3ea",
+      "title": "Carbon Dioxide Removal–Model Intercomparison Project (CDR-‐MIP)",
+      "action": "exclude_from_AI_review_cohort",
+      "reason": "unresolved_exact_original_source_correspondence",
+      "authorization": {
+        "local_working_prose_sha256": "23673325b003ff8b340a469192f24f3b71ffca8439beaba3d0c3c6a91033f48f",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "authorized_at": "2026-10-07T07:48:47.920358+08:00",
+      "document_type": "not_established",
+      "does_not_count_as_product_pass": true,
+      "not_a_product_failure_finding": true,
+      "original_source_status": "source_correspondence_unresolved",
+      "historical_source_records": [
+        {
+          "evidence_id": "PRIM-PRI12-003",
+          "text_evidence_id": "TEXT-PRI12-003",
+          "source_url": "https://cdratlas.de/carbon-dioxide-removal-eu?lng=en",
+          "relationship": "related_or_locator_only; correspondence_unresolved"
+        }
+      ],
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "24049fac184e623daf66860d34260fb6fc0d679cbcb125c2bd819a217758da9a",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 47,
+      "case_id": "A-CAN-a40513b64028bdbb4920ea9a",
+      "title": "Key",
+      "action": "exclude_from_AI_review_cohort",
+      "reason": "unresolved_exact_original_source_correspondence",
+      "authorization": {
+        "local_working_prose_sha256": "23673325b003ff8b340a469192f24f3b71ffca8439beaba3d0c3c6a91033f48f",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "authorized_at": "2026-10-07T07:48:47.920358+08:00",
+      "document_type": "not_established",
+      "does_not_count_as_product_pass": true,
+      "not_a_product_failure_finding": true,
+      "original_source_status": "source_correspondence_unresolved",
+      "historical_source_records": [
+        {
+          "evidence_id": "PRIM-PRI4-003",
+          "text_evidence_id": "TEXT-PRI4-003",
+          "source_url": "https://www.nature.com/articles/nature04095",
+          "relationship": "related_or_locator_only; correspondence_unresolved"
+        },
+        {
+          "evidence_id": "PRIM-PRI5-001",
+          "text_evidence_id": "TEXT-PRI5-001",
+          "source_url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fnature04095/MediaObjects/41586_2005_BFnature04095_MOESM1_ESM.pdf",
+          "relationship": "related_or_locator_only; correspondence_unresolved"
+        }
+      ],
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "f4b13f5d3aa1c4521e3351670db0c92d01b7ad29111c5a477d4b21974827a169",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 49,
+      "case_id": "A-CAN-a77f6440dfb4a03a656d0c44",
+      "title": "Supplemental Materials Table 1: OCMIP-2 Salient model features (after Dutay et al.[2002])",
+      "action": "exclude_from_AI_review_cohort",
+      "reason": "unresolved_exact_original_source_correspondence",
+      "authorization": {
+        "local_working_prose_sha256": "23673325b003ff8b340a469192f24f3b71ffca8439beaba3d0c3c6a91033f48f",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "authorized_at": "2026-10-07T07:48:47.920358+08:00",
+      "document_type": "not_established",
+      "does_not_count_as_product_pass": true,
+      "not_a_product_failure_finding": true,
+      "original_source_status": "source_correspondence_unresolved",
+      "historical_source_records": [],
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "0f58efb728f5aa4dd026b3cecef126bf3e0b96c6febf3877e335f231a60d3eb5",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 54,
+      "case_id": "A-CAN-ae9d0860ed9a1cecec04626e",
+      "title": "Report on WG2 Joint operation of antennas and network data analysis",
+      "action": "exclude_from_AI_review_cohort",
+      "reason": "unresolved_exact_original_source_correspondence",
+      "authorization": {
+        "local_working_prose_sha256": "23673325b003ff8b340a469192f24f3b71ffca8439beaba3d0c3c6a91033f48f",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "authorized_at": "2026-10-07T07:48:47.920358+08:00",
+      "document_type": "not_established",
+      "does_not_count_as_product_pass": true,
+      "not_a_product_failure_finding": true,
+      "original_source_status": "source_correspondence_unresolved",
+      "historical_source_records": [],
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "de7cd432ac5fdf2bc9480dad36d8db284dcdb85568a42afd544ff5d23294b21f",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 57,
+      "case_id": "A-CAN-b744b6401fe000ecea20b394",
+      "title": "Factors controlling DMS production in a global prognostic model",
+      "action": "exclude_from_AI_review_cohort",
+      "reason": "unresolved_exact_original_source_correspondence",
+      "authorization": {
+        "local_working_prose_sha256": "23673325b003ff8b340a469192f24f3b71ffca8439beaba3d0c3c6a91033f48f",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "authorized_at": "2026-10-07T07:48:47.920358+08:00",
+      "document_type": "not_established",
+      "does_not_count_as_product_pass": true,
+      "not_a_product_failure_finding": true,
+      "original_source_status": "source_correspondence_unresolved",
+      "historical_source_records": [],
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "88901e8b1a784bda7c7ca7c4f5a12ba4300fa86881a0e5007af5fb773d7d1ef8",
+      "counts_as_product_pass": false
+    },
+    {
+      "ordinal": 67,
+      "case_id": "A-CAN-d762be6a99ba59744665dd14",
+      "title": "Quantifying ocean acidification during the Palaeocene Eocene Thermal Maximum",
+      "action": "exclude_from_AI_review_cohort",
+      "reason": "unresolved_exact_original_source_correspondence",
+      "authorization": {
+        "local_working_prose_sha256": "23673325b003ff8b340a469192f24f3b71ffca8439beaba3d0c3c6a91033f48f",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "authorized_at": "2026-10-07T07:48:47.920358+08:00",
+      "document_type": "not_established",
+      "does_not_count_as_product_pass": true,
+      "not_a_product_failure_finding": true,
+      "original_source_status": "source_correspondence_unresolved",
+      "historical_source_records": [
+        {
+          "evidence_id": "PRIM-PRI2-016",
+          "text_evidence_id": "TEXT-PRI2-016",
+          "source_url": "https://www.solas-int.org/files/solas-int-2019/4%20News/Events/Events%20%20and%20Events%20Archive/Open%20Science%20Conferences/OSC%20handbooks/2009%20SOLAS%20OSC%20handbook.pdf",
+          "relationship": "related_or_locator_only; correspondence_unresolved"
+        }
+      ],
+      "stage": "author_expansion_type_screening",
+      "original_record_sha256": "7e13ac2d8f507721f70a0c7cb41df94dc618afefeb406c314b520bd4daf06617",
+      "counts_as_product_pass": false
+    },
+    {
+      "case_id": "A-CAN-d033e25f461717be1af763c5",
+      "question_ids": [
+        "A-CAN-d033e25f461717be1af763c5:membership",
+        "A-CAN-d033e25f461717be1af763c5:date",
+        "A-CAN-d033e25f461717be1af763c5:research_eligibility"
+      ],
+      "reason": "Explicit conference abstract, contrary to previously authorized screening scope",
+      "evidence_id": "APUBLIC-bcb7c43a1b9377d1ca64d5fe",
+      "locator": "physical pages 2 and 49; Book of Abstracts / one-page contribution",
+      "no_replacement": true,
+      "counts_as_product_pass": false,
+      "stage": "shared_FULL010_scope_correction",
+      "original_record_sha256": "4bf798582ad2044d4ec4b441819497f11a280c6734a1cdf55e6370ff48104f4a"
+    },
+    {
+      "case_id": "A-CAN-171a8566dc0a0d4774440dda",
+      "stage": "author_expansion_user_scope_decision",
+      "reason": "Exact source could not be located; explicitly excluded by user. This is not a verified document-type exclusion.",
+      "counts_as_product_pass": false
+    },
+    {
+      "case_id": "A-CAN-1d65022ce2cb4f2c1ff5e278",
+      "stage": "author_expansion_user_scope_decision",
+      "reason": "Exact source could not be located; explicitly excluded by user. This is not a verified document-type exclusion.",
+      "counts_as_product_pass": false
+    },
+    {
+      "case_id": "A-CAN-1e9f95467f3655314d280788",
+      "stage": "author_expansion_user_scope_decision",
+      "reason": "Exact source could not be located; explicitly excluded by user. This is not a verified document-type exclusion.",
+      "counts_as_product_pass": false
+    },
+    {
+      "case_id": "A-CAN-569ee53cbd715857d8b1276d",
+      "stage": "author_expansion_user_scope_decision",
+      "reason": "Exact source could not be located; explicitly excluded by user. This is not a verified document-type exclusion.",
+      "counts_as_product_pass": false
+    },
+    {
+      "case_id": "A-CAN-56cb4124d33da3d9e0edc2fd",
+      "stage": "author_expansion_user_scope_decision",
+      "reason": "Exact source could not be located; explicitly excluded by user. This is not a verified document-type exclusion.",
+      "counts_as_product_pass": false
+    },
+    {
+      "case_id": "A-CAN-61db1f366383f5e5c5ecc858",
+      "stage": "author_expansion_user_scope_decision",
+      "reason": "Exact source could not be located; explicitly excluded by user. This is not a verified document-type exclusion.",
+      "counts_as_product_pass": false
+    },
+    {
+      "case_id": "A-CAN-84332204205d15413a55c3ea",
+      "stage": "author_expansion_user_scope_decision",
+      "reason": "Exact source could not be located; explicitly excluded by user. This is not a verified document-type exclusion.",
+      "counts_as_product_pass": false
+    },
+    {
+      "case_id": "A-CAN-a40513b64028bdbb4920ea9a",
+      "stage": "author_expansion_user_scope_decision",
+      "reason": "Exact source could not be located; explicitly excluded by user. This is not a verified document-type exclusion.",
+      "counts_as_product_pass": false
+    },
+    {
+      "case_id": "A-CAN-a77f6440dfb4a03a656d0c44",
+      "stage": "author_expansion_user_scope_decision",
+      "reason": "Exact source could not be located; explicitly excluded by user. This is not a verified document-type exclusion.",
+      "counts_as_product_pass": false
+    },
+    {
+      "case_id": "A-CAN-ae9d0860ed9a1cecec04626e",
+      "stage": "author_expansion_user_scope_decision",
+      "reason": "Exact source could not be located; explicitly excluded by user. This is not a verified document-type exclusion.",
+      "counts_as_product_pass": false
+    },
+    {
+      "case_id": "A-CAN-b744b6401fe000ecea20b394",
+      "stage": "author_expansion_user_scope_decision",
+      "reason": "Exact source could not be located; explicitly excluded by user. This is not a verified document-type exclusion.",
+      "counts_as_product_pass": false
+    },
+    {
+      "case_id": "A-CAN-d762be6a99ba59744665dd14",
+      "stage": "author_expansion_user_scope_decision",
+      "reason": "Exact source could not be located; explicitly excluded by user. This is not a verified document-type exclusion.",
+      "counts_as_product_pass": false
+    }
+  ]
+}

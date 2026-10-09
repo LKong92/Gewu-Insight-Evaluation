@@ -1,0 +1,61 @@
+{
+  "schema": "gewu-paired-base-and-stratified-author-expansion-v1",
+  "locked_at": "2026-10-06T20:32:22.144011+00:00",
+  "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+  "frame_sha256": "7c1d906a5064350ccc01dd457ee91ca08d2e82137aa4e2930573d7aa439ce621",
+  "reason": "User explicitly requires inclusion of all recovered author profiles without discarding already assembled scientific evidence. Reuse original random sample identities only after confirming the same candidate population, never reuse old software results or AI labels.",
+  "base_selection": {
+    "candidate_population_identical": true,
+    "selection_manifest_sha256": "4207a3bbb66a7effd981528b80feda2aa8125133acb815ad2b4253d1e5927a02",
+    "original_sampling_design": "SRS_without_replacement_separately_per_axis",
+    "source_sample_path": "archive://benchmark/rounds/fixed-20261005-001/runs/a-frame-002/sampling.json",
+    "sample_identities_only": true,
+    "pre_screening_count": 410,
+    "active_after_previously_authorized_screening": 366
+  },
+  "supplemental_selection": {
+    "design": "SRS without replacement separately in each recovered author stratum",
+    "author_ids": [
+      "AUTHOR-15",
+      "AUTHOR-17",
+      "AUTHOR-18",
+      "AUTHOR-19",
+      "AUTHOR-20",
+      "AUTHOR-21",
+      "AUTHOR-22",
+      "AUTHOR-23",
+      "AUTHOR-24"
+    ],
+    "sample_size_per_author": 10,
+    "small_strata": "Take all available candidates if fewer than ten; do not fabricate or substitute another author.",
+    "seed": "gewu-v4-fixed-20261007-late-author-supplement-01",
+    "selection_timing": "Before reading new model answers; no new review has started."
+  },
+  "screening": {
+    "same_user_defined_document_scope_for_base_and_supplement": true,
+    "no_replacement_after_document_type_exclusion": true,
+    "preserve_all_raw_candidates_and_exclusions": true,
+    "carryforward_decisions_sha256": "e541174c35f7b6bfc6b9c21d4cab9ebda0bbacb8115cc39b92e9e178da6769de",
+    "exclusions_are_not_test_passes": true
+  },
+  "estimands": {
+    "primary": "Fixed repeated benchmark panel plus prespecified recovered-author supplement; provide per-axis and author-stratum results.",
+    "unequal_author_sampling": "Do not call a naive pooled proportion an equal-probability estimate of all 1,351 author candidates. Use recorded stratum inclusion probabilities for weighted estimates and report unweighted evaluated-panel rates separately.",
+    "scope": "Source-verified research-document panel under user-approved exclusions. It does not measure unrestricted raw-feed precision or exhaustive recall.",
+    "unknown_and_failures": "Retain unresolved judgments and current-version product failures; neither becomes success nor an outcome-driven sample exclusion."
+  },
+  "AI_answers_used": false,
+  "old_product_outputs_used": false,
+  "final_scientific_count_pending_new_sample_material_check": false,
+  "final_counts": {
+    "journal": 145,
+    "subject": 110,
+    "author": 166
+  },
+  "final_new_author_retained": 56,
+  "excluded_new_document_type": 15,
+  "excluded_new_unlocated_user_decision": 12,
+  "scope_amendment_path": "control/material-preparation-008/USER_SCOPE_AMENDMENT.json",
+  "finalized_at": "2026-10-07T01:28:39.818577+00:00",
+  "post_review_scope_correction": "control/material-final-010/AMENDMENT.json"
+}

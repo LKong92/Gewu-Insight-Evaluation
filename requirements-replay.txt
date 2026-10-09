@@ -1,0 +1,4 @@
+# Install the pinned product's requirements.txt first in an isolated environment.
+# Additional libraries imported directly by the benchmark harness:
+pypdf==6.19.0
+requests>=2.28,<3

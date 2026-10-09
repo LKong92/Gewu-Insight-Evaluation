@@ -1,0 +1,32 @@
+{
+  "cases": [
+    {
+      "module": "monitor_unread_ui_probe",
+      "exit_code": 0,
+      "output": "PASS: real Journal/Subject render, mouse/keyboard selection, visible-only Field/search unread aggregation and restoration, cache and metadata preservation, failed acknowledgement retry, stale replies and filter/view-switch races.\n",
+      "error": ""
+    },
+    {
+      "module": "notice_updates_ui_probe",
+      "exit_code": 0,
+      "output": "Notice UI: real product sidebar/layout at 1440/900 px, collapsed/expanded/empty and Subject states; Field/Journal filters and counts, event-only display, escaped evidence, exact notice action, retry, original Key and Refresh Info Paper Files update passed.\n",
+      "error": ""
+    },
+    {
+      "module": "science_download_ui_probe",
+      "exit_code": 0,
+      "output": "Science frontend probe: main → supplements, explicit resource targeting, failure stop, single discovery and generic publisher regression passed.\n",
+      "error": "local://user/PaperMonitor-20260516/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020\n  warnings.warn(\n"
+    },
+    {
+      "module": "browser_capture_ui_probe",
+      "exit_code": 0,
+      "output": "Capture metadata, privacy, review/save/cancel, retry, stale events, cache refresh, exact Library/Space navigation and three viewport sizes passed.\n",
+      "error": ""
+    }
+  ],
+  "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+  "product_content_sha256": "d1b7dc3d97077255d4cd61a8de48979b23cbf98b5d8a7cd18517aee8425cd977",
+  "synthetic_responses_only": true,
+  "independent_benchmark_denominator_increment": 0
+}

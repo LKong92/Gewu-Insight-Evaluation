@@ -1,0 +1,401 @@
+{
+  "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+  "product_content_sha256": "d1b7dc3d97077255d4cd61a8de48979b23cbf98b5d8a7cd18517aee8425cd977",
+  "frozen_product_files_reverified": 393,
+  "B160": {
+    "passed": 160,
+    "total": 160,
+    "families": [
+      {
+        "family": "B1",
+        "title": "Research-work identity",
+        "total": 20,
+        "passed": 20
+      },
+      {
+        "family": "B2",
+        "title": "File classification",
+        "total": 30,
+        "passed": 30
+      },
+      {
+        "family": "B3",
+        "title": "Default-file selection",
+        "total": 16,
+        "passed": 16
+      },
+      {
+        "family": "B4",
+        "title": "Corrections and publication events",
+        "total": 18,
+        "passed": 18
+      },
+      {
+        "family": "B5",
+        "title": "Annotation state",
+        "total": 10,
+        "passed": 10
+      },
+      {
+        "family": "B6",
+        "title": "Retention and deduplication",
+        "total": 14,
+        "passed": 14
+      },
+      {
+        "family": "B7",
+        "title": "Invalid files",
+        "total": 14,
+        "passed": 14
+      },
+      {
+        "family": "B8",
+        "title": "Sources and traceability",
+        "total": 14,
+        "passed": 14
+      },
+      {
+        "family": "B9",
+        "title": "Metadata and identifier correction",
+        "total": 12,
+        "passed": 12
+      },
+      {
+        "family": "B10",
+        "title": "MCP import and authorization",
+        "total": 12,
+        "passed": 12
+      }
+    ]
+  },
+  "C104": {
+    "passed": 104,
+    "total": 104,
+    "families": [
+      {
+        "family": "C01",
+        "title": "C01_three_entry_same_work",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C02",
+        "title": "C02_preprint_to_vor",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C03",
+        "title": "C03_accepted_to_published",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C04",
+        "title": "C04_byte_identical_refresh",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C05",
+        "title": "C05_clean_annotated_same_content",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C06",
+        "title": "C06_nonpublication_never_current",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C07",
+        "title": "C07_manual_preferred_then_auto",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C08",
+        "title": "C08_multiple_roots",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C09",
+        "title": "C09_scoped_relation_deletion",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C10",
+        "title": "C10_move_rename_repair_restart",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C11",
+        "title": "C11_invalid_failure_recovery",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C12",
+        "title": "C12_schema10_nondestructive_migration",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C13",
+        "title": "C13_standalone_merge_and_rollback",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C14",
+        "title": "Continue after notice entries",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C15",
+        "title": "Notice import and association",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C16",
+        "title": "Source failures and cache state",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C17",
+        "title": "Canonical identity and aliases",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C18",
+        "title": "Identifier and metadata updates",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C19",
+        "title": "Metadata job control",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C20",
+        "title": "Browser file acquisition",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C21",
+        "title": "MCP metadata-only to file-backed records",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C22",
+        "title": "Changes to AI authorization",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C23",
+        "title": "File delivery and appended analysis",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C24",
+        "title": "MCP file and folder organization",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C25",
+        "title": "Physical file ownership",
+        "total": 4,
+        "passed": 4
+      },
+      {
+        "family": "C26",
+        "title": "My Publications state",
+        "total": 4,
+        "passed": 4
+      }
+    ]
+  },
+  "additional_product_regressions": 412,
+  "run_evidence": [
+    {
+      "path": "runs/b160-001/observations.json",
+      "sha256": "a8f039e6c07c3f38dafe925e0f5bfe6c3f29c7397a0c53b3099f69fffb17d566",
+      "counts": {
+        "scenarios": 160,
+        "passed": 160
+      },
+      "hash_verified": true,
+      "original_observation_sha256": "f7e9a10bc06dcfd7282375f365725f2447bf03d88ef922e89e6f0d6ebeb96af5",
+      "released_bytes_verified": true
+    },
+    {
+      "path": "runs/c-retained-001/observations.json",
+      "sha256": "44677410628ece525b9e98daca5178caa73a70977bd9706078b1a5e05aeb990c",
+      "counts": {
+        "scenarios": 52,
+        "passed": 52
+      },
+      "hash_verified": true,
+      "original_observation_sha256": "0d9082cf01724c646a37ab975192f404c5c2b1bd4d7fa1df14d1bbf58cf3c511",
+      "released_bytes_verified": true
+    },
+    {
+      "path": "runs/c-current-001/observations.json",
+      "sha256": "b0b78c1d6f8348d2950c65800ec708265ef46af3d395ef5585d0f98b354a2480",
+      "counts": {
+        "scenarios": 52,
+        "passed": 52
+      },
+      "hash_verified": true,
+      "original_observation_sha256": "a29718e36546beb602b45d227f80975495e847895e7607e96ebed3f431e623ca",
+      "released_bytes_verified": true
+    },
+    {
+      "path": "runs/c19-process-001/result.json",
+      "sha256": "42906934cfc8e21480a0e9e759c4a48dd5f2179bffc0627e5010dc3ea6090e5f",
+      "counts": {
+        "supplementary_process_probe": 1
+      },
+      "hash_verified": true,
+      "original_observation_sha256": "42906934cfc8e21480a0e9e759c4a48dd5f2179bffc0627e5010dc3ea6090e5f",
+      "released_bytes_verified": true
+    },
+    {
+      "path": "runs/c14-providers-002/repair_validation.json",
+      "sha256": "40f2d60ba8b999123d805c1af4d1da502170ceed1c9831ac50e69f6eff996d47",
+      "counts": {
+        "parameter_runs": 48,
+        "scenarios": 4
+      },
+      "hash_verified": true,
+      "original_observation_sha256": "40f2d60ba8b999123d805c1af4d1da502170ceed1c9831ac50e69f6eff996d47",
+      "released_bytes_verified": true
+    },
+    {
+      "path": "runs/subject-wire-001/qualification.json",
+      "sha256": "08220d5b3460d64cd08c8e0710547b7b6f9e1095a67fd46fe77ebc859e6844b7",
+      "counts": {
+        "wire_variants": 5
+      },
+      "hash_verified": true,
+      "original_observation_sha256": "08220d5b3460d64cd08c8e0710547b7b6f9e1095a67fd46fe77ebc859e6844b7",
+      "released_bytes_verified": true
+    },
+    {
+      "path": "runs/additional-python-001/result.json",
+      "sha256": "8a9c1c572db5ba2d65e494db6b0e9f053799dc90ee4a43dcd168ad34cd5bf4d7",
+      "counts": {
+        "product_regressions": 412
+      },
+      "hash_verified": true,
+      "original_observation_sha256": "8a9c1c572db5ba2d65e494db6b0e9f053799dc90ee4a43dcd168ad34cd5bf4d7",
+      "released_bytes_verified": true
+    },
+    {
+      "path": "runs/additional-native-001/result.json",
+      "sha256": "dc0e73119cac54bd7de6cb1985d79ddb7bb0b02784636422d0ae587cff830d93",
+      "counts": {
+        "modules": 2
+      },
+      "hash_verified": true,
+      "original_observation_sha256": "dc0e73119cac54bd7de6cb1985d79ddb7bb0b02784636422d0ae587cff830d93",
+      "released_bytes_verified": true
+    },
+    {
+      "path": "runs/additional-ui-001/result.json",
+      "sha256": "350ec5e2bc85702fdface650080374bcfc9385040fa7a335777f1ab5d77abed9",
+      "counts": {
+        "modules": 4
+      },
+      "hash_verified": true,
+      "original_observation_sha256": "f320fe30aa6aa693eee7a88bff6bec1f054e6e2d26bfe29e03e0cc04431d5d38",
+      "released_bytes_verified": true
+    },
+    {
+      "path": "runs/additional-final-probes-001/result.json",
+      "sha256": "d6c22edf29a53fb6a4304307b1a07f582eeaf23853f714930fd472ff2242f829",
+      "counts": {
+        "modules": 3
+      },
+      "hash_verified": true,
+      "original_observation_sha256": "d6c22edf29a53fb6a4304307b1a07f582eeaf23853f714930fd472ff2242f829",
+      "released_bytes_verified": true
+    },
+    {
+      "path": "runs/science-aem6125-fixed-verification-001/result.json",
+      "sha256": "b11c54975a9fce0bc01883dd2bb75c4d0bbf1a98171243b9bdc6d7831194993a",
+      "counts": {
+        "unchanged_real_PDF": true
+      },
+      "hash_verified": true,
+      "original_observation_sha256": "b11c54975a9fce0bc01883dd2bb75c4d0bbf1a98171243b9bdc6d7831194993a",
+      "released_bytes_verified": true
+    },
+    {
+      "path": "runs/workspace-migration-003/result.json",
+      "sha256": "53208f30402e2e2bf178db6921ebdaa5a185b2acc2ad1041e8f539f82fe56403",
+      "counts": {
+        "checks": 13
+      },
+      "hash_verified": true,
+      "original_observation_sha256": "76d62707433c15b461c247a614db4e5ef6f6b632efb24d2f5d3c571fc48c9c5f",
+      "released_bytes_verified": true
+    },
+    {
+      "path": "runs/a-journal-rebuild-001/result.json",
+      "sha256": "fbcb466aa77275d8e1626b6bf59b811216ef64e756bc4d4f814d0b844b4c0370",
+      "counts": {
+        "occurrences": 2026,
+        "live_capture": false
+      },
+      "hash_verified": true,
+      "original_observation_sha256": "fbcb466aa77275d8e1626b6bf59b811216ef64e756bc4d4f814d0b844b4c0370",
+      "released_bytes_verified": true
+    },
+    {
+      "path": "runs/a-subject-rebuild-001/result.json",
+      "sha256": "f776b57d58183b697d64c34dc0188c3bd4676515b62007bc090f9021904a1009",
+      "counts": {
+        "occurrences": 111,
+        "live_capture": false
+      },
+      "hash_verified": true,
+      "original_observation_sha256": "f776b57d58183b697d64c34dc0188c3bd4676515b62007bc090f9021904a1009",
+      "released_bytes_verified": true
+    },
+    {
+      "path": "runs/a-author-rebuild-001/result.json",
+      "sha256": "2ee17fa8ec448d57d1df62ddc5535ace648ce526ac84e0a7c32fe8b3a91d32fb",
+      "counts": {
+        "occurrences": 1351,
+        "live_capture": false
+      },
+      "hash_verified": true,
+      "original_observation_sha256": "2ee17fa8ec448d57d1df62ddc5535ace648ce526ac84e0a7c32fe8b3a91d32fb",
+      "released_bytes_verified": true
+    }
+  ],
+  "denominators_not_added": true,
+  "product_rerun_this_finalization": false,
+  "limits": [
+    "Engineering fixtures establish specified behavior; not real-literature semantic accuracy.",
+    "C104 includes disposable HTTP/SQLite/file/restart observations, not104 native mouse/keyboard usability trials.",
+    "A uses frozen-product replay of preserved source responses, not fresh live retrieval."
+  ],
+  "hash_convention": "sha256 identifies the released observation bytes; original_observation_sha256 identifies the separately archived source bytes."
+}

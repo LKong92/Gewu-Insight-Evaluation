@@ -1,0 +1,311 @@
+{
+  "round": "SUPPLEMENT-003",
+  "items": [
+    {
+      "question_id": "A-CAN-2718061dff3a4ae2a7a4bb4b:membership",
+      "reading_status": "completed",
+      "original_sources_read": [
+        {
+          "evidence_id": "ARAW-0700447886c05135aa4dbfb1",
+          "locator": {
+            "local_working_prose_sha256": "b13a8975f51835edc643d85db36a8c4727c5d6dca87e92f66e09214d930b449d",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "AREPAIR-637337257a19f9ea3eb07398",
+          "locator": {
+            "local_working_prose_sha256": "e1b9434da9e272dc1fb8d85c032986952e597c8d572e4c50fd6276b085667562",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "AFUP-29e2d6c249c04bed06480af5",
+          "locator": "/records/12/content（“## Lo, Darren; Xu, Xiaodong; Lee, Juhyeong … Dr Xiaodong Xu … Senior Lecturer in Engineering Principles”）"
+        }
+      ],
+      "new_sources_read": [
+        {
+          "evidence_id": "SUPP003-E03-01-r1-raw",
+          "locator": {
+            "local_working_prose_sha256": "923fae6700e6aaaf6039c9d659082914c9870733c0a426f6db1536430e543b97",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-01-r1-txt",
+          "locator": {
+            "local_working_prose_sha256": "bcf5a79b729c2a87f5cae7dbb2145031c239dd0c77128d077b40ec3fb93a0170",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-02-r1-raw",
+          "locator": {
+            "local_working_prose_sha256": "65bae7e33edc3e216a402e7275a01a1fd7f8fd7a4e558176762184bead295ad6",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-02-r1-txt",
+          "locator": {
+            "local_working_prose_sha256": "d605e6fa4d12b982fb4b2d3f7185f2515c5693018bb19d259515fb4806c3c829",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-02-r1-json",
+          "locator": {
+            "local_working_prose_sha256": "4ac3409371f52a227f09ebc97415daa64cc6f1f12e8f4587da29faf725004e62",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        }
+      ],
+      "independent_reasoning": {
+        "local_working_prose_sha256": "5546c90fa318033b9bbca979ed2ef0fb7c48c24cbaa5afa6bd9d4ac1dd35b2ea",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "remaining_gap": null
+    },
+    {
+      "question_id": "A-CAN-2fdf0f9218f42bd5d6343552:research_eligibility",
+      "reading_status": "completed",
+      "original_sources_read": [
+        {
+          "evidence_id": "ARAW-04743df7038d894d5759d8c5",
+          "locator": {
+            "local_working_prose_sha256": "40fa6599c1b7e2f743c41c73bdeed3dd84db7e827c346233280ab0a25f8df8dc",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "APUBLIC-6a51aded82733f9c2b48e125",
+          "locator": {
+            "local_working_prose_sha256": "93013ba6c6ec60d54a0c31ddf76e767d4aeee302de48535fd343e625e66db41d",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        }
+      ],
+      "new_sources_read": [
+        {
+          "evidence_id": "SUPP003-E03-05-r1-txt",
+          "locator": {
+            "local_working_prose_sha256": "03a8444748d7d77e546ca6af4a0255a06d6810d28b5d494f765731d3aaec117f",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-05-r1-json",
+          "locator": {
+            "local_working_prose_sha256": "1d603ee466f81c8bf1a34a229ddfd2aea358591ceb2bb331f90f3c0dfcbb6ad6",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-08-txt",
+          "locator": {
+            "local_working_prose_sha256": "55124b828d28fd0655c6b6753446b7f18828aa607d502793dacee21cf4184f8c",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-13-raw",
+          "locator": {
+            "local_working_prose_sha256": "500361de532eceb89da9c8c662de9f0b024ceda7353ea220014da98b1e57e21f",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-14-raw",
+          "locator": {
+            "local_working_prose_sha256": "c7448fd0bf58279219c1b197961e29b901288b60a76f6a069e38df4d3cd08e04",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-07-r1-json",
+          "locator": {
+            "local_working_prose_sha256": "8e60fa771792672809a1e77937f8a04a01ef3c671ef407f5cb3ebbfbf0f699ee",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        }
+      ],
+      "independent_reasoning": {
+        "local_working_prose_sha256": "b5e47029bc02ba1969075b4b82e20b1ff39cff14e8d87eeedab70d10981ae6c9",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "remaining_gap": null
+    },
+    {
+      "question_id": "A-CAN-15de2eb9cae1339804f553c8:date",
+      "reading_status": "completed",
+      "original_sources_read": [
+        {
+          "evidence_id": "NDOS-15de2eb9cae1339804f553c8",
+          "locator": {
+            "local_working_prose_sha256": "34bacbc5d395890d4e25a65d41607651b4141811e90ddc88139baf9389fd546a",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "PRIM-PRI7-002",
+          "locator": "meta[21]/@content（citation_title）、meta[1834]/@content（citation_online_date 2026/08/12）、meta[4]/@content（description “Abstract page for arXiv paper 2608.11620”）"
+        },
+        {
+          "evidence_id": "EXACT-84625806c287869816597475",
+          "locator": "/record/type（preprint）、/record/publication_date（2026-08-12）、/record/doi（10.48550/arxiv.2608.11620）"
+        },
+        {
+          "evidence_id": "PRIM-PRI-005",
+          "locator": {
+            "local_working_prose_sha256": "88362553ca047a244c6f2f4802c1c3592c14fbc6918f6664251269e2073101e6",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "TEXT-PRI-005",
+          "locator": "text chars 0:5142（“Physical Review D - Accepted Paper: …”）"
+        }
+      ],
+      "new_sources_read": [
+        {
+          "evidence_id": "SUPP003-E03-04-r1-json",
+          "locator": {
+            "local_working_prose_sha256": "df8da5f4ccfb4296055c09f13b154699d070434a15487d717d326669e8dcb229",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-16-json",
+          "locator": "fields（Date / Created、Identifiers / arXiv、Files / role、Files / name、Persistent links）"
+        },
+        {
+          "evidence_id": "SUPP003-E03-15-pdf",
+          "locator": {
+            "local_working_prose_sha256": "6f25675056020ebc4dbe498a7ca822163251145619031634c5def60dc458481f",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-15-json",
+          "locator": {
+            "local_working_prose_sha256": "378b501024043921e02175624c449d6216c6e374ac7bc7969528b5f9ddd8799d",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-15-txt",
+          "locator": {
+            "local_working_prose_sha256": "d460a3a116c62af055d81ca0f1343d7b958730a7c23af8af7ea995c7a538d38c",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        }
+      ],
+      "independent_reasoning": {
+        "local_working_prose_sha256": "c5abce735549c123e6cf3442e3472d52b80839b5fbb8e9a1feb9f28ae8e3eaa1",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "remaining_gap": null
+    },
+    {
+      "question_id": "A-CAN-7ca310b0d297e5e4402849ea:date",
+      "reading_status": "completed",
+      "original_sources_read": [
+        {
+          "evidence_id": "PRIM-PRI2-007",
+          "locator": {
+            "local_working_prose_sha256": "689fa1d06a90be9b82c584ec4d6ae6522a6ead2009a05882dac3c0adc7450521",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "TEXT-PRI2-007",
+          "locator": {
+            "local_working_prose_sha256": "0e6a0cb772e397cac6c39133b2b4a03d9855f63221547117a673a07bfe703037",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "PRIM-PRI2-006",
+          "locator": {
+            "local_working_prose_sha256": "dc58ce2b718e80545a19c21d841a5d9e151a6f6d5c257e66483d61c6d1df5fe2",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "TEXT-PRI2-006",
+          "locator": {
+            "local_working_prose_sha256": "c269eee7aaaf72a6b9ec50f6a7b85d689d6e8149e566c34da0317539a551095b",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        }
+      ],
+      "new_sources_read": [
+        {
+          "evidence_id": "SUPP003-E03-06-r1-raw",
+          "locator": {
+            "local_working_prose_sha256": "953dbe39e7315d39f18ac2caed94a7e5b09e15263b7c7871182aa851b641d5a4",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-06-r1-json",
+          "locator": {
+            "local_working_prose_sha256": "e89d7c87dca06ebdc4ebc889d9e0fccb39843ea9e8dc328a60f1f512d782917a",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-12-raw",
+          "locator": {
+            "local_working_prose_sha256": "1e739d05b0b1eda763b3b7c17a420bb7cf2e9f7a79b58d63b59657ca5f10ed23",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-12-json",
+          "locator": {
+            "local_working_prose_sha256": "0d24e6b5a5127b3a4e8d46ae529f9ee4f3f7c93ca5dab7c0605c3e3aeaeb6a7e",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-17-pdf",
+          "locator": {
+            "local_working_prose_sha256": "05f089f24af8772b5208f4eb45922147d56c654c22235db8e1e5ff86d4834054",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-18-png",
+          "locator": {
+            "local_working_prose_sha256": "bccf46727fee8c846b73c1ed514fd963eae76372cbc7505b9e983b55e40fb63d",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-19-png",
+          "locator": {
+            "local_working_prose_sha256": "e9f006feb39ee3294672041571dce9f321c6c9bb2ebbb947423cba6c7500cb8a",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        },
+        {
+          "evidence_id": "SUPP003-E03-20-json",
+          "locator": {
+            "local_working_prose_sha256": "4f4db837e876ab65ce60b685af7b4fcde3fcb36b3f92322f4a7191b9824853e7",
+            "availability": "Retained in the controlled original-language audit archive."
+          }
+        }
+      ],
+      "independent_reasoning": {
+        "local_working_prose_sha256": "ee76f22cbaed17c27eef45aa7d195740bdc527fc21da009c7872f39c5c5798ae",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "remaining_gap": {
+        "local_working_prose_sha256": "a49f431ae4b21426608c44e07973c382155f7fd7270ebb3acd81a26207417ce5",
+        "availability": "Retained in the controlled original-language audit archive."
+      }
+    }
+  ]
+}

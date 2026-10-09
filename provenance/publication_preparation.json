@@ -1,0 +1,260 @@
+{
+  "schema": "evaluation-publication-preparation-v1",
+  "purpose": "Separate historical stages from current scope and adoption without changing answers or observations.",
+  "product_reexecuted": false,
+  "review_answers_rejudged": false,
+  "preserved_files": [
+    {
+      "path": "data/base_reference.json",
+      "sha256": "03d5c5961916de1c7931160ce7db5dd8b9f6381c869ad5a2c44493c8b0e8e644"
+    },
+    {
+      "path": "data/broad_reference.json",
+      "sha256": "bd595df9a2c6b448cdb1560a83d8316fb881fb2a8096a5eb1eec21644a9b93b0"
+    },
+    {
+      "path": "data/cases.json",
+      "sha256": "0556cc555c6b45cc287074de9e195ee85b74c431909ce246a740e736c817eab9"
+    },
+    {
+      "path": "data/discovery_candidates.json",
+      "sha256": "266b1d28d777f3dffab6b60f21e9a3aade310fdf821552cbe8c59dc7742b4593"
+    },
+    {
+      "path": "data/exclusions.json",
+      "sha256": "af6f2adbd29d29df051465c482b159311bce524724299f829021e34635394d56"
+    },
+    {
+      "path": "data/reference.json",
+      "sha256": "9d58fb15e00b48bf76b291148b62320b5601a90657fb7c3c2c1f6db0e83a52d1"
+    },
+    {
+      "path": "data/reviews/codex_base.json",
+      "sha256": "2ee4bcbb4366611032be3f4b9a16fb57549a013ff9795014645197391842ff99"
+    },
+    {
+      "path": "data/reviews/codex_broad.json",
+      "sha256": "66227f6710317251793781fa98b76981a41875702512360bcc88b0997b5864ec"
+    },
+    {
+      "path": "data/reviews/codex_broad_supplement_reading_log.json",
+      "sha256": "d3fa63d0335e67490af5f115175df168187a8738f1db5091c05100b588096cbe"
+    },
+    {
+      "path": "data/reviews/deepseek_base.json",
+      "sha256": "434d88d5ef3db36551fb82396286fcc66d0ecb7b64695e43cff5d1ef4f4e194d"
+    },
+    {
+      "path": "data/reviews/deepseek_broad.json",
+      "sha256": "a817f809d3d00f85d557fdbde9d81b1a72738c28763bfe72bda550470abbc3a1"
+    },
+    {
+      "path": "data/reviews/deepseek_broad_supplement_reading_log.json",
+      "sha256": "edbf8c937a99d0b583ea351d25ae4f935c75a90fd51fb6fa7020a9ce78124576"
+    },
+    {
+      "path": "data/reviews/history/connected-002/inputs/codex/decisions.json",
+      "sha256": "6017f6dcbe4f3e68c3b153373dcba2ff0a9e0a49c24c6be047309543029306f2"
+    },
+    {
+      "path": "data/reviews/history/connected-002/inputs/deepseek/decisions.json",
+      "sha256": "48640430131e081834db38a6f1182e683370755f8e63fc2575c5baca49681782"
+    },
+    {
+      "path": "data/reviews/history/scoped-001/inputs/codex/decisions.json",
+      "sha256": "4014594e9b49f4b479c041096f4b72a2dbbd88ebc6c5a60fd7c7f08a8a73db95"
+    },
+    {
+      "path": "data/reviews/history/scoped-001/inputs/deepseek/decisions.json",
+      "sha256": "653a5c131a536d82dfd986060cb1187a16d73cf4928cec5fadf41899f8c8c2a0"
+    },
+    {
+      "path": "data/reviews/history/supplement-003/inputs/codex/decisions.json",
+      "sha256": "5164312029a8052636b1e8bfe061ca5bfcb347c434367efbbfff70b18d3ed0b1"
+    },
+    {
+      "path": "data/reviews/history/supplement-003/inputs/codex/review_log.json",
+      "sha256": "0773cff3806ce15573feff46696d51b35cbd623630c2e16ad9847128114bed6a"
+    },
+    {
+      "path": "data/reviews/history/supplement-003/inputs/deepseek/decisions.json",
+      "sha256": "6d1df9fbcad7877e51001a12d52e8a80f41c26c1b247248a350df7f5aa6feb47"
+    },
+    {
+      "path": "data/reviews/history/supplement-003/inputs/deepseek/review_log.json",
+      "sha256": "da95e3b91650b86e6a96463b48e6a7f61b6bda5ca7bd04c445cdc141d38aac89"
+    },
+    {
+      "path": "data/reviews/history/supplement-004-accepted/inputs/codex/decisions.json",
+      "sha256": "2ee4bcbb4366611032be3f4b9a16fb57549a013ff9795014645197391842ff99"
+    },
+    {
+      "path": "data/reviews/history/supplement-004-accepted/inputs/codex/review_log.json",
+      "sha256": "d557f0eb1dbc5340755b91a2cc7f54f20333b086bf55c688fa517e3983335d6d"
+    },
+    {
+      "path": "data/reviews/history/supplement-004-accepted/inputs/deepseek/decisions.json",
+      "sha256": "434d88d5ef3db36551fb82396286fcc66d0ecb7b64695e43cff5d1ef4f4e194d"
+    },
+    {
+      "path": "data/reviews/history/supplement-004-accepted/inputs/deepseek/review_log.json",
+      "sha256": "8ce159acb64a106a712d4921bbe9f99d4ec4faa6c4a97bacf1300993f27be1c4"
+    },
+    {
+      "path": "data/reviews/human_base.json",
+      "sha256": "bb390656a4cf0785f17819380060dc51c497004c859503f191ecff83b7ef185d"
+    },
+    {
+      "path": "data/reviews/human_broad.json",
+      "sha256": "0921e2640d8d04bc7fc36e1791e6cb39ead70f5bb3f79e2643a211727ad08b4a"
+    },
+    {
+      "path": "data/reviews/initial/codex_base.json",
+      "sha256": "7a1bfd6543445780731cabd0b0bb9ea29d01701fd81847c6fe8a44e0bb9b31b1"
+    },
+    {
+      "path": "data/reviews/initial/codex_broad.json",
+      "sha256": "838dc02ab88a26091b3585646a82cfbb096a8517a8201b84eafd5fe23789b0a0"
+    },
+    {
+      "path": "data/reviews/initial/deepseek_base.json",
+      "sha256": "4122e6d12ae5c58d52ac1395e245321251b6bbe71b424ac03cef214dad5d6cb0"
+    },
+    {
+      "path": "data/reviews/initial/deepseek_broad.json",
+      "sha256": "166b73572ab33f13975bdfdaa046dc3b0d3ea9f5f326d92eca1d2732303a8e02"
+    },
+    {
+      "path": "data/selected_units.json",
+      "sha256": "6d891a61623484b6f8653812dd38cb8d8baa6a650abc1082cf1ab17083b7c167"
+    },
+    {
+      "path": "data/topic_results.json",
+      "sha256": "b2ccca3c5b74d5424020708ff352bc1241cddaee024b5392cae90c1b4ca00a86"
+    },
+    {
+      "path": "data/unresolved_items.json",
+      "sha256": "884741eca82c373c55c1ed5270a4b9c5c76b68691b37f2aa4c416e9cc5aeb3ce"
+    },
+    {
+      "path": "harness/tools/execute_b_formal.py",
+      "sha256": "b11807ab287297f71937b0065345cfd35fed404e1c4a7f09cc63f47512153d63"
+    },
+    {
+      "path": "harness/tools/execute_c_current_formal.py",
+      "sha256": "0a52ac1d14e23b676742e29dc79cd35b34fa2a2d852564846dc58215b1c4c398"
+    },
+    {
+      "path": "harness/tools/execute_c_retained_formal.py",
+      "sha256": "09e7a04c095b1045c1d4f5bf1fefa39861c91e3ec5f557a5b9d7dfaaeb30e762"
+    },
+    {
+      "path": "harness/tools/fixed_engineering_gate.py",
+      "sha256": "d830ea518e93291767c48c3d6236e3a6aa494aeeeb08c2fab9818e6e8a7e8e79"
+    },
+    {
+      "path": "harness/tools/new_state_cases.py",
+      "sha256": "f7cda5aa8ebc33488ac2c326735125094ea51bfe9755999f6bca3761ecb6b93d"
+    },
+    {
+      "path": "harness/tools/remaining_state_cases.py",
+      "sha256": "3c73c6f030bae59bca61f03b53a6d4440ed70924cf151ae6f5a2314089a2c741"
+    },
+    {
+      "path": "harness/tools/retained_state_cases.py",
+      "sha256": "54d4d018f1b1c3571f72d69f78645b4849ceee2d0b31c469aa520b36a0a1a90e"
+    },
+    {
+      "path": "harness/tools/run_b.py",
+      "sha256": "4d0d2da54a0bee9b9b20bfbe5491c41017d09d2d47b018e34b7370d411d3f413"
+    },
+    {
+      "path": "harness/tools/state_support.py",
+      "sha256": "41e8672ee549636f7ddaffa15162463b63223975887cbdfc7661441fa1b78c9a"
+    },
+    {
+      "path": "results/runs/a-author-rebuild-001/result.json",
+      "sha256": "2ee17fa8ec448d57d1df62ddc5535ace648ce526ac84e0a7c32fe8b3a91d32fb"
+    },
+    {
+      "path": "results/runs/a-journal-rebuild-001/result.json",
+      "sha256": "fbcb466aa77275d8e1626b6bf59b811216ef64e756bc4d4f814d0b844b4c0370"
+    },
+    {
+      "path": "results/runs/a-subject-rebuild-001/result.json",
+      "sha256": "f776b57d58183b697d64c34dc0188c3bd4676515b62007bc090f9021904a1009"
+    },
+    {
+      "path": "results/runs/additional-final-probes-001/result.json",
+      "sha256": "d6c22edf29a53fb6a4304307b1a07f582eeaf23853f714930fd472ff2242f829"
+    },
+    {
+      "path": "results/runs/additional-native-001/result.json",
+      "sha256": "dc0e73119cac54bd7de6cb1985d79ddb7bb0b02784636422d0ae587cff830d93"
+    },
+    {
+      "path": "results/runs/additional-python-001/result.json",
+      "sha256": "8a9c1c572db5ba2d65e494db6b0e9f053799dc90ee4a43dcd168ad34cd5bf4d7"
+    },
+    {
+      "path": "results/runs/additional-ui-001/result.json",
+      "sha256": "350ec5e2bc85702fdface650080374bcfc9385040fa7a335777f1ab5d77abed9"
+    },
+    {
+      "path": "results/runs/b160-001/observations.json",
+      "sha256": "a8f039e6c07c3f38dafe925e0f5bfe6c3f29c7397a0c53b3099f69fffb17d566"
+    },
+    {
+      "path": "results/runs/c-current-001/observations.json",
+      "sha256": "b0b78c1d6f8348d2950c65800ec708265ef46af3d395ef5585d0f98b354a2480"
+    },
+    {
+      "path": "results/runs/c-retained-001/observations.json",
+      "sha256": "44677410628ece525b9e98daca5178caa73a70977bd9706078b1a5e05aeb990c"
+    },
+    {
+      "path": "results/runs/c14-providers-002/repair_validation.json",
+      "sha256": "40f2d60ba8b999123d805c1af4d1da502170ceed1c9831ac50e69f6eff996d47"
+    },
+    {
+      "path": "results/runs/c19-process-001/result.json",
+      "sha256": "42906934cfc8e21480a0e9e759c4a48dd5f2179bffc0627e5010dc3ea6090e5f"
+    },
+    {
+      "path": "results/runs/science-aem6125-fixed-verification-001/result.json",
+      "sha256": "b11c54975a9fce0bc01883dd2bb75c4d0bbf1a98171243b9bdc6d7831194993a"
+    },
+    {
+      "path": "results/runs/subject-wire-001/qualification.json",
+      "sha256": "08220d5b3460d64cd08c8e0710547b7b6f9e1095a67fd46fe77ebc859e6844b7"
+    },
+    {
+      "path": "results/runs/workspace-migration-003/result.json",
+      "sha256": "53208f30402e2e2bf178db6921ebdaa5a185b2acc2ad1041e8f539f82fe56403"
+    }
+  ],
+  "original_stage_inputs": [
+    {
+      "path": "provenance/stage_inputs/task_b_cases.json",
+      "previous_path": "harness/config/task_b_cases.json",
+      "sha256": "0fec3d105afb908cc34743d6741e0e4528ad7955fbf2bef013b77471363ad9fb"
+    },
+    {
+      "path": "provenance/stage_inputs/author_roster.json",
+      "previous_path": "data/author_roster.json",
+      "sha256": "ae09e9e7423e8fdbc478250b05a8953e07399c85f1f4308f58040c21c87054f2"
+    }
+  ],
+  "superseded_manifests": [
+    {
+      "archive_reference": "archive://publication-history/data/sampling.json",
+      "sha256": "e7a6a29877878953bb5b213bef1b54935b33b5421933f79d4338a0f265320840"
+    },
+    {
+      "archive_reference": "archive://publication-history/harness/protocol/workflow_coverage.json",
+      "sha256": "90187f7be31e9df9ba50d1f7c335a2ddb52597db90c63be5900a66538b6859be"
+    }
+  ],
+  "current_definition": "protocols/release_definition.json",
+  "state_interpretation": "DATA_DICTIONARY.md"
+}

@@ -1,0 +1,91 @@
+{
+  "schema": "evaluation-release-definition-v1",
+  "status": "current_publication_scope",
+  "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+  "product_schema": 22,
+  "release_tag": "manuscript-evaluation",
+  "repository_url": "https://github.com/LKong92/Gewu-Insight-Evaluation",
+  "discovery": {
+    "candidates": 421,
+    "axis_counts": {
+      "author": 166,
+      "journal": 145,
+      "subject": 110
+    },
+    "base_question_fields": 1263,
+    "broad_question_fields": 110,
+    "reference_fields": 1373,
+    "human_choices": 14,
+    "unresolved_question_ids": [
+      "A-CAN-30c14cc4117a8034f0362299:membership",
+      "A-CAN-4397157b8738a06f1b29d776:membership",
+      "A-CAN-6a23f8fc34dfc477ea03d260:broad_membership"
+    ]
+  },
+  "engineering": {
+    "cases": 160,
+    "family_counts": {
+      "B1": 20,
+      "B2": 30,
+      "B3": 16,
+      "B4": 18,
+      "B5": 10,
+      "B6": 14,
+      "B7": 14,
+      "B8": 14,
+      "B9": 12,
+      "B10": 12
+    }
+  },
+  "workflows": {
+    "scenarios": 104,
+    "family_counts": {
+      "C01": 4,
+      "C02": 4,
+      "C03": 4,
+      "C04": 4,
+      "C05": 4,
+      "C06": 4,
+      "C07": 4,
+      "C08": 4,
+      "C09": 4,
+      "C10": 4,
+      "C11": 4,
+      "C12": 4,
+      "C13": 4,
+      "C14": 4,
+      "C15": 4,
+      "C16": 4,
+      "C17": 4,
+      "C18": 4,
+      "C19": 4,
+      "C20": 4,
+      "C21": 4,
+      "C22": 4,
+      "C23": 4,
+      "C24": 4,
+      "C25": 4,
+      "C26": 4
+    }
+  },
+  "screening": {
+    "selected_candidates": 493,
+    "retained_candidates": 421,
+    "excluded_candidates": 72,
+    "exclusion_events": 84,
+    "candidates_with_multiple_events": 12
+  },
+  "current_status_files": [
+    "results/execution_status.json",
+    "data/author_processing_status.json",
+    "data/screening_current.json"
+  ],
+  "auxiliary_regressions": {
+    "role": "Supporting product-validation records, outside headline evaluation totals.",
+    "source": "results/runs/additional-python-001/result.json"
+  },
+  "raw_stage_inputs": [
+    "provenance/stage_inputs/task_b_cases.json",
+    "provenance/stage_inputs/author_roster.json"
+  ]
+}

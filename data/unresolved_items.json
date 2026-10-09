@@ -1,0 +1,26 @@
+[
+  {
+    "case_id": "A-CAN-30c14cc4117a8034f0362299",
+    "question_id": "A-CAN-30c14cc4117a8034f0362299:membership",
+    "title": "Saturable absorption of Yb₃+ /Na + codoped CaF₂ crystals at 1050nm",
+    "field": "author_membership",
+    "label": "uncertain",
+    "reason": "Identity could not be uniquely bound from available independent evidence. Retained in author denominator."
+  },
+  {
+    "case_id": "A-CAN-4397157b8738a06f1b29d776",
+    "question_id": "A-CAN-4397157b8738a06f1b29d776:membership",
+    "title": "Spectroscopic Characterization of Yb: Cayalo4 Shaped Crystal Fibers",
+    "field": "author_membership",
+    "label": "uncertain",
+    "reason": "Identity could not be uniquely bound from available independent evidence. Retained in author denominator."
+  },
+  {
+    "case_id": "A-CAN-6a23f8fc34dfc477ea03d260",
+    "question_id": "A-CAN-6a23f8fc34dfc477ea03d260:broad_membership",
+    "title": "Quantum Computing in Drug Discovery Techniques, Challenges, and Emerging Opportunities",
+    "field": "broad_topic_relevance",
+    "label": "uncertain",
+    "reason": "Only abstract webpage print available. User authorized best-available review and retention of uncertain; full body unavailable."
+  }
+]

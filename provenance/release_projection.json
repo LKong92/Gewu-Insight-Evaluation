@@ -1,0 +1,156 @@
+{
+  "scope": "421 discovery candidates, 160 engineering checks, 104 workflow scenarios",
+  "selection_rule": "Keep all discovery case identities and all associated questions, independent of labels, confidence or outcomes.",
+  "original_sources_retained_locally": true,
+  "judgments_changed": false,
+  "product_changed": false,
+  "answers": [
+    {
+      "path": "data/broad_reference.json",
+      "answer_count": 110,
+      "source_file_sha256": "bd595df9a2c6b448cdb1560a83d8316fb881fb2a8096a5eb1eec21644a9b93b0",
+      "released_file_sha256": "bd595df9a2c6b448cdb1560a83d8316fb881fb2a8096a5eb1eec21644a9b93b0",
+      "answer_objects_preserved": true
+    },
+    {
+      "path": "data/reference.json",
+      "answer_count": 1373,
+      "source_file_sha256": "9f841cec4139228e9dc94b56d79c6502e90452e5576c1fb3369221497ecb5b7c",
+      "released_file_sha256": "9d58fb15e00b48bf76b291148b62320b5601a90657fb7c3c2c1f6db0e83a52d1",
+      "answer_objects_preserved": true
+    },
+    {
+      "path": "data/base_reference.json",
+      "answer_count": 1263,
+      "source_file_sha256": "9156185c914c4d02463dd82c1b7f8a330e695c4adcf87844cdea781d1e204e8e",
+      "released_file_sha256": "03d5c5961916de1c7931160ce7db5dd8b9f6381c869ad5a2c44493c8b0e8e644",
+      "answer_objects_preserved": true
+    },
+    {
+      "path": "data/reviews/deepseek_base.json",
+      "answer_count": 1263,
+      "source_file_sha256": "40012a54aba58f268bcf98bb5f5d1e85ee769080d682746945326966c87c5aab",
+      "released_file_sha256": "434d88d5ef3db36551fb82396286fcc66d0ecb7b64695e43cff5d1ef4f4e194d",
+      "answer_objects_preserved": true
+    },
+    {
+      "path": "data/reviews/deepseek_broad.json",
+      "answer_count": 110,
+      "source_file_sha256": "a817f809d3d00f85d557fdbde9d81b1a72738c28763bfe72bda550470abbc3a1",
+      "released_file_sha256": "a817f809d3d00f85d557fdbde9d81b1a72738c28763bfe72bda550470abbc3a1",
+      "answer_objects_preserved": true
+    },
+    {
+      "path": "data/reviews/codex_broad.json",
+      "answer_count": 110,
+      "source_file_sha256": "66227f6710317251793781fa98b76981a41875702512360bcc88b0997b5864ec",
+      "released_file_sha256": "66227f6710317251793781fa98b76981a41875702512360bcc88b0997b5864ec",
+      "answer_objects_preserved": true
+    },
+    {
+      "path": "data/reviews/human_broad.json",
+      "answer_count": 2,
+      "source_file_sha256": "0921e2640d8d04bc7fc36e1791e6cb39ead70f5bb3f79e2643a211727ad08b4a",
+      "released_file_sha256": "0921e2640d8d04bc7fc36e1791e6cb39ead70f5bb3f79e2643a211727ad08b4a",
+      "answer_objects_preserved": true
+    },
+    {
+      "path": "data/reviews/human_base.json",
+      "answer_count": 12,
+      "source_file_sha256": "bb390656a4cf0785f17819380060dc51c497004c859503f191ecff83b7ef185d",
+      "released_file_sha256": "bb390656a4cf0785f17819380060dc51c497004c859503f191ecff83b7ef185d",
+      "answer_objects_preserved": true
+    },
+    {
+      "path": "data/reviews/codex_base.json",
+      "answer_count": 1263,
+      "source_file_sha256": "4a988934adadd5ac125728cb2b1eb799248698b12d6786d107af00f537737d1b",
+      "released_file_sha256": "2ee4bcbb4366611032be3f4b9a16fb57549a013ff9795014645197391842ff99",
+      "answer_objects_preserved": true
+    },
+    {
+      "path": "data/reviews/initial/deepseek_base.json",
+      "answer_count": 1263,
+      "source_file_sha256": "aac3a880044d5771227633763921bc126f62f25c659489a78fde176bf7226f83",
+      "released_file_sha256": "4122e6d12ae5c58d52ac1395e245321251b6bbe71b424ac03cef214dad5d6cb0",
+      "answer_objects_preserved": true
+    },
+    {
+      "path": "data/reviews/initial/deepseek_broad.json",
+      "answer_count": 110,
+      "source_file_sha256": "166b73572ab33f13975bdfdaa046dc3b0d3ea9f5f326d92eca1d2732303a8e02",
+      "released_file_sha256": "166b73572ab33f13975bdfdaa046dc3b0d3ea9f5f326d92eca1d2732303a8e02",
+      "answer_objects_preserved": true
+    },
+    {
+      "path": "data/reviews/initial/codex_broad.json",
+      "answer_count": 110,
+      "source_file_sha256": "838dc02ab88a26091b3585646a82cfbb096a8517a8201b84eafd5fe23789b0a0",
+      "released_file_sha256": "838dc02ab88a26091b3585646a82cfbb096a8517a8201b84eafd5fe23789b0a0",
+      "answer_objects_preserved": true
+    },
+    {
+      "path": "data/reviews/initial/codex_base.json",
+      "answer_count": 1263,
+      "source_file_sha256": "6190c82e7f77074dc9fe25e4426d0200ebfe1795377860c6a949778b21c749ca",
+      "released_file_sha256": "7a1bfd6543445780731cabd0b0bb9ea29d01701fd81847c6fe8a44e0bb9b31b1",
+      "answer_objects_preserved": true
+    },
+    {
+      "path": "data/reviews/history/supplement-003/inputs/codex/decisions.json",
+      "answer_count": 1263,
+      "source_file_sha256": "9b682eee7d0f9e7155122e27387e623c3e8cd3dfa03cc8e9caf11e77b51da5e3",
+      "released_file_sha256": "5164312029a8052636b1e8bfe061ca5bfcb347c434367efbbfff70b18d3ed0b1",
+      "answer_objects_preserved": true
+    },
+    {
+      "path": "data/reviews/history/supplement-003/inputs/deepseek/decisions.json",
+      "answer_count": 1263,
+      "source_file_sha256": "5305a1334e452e109762c7114c25d420c07c1d5dc792f00681ead67181770cc7",
+      "released_file_sha256": "6d1df9fbcad7877e51001a12d52e8a80f41c26c1b247248a350df7f5aa6feb47",
+      "answer_objects_preserved": true
+    },
+    {
+      "path": "data/reviews/history/connected-002/inputs/codex/decisions.json",
+      "answer_count": 1263,
+      "source_file_sha256": "f117472700f6fbda70b55eda6310d05abfea93e177ac825320e25f9d01176b94",
+      "released_file_sha256": "6017f6dcbe4f3e68c3b153373dcba2ff0a9e0a49c24c6be047309543029306f2",
+      "answer_objects_preserved": true
+    },
+    {
+      "path": "data/reviews/history/connected-002/inputs/deepseek/decisions.json",
+      "answer_count": 1263,
+      "source_file_sha256": "baae09ee6f143d197027c26f46356fced53df8f19958116e36ac04501f295dda",
+      "released_file_sha256": "48640430131e081834db38a6f1182e683370755f8e63fc2575c5baca49681782",
+      "answer_objects_preserved": true
+    },
+    {
+      "path": "data/reviews/history/supplement-004-accepted/inputs/codex/decisions.json",
+      "answer_count": 1263,
+      "source_file_sha256": "4a988934adadd5ac125728cb2b1eb799248698b12d6786d107af00f537737d1b",
+      "released_file_sha256": "2ee4bcbb4366611032be3f4b9a16fb57549a013ff9795014645197391842ff99",
+      "answer_objects_preserved": true
+    },
+    {
+      "path": "data/reviews/history/supplement-004-accepted/inputs/deepseek/decisions.json",
+      "answer_count": 1263,
+      "source_file_sha256": "40012a54aba58f268bcf98bb5f5d1e85ee769080d682746945326966c87c5aab",
+      "released_file_sha256": "434d88d5ef3db36551fb82396286fcc66d0ecb7b64695e43cff5d1ef4f4e194d",
+      "answer_objects_preserved": true
+    },
+    {
+      "path": "data/reviews/history/scoped-001/inputs/codex/decisions.json",
+      "answer_count": 1263,
+      "source_file_sha256": "cfc7f645534d950eb70ccbebc7df1df925e1eb6563721252fdaa5e3796a02b3b",
+      "released_file_sha256": "4014594e9b49f4b479c041096f4b72a2dbbd88ebc6c5a60fd7c7f08a8a73db95",
+      "answer_objects_preserved": true
+    },
+    {
+      "path": "data/reviews/history/scoped-001/inputs/deepseek/decisions.json",
+      "answer_count": 1263,
+      "source_file_sha256": "ae3d8a065722661bd66899e95938fef4279225e0beabb90af974ed2f28f22aaf",
+      "released_file_sha256": "653a5c131a536d82dfd986060cb1187a16d73cf4928cec5fadf41899f8c8c2a0",
+      "answer_objects_preserved": true
+    }
+  ]
+}

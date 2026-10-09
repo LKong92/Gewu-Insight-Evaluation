@@ -1,0 +1,755 @@
+{
+  "role": "One row per excluded discovery candidate; historical event records remain unchanged.",
+  "selected_candidates": 493,
+  "retained_candidates": 421,
+  "excluded_candidates": 72,
+  "exclusion_events": 84,
+  "candidates_with_multiple_events": 12,
+  "events_file": "data/exclusions.json",
+  "candidates": [
+    {
+      "case_id": "A-CAN-005e1279a525a026b2ce34bc",
+      "event_indices": [
+        43
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-0353c95aaf2dad2c81ea8ff1",
+      "event_indices": [
+        23
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-04de47c032a73e5091717cb5",
+      "event_indices": [
+        57
+      ],
+      "event_count": 1,
+      "stages": [
+        "author_expansion_type_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-0aad70d0425ab1d2f5b4bf0d",
+      "event_indices": [
+        26
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-0e5f2b9220d209c3500a5ae1",
+      "event_indices": [
+        38
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-12bb8987cdbe1caa6f1fa259",
+      "event_indices": [
+        20
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-171a8566dc0a0d4774440dda",
+      "event_indices": [
+        59,
+        72
+      ],
+      "event_count": 2,
+      "stages": [
+        "author_expansion_type_screening",
+        "author_expansion_user_scope_decision"
+      ]
+    },
+    {
+      "case_id": "A-CAN-1d65022ce2cb4f2c1ff5e278",
+      "event_indices": [
+        60,
+        73
+      ],
+      "event_count": 2,
+      "stages": [
+        "author_expansion_type_screening",
+        "author_expansion_user_scope_decision"
+      ]
+    },
+    {
+      "case_id": "A-CAN-1e9f95467f3655314d280788",
+      "event_indices": [
+        61,
+        74
+      ],
+      "event_count": 2,
+      "stages": [
+        "author_expansion_type_screening",
+        "author_expansion_user_scope_decision"
+      ]
+    },
+    {
+      "case_id": "A-CAN-27a3641ec8b39b94f4f3560a",
+      "event_indices": [
+        44
+      ],
+      "event_count": 1,
+      "stages": [
+        "author_expansion_type_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-27ee4e9dcceb23f19860a416",
+      "event_indices": [
+        39
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-31dcf45e90b6a2b530f98f6d",
+      "event_indices": [
+        45
+      ],
+      "event_count": 1,
+      "stages": [
+        "author_expansion_type_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-31f2af08597411127b2b4b64",
+      "event_indices": [
+        46
+      ],
+      "event_count": 1,
+      "stages": [
+        "author_expansion_type_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-321053be9a4b0dd15663d9e7",
+      "event_indices": [
+        0
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-3a523882c9b71659ca2fe15e",
+      "event_indices": [
+        35
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-3b85038036ed1cb193f170a8",
+      "event_indices": [
+        1
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-3ecc383f974d5643c06de358",
+      "event_indices": [
+        22
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-43d89039fc8db705ee8f91f3",
+      "event_indices": [
+        24
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-4766a8b6edb5d16431c18331",
+      "event_indices": [
+        27
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-4ab9df7246ea21f9bbcefe7d",
+      "event_indices": [
+        36
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-513578f4465d7c412e60afa6",
+      "event_indices": [
+        58
+      ],
+      "event_count": 1,
+      "stages": [
+        "author_expansion_type_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-569ee53cbd715857d8b1276d",
+      "event_indices": [
+        62,
+        75
+      ],
+      "event_count": 2,
+      "stages": [
+        "author_expansion_type_screening",
+        "author_expansion_user_scope_decision"
+      ]
+    },
+    {
+      "case_id": "A-CAN-56cb4124d33da3d9e0edc2fd",
+      "event_indices": [
+        63,
+        76
+      ],
+      "event_count": 2,
+      "stages": [
+        "author_expansion_type_screening",
+        "author_expansion_user_scope_decision"
+      ]
+    },
+    {
+      "case_id": "A-CAN-58324a3745d0afda66cf21dd",
+      "event_indices": [
+        2
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-58f7ff914f5c3e8d31867ccd",
+      "event_indices": [
+        25
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-5926aae21ca3e431830fe214",
+      "event_indices": [
+        47
+      ],
+      "event_count": 1,
+      "stages": [
+        "author_expansion_type_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-5b2be0f8b6de3a0cb54036f6",
+      "event_indices": [
+        3
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-5bca1819ebda00ce5ac574c2",
+      "event_indices": [
+        40
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-5efb4e034eba3b57ac6a7550",
+      "event_indices": [
+        4
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-61406514bab0514c611fe939",
+      "event_indices": [
+        5
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-61db1f366383f5e5c5ecc858",
+      "event_indices": [
+        64,
+        77
+      ],
+      "event_count": 2,
+      "stages": [
+        "author_expansion_type_screening",
+        "author_expansion_user_scope_decision"
+      ]
+    },
+    {
+      "case_id": "A-CAN-624564249b5914016a196952",
+      "event_indices": [
+        6
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-6518aa0f42f5836ab8ba3ded",
+      "event_indices": [
+        7
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-6790eb83642c695d2d8cb866",
+      "event_indices": [
+        31
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-694035dd866575b7b8f67904",
+      "event_indices": [
+        32
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-696ace12eab947c42fa06322",
+      "event_indices": [
+        8
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-6fa291ff882bdcc2b45cb695",
+      "event_indices": [
+        9
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-71ed59decba16fb82681f4e9",
+      "event_indices": [
+        48
+      ],
+      "event_count": 1,
+      "stages": [
+        "author_expansion_type_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-84332204205d15413a55c3ea",
+      "event_indices": [
+        65,
+        78
+      ],
+      "event_count": 2,
+      "stages": [
+        "author_expansion_type_screening",
+        "author_expansion_user_scope_decision"
+      ]
+    },
+    {
+      "case_id": "A-CAN-98ef1fe18fbc6862a868d333",
+      "event_indices": [
+        33
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-a206a6d02d72dab6bad20764",
+      "event_indices": [
+        10
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-a40513b64028bdbb4920ea9a",
+      "event_indices": [
+        66,
+        79
+      ],
+      "event_count": 2,
+      "stages": [
+        "author_expansion_type_screening",
+        "author_expansion_user_scope_decision"
+      ]
+    },
+    {
+      "case_id": "A-CAN-a688390b4befd37e821bfbc1",
+      "event_indices": [
+        11
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-a77f6440dfb4a03a656d0c44",
+      "event_indices": [
+        67,
+        80
+      ],
+      "event_count": 2,
+      "stages": [
+        "author_expansion_type_screening",
+        "author_expansion_user_scope_decision"
+      ]
+    },
+    {
+      "case_id": "A-CAN-aa8545cf1972529d97af97de",
+      "event_indices": [
+        49
+      ],
+      "event_count": 1,
+      "stages": [
+        "author_expansion_type_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-aae8093e8f240fc2fcfaa5e0",
+      "event_indices": [
+        12
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-ad0433f2a7f81f8fece95380",
+      "event_indices": [
+        50
+      ],
+      "event_count": 1,
+      "stages": [
+        "author_expansion_type_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-ae9d0860ed9a1cecec04626e",
+      "event_indices": [
+        68,
+        81
+      ],
+      "event_count": 2,
+      "stages": [
+        "author_expansion_type_screening",
+        "author_expansion_user_scope_decision"
+      ]
+    },
+    {
+      "case_id": "A-CAN-b0ecbdb754788dd7004a0547",
+      "event_indices": [
+        37
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-b13d71d4e01933ac822323a7",
+      "event_indices": [
+        13
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-b72a92f3562a88152537d119",
+      "event_indices": [
+        30
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-b744b6401fe000ecea20b394",
+      "event_indices": [
+        69,
+        82
+      ],
+      "event_count": 2,
+      "stages": [
+        "author_expansion_type_screening",
+        "author_expansion_user_scope_decision"
+      ]
+    },
+    {
+      "case_id": "A-CAN-bb912343deb140ebd381ee32",
+      "event_indices": [
+        28
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-c3c3f8ad2757d1d346867591",
+      "event_indices": [
+        29
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-c44d1b048410cff5d5a4dec3",
+      "event_indices": [
+        14
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-d014519892806e219405dfea",
+      "event_indices": [
+        41
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-d033e25f461717be1af763c5",
+      "event_indices": [
+        71
+      ],
+      "event_count": 1,
+      "stages": [
+        "shared_FULL010_scope_correction"
+      ]
+    },
+    {
+      "case_id": "A-CAN-d762be6a99ba59744665dd14",
+      "event_indices": [
+        70,
+        83
+      ],
+      "event_count": 2,
+      "stages": [
+        "author_expansion_type_screening",
+        "author_expansion_user_scope_decision"
+      ]
+    },
+    {
+      "case_id": "A-CAN-d8af0ac4922e45ee607db213",
+      "event_indices": [
+        51
+      ],
+      "event_count": 1,
+      "stages": [
+        "author_expansion_type_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-d9c3a6624b3f4f1e1f4c8212",
+      "event_indices": [
+        21
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-da6d831826bcd7e37f14d047",
+      "event_indices": [
+        15
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-e077de239a3318e503558b56",
+      "event_indices": [
+        52
+      ],
+      "event_count": 1,
+      "stages": [
+        "author_expansion_type_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-e45606f15c76950857050405",
+      "event_indices": [
+        16
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-eadb5177d06da9b08639201b",
+      "event_indices": [
+        17
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-ecbe06248a4468cc1a3c5ccb",
+      "event_indices": [
+        34
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-f06a72dc987e850b30ab3157",
+      "event_indices": [
+        53
+      ],
+      "event_count": 1,
+      "stages": [
+        "author_expansion_type_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-f67021cea3ee44752b61cd1b",
+      "event_indices": [
+        42
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-f7450265683bb3902fea436a",
+      "event_indices": [
+        54
+      ],
+      "event_count": 1,
+      "stages": [
+        "author_expansion_type_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-f9624abe9e50b282b73ffbf0",
+      "event_indices": [
+        55
+      ],
+      "event_count": 1,
+      "stages": [
+        "author_expansion_type_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-fbf22666ffda33dbcbfd90af",
+      "event_indices": [
+        18
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-fd6ec0c1791f179307f59651",
+      "event_indices": [
+        56
+      ],
+      "event_count": 1,
+      "stages": [
+        "author_expansion_type_screening"
+      ]
+    },
+    {
+      "case_id": "A-CAN-ff8602ed8d44b9be9a458af8",
+      "event_indices": [
+        19
+      ],
+      "event_count": 1,
+      "stages": [
+        "base_screening"
+      ]
+    }
+  ]
+}

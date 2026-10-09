@@ -1,0 +1,279 @@
+{
+  "entries": [
+    {
+      "case_id": "A-CAN-6fe5345cad042228eeba84d9",
+      "evidence_id": "BROAD2-778bb8d410a1d7c935bcb771",
+      "title": "Recent applications of artificial intelligence in cancer radiotherapy and immunotherapy: current status and future directions.",
+      "source_url": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1776472/full",
+      "availability": "article_body_available",
+      "original": "evidence/broad_supplement_002/A-CAN-6fe5345cad042228eeba84d9/original.html",
+      "text_view": "evidence/broad_supplement_002/A-CAN-6fe5345cad042228eeba84d9/text.txt",
+      "navigation_sections": [
+        "4.4 Development and optimization of auxiliary antibodies",
+        "5.1 Drug discovery"
+      ],
+      "files": [
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-6fe5345cad042228eeba84d9/original.html",
+          "sha256": "778bb8d410a1d7c935bcb77186d9f314f3dccc8f6b97b6dacee809d7333ecd09",
+          "bytes": 1511996
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-6fe5345cad042228eeba84d9/capture.json",
+          "sha256": "25132721057ffc6d79b9363ba3c0961f7f3578045f7e94080b60dc0f6c350a54",
+          "bytes": 4328
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-6fe5345cad042228eeba84d9/text.txt",
+          "sha256": "43db88dbc3ab3f03794709d2b14832cfa4395e32a122ec5cbef83d009536a544",
+          "bytes": 136697
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-6fe5345cad042228eeba84d9/elements.json",
+          "sha256": "ced5fe06332ef3ca0f197e6303fe944c7b7e66ac5b3e5b5031b5f904330341d3",
+          "bytes": 136027
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-857868572899a9b7cc6dc202",
+      "evidence_id": "BROAD2-e8fabd5339783652a04dc7a2",
+      "title": "Using generative AI to transform peptide hits into small molecule leads.",
+      "source_url": "https://www.beilstein-journals.org/bjoc/articles/22/51",
+      "availability": "article_body_available",
+      "original": "evidence/broad_supplement_002/A-CAN-857868572899a9b7cc6dc202/original.html",
+      "text_view": "evidence/broad_supplement_002/A-CAN-857868572899a9b7cc6dc202/text.txt",
+      "navigation_sections": [
+        "Deep learning for protein structure prediction",
+        "Generative AI for peptide design"
+      ],
+      "files": [
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-857868572899a9b7cc6dc202/original.html",
+          "sha256": "e8fabd5339783652a04dc7a2bf9e129bae90631c7eeac3719549bc813b2732a8",
+          "bytes": 219203
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-857868572899a9b7cc6dc202/capture.json",
+          "sha256": "6cc054a51ef11f322d081e0584fa8914b33c8e9dcad5004c4c3800f7ace77999",
+          "bytes": 2271
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-857868572899a9b7cc6dc202/text.txt",
+          "sha256": "1c92a2db48853834046698607e1ce33e48688a9872cc5051118906b4fb2509e9",
+          "bytes": 71827
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-857868572899a9b7cc6dc202/elements.json",
+          "sha256": "be38ade1f76ba919bcda4415b6b317e89a3d55f6249b0b07c77e15a9a8dbc3d2",
+          "bytes": 52836
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-a3a38ca8e4da0f2c87ee3022",
+      "evidence_id": "BROAD2-8529c704f83304c503fd8b90",
+      "title": "SnO₂-based nanocomposites as advanced anode materials for Lithium-ion batteries: Mechanisms, challenges, and design strategies",
+      "source_url": "https://periodicos.cerradopub.com.br/bjs/article/download/915/681",
+      "availability": "article_body_available",
+      "original": "evidence/broad_supplement_002/A-CAN-a3a38ca8e4da0f2c87ee3022/original.pdf",
+      "text_view": "evidence/broad_supplement_002/A-CAN-a3a38ca8e4da0f2c87ee3022/pdf_pages.txt",
+      "navigation_sections": [
+        "Physical PDF pages1–34; page14 table row06; sections5–9"
+      ],
+      "files": [
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-a3a38ca8e4da0f2c87ee3022/original.pdf",
+          "sha256": "8529c704f83304c503fd8b9079ca50a47c3daf66efa28e489afe341d3c20c8ba",
+          "bytes": 1690961
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-a3a38ca8e4da0f2c87ee3022/capture.json",
+          "sha256": "15962d27e1d48e0e0217ed25767ce3953bf023ac7bffdb4c3cf8dc3895e7c10b",
+          "bytes": 607
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-a3a38ca8e4da0f2c87ee3022/pdf_pages.txt",
+          "sha256": "997461f4896539924241cf675b2d72475223258e8269f95286c89266a44b91f7",
+          "bytes": 132665
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-bb06be3b8c4a5a04df984e02",
+      "evidence_id": "BROAD2-674725b3031dffb15ef939e1",
+      "title": "Next-Generation Food Enzymology: From Metagenomic Discovery to AI-Driven Biocatalyst Design.",
+      "source_url": "https://pubs.acs.org/jafcau/article/74/29/22474/5212186/Next-Generation-Food-Enzymology-From-Metagenomic",
+      "availability": "article_body_available",
+      "original": "evidence/broad_supplement_002/A-CAN-bb06be3b8c4a5a04df984e02/original.html",
+      "text_view": "evidence/broad_supplement_002/A-CAN-bb06be3b8c4a5a04df984e02/text.txt",
+      "navigation_sections": [
+        "3. Computational Enzyme Discovery and Design: The Future of Food Enzymology"
+      ],
+      "files": [
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-bb06be3b8c4a5a04df984e02/original.html",
+          "sha256": "674725b3031dffb15ef939e17c2274311b2d72b2e7da374dc16b1ca2a4625ff5",
+          "bytes": 502484
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-bb06be3b8c4a5a04df984e02/capture.json",
+          "sha256": "a9e8d95778d438aa17ae15b6203995290b3f8c855e26e1f8250e9992fc465dd3",
+          "bytes": 2404
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-bb06be3b8c4a5a04df984e02/text.txt",
+          "sha256": "ffd599b4c7897a4b559ebdc337dc8579928b4e73202b9c564bef7c14f4d9a7bb",
+          "bytes": 96565
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-bb06be3b8c4a5a04df984e02/elements.json",
+          "sha256": "b286990320e59ecf4eadde32b2af49d77311a113d816e0952c137c4f6d16b68b",
+          "bytes": 40979
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-c780eae6a18f0d43d6f4957e",
+      "evidence_id": "BROAD2-7ff597f7d89f4aeaf2f2c50a",
+      "title": "Beating micromagnetic limits on skyrmion stability by long-range frustration",
+      "source_url": "https://arxiv.org/html/2606.31633v1",
+      "availability": "article_body_available",
+      "original": "evidence/broad_supplement_002/A-CAN-c780eae6a18f0d43d6f4957e/original.html",
+      "text_view": "evidence/broad_supplement_002/A-CAN-c780eae6a18f0d43d6f4957e/text.txt",
+      "navigation_sections": [
+        "Introduction",
+        "Continuum-discrete mapping",
+        "Skyrmion size vs. stability"
+      ],
+      "files": [
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-c780eae6a18f0d43d6f4957e/original.html",
+          "sha256": "7ff597f7d89f4aeaf2f2c50ab23b8a3e88c1eaa6315ef9bf68abd6d9db4c7b94",
+          "bytes": 157367
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-c780eae6a18f0d43d6f4957e/capture.json",
+          "sha256": "16e7482f2db8cff70b9ea1f1ce62407de48026efaedce8c26f0daa97c73fed54",
+          "bytes": 938
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-c780eae6a18f0d43d6f4957e/text.txt",
+          "sha256": "8e74c1be7bc6f6d3a9beaf55376bfc3140744505911b5880cc246f562083b87f",
+          "bytes": 55027
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-c780eae6a18f0d43d6f4957e/elements.json",
+          "sha256": "538a5b4bc710818eb7b66f59e8153c23da1d6b86dd419c07babcd3711fdefa42",
+          "bytes": 28983
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-d8b3b22e63738521d13c9b11",
+      "evidence_id": "BROAD2-197a5a5ab513e4e0039da30b",
+      "title": "Antiviral drug discovery and development: challenges and future directions.",
+      "source_url": "https://www.nature.com/articles/s41392-025-02539-7",
+      "availability": "article_body_available",
+      "original": "evidence/broad_supplement_002/A-CAN-d8b3b22e63738521d13c9b11/original.html",
+      "text_view": "evidence/broad_supplement_002/A-CAN-d8b3b22e63738521d13c9b11/text.txt",
+      "navigation_sections": [
+        "Emerging technologies have promoted the field of drug discovery",
+        "AI passages and surrounding sections"
+      ],
+      "files": [
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-d8b3b22e63738521d13c9b11/original.html",
+          "sha256": "197a5a5ab513e4e0039da30bb751502733d459a7a4137fdaa57ea6b4e41c40b4",
+          "bytes": 1796159
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-d8b3b22e63738521d13c9b11/capture.json",
+          "sha256": "548cb5502a4bfe4c99b7a8c2adad035fedf931a508dff528b831b139552a44bf",
+          "bytes": 3434
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-d8b3b22e63738521d13c9b11/text.txt",
+          "sha256": "907f373c732ed542dca6b9a32ba14285e6a135d608837bba61eaad28ad057547",
+          "bytes": 322799
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-d8b3b22e63738521d13c9b11/elements.json",
+          "sha256": "8713ad61061cbdb2ab6444d5a7f99963754b281775121bdd47ecb0f64a002457",
+          "bytes": 410210
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-ae2e8465b161cd455b453156",
+      "evidence_id": "BROAD2-5386b3970cad067de8726a9d",
+      "title": "Engineering chaperone/usher pathway pili for surface display: Structural constraints, design principles, and biotechnological potential.",
+      "source_url": "https://www.sciencedirect.com/science/article/pii/S0734975026000716",
+      "availability": "article_body_available",
+      "original": "evidence/broad_supplement_002/A-CAN-ae2e8465b161cd455b453156/original.pdf",
+      "text_view": "evidence/broad_supplement_002/A-CAN-ae2e8465b161cd455b453156/pages.txt",
+      "navigation_sections": [
+        "Physical PDF pages1–17; introduction page2; sections3.2.4,3.3,4.2 and Table2 pages8–11; read surrounding context"
+      ],
+      "files": [
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-ae2e8465b161cd455b453156/original.pdf",
+          "sha256": "5386b3970cad067de8726a9d423cb31549f6e11b96d76260bb025f7b2b31aab7",
+          "bytes": 19901157
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-ae2e8465b161cd455b453156/pages.json",
+          "sha256": "629deff0a740fd62fe08a542a6d701e35f90a6ac2c29e5144379b26487ea5154",
+          "bytes": 116300
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-ae2e8465b161cd455b453156/pages.txt",
+          "sha256": "655814dfac33fc452b85837e218c475ed974ccc01a23c73b858a7d20ba63bbee",
+          "bytes": 114122
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-ae2e8465b161cd455b453156/receipt.json",
+          "sha256": "7bd8b9db01280c2416b4a4bf20ded8aa5714513efad037fa44bb7fdd19cc17e2",
+          "bytes": 518
+        }
+      ]
+    },
+    {
+      "case_id": "A-CAN-6a23f8fc34dfc477ea03d260",
+      "evidence_id": "BROAD2-7620ee096ea407b73c74e22e",
+      "title": "Quantum Computing in Drug Discovery Techniques, Challenges, and Emerging Opportunities",
+      "source_url": "https://www.eurekaselect.com/article/150212",
+      "availability": "publisher_abstract_print_only",
+      "original": "evidence/broad_supplement_002/A-CAN-6a23f8fc34dfc477ea03d260/original.pdf",
+      "text_view": "evidence/broad_supplement_002/A-CAN-6a23f8fc34dfc477ea03d260/pages.txt",
+      "navigation_sections": [
+        "Printed webpage physicalpage1 identity; physicalpage2 complete structured abstract; pages3–4 navigation/footer. These are not body sections."
+      ],
+      "files": [
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-6a23f8fc34dfc477ea03d260/original.pdf",
+          "sha256": "7620ee096ea407b73c74e22ef213b3cb3e531891acf180195ab812afabc4b931",
+          "bytes": 1271422
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-6a23f8fc34dfc477ea03d260/pages.json",
+          "sha256": "fd2ffd4c064141bf76427c7d70c7e2663ed86accc99e31066ac325e478870054",
+          "bytes": 5082
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-6a23f8fc34dfc477ea03d260/pages.txt",
+          "sha256": "66e7661c8d292d0a4b660769fef9fc6141ac7b04e54dc6879cf446a714ed0ce1",
+          "bytes": 4874
+        },
+        {
+          "path": "evidence/broad_supplement_002/A-CAN-6a23f8fc34dfc477ea03d260/receipt.json",
+          "sha256": "7e0af58e2042f5f67a8c438b719afa8b3e833321f801f6b237697758d3308944",
+          "bytes": 587
+        }
+      ]
+    }
+  ],
+  "body_available": 7,
+  "abstract_only": 1,
+  "no_organizer_labels": true
+}

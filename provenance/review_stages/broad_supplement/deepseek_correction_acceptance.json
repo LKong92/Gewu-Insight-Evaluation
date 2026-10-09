@@ -1,0 +1,96 @@
+{
+  "checked_at": "2026-10-07T15:38:49.270952+00:00",
+  "accepted": true,
+  "actual_scope": 2,
+  "changed_objects": {
+    "decisions": [
+      "A-CAN-6a23f8fc34dfc477ea03d260:broad_membership",
+      "A-CAN-c780eae6a18f0d43d6f4957e:broad_membership"
+    ],
+    "review_log": [
+      "A-CAN-6a23f8fc34dfc477ea03d260:broad_membership",
+      "A-CAN-c780eae6a18f0d43d6f4957e:broad_membership"
+    ],
+    "changes": [
+      "A-CAN-6a23f8fc34dfc477ea03d260:broad_membership",
+      "A-CAN-c780eae6a18f0d43d6f4957e:broad_membership"
+    ]
+  },
+  "unchanged_answers": 108,
+  "unchanged_reading_records": 10,
+  "original_round_times_preserved": true,
+  "model_dimensionality_error_corrected": true,
+  "metadata_composite_removed_from_quote": true,
+  "quote_trace": [
+    {
+      "question_id": "A-CAN-6a23f8fc34dfc477ea03d260:broad_membership",
+      "evidence_id": "BROAD2-7620ee096ea407b73c74e22e",
+      "locator": "physical PDF page 2",
+      "normalized_verbatim_quote_found": true
+    },
+    {
+      "question_id": "A-CAN-c780eae6a18f0d43d6f4957e:broad_membership",
+      "evidence_id": "BROAD2-7ff597f7d89f4aeaf2f2c50a",
+      "locator": {
+        "local_working_prose_sha256": "42bd3c97bd5a22433316cd1b268af0494c8edbe9179f6b61c7b7038ca529950d",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "normalized_verbatim_quote_found": true
+    },
+    {
+      "question_id": "A-CAN-c780eae6a18f0d43d6f4957e:broad_membership",
+      "evidence_id": "BROAD2-7ff597f7d89f4aeaf2f2c50a",
+      "locator": {
+        "local_working_prose_sha256": "3aab46fa4e00970e7b54d59b9be77c09edb0dd41edd283220b98b57e3de1437a",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "normalized_verbatim_quote_found": true
+    },
+    {
+      "question_id": "A-CAN-c780eae6a18f0d43d6f4957e:broad_membership",
+      "evidence_id": "BROAD2-7ff597f7d89f4aeaf2f2c50a",
+      "locator": {
+        "local_working_prose_sha256": "65f990c1a0c2e01973becd7255bb28706a09f996e12b66547d4a713ded6f2d88",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "normalized_verbatim_quote_found": true
+    },
+    {
+      "question_id": "A-CAN-c780eae6a18f0d43d6f4957e:broad_membership",
+      "evidence_id": "BROAD2-7ff597f7d89f4aeaf2f2c50a",
+      "locator": "text.txt Skyrmion size vs. stability（line 00631–00679）",
+      "normalized_verbatim_quote_found": true
+    },
+    {
+      "question_id": "A-CAN-c780eae6a18f0d43d6f4957e:broad_membership",
+      "evidence_id": "BROAD2-7ff597f7d89f4aeaf2f2c50a",
+      "locator": {
+        "local_working_prose_sha256": "d26c292deba1090bd580b5e682f7b3023e7beee2b2c782e74a29b0b23a3f5fa5",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "normalized_verbatim_quote_found": true
+    },
+    {
+      "question_id": "A-CAN-c780eae6a18f0d43d6f4957e:broad_membership",
+      "evidence_id": "BROAD2-7ff597f7d89f4aeaf2f2c50a",
+      "locator": {
+        "local_working_prose_sha256": "ab471f07b634f4f52af773307cd9f16266daab72cb14968d8687875368eba923",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "normalized_verbatim_quote_found": true
+    }
+  ],
+  "zip_sha256": "8ddf0ae34fd1f9ac36cf25742812856d9a654d6a951d31695184fbbf146545cf",
+  "format_validation": {
+    "valid": true,
+    "scientific_correctness_verified": false,
+    "actual_reading_not_proved_by_structure": true,
+    "answers": 110,
+    "actual_reading_entries": 12,
+    "out_of_scope_preserved": 98,
+    "batches": 11,
+    "packet_sha256": "c8a60537eb76678fe6bcd331b00eaa1c4e3aaec0c4dd982acd0ac96fd18ab33f",
+    "material_files_verified": 153
+  },
+  "content_note": "2D geometry, coordinate domain, lattice computations and candidate topic binding checked in original. Scientific truth of all article claims not independently established."
+}

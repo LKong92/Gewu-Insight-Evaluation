@@ -1,0 +1,3010 @@
+{
+  "schema": "evaluation-current-sampling-v1",
+  "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+  "A_evaluated_panel_count": 421,
+  "A_counts_by_axis": {
+    "author": 166,
+    "journal": 145,
+    "subject": 110
+  },
+  "configured_author_monitors": 24,
+  "author_profiles_reprocessed_successfully": 24,
+  "author_monitors_represented_in_evaluated_panel": 22,
+  "A_author_panel_counts": {
+    "AUTHOR-01": 15,
+    "AUTHOR-02": 5,
+    "AUTHOR-03": 10,
+    "AUTHOR-04": 7,
+    "AUTHOR-05": 2,
+    "AUTHOR-07": 10,
+    "AUTHOR-08": 17,
+    "AUTHOR-09": 9,
+    "AUTHOR-11": 6,
+    "AUTHOR-12": 14,
+    "AUTHOR-13": 2,
+    "AUTHOR-14": 7,
+    "AUTHOR-15": 8,
+    "AUTHOR-16": 6,
+    "AUTHOR-17": 9,
+    "AUTHOR-18": 7,
+    "AUTHOR-19": 4,
+    "AUTHOR-20": 2,
+    "AUTHOR-21": 9,
+    "AUTHOR-22": 6,
+    "AUTHOR-23": 4,
+    "AUTHOR-24": 7
+  },
+  "A_inclusion_probabilities": [
+    {
+      "case_id": "A-CAN-01b156b14feb30b732b90f4b",
+      "axis": "author",
+      "monitor_id": "AUTHOR-01",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-01fe28a57d75285fb3af5e03",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-03311c05511d9fab67440dd1",
+      "axis": "subject",
+      "monitor_id": "NONEQUILIBRIUM_QUANTUM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-0495a7a4ed432c1b60cd91aa",
+      "axis": "subject",
+      "monitor_id": "PEROVSKITE_STABILITY",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-05c1158c6f574f391b3dcdbf",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-06a6f59ca71757d8d6e8f267",
+      "axis": "author",
+      "monitor_id": "AUTHOR-08",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-072e7834ca366ab09ed10c17",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-073cc0a2f5bfcbb30d849139",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-07aaa9502fb19d222da7a3c8",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-083bad385c31b6493802f350",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-084e0371abe68c10756cfd1d",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-08e115b6c2ce50d14ca8f6bf",
+      "axis": "author",
+      "monitor_id": "AUTHOR-09",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-09366b2f8db8bb367225d0fc",
+      "axis": "author",
+      "monitor_id": "AUTHOR-16",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-0936d2898dccc78b554225f5",
+      "axis": "author",
+      "monitor_id": "AUTHOR-02",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-0952296e5e9c03c5f1116cc2",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-0a8d7aecf6b0f6499cd6e017",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-0a920ed5434f5d05284d8efc",
+      "axis": "journal",
+      "monitor_id": "Nature",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-0b9031f662c87b4172e9ffc4",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-0c2ef16b0bcc31b112334d9e",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-0c6b2ac098577c4af9d9ffb6",
+      "axis": "subject",
+      "monitor_id": "TWO_DIMENSIONAL_MAGNETISM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-0c7c2b880247e91c12782943",
+      "axis": "journal",
+      "monitor_id": "Science Advances",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-0c90e736526800ea25602831",
+      "axis": "subject",
+      "monitor_id": "NONEQUILIBRIUM_QUANTUM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-0cbf2f6da9bf3081b8cced6d",
+      "axis": "author",
+      "monitor_id": "AUTHOR-03",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-0d4702ba6a7739bad6cc5902",
+      "axis": "author",
+      "monitor_id": "AUTHOR-11",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-0e124e507002ebb6d5ff8941",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-0e3bb3016b0abc4b2a78a2fb",
+      "axis": "author",
+      "monitor_id": "AUTHOR-02",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-101f5455f895b0ea51fb7c23",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-10bfbff473e4d28894d2297f",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-10f0d061aa7308abf6932eea",
+      "axis": "author",
+      "monitor_id": "AUTHOR-08",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-11ffe74eb8c2dc870e9fa86f",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-127da7071fa8adc553fdf9bf",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-1738e8d7d568e34095f656c8",
+      "axis": "author",
+      "monitor_id": "AUTHOR-07",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-1938ce5c0a703642af007556",
+      "axis": "journal",
+      "monitor_id": "Nature",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-19f962df1f6397a4705af809",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-1a2bb05aa3eadfdaf9df5cac",
+      "axis": "author",
+      "monitor_id": "AUTHOR-07",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-1a4f21b13a9ff39a1853384b",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-1ac6d143554d2376f9f97e02",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-1bb43368e5e8f63360cb3998",
+      "axis": "journal",
+      "monitor_id": "Reviews of Modern Physics",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-1be9f236ecacbf4ccf51fb63",
+      "axis": "author",
+      "monitor_id": "AUTHOR-03",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-1c228f30b1954132a41fb92b",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-1ce68880db020e9feb1bf321",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-1db831bef85d70faf0136027",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-1e293ce499c34439a919dab4",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-1eada328c896e254e949cf08",
+      "axis": "author",
+      "monitor_id": "AUTHOR-14",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-1ec9e7a59a1c7aeb0376bb55",
+      "axis": "journal",
+      "monitor_id": "Nano Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-1fc6c5b79432b20b5e305e90",
+      "axis": "author",
+      "monitor_id": "AUTHOR-08",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-1ffb188c0e23ca11815348b4",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-205cfc568dd24a408ca55ea1",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-21ab98462ada573ce4121980",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-222e97752469251ed590200b",
+      "axis": "author",
+      "monitor_id": "AUTHOR-08",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-22b9ae34510650bd57d58aa1",
+      "axis": "journal",
+      "monitor_id": "Nano Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-234965b954d76a6f941780a4",
+      "axis": "journal",
+      "monitor_id": "Nature Materials",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-244adfcb9a60c21c6f2c3a45",
+      "axis": "author",
+      "monitor_id": "AUTHOR-03",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-244fbe0be46a7fcd85ca8d87",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-2476511421a0dc35330397b9",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-24a8c9a23a7fdc47dfd92438",
+      "axis": "journal",
+      "monitor_id": "Nature",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-2597eb05f0ee5d146806cc81",
+      "axis": "author",
+      "monitor_id": "AUTHOR-03",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-2718061dff3a4ae2a7a4bb4b",
+      "axis": "author",
+      "monitor_id": "AUTHOR-01",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-27a1b08b5c8d28f265147cc6",
+      "axis": "journal",
+      "monitor_id": "Physical Review Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-283649d8f06076ecbc9a744e",
+      "axis": "journal",
+      "monitor_id": "Science",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-28970c6bb62684a36442e3a8",
+      "axis": "journal",
+      "monitor_id": "Science",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-2931974cbf27c7d640848b5c",
+      "axis": "author",
+      "monitor_id": "AUTHOR-01",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-29703a035461a49ab891d2ec",
+      "axis": "journal",
+      "monitor_id": "Nano Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-2c42db6a57c3c8497493b25b",
+      "axis": "subject",
+      "monitor_id": "TWO_DIMENSIONAL_MAGNETISM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-2c5a9204c326c62b49d72329",
+      "axis": "author",
+      "monitor_id": "AUTHOR-04",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-2c7957abddcfe673fbadddd7",
+      "axis": "author",
+      "monitor_id": "AUTHOR-09",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-2cad272150e0ab4ed6954434",
+      "axis": "journal",
+      "monitor_id": "Science Advances",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-2cb0e7100bece60ea8cf3c1c",
+      "axis": "author",
+      "monitor_id": "AUTHOR-13",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-2cbba782e18a2bfc92a1731a",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-2cf023c324ef2e522495f42f",
+      "axis": "subject",
+      "monitor_id": "NONEQUILIBRIUM_QUANTUM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-2d4bba1d2bb1bff1b0a4537a",
+      "axis": "journal",
+      "monitor_id": "Science",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-2df54cb6cdbd5fbcd475222c",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-2ecc2a7c53af7dd8c77e46f4",
+      "axis": "journal",
+      "monitor_id": "Science Advances",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-2fb84c03cb1272b4a9ab7904",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-2fdf0f9218f42bd5d6343552",
+      "axis": "author",
+      "monitor_id": "AUTHOR-11",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-3019cca49594db03e8218a10",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-30217bebd1d7b2bf6e18fd96",
+      "axis": "subject",
+      "monitor_id": "OCEAN_CARBON",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-30a450228e524c5a972f144b",
+      "axis": "author",
+      "monitor_id": "AUTHOR-08",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-30c14cc4117a8034f0362299",
+      "axis": "author",
+      "monitor_id": "AUTHOR-01",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-3281d631a08046fc62520ff2",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-333fa2fced8c91574719c239",
+      "axis": "subject",
+      "monitor_id": "TWO_DIMENSIONAL_MAGNETISM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-34fb47aa6d73c38a1c657d39",
+      "axis": "author",
+      "monitor_id": "AUTHOR-08",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-354b0fc4027127a1072fe2dd",
+      "axis": "journal",
+      "monitor_id": "Nature",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-35e992154593ef6e1301da5e",
+      "axis": "author",
+      "monitor_id": "AUTHOR-09",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-36a684b4ad4c462bd007e0ad",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-37f43cf487afb11fbf025fac",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-38734ea90b4ba245b6b28a9a",
+      "axis": "journal",
+      "monitor_id": "Physical Review Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-38fa3c1a949728eadfbf3db4",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-391ff5a80c419fc302c11d52",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-394f175e8b0dca99a49fd324",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-398d2389206ed022850463b4",
+      "axis": "author",
+      "monitor_id": "AUTHOR-01",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-3d4cc155fa9817192b68a55d",
+      "axis": "subject",
+      "monitor_id": "NONEQUILIBRIUM_QUANTUM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-3de81571bfc0a879ef03dc86",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-3e150ce3098658f0ae29bafc",
+      "axis": "journal",
+      "monitor_id": "Science Advances",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-3e87f49b58ab45c8d49b26cc",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-3eb176145a8c34cd27906626",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-3ecb03f568c4b0a5356a2c4b",
+      "axis": "subject",
+      "monitor_id": "OCEAN_CARBON",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-3f5a88b48d795ad6ba73bb77",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-3fbf681b27e521993ad709a8",
+      "axis": "journal",
+      "monitor_id": "Nano Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-406f967ce5da80cf4b8bbd59",
+      "axis": "author",
+      "monitor_id": "AUTHOR-04",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-41459ffb22a2da14a985a8bd",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-417d0e79df48219531939e52",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-4181ab944c85458afcb439ee",
+      "axis": "subject",
+      "monitor_id": "TWO_DIMENSIONAL_MAGNETISM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-418e84f9e67620beefa389b1",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-4397157b8738a06f1b29d776",
+      "axis": "author",
+      "monitor_id": "AUTHOR-01",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-44029041c8ce6dd05bfd8719",
+      "axis": "author",
+      "monitor_id": "AUTHOR-12",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-4417cfc692ae261ccf26c958",
+      "axis": "author",
+      "monitor_id": "AUTHOR-11",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-447674cc00750e9057f36f2f",
+      "axis": "journal",
+      "monitor_id": "Physical Review Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-455b1b6e83951ed3d8ec2062",
+      "axis": "subject",
+      "monitor_id": "PEROVSKITE_STABILITY",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-458ec1f9de0e6f1ca2040544",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-4664f73a602985a6abad7962",
+      "axis": "journal",
+      "monitor_id": "Science Advances",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-47921246fc16d32e4e98cae3",
+      "axis": "author",
+      "monitor_id": "AUTHOR-09",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-489b62018ddb8d9e41601c27",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-48b0f93c24420ace2312162f",
+      "axis": "journal",
+      "monitor_id": "Nano Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-49117b592433e2960832ab04",
+      "axis": "author",
+      "monitor_id": "AUTHOR-01",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-494e3cb8d0d38e2fcda0ed50",
+      "axis": "journal",
+      "monitor_id": "Physical Review X",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-49a1d8f254f12b0cd70e92a9",
+      "axis": "journal",
+      "monitor_id": "Science",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-4adbcaaaf936c5f8a25cd671",
+      "axis": "author",
+      "monitor_id": "AUTHOR-12",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-4ae056c031335ad7aca2803b",
+      "axis": "author",
+      "monitor_id": "AUTHOR-16",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-4b75e4d20f98c978d74f11c6",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-4c9a4ed74a6a43215254bc84",
+      "axis": "author",
+      "monitor_id": "AUTHOR-12",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-4ca26c75e68cef51796440dc",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-4ce3ef36259d2a6443cdd54c",
+      "axis": "author",
+      "monitor_id": "AUTHOR-02",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-4d354ef5384d230daee1c940",
+      "axis": "journal",
+      "monitor_id": "Science Advances",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-4efa3dd8bf919448f6c80ba3",
+      "axis": "author",
+      "monitor_id": "AUTHOR-11",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-4f854257bd9ca9dbf2f9ccc7",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-4fda3c4fb8faf2c608d8d2d0",
+      "axis": "author",
+      "monitor_id": "AUTHOR-08",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-5052fda76c977380551d11b3",
+      "axis": "journal",
+      "monitor_id": "Nano Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-51c4172e45cd054a985e4b36",
+      "axis": "author",
+      "monitor_id": "AUTHOR-01",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-525bfb5c002c8bf66f229759",
+      "axis": "author",
+      "monitor_id": "AUTHOR-01",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-5295f3b1d5790c55b329ac8f",
+      "axis": "subject",
+      "monitor_id": "PEROVSKITE_STABILITY",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-534242882575d386e6a0cdba",
+      "axis": "journal",
+      "monitor_id": "Nano Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-535af6e4ebbfd3d27d8851b7",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-53dcc3b5ffe7828c77ce9830",
+      "axis": "subject",
+      "monitor_id": "NONEQUILIBRIUM_QUANTUM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-546ca40ea39b00e187ec6147",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-54926af0cd9f2af6cece7971",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-54bb1438900a875755cb712d",
+      "axis": "journal",
+      "monitor_id": "Nature",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-54c94d2309c2449e72d4f467",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-54e41fafeb2a543637d54fd2",
+      "axis": "journal",
+      "monitor_id": "Physical Review Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-55ac83ea102a01d7a1ba723f",
+      "axis": "author",
+      "monitor_id": "AUTHOR-07",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-5612bd466cde8f7799c2c3a0",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-57049cde7388c86e19048b50",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-574e3b29373cbfa2636561bd",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-590a942005daa4a2bbaba2be",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-5a04d0c98b8e84bd6f6a79e3",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-5b9493674c8a9c00b580dfa9",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-5d5939d99e42063b77714e86",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-5ea70d2874485e54ac66fd75",
+      "axis": "journal",
+      "monitor_id": "Physical Review Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-6002c50468b71aa9787c5035",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-6032214e62b5a2b909352f2d",
+      "axis": "journal",
+      "monitor_id": "Reviews of Modern Physics",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-606001a848508a4fc4468f63",
+      "axis": "journal",
+      "monitor_id": "Physical Review Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-60b2e87d6d239488139d84fa",
+      "axis": "journal",
+      "monitor_id": "Science Advances",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-60bb4c2813beac555310eb29",
+      "axis": "subject",
+      "monitor_id": "OCEAN_CARBON",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-633f462fe98b3d8de78f4e63",
+      "axis": "journal",
+      "monitor_id": "Physical Review Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-6366ae13749e4e56d1ca77f3",
+      "axis": "author",
+      "monitor_id": "AUTHOR-16",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-6454e8e00797332dd8d7e7d1",
+      "axis": "journal",
+      "monitor_id": "Nature",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-6464fb2dbbcdac9cffd49daf",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-65204f5424991b9ae5ec4302",
+      "axis": "author",
+      "monitor_id": "AUTHOR-08",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-65b73d1227d88d81b20558a0",
+      "axis": "subject",
+      "monitor_id": "PEROVSKITE_STABILITY",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-6783bac2f5c8fda04c47a202",
+      "axis": "author",
+      "monitor_id": "AUTHOR-03",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-6925b8b0834032aeb357d81b",
+      "axis": "author",
+      "monitor_id": "AUTHOR-13",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-69949c76b0b9f8ea3f025df8",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-69fe0e3f1a8f911fa083e40c",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-6a23f8fc34dfc477ea03d260",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-6a8662b0b91673f576715312",
+      "axis": "subject",
+      "monitor_id": "TWO_DIMENSIONAL_MAGNETISM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-6bf7eb4ed2586c33a51b350f",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-6c812f90938aee9634efd227",
+      "axis": "journal",
+      "monitor_id": "Nano Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-6e7493b949b57330ef11211e",
+      "axis": "journal",
+      "monitor_id": "Nano Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-6efcd6d69eabff3e3c9975fd",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-6f4b1f8fb5ebeac9c3741634",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-6f4c09fe62c2e2ad55049e72",
+      "axis": "author",
+      "monitor_id": "AUTHOR-09",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-6f6d460f9ef56097f069d173",
+      "axis": "author",
+      "monitor_id": "AUTHOR-08",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-6fe5345cad042228eeba84d9",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-708ac471455b7df13ab42acc",
+      "axis": "journal",
+      "monitor_id": "Physical Review Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-70d178d6ed6cb3f882428168",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-70f54fcb1598cbfbc8726284",
+      "axis": "journal",
+      "monitor_id": "Nature Physics",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-7146fa1fcf7e488bdcf9c5df",
+      "axis": "author",
+      "monitor_id": "AUTHOR-08",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-71805b96830a778a9c3d99e3",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-724acab1105d7daba567e03f",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-72e8ee6f4e1b053236e81516",
+      "axis": "journal",
+      "monitor_id": "Nano Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-741650fb746db92c5e383287",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-767b90f5301e8c84c073588a",
+      "axis": "author",
+      "monitor_id": "AUTHOR-16",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-7745ce9ec3960082cc4202ed",
+      "axis": "author",
+      "monitor_id": "AUTHOR-01",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-7a1c81a0f0282710852cb490",
+      "axis": "author",
+      "monitor_id": "AUTHOR-14",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-7a9e463b2115153b831fedd6",
+      "axis": "author",
+      "monitor_id": "AUTHOR-09",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-7ae9cdab5634ab82043707b9",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-7b72931cbf3dea546f81cda9",
+      "axis": "author",
+      "monitor_id": "AUTHOR-07",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-7c8b230330e189db806a3291",
+      "axis": "author",
+      "monitor_id": "AUTHOR-11",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-7e63bd6452ed7002100be75d",
+      "axis": "author",
+      "monitor_id": "AUTHOR-12",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-7f11a587c629543ffd212fa3",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-7f813d8a40660f0fd4d34fd8",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-803980af53743744dd0b7bac",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-807ecc31e3481584c15b24be",
+      "axis": "author",
+      "monitor_id": "AUTHOR-12",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-80b5fe13461eb920da452db7",
+      "axis": "author",
+      "monitor_id": "AUTHOR-14",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-818b0b347ca70efef40f4109",
+      "axis": "journal",
+      "monitor_id": "Science Advances",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-81b2df3a9551647d1ab8a391",
+      "axis": "journal",
+      "monitor_id": "Physical Review Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-829c80fb8fae196124728843",
+      "axis": "journal",
+      "monitor_id": "Physical Review Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-83edb42d9f3aa3c5613ce085",
+      "axis": "journal",
+      "monitor_id": "Science Advances",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-857868572899a9b7cc6dc202",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-85a4d1193d49925aa52fa54c",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-85ad7fd9ef268c117e2bc911",
+      "axis": "author",
+      "monitor_id": "AUTHOR-07",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-85d5898588a5a0cfdd39aa0a",
+      "axis": "subject",
+      "monitor_id": "TWO_DIMENSIONAL_MAGNETISM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-86db7c69c077af3cf91fb4d2",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-870fb788dffaee8f80a6611a",
+      "axis": "journal",
+      "monitor_id": "Science Advances",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-87336ae9ac247efcbf1e12f2",
+      "axis": "subject",
+      "monitor_id": "NONEQUILIBRIUM_QUANTUM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-87596101134c25939f0d9890",
+      "axis": "journal",
+      "monitor_id": "Physical Review X",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-875c1efcb96fd45a7db4f1f1",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-87895a83bb67d5498362db51",
+      "axis": "author",
+      "monitor_id": "AUTHOR-04",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-88529576d3abd54fac21cbdb",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-89817533b64ec2816ae21432",
+      "axis": "author",
+      "monitor_id": "AUTHOR-02",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-8a18c895a5b74b76fbf8af1f",
+      "axis": "journal",
+      "monitor_id": "Nature",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-8a1b2ec57bc90e7f6c59f638",
+      "axis": "author",
+      "monitor_id": "AUTHOR-02",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-8b4ac776d792f1bba634adca",
+      "axis": "journal",
+      "monitor_id": "Nano Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-8bcf15d469e130514a477cad",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-8c5ab6586dc726834dee5540",
+      "axis": "author",
+      "monitor_id": "AUTHOR-04",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-8c5bda7b3b57db182ec2933e",
+      "axis": "journal",
+      "monitor_id": "Physical Review Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-8daa03e312b1df10882f6add",
+      "axis": "author",
+      "monitor_id": "AUTHOR-03",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-8e19b5d6a34b824427e90dff",
+      "axis": "subject",
+      "monitor_id": "NONEQUILIBRIUM_QUANTUM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-8f2c59e7e501bbb4a5d6ebe1",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-8f2f88e37c3343dbf21844e2",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-8fb91ad28ca2c7437ab52e2f",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-8fd80133eafc81ff9674a00a",
+      "axis": "journal",
+      "monitor_id": "Nano Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-9035616606b5992b387a50a8",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-9060af213a40fe780790ba0c",
+      "axis": "subject",
+      "monitor_id": "TWO_DIMENSIONAL_MAGNETISM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-91b62b5e3a3131f1c0c43137",
+      "axis": "subject",
+      "monitor_id": "TWO_DIMENSIONAL_MAGNETISM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-93dbf019cc026a8fca3cddb7",
+      "axis": "subject",
+      "monitor_id": "OCEAN_CARBON",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-95b9ad4f22f2b0904aa6feb4",
+      "axis": "journal",
+      "monitor_id": "Nano Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-979fffd28e4aa7355569c853",
+      "axis": "author",
+      "monitor_id": "AUTHOR-12",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-980b6890d8c2b8a7857f168f",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-986272fa1667338a99cb5b60",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-9895e5a75dba01c66db7df35",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-991e9699aa3ca3502d27e572",
+      "axis": "journal",
+      "monitor_id": "Nano Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-9927b07482b4575d24852a3b",
+      "axis": "subject",
+      "monitor_id": "TWO_DIMENSIONAL_MAGNETISM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-9a33f930593687a3ab41b4ed",
+      "axis": "journal",
+      "monitor_id": "Nano Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-9b8dc338652f10b7778b8c49",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-9c2c1589ffe8f99113bab1b5",
+      "axis": "author",
+      "monitor_id": "AUTHOR-07",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-9c85d69da336330037bbfbe2",
+      "axis": "journal",
+      "monitor_id": "Physical Review Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-9d46641035802ca7faa5ed57",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-9e06aba10eb673c946072acb",
+      "axis": "subject",
+      "monitor_id": "TWO_DIMENSIONAL_MAGNETISM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-9e900ca24d1d6a0f2bbb3b6a",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-a0210a4d5d7a99a9220557c7",
+      "axis": "subject",
+      "monitor_id": "TWO_DIMENSIONAL_MAGNETISM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-a0b4ca80c695f0970d54b92c",
+      "axis": "journal",
+      "monitor_id": "Nature Physics",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-a3224a97509cddae0547e80c",
+      "axis": "author",
+      "monitor_id": "AUTHOR-08",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-a33eb7186d059cef0948b7d3",
+      "axis": "journal",
+      "monitor_id": "Science Advances",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-a3a38ca8e4da0f2c87ee3022",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-a51fdba847de229272498854",
+      "axis": "author",
+      "monitor_id": "AUTHOR-03",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-a530313fbf2459019a24ce5b",
+      "axis": "author",
+      "monitor_id": "AUTHOR-04",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-a550c070cfd11f5c27487dfc",
+      "axis": "author",
+      "monitor_id": "AUTHOR-12",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-a578c6b6b0a68c019a733b91",
+      "axis": "author",
+      "monitor_id": "AUTHOR-01",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-a696c5b6ac4019e3828e4c2e",
+      "axis": "author",
+      "monitor_id": "AUTHOR-01",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-a6c063fc589fdbc8a9b97449",
+      "axis": "author",
+      "monitor_id": "AUTHOR-11",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-a75ec780777255bf6ec7e681",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-a7fa80edb8591e673c56ec00",
+      "axis": "author",
+      "monitor_id": "AUTHOR-07",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-a8334064c17797678976b4be",
+      "axis": "journal",
+      "monitor_id": "Science Advances",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-a8815c146e53bcb55a58c1bc",
+      "axis": "journal",
+      "monitor_id": "Nano Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-a8df4c2bba25bd23245eedab",
+      "axis": "journal",
+      "monitor_id": "Nano Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-a8f736ebcee015311f3aeb96",
+      "axis": "journal",
+      "monitor_id": "Science Advances",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-a91c3f706dadf2afcf77f2a7",
+      "axis": "author",
+      "monitor_id": "AUTHOR-08",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-a9c951103811123b64ff9c7d",
+      "axis": "subject",
+      "monitor_id": "TWO_DIMENSIONAL_MAGNETISM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-aa23ada76be0a3473eb79be0",
+      "axis": "subject",
+      "monitor_id": "OCEAN_CARBON",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-ab9faebfbdc06513863c6eea",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-acd60c90e2af498bd0c01d1f",
+      "axis": "journal",
+      "monitor_id": "Science",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-ad2889449a3b5f7532de6a70",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-ad8bfa57b37fc40feddc6edf",
+      "axis": "author",
+      "monitor_id": "AUTHOR-12",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-ae2e8465b161cd455b453156",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-aed053151611c41365e21448",
+      "axis": "author",
+      "monitor_id": "AUTHOR-01",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-af2a92bb78d5f1e01d06f583",
+      "axis": "subject",
+      "monitor_id": "OCEAN_CARBON",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-b26b7c56d5cb1cc3a910a26d",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-b3ee3449df00d49179adb967",
+      "axis": "author",
+      "monitor_id": "AUTHOR-08",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-b46ce22bd24e678ea16ee97b",
+      "axis": "subject",
+      "monitor_id": "PEROVSKITE_STABILITY",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-b47aab596f11fc34cce72f89",
+      "axis": "author",
+      "monitor_id": "AUTHOR-05",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-b4c25445cebe516bb8a5bc4e",
+      "axis": "author",
+      "monitor_id": "AUTHOR-16",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-b63c48451877d869b634192c",
+      "axis": "subject",
+      "monitor_id": "OCEAN_CARBON",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-b70fbf59aa1bfdd8173df55f",
+      "axis": "subject",
+      "monitor_id": "NONEQUILIBRIUM_QUANTUM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-b79764c4bdae28e51ba92630",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-b8db5eb34544f44280b69dc0",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-b905c8a91f5505f9d8066eca",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-b91773f545016d74a9e7958e",
+      "axis": "journal",
+      "monitor_id": "Science Advances",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-b948c9f58aefc917e4054222",
+      "axis": "author",
+      "monitor_id": "AUTHOR-16",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-ba08203745b097d29d91088c",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-ba579a532295f18be61e798e",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-bb06be3b8c4a5a04df984e02",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-bc4e0ca93b6ccda46dc03766",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-bd1da7b292752244368e8fcf",
+      "axis": "author",
+      "monitor_id": "AUTHOR-12",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-bd32e6f1f2b09161e61d41f4",
+      "axis": "author",
+      "monitor_id": "AUTHOR-07",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-be1835e062601e3c709890f1",
+      "axis": "author",
+      "monitor_id": "AUTHOR-12",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-c03fbc410c8014fa4ece618d",
+      "axis": "journal",
+      "monitor_id": "Science Advances",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-c0e3a08058e0ab4683307938",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-c172c36addfc28802ff36c5e",
+      "axis": "author",
+      "monitor_id": "AUTHOR-04",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-c1889726ee6b990e0d198d03",
+      "axis": "author",
+      "monitor_id": "AUTHOR-14",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-c1d35fbd77e316b7d73be136",
+      "axis": "author",
+      "monitor_id": "AUTHOR-07",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-c242486d32f01e0f4ef40971",
+      "axis": "author",
+      "monitor_id": "AUTHOR-01",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-c279e75b10282b569134e93f",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-c2a4446ec250c7a8d67baa80",
+      "axis": "author",
+      "monitor_id": "AUTHOR-09",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-c5c4f9843bda6918e6f7350e",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-c5d738adb7698bd011761e43",
+      "axis": "author",
+      "monitor_id": "AUTHOR-08",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-c64abfd60aa9adfa7126ed81",
+      "axis": "author",
+      "monitor_id": "AUTHOR-12",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-c67dc7cd7dc95f3c1af8c1aa",
+      "axis": "author",
+      "monitor_id": "AUTHOR-12",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-c7252f8bc5e05ee7177a8911",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-c766a2f1c176c1d44b6aad51",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-c780eae6a18f0d43d6f4957e",
+      "axis": "subject",
+      "monitor_id": "TWO_DIMENSIONAL_MAGNETISM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-c9494a6cae9b63d6c83f6666",
+      "axis": "author",
+      "monitor_id": "AUTHOR-12",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-cc32492c289255318b4cc554",
+      "axis": "journal",
+      "monitor_id": "Science",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-cd0c649a4a4ab56e907eecc2",
+      "axis": "journal",
+      "monitor_id": "Nature",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-ce8ad2085ad4b13c1a11b23b",
+      "axis": "author",
+      "monitor_id": "AUTHOR-14",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-d062e7dfd01e40683b12264a",
+      "axis": "subject",
+      "monitor_id": "PEROVSKITE_STABILITY",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-d0aa0940ddf5376a42c8615f",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-d2166ccceb42282150d96e16",
+      "axis": "journal",
+      "monitor_id": "Science Advances",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-d28eb61a2b6b287dd2771a31",
+      "axis": "journal",
+      "monitor_id": "Physical Review Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-d2ae57a69e56f1220165a7a9",
+      "axis": "author",
+      "monitor_id": "AUTHOR-12",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-d37915949160d01759c003c1",
+      "axis": "subject",
+      "monitor_id": "OCEAN_CARBON",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-d3d143f9470a81b99aa5f123",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-d6a47981e9f81aec372d9d36",
+      "axis": "author",
+      "monitor_id": "AUTHOR-14",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-d6fb3ef2b0375da98fbbcb91",
+      "axis": "journal",
+      "monitor_id": "Physical Review Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-d7fae588ee2d7a70712d6938",
+      "axis": "journal",
+      "monitor_id": "Nature",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-d8b3b22e63738521d13c9b11",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-d8ce24db627f176bd3d433ad",
+      "axis": "author",
+      "monitor_id": "AUTHOR-03",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-d9200bb4b0c13c6ebaedc6f0",
+      "axis": "subject",
+      "monitor_id": "NONEQUILIBRIUM_QUANTUM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-d9307435223978174eb31876",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-da3e95830b685b048dcb6edb",
+      "axis": "journal",
+      "monitor_id": "Physical Review Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-dc84e12d6bd81a4db2397710",
+      "axis": "journal",
+      "monitor_id": "Physical Review Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-dc97610cd4a767cf342569ef",
+      "axis": "journal",
+      "monitor_id": "Physical Review Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-df7ed6f68166be782ca38657",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-dfa98b79eada3cd894b7881c",
+      "axis": "subject",
+      "monitor_id": "TWO_DIMENSIONAL_MAGNETISM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-e01eddf5847e926b534e0c33",
+      "axis": "author",
+      "monitor_id": "AUTHOR-08",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-e02987ac2f4eeead0d44c2ac",
+      "axis": "journal",
+      "monitor_id": "Nano Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-e28b742b6f8025ae6e8b6e8b",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-e2bdfbd8817e9d1a53699039",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-e40c9423d3845abc381d52cb",
+      "axis": "subject",
+      "monitor_id": "TWO_DIMENSIONAL_MAGNETISM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-e47aa1ac3fad28e3c43b6e20",
+      "axis": "journal",
+      "monitor_id": "Physical Review Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-e52c4b76895332e6ca58716a",
+      "axis": "journal",
+      "monitor_id": "Science Advances",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-e58d621967b84c0b205cfbe5",
+      "axis": "author",
+      "monitor_id": "AUTHOR-09",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-e5cafdbf4094755c40ce82e2",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-e5cc51c072b8c4e244c75236",
+      "axis": "author",
+      "monitor_id": "AUTHOR-08",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-e5d9dd4818f356fefd5df42f",
+      "axis": "author",
+      "monitor_id": "AUTHOR-04",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-e817d9205b5f2eb4ba51adac",
+      "axis": "author",
+      "monitor_id": "AUTHOR-08",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-e8a0ab7775bf769b072826cc",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-e8ceee295c42381a17a44390",
+      "axis": "journal",
+      "monitor_id": "Nature Nanotechnology",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-e9ee7f887f576eedf840b991",
+      "axis": "journal",
+      "monitor_id": "Nature Photonics",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-eacfb95358d9b22bdd69888b",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-eb8e08f1471cc573e6b14f90",
+      "axis": "journal",
+      "monitor_id": "Nano Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-ec636fec3c334668687f96c8",
+      "axis": "author",
+      "monitor_id": "AUTHOR-14",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-ecc5bcdec0ce02a5ad0fb9e7",
+      "axis": "author",
+      "monitor_id": "AUTHOR-09",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-ecf09ffb924c73e03aacd488",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-ed35ceb3e211cac5c24db0ae",
+      "axis": "journal",
+      "monitor_id": "Nano Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-ed7727920e60db179d2e4aa6",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-ee6e7005debdef54d78f6973",
+      "axis": "journal",
+      "monitor_id": "Physical Review Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-ee725f2d6b335a50c294702c",
+      "axis": "journal",
+      "monitor_id": "Science Advances",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-ef29191fa0dbfefa6c8843ba",
+      "axis": "subject",
+      "monitor_id": "PROTEIN_STRUCTURE",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-ef950cff16e339a4658b99bf",
+      "axis": "journal",
+      "monitor_id": "Physical Review Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-f0478ce2ae5af011aedeeb30",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-f2d85fc95de116bf3e87047a",
+      "axis": "journal",
+      "monitor_id": "Science",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-f40df7177a058762f4b7c4f0",
+      "axis": "journal",
+      "monitor_id": "Nature Photonics",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-f43999abf611be31efeaa488",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-f4cc5ef8d74139df0c6a4566",
+      "axis": "subject",
+      "monitor_id": "TWO_DIMENSIONAL_MAGNETISM",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-f58b4436a426cedc34b33c9b",
+      "axis": "author",
+      "monitor_id": "AUTHOR-03",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-f592ed22ad6d4aa64d618298",
+      "axis": "author",
+      "monitor_id": "AUTHOR-01",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-f5d6796e645f72c3c0389b26",
+      "axis": "journal",
+      "monitor_id": "Physical Review X",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-f761146dfd7b2bb45f4e9218",
+      "axis": "journal",
+      "monitor_id": "Nature Communications",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-f9ae8e1f530d0991cb0b5f7c",
+      "axis": "journal",
+      "monitor_id": "Nano Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-f9b8938ba56d4901b34bc9ad",
+      "axis": "journal",
+      "monitor_id": "Physical Review Letters",
+      "stratum": "original_journal",
+      "probability": 0.0744047619047619
+    },
+    {
+      "case_id": "A-CAN-fd894ad338bbad8a697a2692",
+      "axis": "subject",
+      "monitor_id": "SOLID_STATE_INTERFACES",
+      "stratum": "original_subject",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-fda726e227e2cf7e651a6b27",
+      "axis": "author",
+      "monitor_id": "AUTHOR-07",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-fdf4a76c56b851fca31b47f8",
+      "axis": "author",
+      "monitor_id": "AUTHOR-05",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-ff17de9cbac72cc5746feb78",
+      "axis": "author",
+      "monitor_id": "AUTHOR-03",
+      "stratum": "original_author",
+      "probability": 0.2086230876216968
+    },
+    {
+      "case_id": "A-CAN-11db74ab142d1b4f7b43b5e3",
+      "axis": "author",
+      "monitor_id": "AUTHOR-17",
+      "stratum": "AUTHOR-17",
+      "probability": 0.15625
+    },
+    {
+      "case_id": "A-CAN-12d6dd105206c4bc6c404db2",
+      "axis": "author",
+      "monitor_id": "AUTHOR-17",
+      "stratum": "AUTHOR-17",
+      "probability": 0.15625
+    },
+    {
+      "case_id": "A-CAN-14c26f2bdc1f4a6b58cf31cd",
+      "axis": "author",
+      "monitor_id": "AUTHOR-15",
+      "stratum": "AUTHOR-15",
+      "probability": 0.2702702702702703
+    },
+    {
+      "case_id": "A-CAN-15de2eb9cae1339804f553c8",
+      "axis": "author",
+      "monitor_id": "AUTHOR-18",
+      "stratum": "AUTHOR-18",
+      "probability": 0.1724137931034483
+    },
+    {
+      "case_id": "A-CAN-263d5ee69c27b81e0d7d79b0",
+      "axis": "author",
+      "monitor_id": "AUTHOR-19",
+      "stratum": "AUTHOR-19",
+      "probability": 0.036101083032490974
+    },
+    {
+      "case_id": "A-CAN-2deb40186c94d377a66d29ac",
+      "axis": "author",
+      "monitor_id": "AUTHOR-23",
+      "stratum": "AUTHOR-23",
+      "probability": 0.11494252873563218
+    },
+    {
+      "case_id": "A-CAN-2e495649b151164eef1c46b4",
+      "axis": "author",
+      "monitor_id": "AUTHOR-21",
+      "stratum": "AUTHOR-21",
+      "probability": 0.4
+    },
+    {
+      "case_id": "A-CAN-3e769eae3ff76efe41ef5d2d",
+      "axis": "author",
+      "monitor_id": "AUTHOR-23",
+      "stratum": "AUTHOR-23",
+      "probability": 0.11494252873563218
+    },
+    {
+      "case_id": "A-CAN-3fc74e157ffb15c4ebc3082d",
+      "axis": "author",
+      "monitor_id": "AUTHOR-17",
+      "stratum": "AUTHOR-17",
+      "probability": 0.15625
+    },
+    {
+      "case_id": "A-CAN-41d55da41402a63da5d41b7a",
+      "axis": "author",
+      "monitor_id": "AUTHOR-18",
+      "stratum": "AUTHOR-18",
+      "probability": 0.1724137931034483
+    },
+    {
+      "case_id": "A-CAN-44f8fe956de022a626ede2dd",
+      "axis": "author",
+      "monitor_id": "AUTHOR-19",
+      "stratum": "AUTHOR-19",
+      "probability": 0.036101083032490974
+    },
+    {
+      "case_id": "A-CAN-47e30c26514e830d0dad2606",
+      "axis": "author",
+      "monitor_id": "AUTHOR-15",
+      "stratum": "AUTHOR-15",
+      "probability": 0.2702702702702703
+    },
+    {
+      "case_id": "A-CAN-49a6b1c853e6950f5ed48a17",
+      "axis": "author",
+      "monitor_id": "AUTHOR-21",
+      "stratum": "AUTHOR-21",
+      "probability": 0.4
+    },
+    {
+      "case_id": "A-CAN-4bfaf2584da5a96b8e8ed3b2",
+      "axis": "author",
+      "monitor_id": "AUTHOR-18",
+      "stratum": "AUTHOR-18",
+      "probability": 0.1724137931034483
+    },
+    {
+      "case_id": "A-CAN-4f54b50af3db3fec093aeaef",
+      "axis": "author",
+      "monitor_id": "AUTHOR-24",
+      "stratum": "AUTHOR-24",
+      "probability": 0.29411764705882354
+    },
+    {
+      "case_id": "A-CAN-553981f57d757c41a02293d0",
+      "axis": "author",
+      "monitor_id": "AUTHOR-21",
+      "stratum": "AUTHOR-21",
+      "probability": 0.4
+    },
+    {
+      "case_id": "A-CAN-587482adcd6840ccb36964fd",
+      "axis": "author",
+      "monitor_id": "AUTHOR-15",
+      "stratum": "AUTHOR-15",
+      "probability": 0.2702702702702703
+    },
+    {
+      "case_id": "A-CAN-5ac72f390ba1e27f948e530a",
+      "axis": "author",
+      "monitor_id": "AUTHOR-22",
+      "stratum": "AUTHOR-22",
+      "probability": 0.2127659574468085
+    },
+    {
+      "case_id": "A-CAN-721c3c77c63fab4b3c5e0a77",
+      "axis": "author",
+      "monitor_id": "AUTHOR-17",
+      "stratum": "AUTHOR-17",
+      "probability": 0.15625
+    },
+    {
+      "case_id": "A-CAN-78e58255b6658e158fc4a453",
+      "axis": "author",
+      "monitor_id": "AUTHOR-15",
+      "stratum": "AUTHOR-15",
+      "probability": 0.2702702702702703
+    },
+    {
+      "case_id": "A-CAN-7c407e7940e1985322a655ca",
+      "axis": "author",
+      "monitor_id": "AUTHOR-20",
+      "stratum": "AUTHOR-20",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-7ca310b0d297e5e4402849ea",
+      "axis": "author",
+      "monitor_id": "AUTHOR-24",
+      "stratum": "AUTHOR-24",
+      "probability": 0.29411764705882354
+    },
+    {
+      "case_id": "A-CAN-80993f0bde0d6020971219b1",
+      "axis": "author",
+      "monitor_id": "AUTHOR-21",
+      "stratum": "AUTHOR-21",
+      "probability": 0.4
+    },
+    {
+      "case_id": "A-CAN-821742ab0ce21d3b165c1e97",
+      "axis": "author",
+      "monitor_id": "AUTHOR-22",
+      "stratum": "AUTHOR-22",
+      "probability": 0.2127659574468085
+    },
+    {
+      "case_id": "A-CAN-8d71597e3375746f6fcac823",
+      "axis": "author",
+      "monitor_id": "AUTHOR-17",
+      "stratum": "AUTHOR-17",
+      "probability": 0.15625
+    },
+    {
+      "case_id": "A-CAN-8e5f36415b0d7b6b03140510",
+      "axis": "author",
+      "monitor_id": "AUTHOR-19",
+      "stratum": "AUTHOR-19",
+      "probability": 0.036101083032490974
+    },
+    {
+      "case_id": "A-CAN-9238a242363e038b6380197b",
+      "axis": "author",
+      "monitor_id": "AUTHOR-24",
+      "stratum": "AUTHOR-24",
+      "probability": 0.29411764705882354
+    },
+    {
+      "case_id": "A-CAN-93db17974be46e7e5f8f80ed",
+      "axis": "author",
+      "monitor_id": "AUTHOR-17",
+      "stratum": "AUTHOR-17",
+      "probability": 0.15625
+    },
+    {
+      "case_id": "A-CAN-9a94b09c11e4c3d502fcff7e",
+      "axis": "author",
+      "monitor_id": "AUTHOR-24",
+      "stratum": "AUTHOR-24",
+      "probability": 0.29411764705882354
+    },
+    {
+      "case_id": "A-CAN-9d8b9f0c0d87816e4b7aa428",
+      "axis": "author",
+      "monitor_id": "AUTHOR-22",
+      "stratum": "AUTHOR-22",
+      "probability": 0.2127659574468085
+    },
+    {
+      "case_id": "A-CAN-9d9a1c4475cfb2b8a8f1a79b",
+      "axis": "author",
+      "monitor_id": "AUTHOR-22",
+      "stratum": "AUTHOR-22",
+      "probability": 0.2127659574468085
+    },
+    {
+      "case_id": "A-CAN-a18c7fff2747f3be3d9e8ab4",
+      "axis": "author",
+      "monitor_id": "AUTHOR-15",
+      "stratum": "AUTHOR-15",
+      "probability": 0.2702702702702703
+    },
+    {
+      "case_id": "A-CAN-a7520b64d5c775a23eaec310",
+      "axis": "author",
+      "monitor_id": "AUTHOR-18",
+      "stratum": "AUTHOR-18",
+      "probability": 0.1724137931034483
+    },
+    {
+      "case_id": "A-CAN-a8646a0be2a6818d8b4504e1",
+      "axis": "author",
+      "monitor_id": "AUTHOR-19",
+      "stratum": "AUTHOR-19",
+      "probability": 0.036101083032490974
+    },
+    {
+      "case_id": "A-CAN-accac574a486fa9635cba22f",
+      "axis": "author",
+      "monitor_id": "AUTHOR-15",
+      "stratum": "AUTHOR-15",
+      "probability": 0.2702702702702703
+    },
+    {
+      "case_id": "A-CAN-b6331e6f2c04d4cba2139931",
+      "axis": "author",
+      "monitor_id": "AUTHOR-18",
+      "stratum": "AUTHOR-18",
+      "probability": 0.1724137931034483
+    },
+    {
+      "case_id": "A-CAN-b680a2d69635b02a2a4da88e",
+      "axis": "author",
+      "monitor_id": "AUTHOR-21",
+      "stratum": "AUTHOR-21",
+      "probability": 0.4
+    },
+    {
+      "case_id": "A-CAN-b86c6429c4d686646a9755d5",
+      "axis": "author",
+      "monitor_id": "AUTHOR-21",
+      "stratum": "AUTHOR-21",
+      "probability": 0.4
+    },
+    {
+      "case_id": "A-CAN-bd990ca002973de1be9e722c",
+      "axis": "author",
+      "monitor_id": "AUTHOR-21",
+      "stratum": "AUTHOR-21",
+      "probability": 0.4
+    },
+    {
+      "case_id": "A-CAN-bf4875f12907f3f358533985",
+      "axis": "author",
+      "monitor_id": "AUTHOR-15",
+      "stratum": "AUTHOR-15",
+      "probability": 0.2702702702702703
+    },
+    {
+      "case_id": "A-CAN-c026347abb0c5f0d07c03714",
+      "axis": "author",
+      "monitor_id": "AUTHOR-23",
+      "stratum": "AUTHOR-23",
+      "probability": 0.11494252873563218
+    },
+    {
+      "case_id": "A-CAN-c148349d2366a63c802f3e3a",
+      "axis": "author",
+      "monitor_id": "AUTHOR-17",
+      "stratum": "AUTHOR-17",
+      "probability": 0.15625
+    },
+    {
+      "case_id": "A-CAN-cdee5534cbaabba8c5c38951",
+      "axis": "author",
+      "monitor_id": "AUTHOR-24",
+      "stratum": "AUTHOR-24",
+      "probability": 0.29411764705882354
+    },
+    {
+      "case_id": "A-CAN-d2415270f38773fc33fa4244",
+      "axis": "author",
+      "monitor_id": "AUTHOR-23",
+      "stratum": "AUTHOR-23",
+      "probability": 0.11494252873563218
+    },
+    {
+      "case_id": "A-CAN-d2bda19953905a38efe82cd8",
+      "axis": "author",
+      "monitor_id": "AUTHOR-21",
+      "stratum": "AUTHOR-21",
+      "probability": 0.4
+    },
+    {
+      "case_id": "A-CAN-d65c80f6a0f6788f45a3d61e",
+      "axis": "author",
+      "monitor_id": "AUTHOR-22",
+      "stratum": "AUTHOR-22",
+      "probability": 0.2127659574468085
+    },
+    {
+      "case_id": "A-CAN-d9f6a63feb1cde86ec4ae4c4",
+      "axis": "author",
+      "monitor_id": "AUTHOR-24",
+      "stratum": "AUTHOR-24",
+      "probability": 0.29411764705882354
+    },
+    {
+      "case_id": "A-CAN-db9487caed6cf18d493fcf22",
+      "axis": "author",
+      "monitor_id": "AUTHOR-15",
+      "stratum": "AUTHOR-15",
+      "probability": 0.2702702702702703
+    },
+    {
+      "case_id": "A-CAN-dc740e75f568952ac9ae9358",
+      "axis": "author",
+      "monitor_id": "AUTHOR-24",
+      "stratum": "AUTHOR-24",
+      "probability": 0.29411764705882354
+    },
+    {
+      "case_id": "A-CAN-df03d3b475a2111837f10543",
+      "axis": "author",
+      "monitor_id": "AUTHOR-22",
+      "stratum": "AUTHOR-22",
+      "probability": 0.2127659574468085
+    },
+    {
+      "case_id": "A-CAN-e241cc5f82977304d81491c2",
+      "axis": "author",
+      "monitor_id": "AUTHOR-18",
+      "stratum": "AUTHOR-18",
+      "probability": 0.1724137931034483
+    },
+    {
+      "case_id": "A-CAN-e84a70ceeb7d243e500c8334",
+      "axis": "author",
+      "monitor_id": "AUTHOR-20",
+      "stratum": "AUTHOR-20",
+      "probability": 1.0
+    },
+    {
+      "case_id": "A-CAN-f14e4d965c26847b11e75657",
+      "axis": "author",
+      "monitor_id": "AUTHOR-21",
+      "stratum": "AUTHOR-21",
+      "probability": 0.4
+    },
+    {
+      "case_id": "A-CAN-f4d8b89ec23efa214f76fbf1",
+      "axis": "author",
+      "monitor_id": "AUTHOR-17",
+      "stratum": "AUTHOR-17",
+      "probability": 0.15625
+    },
+    {
+      "case_id": "A-CAN-f756aa224f2a5fc7adef45b5",
+      "axis": "author",
+      "monitor_id": "AUTHOR-17",
+      "stratum": "AUTHOR-17",
+      "probability": 0.15625
+    },
+    {
+      "case_id": "A-CAN-fd4f943e48f5b4e41bfa16ba",
+      "axis": "author",
+      "monitor_id": "AUTHOR-18",
+      "stratum": "AUTHOR-18",
+      "probability": 0.1724137931034483
+    }
+  ],
+  "sampling_design_path": "archive://frozen-round/revisions/review-010/control/formal-design-010/SAMPLING_DESIGN.json",
+  "sampling_design_sha256": "2b376732e01bdc553fd3fc5f769dfab84af5e4ee7fc35e40f572d9773958ea9f",
+  "probability_table_sha256": "0ca5c9cf35c16b66fafdd4f9ec2d05ed181ab06bbf68a9e42af20133edd0aa6b",
+  "B_engineering_cases": 160,
+  "C_workflow_cases": 104,
+  "reference_status": "human_adjudication_complete_three_unresolved_fields_retained",
+  "final_product_score": null,
+  "statistical_boundaries": [
+    "Report the421 evaluated-panel rate separately from any weighted estimate.",
+    "Author expansion has unequal inclusion probabilities; no naive all1351-candidate precision claim.",
+    "Authorized source/type exclusions are selection boundaries, not product passes.",
+    "A used preserved-source replay by the frozen product; not new live acquisition.",
+    "No exhaustive-recall claim; no globally human-validated-gold claim.",
+    "Keep overlapping and supplementary test denominators separate."
+  ],
+  "unresolved_question_ids": [
+    "A-CAN-30c14cc4117a8034f0362299:membership",
+    "A-CAN-4397157b8738a06f1b29d776:membership",
+    "A-CAN-6a23f8fc34dfc477ea03d260:broad_membership"
+  ],
+  "current_scope": "protocols/release_definition.json",
+  "base_questions_per_reviewer": 1263,
+  "broad_questions_per_reviewer": 110,
+  "combined_reference_fields": 1373
+}

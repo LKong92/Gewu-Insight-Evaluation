@@ -1,0 +1,34 @@
+{
+  "reviewer": "DeepSeek",
+  "round": "SUPPLEMENT-004",
+  "packet_id": "GEWU-V4-539D00D-SUPP004-FULL-010",
+  "packet_sha256": "4d23575048a4c49831825c7272666e6892f32be0db0f9830f75d75ce7a669f03",
+  "material_sha256": "ed9185173a919e897ef3666a8f497c0f4ebc707fac7dac6867ec868b6bd44019",
+  "baseline_sha256": "e6d37c9c082b3556fe323760d087da8ff5523f54855225fa09f2cf863e1c155f",
+  "actual_questions_rereviewed": 3,
+  "model_display_name": "DeepSeek V4.1 Flash Max",
+  "backend_snapshot": "not_exposed",
+  "client": "DeepSeek Harness",
+  "started_at": "2026-10-07T21:14:27+08:00",
+  "started_at_basis": {
+    "local_working_prose_sha256": "bc5dcddd781e457f6c12fa744ca4eb8fe8baaa1bd9212232933dade36446efb7",
+    "availability": "Retained in the controlled original-language audit archive."
+  },
+  "finished_at": "2026-10-07T21:16:06.089255+08:00",
+  "other_reviewer_answers_seen": false,
+  "product_predictions_seen": false,
+  "historical_reference_labels_seen": false,
+  "independence_statement": {
+    "local_working_prose_sha256": "3e9ce203a45b8791fdeb0523f460c5c261f5e9729756ca03d89d7b4b86c34bab",
+    "availability": "Retained in the controlled original-language audit archive."
+  },
+  "label_changes": [
+    "A-CAN-398d2389206ed022850463b4:membership"
+  ],
+  "model_name": "DeepSeek V4.1 Flash",
+  "model_configuration": "Max",
+  "recorded_client_model_alias": "deepseek-flash",
+  "original_provenance_sha256": "23ca37207ef2791d1e31026a1a24db21efd34a0a8f994768cb7a4b183613b2ae",
+  "released_base_question_count": 1263,
+  "scope": "Provenance of the source review; released decisions contain discovery questions only."
+}

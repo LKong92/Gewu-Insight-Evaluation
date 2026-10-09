@@ -1,0 +1,247 @@
+{
+  "round": "SUPPLEMENT-003",
+  "items": [
+    {
+      "question_id": "A-CAN-2718061dff3a4ae2a7a4bb4b:membership",
+      "reading_status": "completed",
+      "original_sources_read": [
+        {
+          "evidence_id": "ADOS-2718061dff3a4ae2a7a4bb4b",
+          "locator": "/displayed_candidate_descriptions/0 and /target_context/target"
+        },
+        {
+          "evidence_id": "ARAW-0700447886c05135aa4dbfb1",
+          "locator": "exact candidate row rCzfLUpcSPoC"
+        },
+        {
+          "evidence_id": "AFUP-4ea18fa4b20f1bb0d4713384",
+          "locator": "/results, first UWE result block"
+        },
+        {
+          "evidence_id": "AFUP-29e2d6c249c04bed06480af5",
+          "locator": "/records/11 and /records/12; exact UWE and proceedings captures"
+        },
+        {
+          "evidence_id": "AID-6ed104fbbe647a00ad30887a",
+          "locator": "PI/contact and Stanford laboratory identity"
+        },
+        {
+          "evidence_id": "AVPN-cd9d1b06403a294c17fc496f",
+          "locator": "entire verification page"
+        }
+      ],
+      "new_sources_read": [
+        {
+          "evidence_id": "SUPP003-E03-01-r1-raw",
+          "locator": "Bio in full, Academic Appointments, Additional Info ORCID href"
+        },
+        {
+          "evidence_id": "SUPP003-E03-01-r1-txt",
+          "locator": "Bio and Additional Info"
+        },
+        {
+          "evidence_id": "SUPP003-E03-01-r1-json",
+          "locator": "entire retrieval receipt"
+        },
+        {
+          "evidence_id": "SUPP003-E03-02-r1-raw",
+          "locator": "Background in full, Contact ORCID/Scholar hrefs, Conference Papers including exact candidate"
+        },
+        {
+          "evidence_id": "SUPP003-E03-02-r1-txt",
+          "locator": "Background and publication list"
+        },
+        {
+          "evidence_id": "SUPP003-E03-02-r1-json",
+          "locator": "entire retrieval receipt"
+        }
+      ],
+      "independent_reasoning": {
+        "local_working_prose_sha256": "d80d8feec7430623070b4d175784916c5cccb8d3cee68ae3854cfe7ce5231c88",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "remaining_gap": null
+    },
+    {
+      "question_id": "A-CAN-2fdf0f9218f42bd5d6343552:research_eligibility",
+      "reading_status": "completed",
+      "original_sources_read": [
+        {
+          "evidence_id": "ADOS-2fdf0f9218f42bd5d6343552",
+          "locator": "/displayed_candidate_descriptions/0"
+        },
+        {
+          "evidence_id": "ARAW-04743df7038d894d5759d8c5",
+          "locator": "exact Tiz5es2fbqcC row"
+        },
+        {
+          "evidence_id": "ARAW-147dbbda043bd058e03acd92",
+          "locator": "separate full-title ACS Nano entry, correspondence only"
+        },
+        {
+          "evidence_id": "ATEXT-4da84bc4a3c97f5c7a892518",
+          "locator": "article heading and first author sections"
+        }
+      ],
+      "new_sources_read": [
+        {
+          "evidence_id": "SUPP003-E03-05-r1-raw",
+          "locator": "full exact detail, Authors/Description and cluster href"
+        },
+        {
+          "evidence_id": "SUPP003-E03-05-r1-json",
+          "locator": "entire receipt"
+        },
+        {
+          "evidence_id": "SUPP003-E03-08-raw",
+          "locator": "entire single CITATION result and no original-file link"
+        },
+        {
+          "evidence_id": "SUPP003-E03-08-json",
+          "locator": "entire receipt"
+        },
+        {
+          "evidence_id": "SUPP003-E03-07-r1-raw",
+          "locator": "full author list, Abstract, introduction/structural results, final SI link"
+        },
+        {
+          "evidence_id": "SUPP003-E03-07-r1-json",
+          "locator": "entire redirect receipt"
+        },
+        {
+          "evidence_id": "SUPP003-E03-13-raw",
+          "locator": "physical pages1,8–10; page1 also visually rendered"
+        },
+        {
+          "evidence_id": "SUPP003-E03-13-json",
+          "locator": "entire receipt"
+        },
+        {
+          "evidence_id": "SUPP003-E03-14-raw",
+          "locator": "physical pages1–8 text; page1 visually rendered"
+        },
+        {
+          "evidence_id": "SUPP003-E03-14-json",
+          "locator": "entire receipt"
+        }
+      ],
+      "independent_reasoning": {
+        "local_working_prose_sha256": "8618982f4f115f9eabbfb38613cc52d830d9ca20ef43eff5c25a28349462ce78",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "remaining_gap": {
+        "local_working_prose_sha256": "40f5699fc06423bb8af042f17b1845c907a9b80ed50c88d63c7d8af852782db1",
+        "availability": "Retained in the controlled original-language audit archive."
+      }
+    },
+    {
+      "question_id": "A-CAN-15de2eb9cae1339804f553c8:date",
+      "reading_status": "completed",
+      "original_sources_read": [
+        {
+          "evidence_id": "NDOS-15de2eb9cae1339804f553c8",
+          "locator": "/displayed_candidate_descriptions/0 and /target_context/date_window_inclusive"
+        },
+        {
+          "evidence_id": "PRIM-PRI7-002",
+          "locator": "title/version identifier, full abstract, Comments, Submission history"
+        },
+        {
+          "evidence_id": "PRIM-PRI-005",
+          "locator": "Accepted Paper heading, Accepted date/DOI, full abstract"
+        }
+      ],
+      "new_sources_read": [
+        {
+          "evidence_id": "SUPP003-E03-04-r1-json",
+          "locator": "entire redirect receipt"
+        },
+        {
+          "evidence_id": "SUPP003-E03-15-json",
+          "locator": "entire download receipt"
+        },
+        {
+          "evidence_id": "SUPP003-E03-15-pdf",
+          "locator": "physical page1 text and visual; page2 initial author continuation; page13 full abstract/introduction; pages14,20,22,27 inspected excerpts for work context"
+        },
+        {
+          "evidence_id": "SUPP003-E03-16-json",
+          "locator": "entire visible-field transcription and caveats"
+        }
+      ],
+      "independent_reasoning": {
+        "local_working_prose_sha256": "24b9d9bb2eb0988ad9d5e80c41b4ac7809553e9145dc9944f0b8d670159ae29b",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "remaining_gap": null
+    },
+    {
+      "question_id": "A-CAN-7ca310b0d297e5e4402849ea:date",
+      "reading_status": "completed",
+      "original_sources_read": [
+        {
+          "evidence_id": "NDOS-7ca310b0d297e5e4402849ea",
+          "locator": "/displayed_candidate_descriptions/0"
+        },
+        {
+          "evidence_id": "NLIST-39329862818877f747996678",
+          "locator": "exact NJ774b8OgUMC row"
+        },
+        {
+          "evidence_id": "PRIM-PRI2-007",
+          "locator": "entire AMS abstract/conference page"
+        },
+        {
+          "evidence_id": "PRIM-PRI2-006",
+          "locator": "all7 physical pages via byte-identical E03-12 copy; identity checked against original bytes"
+        }
+      ],
+      "new_sources_read": [
+        {
+          "evidence_id": "SUPP003-E03-06-r1-raw",
+          "locator": "entire original HTML including exact PDF href"
+        },
+        {
+          "evidence_id": "SUPP003-E03-06-r1-txt",
+          "locator": "entire derived text"
+        },
+        {
+          "evidence_id": "SUPP003-E03-06-r1-json",
+          "locator": "entire receipt; Last-Modified retained as HTTP field"
+        },
+        {
+          "evidence_id": "SUPP003-E03-12-raw",
+          "locator": "all7 physical pages text, pages1,2,4,7 visual inspection"
+        },
+        {
+          "evidence_id": "SUPP003-E03-12-json",
+          "locator": "entire receipt"
+        },
+        {
+          "evidence_id": "SUPP003-E03-17-pdf",
+          "locator": "byte-identity confirmed with E03-12 and original PRI2-006; same7-page content read"
+        },
+        {
+          "evidence_id": "SUPP003-E03-18-png",
+          "locator": "entire screenshot, visible post date/author/#11/exact URL/quotation"
+        },
+        {
+          "evidence_id": "SUPP003-E03-19-png",
+          "locator": "entire screenshot, expanded quotation compared to PDF page4"
+        },
+        {
+          "evidence_id": "SUPP003-E03-20-json",
+          "locator": "entire supplied-evidence receipt and transcription/limitations"
+        }
+      ],
+      "independent_reasoning": {
+        "local_working_prose_sha256": "9ded118498353166bc91e7e8f8b01dfa6f16b6923b43021393828d61cdf7e97a",
+        "availability": "Retained in the controlled original-language audit archive."
+      },
+      "remaining_gap": {
+        "local_working_prose_sha256": "fa13c43f4ce6c4c64dc3f652d63ebbe27fdfe78db0122325199d10411a811e22",
+        "availability": "Retained in the controlled original-language audit archive."
+      }
+    }
+  ]
+}

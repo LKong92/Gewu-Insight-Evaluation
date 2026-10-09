@@ -1,0 +1,2785 @@
+{
+  "round": "TOPIC-BROAD-SUPPLEMENT-002",
+  "reviewer": "Codex",
+  "packet_id": "GEWU-V4-539D00D-TOPIC-BROAD-SUPPLEMENT-002",
+  "packet_sha256": "c8a60537eb76678fe6bcd331b00eaa1c4e3aaec0c4dd982acd0ac96fd18ab33f",
+  "material_sha256": "6c3a5142933a9dacef8529a6146497ffa442e382384f0d5f0c6345ab52932804",
+  "export_representation": "Structured labels, status and evidence pointers; free-form working prose is hashed, not represented as a translation.",
+  "answers": [
+    {
+      "question_id": "A-CAN-03311c05511d9fab67440dd1:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "8cb1af494a8abe03284878e6270a86a2f3b796e6c66a54b022ddadcf5203ee30",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "5685973d78a21e091fc6a95f09a427e53c77132141988f97f4511ae11aa1833a",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "6745d357c9a32fba44899a7a3438498e38c688b048354e865c6c343868e06dde",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-b54fc8e4e512eb65fc6838af",
+          "locator": "/message/abstract",
+          "fact_id": "F-2f78275e4eaf2470cb133fe1",
+          "quote_original_sha256": "7ba7dc6ac2de73cbf216a71c401316c76180c4ec5ef4d117a44dc891e7d2a659"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-0495a7a4ed432c1b60cd91aa:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "9a4583217af9449fab6c3fd5a749e7de37c82bc2ba600f66b5176a3a67df3f3f",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "707155aab3b402c6f00a050559a41d1ce7a89274e06c487b05dd7245e9f2172c",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "ed8c232deb58c33ce8b2717d942066808f361cacbac9895887852ec047957074",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "APUBLIC-87dd158cb371fbde42e2bb76",
+          "locator": "#Abs1-content element 0",
+          "fact_id": "F-2cc1e82e6359e6f493a9d5fc",
+          "quote_original_sha256": "4b071f6d65cb3cbe4e69953cd7b3ae9f946b7767b40863729262b01eb1cead6e"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-07aaa9502fb19d222da7a3c8:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "0ee9594ae8366866f453eb1a4c0217a4ae583c12b2fa8639f60607a6d04c15f3",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "085dc91928945f19c497cbe1fa1b9ec57a9fb98046d76e70e5dd6ba1d58445b8",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "196f3d0a462db9b6b219a10b3807edd1bba154144673262f52f6911a345108df",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-6b29b00072600f426929bf5c",
+          "locator": "/message/abstract",
+          "fact_id": "F-d23b2a53002a3814f0a8b171",
+          "quote_original_sha256": "d1a0f97273621da2870ab493e2c959ebe7405dda7b842525cad66cb41ab302f3"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-083bad385c31b6493802f350:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_application",
+      "original_answer_sha256": "209e2b2dd652ee2ddb09f194f6e5757e85bec344edbebb23cd98e3b6578a9295",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "5b6f61a58f8ce8a7d90dce1512310ecb7274bfdaf869047d99a890008c7e67f2",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "db94ef28e88e5d8672a98d4c1e033741e59b22d248171b62832d7c2ba83d0763",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-2e8fd7bd1e02ddc5a02f1e94",
+          "locator": "/message/abstract",
+          "fact_id": "F-79a64dbadca68f3fcd0bc66c",
+          "quote_original_sha256": "afcd9223ec39b5926684c30cbc4417404e2374ffd8f45b3b8a3cf88747815270"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-0952296e5e9c03c5f1116cc2:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_review",
+      "original_answer_sha256": "fd14e249c7792b20c3a98aa25e072723d1cfd1c6d544af7a0415a9a6bc85cf6f",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "90b70f04326f2ea551a81d1f3de180f81bb19f095a1efe461e60ecea5fd78a8f",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "a1041f6e6eac5a760c13567cff96cb8f398e4f646341fb29ee608e27eb1fef62",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-8a178f448f5110ced57c10b7",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-a60fc1c4d1ea9ba28790ef04",
+          "quote_original_sha256": "ce7e1b42b403a4809cf7928052d1623e886e30e030f4114a23862e4a362ebbbe"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-0a8d7aecf6b0f6499cd6e017:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "50b23eb54be7eb14e0073b6f8f620aa9eca5bad3ebf5537a13b0d7bda7b9af36",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "ba7d3e02a25e2a6901c28ad95e4afe18e7c74955cc62f99c8d96d7f0cfc85fa4",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "0f5698faa38a73c3bc4792462b13bbd8b2d574106dd95a6d72c5689b9e6a1cfb",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-401e36f1ce4093dd79bab632",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-cc35434eeac794da6d3c5e8c",
+          "quote_original_sha256": "25cec75bc9a649d64496749a32854d2a5b9a6a8a8e355fef9df26f2c2efaf7b5"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-0b9031f662c87b4172e9ffc4:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "62c6a9d5f85285a9fc51bfab07a12823c9c7c7545b94a2c59f9610be854cc155",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "aff1b673d6a7661b04ccb424c2dfd0bc00b293d68eb50157e5d36d56398e341a",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "e1c7f5e003170a84ba267467bc4c256799a04f170a50555862a8fee116ca21d0",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-94853ae8b8d0e1990321038c",
+          "locator": "/results/37/abstract_inverted_index",
+          "fact_id": "F-0e92c54acf46ddb19bd0c556",
+          "quote_original_sha256": "189090c09985378a759c40baf5afeb058ad12cc701c0385f8ec93360a4ac56c4"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-0c2ef16b0bcc31b112334d9e:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "f51d62abda5028d40cdf299d65672eef531d70591f6553feb2b93dbea063896a",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "65393cef116953e62acc0b579708064df144409ec3f689502416979c40a922d1",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "60ef112092b6fa6da304fb8f8258c5fcb4b36d4881e43680db81e3cd7b97facb",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "AREPAIR-69ca486cd08e937ec99c1f1f",
+          "locator": "/message/abstract",
+          "fact_id": "F-5fb98f336be98e52e1913739",
+          "quote_original_sha256": "f978b9a3ea94967b8c65dafe8ff8fcfa3ac85607c4b06e9eca42a9f9a11cc036"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-0c6b2ac098577c4af9d9ffb6:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "76984a89feb8d69092f6a98e948f13f30aa894084f58db5f257e77e9f7148833",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "0de48639aeab3286965b1e7b9266fcd9bce8f43c361f6279b21dd5e906ac0868",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "7f5f81af02b53fae9fc741ed8df2386d514c81fbb10782639af6b64fcee30d77",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-1f6910a76f82a8722b83e9b0",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-9246e4dcaca47baef57190de",
+          "quote_original_sha256": "418a37d327d09a9c08827386fa449f6fcfd72ccb550ac29d0bc618267e397a88"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-0c90e736526800ea25602831:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "7788a5f67884e30a8c0312caecfaf6733672357248bb0a31184dd50c27ecac2f",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "753da6b2f770da051afb6ac83d4a36958c967fae54e432e6f5d5e96ad7a5a269",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "d58d2eca0c24ee2861542ecc154eede99c3556381dbcf740c171a3d05c397117",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-2d0cd1654f0ab0c166f20b96",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-fa9b075620c000bb2dee2a13",
+          "quote_original_sha256": "cbaeb5eeecbe5ad0572fcfbfccc0c0ed87dc1b7c2d68affa79c382088a7d45cb"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-0e124e507002ebb6d5ff8941:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "3c06589b777e0970ee94fc8086b5d6ece1dddc6c0e08425d9a4104d4db1bde68",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "c9839d6e1385d44d47768dae225c026361804a471b1c9e5da23f883040d9e937",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "baffc35295edd97191d2662073d04f4fd6fbf08bc501dd8ec7ed47babd77bb43",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-02ab861cb50365f0a05c72df",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-1a7aba26402abf1be1ad005d",
+          "quote_original_sha256": "30920ae706c14cf156af6662881f187431774fa3f7c4407e01332c7619a65a16"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-101f5455f895b0ea51fb7c23:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "61139ae15d7aff5aa62327ebd9d96f6c1c8fd2a9ddcd1a4c2a74afb8c918851a",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "9c48002e9b8ca93c23dd5792d0a4d3f70451433b38e64ea485920ff14c93fb2e",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "9b0bd522bb01aa0efb38bd35a7489e2201113069a8bf57afd72d10f7d01688e6",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-a2eebd4c6d300c9fc90c4320",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-2e48097e5e08d20abf799595",
+          "quote_original_sha256": "a0ea0be700482e51f30730a9175afd241ecbfb65005fb047ff964a8c2adbfa72"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-10bfbff473e4d28894d2297f:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "cdaa80febce7cecf3db6da6b3a525a1465e4a18e7f79f6bca65761953547dfd5",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "d0ce27232376cf97f849ded4ce052b842af5aaca94dae7ddfc88458807df541a",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "4a95c19ea428507890bdbeb9c9b50af00b76ff9904591f51412d382d3db000ca",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-7614887dbeb8bb2486a5f9f2",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-e27e17805d69312a4f250915",
+          "quote_original_sha256": "490cf88c79e17bf525dcab057bdb848efde09f7f137ba1f8de637d19a0a5bdc7"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-11ffe74eb8c2dc870e9fa86f:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_application",
+      "original_answer_sha256": "15fdb29ed161facf6ed8016926cc0fcd44dece353202d611843630328e9f6439",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "3ad8ce330f322fa0412e0bbd87ff39600c159d956f9ddf15c3916d6f6128946d",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "10fd68d452daff9451f967bd279b5a3306ff3725496ef7add6b0b2c1a103c834",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-7aa0f5d60cb920d3b62bcd39",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-a529beee451bef7370a07031",
+          "quote_original_sha256": "bdd96753a066f52c9f3330b8b63f62436044d98e0025407207ec7db0a4b3cc86"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-1a4f21b13a9ff39a1853384b:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "274d0ea9366d955029f469dc9d5e98862a27fa38ec3cad99cfdd99a677895bda",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "d2b77e16b9d6463641c6bd9abb6db3ca0087fd8e5bfe629d391fba0adc8cffdf",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "f49c2721d6e73a256e0ec13a3dc298877fbdf418d56279a8e2f2dae9e1af12b9",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "A60-d2ba5bfefb87a58cd44d7b5c",
+          "locator": "/content",
+          "fact_id": "F-c6035d00c1e3a801028997b2",
+          "quote_original_sha256": "8c5b467e880cd6a49016c8c0256e622ca6ecd8cc0ba81384acca1ed56c9cd47a"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-1ac6d143554d2376f9f97e02:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "d741b5835f37ac0acea964acc530bc529751cd848412c73c05a24f83af204618",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "e02f62b47d7ce6ac9fe6c42bb4bf324a8f4e8c327555d01ba392cdf39f75a3f8",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "978dc50a9c65c10a3f51dc5faf468686d43f6543324df33b5ae17a9e78bf695f",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-812d3a8078a0a378c1d03d79",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-77af3a97868a36586285bcc6",
+          "quote_original_sha256": "a1ec4f74f67672129a507c37f8b9319776c60ca6ce56997b333749c5a5f9e408"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-1ce68880db020e9feb1bf321:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "d6af10ef828c1cdf5a401770978ddb2f5115cf67a08ed0843a4d38e2964a7466",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "ed29cf7421afe11eac88ada237de4dbf8371b58401a64fefbcc66e60ca3e1209",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "1bcf2268d4c3b42c9752904f22f73941b5aa39efd6e512b61806062304a06901",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-6af4f7103680755adc23bc1e",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-e27645b5fcb299fe8db57f41",
+          "quote_original_sha256": "df118bf519b57a98bdfa2a15d5efbe946091aeb285d38ed97c0e901156464477"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-1ffb188c0e23ca11815348b4:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_review",
+      "original_answer_sha256": "dddefd78da72d1b21e35496de1b19f96e9e47615f3313d306d1185f35f5583d9",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "f36547c47de6e047cb4120ce883828edf36505c573dbf2c178d671287f3693b2",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "eb27679dbc31d674718b4c2abfd2693287939f1091d28275b94a40990681ef7a",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-507403ff2b221859f4b5a2cb",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-cde5bcd5b1160423884d4341",
+          "quote_original_sha256": "16f3552e9c271bdc0f251d2ecb101734429778d559b847bb0dc11d0406c81590"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-205cfc568dd24a408ca55ea1:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_review",
+      "original_answer_sha256": "33b2f23783d4331108983f417093ac222e2c8691e5371d9a99a673bd0a6849a3",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "13e3e7ae7ca39e321e9b6adf523c3842f262ed7c3164bee9e6f9f3ca56f5f2b9",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "e8d172984441ce1a5b67d9cbd7355e6411b3e25395f8a7a38d547c9121d41ac5",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "AFUP-7ac11732f0e27be21cd1c5e3",
+          "locator": "/records/14/content",
+          "fact_id": "F-c153089a7fb6dc4f4a95b259",
+          "quote_original_sha256": "cba7d41e7c7ea3daa1a2b7dcbfff719fe2bcd0f0ace16e922605dff4067e607c"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-244fbe0be46a7fcd85ca8d87:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "33da64b03d4da315b24d45d7925ba5880df25d73ba9ae6a9671edb0149ad09cb",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "f6e749e4828fff8e69598611095bff76659bfe072c9283a08958b71bcb6523ba",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "9211e9414df6d830abfb1e23f7b9a3fe2bcf6b2fdca588490f9c93334c4929a6",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-c6b273a956a26ce1f475342b",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-1eb49aa742772341dd3532a9",
+          "quote_original_sha256": "8809420de27e6223d9c084ebedafd5680726e10d9c9e4fe78e9f31e153159f70"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-2c42db6a57c3c8497493b25b:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "07b461b99168009723150d45bc6f3805a199e40f1c82469e1c44dc48a617d25d",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "9e74620b5d2d9673b21667c1e9fea6b449dfd52171cb6c780203cbb773adb14b",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "427733dc19d81f96edbd04031dc9822edb9b254861d340ef98de7814604f78a5",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-9d50b737cc9be8fd7d14079a",
+          "locator": "/results/2/abstract_inverted_index",
+          "fact_id": "F-88861a4d114bf90451f34443",
+          "quote_original_sha256": "dc63e13e4f66cb928daf9a973bffdaff57dfb4b944c9aaed5c5a73397286843e"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-2cbba782e18a2bfc92a1731a:broad_membership",
+      "label": "yes",
+      "relation_basis": "mechanistically_connected_adjacent",
+      "original_answer_sha256": "a6e7e5502f0f5003bb9c4ceed6e048fed8ffb61d94706607c795db05914330bb",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "e04204091618caaa5f27223b5375a2d9364bc99843ccefa17785e40a766df2d9",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "1cf93e79eed18792b2daed6d5058b1c33729132ac18c53f8b4b32a3a41ca01ad",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-6fbfd8d6e4314f2f7ce55941",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-652285f4da9700ceb1f08ed1",
+          "quote_original_sha256": "aa7a576ba37b795a83f75df772ae99e0aab1ca7fe19892c4504226eb0ec48eef"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-2cf023c324ef2e522495f42f:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "3569d6c04e2731e23c2ae1434eae5961918db6797227241ad0dfc14b7ed819ee",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "d33997bb4c56a21dba8d30443f105a455e0b73a1c77b6cf25ea89e644349da8e",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "a470c0bea3d08c9440b00b8d5fb6db8e7389779b60a94088bd5260bfb342410f",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-5353904c3ac9ff88c74e7fe5",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-b25ee20e47bc3b7eb94940e7",
+          "quote_original_sha256": "d394ecb4dfa2213619aa95a20880e66692b0568076445c971c5df6afea810113"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-2df54cb6cdbd5fbcd475222c:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "6c348610705f0fc49459bb9ad74b2e66021be1090ef796d8612fd6e03088c52c",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "cf410446cdf5a3c48ae005f766861d9174dce471a0bc8957f572aa5dc1405bf6",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "c427731ee67fcdd3a7b8a718b22d296e9a43989420c8c5a3612b200e6170c491",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-0dee594a8bd0280e4493db2d",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-d5614833fa1206361f265a79",
+          "quote_original_sha256": "27a9b0579bd5e64a98be2a9317311a0696c734179f9dea07bd084628c42cf0ae"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-3019cca49594db03e8218a10:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_review",
+      "original_answer_sha256": "b5c5bdb8f1b0020851411e8ab690199b7aebb7bdeb09280ed13c9d9fc87d072c",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "86c1d55c5084d3767dfbb040860b9f093aeec97b56e10609380803a5e4397ed7",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "22e7a3ecc3ec985ebf80cbb7d1c090dd0fc040454ca3237809181b2aa6d4d8e5",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "APUBLIC-cbc01c016c66830a42334aab",
+          "locator": "Future perspectives > Structure-guided analysis of Orf6 stereoselectivity and Orf14 catalytic mechanism, paragraphs1–3",
+          "quote_original_sha256": "4c4aa57fbb904a98c31cd88cb2a833dc2b37a9abefba8e84e810b200a6bf0660"
+        },
+        {
+          "evidence_id": "APUBLIC-cbc01c016c66830a42334aab",
+          "locator": "Future perspectives > Multi-scale integration for predictive granaticin engineering, final paragraph",
+          "quote_original_sha256": "12b6803eeb4e17ee80bdeb7f38f6d35bffd4d45b6c2384da1791d6e2f2951226"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-30217bebd1d7b2bf6e18fd96:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "c4ff168ea8049d8c901448f956b423fc0c122054481dc87637e6a477c1ed32de",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "f1bbb0e0b580e24249d35c419b1cdf6f72c3b6006bac81d84db2b15dde63cf51",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "2dd55dd0e45e68dd5e313ae055c6e77248312591a06e57be4a398060e7e97414",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-787fef4b10c362a3a2de2c38",
+          "locator": "/results/41/abstract_inverted_index",
+          "fact_id": "F-01f943c7f6ec48651743f2c3",
+          "quote_original_sha256": "7533a43fb8d29f65caf121e257b24d019a9edc9241e3f83f3612da4e47889724"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-3281d631a08046fc62520ff2:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_application",
+      "original_answer_sha256": "d214d6cbd44feea79af3fbee1a67c336da5b3fe45c7b4feaebb18cf050f622cd",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "dd82197822b7638a6afcb29e0aac436f1f29dacfbe16fdc119f21df3c5635f82",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "42504858e2df8db30327c061d494edc257285fb3fd21ec2694ed58b08d69901a",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "APUBLIC-93ca6e7d67e68f43451cecfa",
+          "locator": "#Abs1-content element 0",
+          "fact_id": "F-b9955f8c3f80cad4e436b610",
+          "quote_original_sha256": "944f2c7b08e7929766ef3a0b217b52f27b7344828bf19f61ba94b785bc075c9d"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-333fa2fced8c91574719c239:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "b1ca8302b5a4755880a3e234079450c711932e3a50b9d536be22e01e27fa6be4",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "b021209b6f7cf5f0420d6b2d21272003be84f8e52251e525a6da7de6a23e5820",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "b60a3d5f4a44cf7e9e456c8743d1c64ca47d240c85d70a8c589f6851157330e0",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-978be22c2824c6bb64d6a3aa",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-d214a0cd87a0f1a17f2f2fea",
+          "quote_original_sha256": "62258e48feba554c819048a3df7debd3708d7353362a5c9704d8cbae443c4268"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-37f43cf487afb11fbf025fac:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "e4dc7602f25983a2b0bb1c982c464c0934f7d171ac52fc69d4745cd63a0c84be",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "36f373ac53cf62d85e6a05c1f6decd59319981a2a451b246c073755c3e72d0cc",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "b40cc5ec2347941417303e3f31e7f3fe89c7818d7d5ded18d3cea300d80faccb",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-feabecb97ad9d14db1d287d0",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-7e405fc6fdd343badcb1629b",
+          "quote_original_sha256": "9998af92d95155541b427a5da2b62c366a2cd1bef573a2ea3021555187c4ffd7"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-3d4cc155fa9817192b68a55d:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "9eed51535c36704a3d7cd6dd2eb71bae071b094d27e044ddf5d3c409a8df4021",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "873a75529c88a2a9a57492db76f2d8cf0cb06d54816801b1038ac22be4cebe9d",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "65f6175b50e7f163b3580d6cd2fd3c35a338f79b408275a331f154f89b205292",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "APUBLIC-6019dec61a12b78fe193dca7",
+          "locator": "[id^=\"abstract-section\"] element 0",
+          "fact_id": "F-d107ee101187d0d9d51da422",
+          "quote_original_sha256": "04575797d1b94aa17f2aaea596bbcb04c10a925306fd2eb1fa42addd97d26557"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-3eb176145a8c34cd27906626:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_application",
+      "original_answer_sha256": "9e71e5289506f5ccf3bd07e00c634a2adb03ccdfc377224e542850ccb37ca7de",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "abb3027dbfbebc74b3b32310fdb808bc25ed38bac697e67250cdc84cc817d656",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "e0c9fb25059be14611654780d17306703a0d85491140fe847b324ac8da66235d",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-b4821482d21e4c8f4ddc1128",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-075b414cc13b6ad732d68b71",
+          "quote_original_sha256": "b538ef0002a445fbd5f0ac572407689b4878be069d704452bbef73dd45ea4488"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-3ecb03f568c4b0a5356a2c4b:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_review",
+      "original_answer_sha256": "34e3b5035048db2f433544ee7f066407a0bca41528067fa81cbe8ad21a316cb0",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "1549bc254b6e7d77d73019fa1f6e196f071621bd99b27bd15f792e23e702c662",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "a9905a56229e103a842f63d4f871f002c76fdaf5731a357f88385e51cd265674",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-592de4fb34f86667f6f39066",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-f78e338ce6d5760c50285489",
+          "quote_original_sha256": "4e3dec1942873b0d94fdcde2ab1ba77a2216089eed030700a10d4974e65e7033"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-41459ffb22a2da14a985a8bd:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_review",
+      "original_answer_sha256": "6ec83ba857f705a75e28fa6d128d02354ae1899ea83df421240583694df10129",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "dc0b49376e75e72e7bcd977a6c5133160ee1dfe8ef583f5e4204a6ed4ff7145a",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "8552a39e47d41161047c35dcae5b2909ca22333a4fa5564eb927c2467c7fa1ea",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-29613f81181ed510d6da5537",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-47cb2a7eeed446d53e303b1b",
+          "quote_original_sha256": "65631176b1a55a338d8817d2df957eb0385d203d44aaeb44645c20d83ddd8868"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-4181ab944c85458afcb439ee:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "a76ac4428adc3000886c65e2038b9cce6302920fbda6e5042a30419ee8596e7c",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "5f459179d51ccbbc137dd7365adc1b87246983626f9a3cc086aa792a26e33dfd",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "d309dee1f90c370c004541db52446feb17ba72abe8a142c954c8f3f403517c03",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-081b32a613b427a5b394aedd",
+          "locator": "/results/35/abstract_inverted_index",
+          "fact_id": "F-9cb010b2d21143397c55b35f",
+          "quote_original_sha256": "cab12f3cfe19e0a7cad050d1258cd449ee0c406c22dc969badf05efdb5d9c999"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-455b1b6e83951ed3d8ec2062:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "45adc9abc7b12600296370706d69b31f190b2f67f7293db7a2320300483e0d84",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "fb256d5e0eb0dd4d723bb1e13b5f74028d82174626126874f28a5874f407fa0d",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "19914ebbf58a09b3db8d8a2dd86a28544c5dc9bb375ae7f6d072aca6fad98ac5",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-c522bea3ce31646f1cd7c2bb",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-53e0185e0decb8305e817662",
+          "quote_original_sha256": "f3b6c6f0a00fc3a4eb21e91671148fd56f8e36dd3f68f79c6b708bf0421e526e"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-458ec1f9de0e6f1ca2040544:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "3d9d51ed0b47d713a965c772a3a1f67e5fed1056a029cb60d480b11d0c59fa21",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "42c881dc8f34d85b2ecacb5e1f2c386306b9552d2e45938870a3953a4934b5c3",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "b25657dc3ee04284b23d0df9d5758f3da8c7a5d5f55d4cee08d38cb20141cfa9",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-8e90b961c1f46f483c34fdeb",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-0d45ee3941499e21d7b9c08e",
+          "quote_original_sha256": "ed3882af5708715409b9197b5454219c5db675364ebebdea68560d75aaed72f7"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-489b62018ddb8d9e41601c27:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "94b86a171f5b67bd7b890136050e8eac8632a5882267b352feb45d5f2c5fbea6",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "7d998bde69775a17e35999af84889d2b037fe9bf1e82bcc3359bcef665b4ec32",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "7c14d9eeb40080a6fdf1ba57d9bd2dff501ad2e8205610f803be0bb81472ef33",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-692099ed8348ce8c6d99e52f",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-32de88676a37a87ba00623d9",
+          "quote_original_sha256": "6071e25bb7210af1ed124d97813c0c9054b9893a3d9d0a9e204a37a61d125ae6"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-4ca26c75e68cef51796440dc:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "d46bfab04467b9cc33bdde8f95b602eda75371073b0b53e419bca5709ff5f680",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "fdaee175e2c3f8f3970c19b1e0309963790131bee65f88b024a2c585c4af5f19",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "3ddb9dfff0d4c2b6d9cc098c30b050b91b1a896349e7950910bf7bfa70c3b964",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-0e9afe338b8431de5fd4b53b",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-d26225b84b8cbf77e5ff0ee5",
+          "quote_original_sha256": "dd43c4d041f3a33399d126bcd86bbcbdcbd86b2e49f63dca1dca62d8434a6dca"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-5295f3b1d5790c55b329ac8f:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "aa1f3e5f45be269a82ed691be28b8b69cd54aa6763957036521fdb0e493b4700",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "3a5ee3e6fd665e6fd6e27e9ad9a7fb831408d20883d174f41c5bbf774119372c",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "57a09c3f1da8dc41b01bb1c5487936dc98a2296e45d8d29b8540cef4cb21aa8b",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-66a25b8d2a7a737bfdf72be6",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-ffc526e42695f1f4567654a9",
+          "quote_original_sha256": "ad16a53713c794896ebc328f9dcd17e293bad3dad331bedea80234d355658e53"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-535af6e4ebbfd3d27d8851b7:broad_membership",
+      "label": "no",
+      "relation_basis": "background_only",
+      "original_answer_sha256": "d09670e111fdb13097642b08123b435919447e8875a88e6b03e20e9b4dcfa400",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "3ff4adad21e72fcc667692c30ee0c7d033e5547c06832b331557a75bc032c60d",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "9a9c9fef26ac954d842f9c8d824e463051da1f33cb0f8497d49d448564425964",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-1b7e17349805662a04b5eb45",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-7b2c8e768e7a93f9acfb0d30",
+          "quote_original_sha256": "fd815facd2bdde6a4e1d7d8383336d58428e68580c17e69d0510d4f5a73e9997"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-53dcc3b5ffe7828c77ce9830:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "4c0ea912a2fb9b9f230a0f0e625223b62870ea280d802bf322964d55c06a57bf",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "46f61b5963e33d497c5e91c9d23009de27ce3adb34eafb1bc45ae6495d4084ec",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "05e57c0dd4843dc74d4caa497e06c0b95cf60a13855219e1a3ff64622056d4f9",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-0b9905573c04f8fea37064da",
+          "locator": "/results/42/abstract_inverted_index",
+          "fact_id": "F-7b1c3c553df6033b4a1d9005",
+          "quote_original_sha256": "2c55c6d0dc59321df0f5415a6876345c1036b39b03eaf4b8d984404937af8b0e"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-546ca40ea39b00e187ec6147:broad_membership",
+      "label": "yes",
+      "relation_basis": "mechanistically_connected_adjacent",
+      "original_answer_sha256": "aecdfb3d9164698188dd6fde3f849f8b9f93149a992fd262a5bcb0e71562a9ec",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "0fd0a0a57f8934e2c6020b30b3b0177c8fe274348d816bcafb22a160bcf7e0c7",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "0f20b747765db983f4b12541c3c8073c66e39a956ebdd456266f64724899d85e",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-5d0f083e04d8dd32a72dd176",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-81564ff473d47e20521a6753",
+          "quote_original_sha256": "75e29f5e9bfd0284c768b9d10902edf35d1ca4758d767165ad6b5a2bf008f5cf"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-5612bd466cde8f7799c2c3a0:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_application",
+      "original_answer_sha256": "be0e26d95c67bdc072f3b423847b3631117883abce049317510f903903498d77",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "899c054c513a70ab9de609d74d88ff7984ff23f8177f9eff691312d263e18fae",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "10b107c949f3c9b2eca7cf5f91855b6205a3fbbd888ad921f3539014c47eb57d",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-30c921d25e98fd435b597cc3",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-14ac61cfe9d388fd3d58e7c7",
+          "quote_original_sha256": "ba1e23d67a6b659b1af396114debf8b723c4efd31516a3c9c4b22c05b2ab1943"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-57049cde7388c86e19048b50:broad_membership",
+      "label": "no",
+      "relation_basis": "background_only",
+      "original_answer_sha256": "7f5614b0911bff27787b5e81d58e55fa988f6e52762f621d94380640ffda6b1e",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "71309539e060caabb7a51f57ed914ea2e44c2c9b7dbe9c56a84d154390413d1e",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "489a24f8d71f8518e0bb6641093ca44585f49c90ebe57d9e8e622748b2d90997",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "AREPAIR-b6d699e7c233af4e480e52e2",
+          "locator": "/message/abstract",
+          "fact_id": "F-16c98433988b665812b27aee",
+          "quote_original_sha256": "499cd12bf2fb54112ecc4dc6da46b467704ac90e57994ff0defda33bb9eb1747"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-574e3b29373cbfa2636561bd:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "393e9efda13f4b3bfa856dd4c09f89327f29f96b7dd448200914ffea174574b8",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "6d7de958f9b8551ba217b16cc89ce0c9aef60d05a422c39973e74a9ef98894d9",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "34c2f836163ded93c3bcc06cd85aaa03d15b0a701e42e8d3b98c33ef88f6a444",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-a4e6b2bb00132108a85f4f97",
+          "locator": "/results/7/abstract_inverted_index",
+          "fact_id": "F-2750c78a314821aef35523f1",
+          "quote_original_sha256": "d023307618876a5c5c1d787c7e7909bff13cca6bd4c57ccd34ed2ca23c67b23f"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-590a942005daa4a2bbaba2be:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "dfaf05c29b3da1ac92110aea70aea03efa50c1e19f85cf2150f966ab30c12011",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "c5fe34cbcf4c764b76024d315194fcc37612a19d401a3c5fc6bafd41a436819c",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "388eb80327c44bc5bbc6ab6494d35d3a54c104924e9289161470759f21cb8b09",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-8013c606442cce75bb9426c2",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-3579c8d8cb9d60524f8044b5",
+          "quote_original_sha256": "0433eeb47178f4240c1c6f0fa6ed7ae93a4f782aa95f5bd45c54ebddaa52dd06"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-5a04d0c98b8e84bd6f6a79e3:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_application",
+      "original_answer_sha256": "bbe89a35dafcd00cf3830d36b297246ff11629b12b22262377212bb054e5f066",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "119a116b8ea8a724e4517cd359f8d684e2bb152dab2e54da11f0693342a7481b",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "979223a887a6d08770a75db1cf44a56cc2733c7ea80690d9b027f224393fa158",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-d3d39b3c79b6f7f288244c46",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-4af865c424dc3bf8ee449841",
+          "quote_original_sha256": "bcd8384731b3b9abb028972ead618ee55a33af25cc7cfbbba6857a9ac03ba355"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-5d5939d99e42063b77714e86:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "aec67dc4fe899ee382104f5c95c3517c034f7d5556383f58b9083c07f0692faf",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "7053695c371069b3db0ec12cb84da24bd0cc1fcb3233184ae9cc450bd77d7539",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "d1932bab4181636d5aea71e101386b3fdf16148aafc7435cd0c9c86650fa2018",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-6d9a073f8848d376bd94ee2e",
+          "locator": "/results/17/abstract_inverted_index",
+          "fact_id": "F-8977631e5ea2fbbb8a27da61",
+          "quote_original_sha256": "070f7002541666db1a81b155ddf6c4659418074dd1d2c4623ff12dc024da19bf"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-6002c50468b71aa9787c5035:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_application",
+      "original_answer_sha256": "32a29817d625204e7f0f5b5ce45ecec2482081b4818252138e0e16235f9e97bc",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "9867c4a4fa781dd4779ba6871cce74609eb8e880d01f97c8b6d3f38e3f811fa5",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "5098bbd3f3735ff03ba7a331a44b92640c4981620a266b29fa5ebc048a0a8e15",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-04ae9bb18d0caf8cde1e2dc0",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-162609df130b73b6e2b07900",
+          "quote_original_sha256": "ea8c05cad9f0fc1caa9fdab255d486d04e0395b65109542cb0f3753fda435fa6"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-60bb4c2813beac555310eb29:broad_membership",
+      "label": "no",
+      "relation_basis": "unrelated",
+      "original_answer_sha256": "ad409b0ecf7501d16ac58bb0ce7a690872e8c946793653b2aa8caa3f3036028c",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "ecdb84f60a4edefd1e174e6517f7673157e2966c81d420e4355031881f5a7036",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "33183d89b94701736bfbe3a4113550fe23088bfbea7754234ee0e02b195389fc",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "AFUP-a89a7a0047cdbcd3c195988f",
+          "locator": "#comment-body-305391 element 0",
+          "fact_id": "F-6b896a9b3c384aafcb4eb596",
+          "quote_original_sha256": "14f3ac7a7e9c5569c48d75ea9809478d46ccd5e155722aa69570c31d90dd95e1"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-65b73d1227d88d81b20558a0:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "34136567340c8b904ef475dc2498bc5b9554fab4ecd3c84cd6213498d23a259c",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "98de5aecd2a6a587851b0d87086830b1998d7f445ac5ef17461eb5ad6e057371",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "991c368f9d5acb4243eab132a9574b077fdf4505f2a89c324b8360888791dbaa",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-771ec87cb39f986faa9b7137",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-4820d52da9d7d22ce20bfb42",
+          "quote_original_sha256": "fd7b2964bbe6e3fe83d1988e46eb38312c4ea41eb6c51148fa33aa2c289b11fe"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-69949c76b0b9f8ea3f025df8:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "f2a1b6652a25f6ad4e6f6ceff61c728beef014a65c372db8712abe91fcc02b36",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "84f654102c5a0ceb2598586943ce11bc4068566d440142a2553c4abba6f7f444",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "fda28a2d58b1a9016c1e8e675f5028e840ac2207f11cb684bf1199dec78d235c",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-f0012beab74126470658bbc9",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-cff7baca083842206ae3b0a7",
+          "quote_original_sha256": "ba77686ef4d22dfb32e8daf39d3b788bf5961e3eaa1dfc61437aa024a9d5da66"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-69fe0e3f1a8f911fa083e40c:broad_membership",
+      "label": "no",
+      "relation_basis": "background_only",
+      "original_answer_sha256": "e53e7e51afeac129c29a7761f282aec5169fe9c48594f833abcd544cd71bca38",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "8d31185d4ecd5063def6179d62dcd5c9b9707343678e1215ccb50662ead37786",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "721056e3f9017ef594e0e7a418b40fd73ca6bab5d8201303c894a8b0518cf73d",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-dfdd6a1803c5ba8ef6e5e574",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-47dcef7edcf0eeabf668aba6",
+          "quote_original_sha256": "31ab3f847111dd500eb89e02f4f245c0d4b9a17a28c8f227e56fb1107b69e811"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-6a23f8fc34dfc477ea03d260:broad_membership",
+      "label": "uncertain",
+      "relation_basis": "not_assessable",
+      "original_answer_sha256": "a90073217621b5cec0441e86ebc91aab5276d7c351fe33f3d97c6282974420b5",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "413163d1c0c6908db90ea5fa82c8089584e20fe8ceea4176a827c123bc812e39",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "d5b74d1a292f7298d104db26bc7b6f7f32b274a06ad501bf52cae769943bb934",
+          "retained_locally": true
+        },
+        "remaining_gap": {
+          "original_value_sha256": "9ade9ce448cdfb3a0b59782289e9ceaa61b11898d4311a18f9495aebc94b5750",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "BROAD2-7620ee096ea407b73c74e22e",
+          "locator": "physical PDF page2, complete structured Abstract—Conclusion",
+          "quote_original_sha256": "f3a65f8b42d4204695e101d43ca3e777780d72fbcaabb7f2c9b805af6b621184"
+        },
+        {
+          "evidence_id": "BROAD2-7620ee096ea407b73c74e22e",
+          "locator": "physical PDF page2, complete structured Abstract—Methods",
+          "quote_original_sha256": "fa57cb9464ad3405d887bbec6b568cdbc23145c691291a8219735190aaaf4724"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-6a8662b0b91673f576715312:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "4b8d2e177c2558e146e041f7f4e933a97cf4c996a55f034cbb217c9eb4e86599",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "8ee1493fecec69533eeecc122eba58807e554d52a8d4f509e6259a9785762f49",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "8861df596570bf804f5df44ca88a5d76a46564e9f3712a9b09ca2540c507dab4",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-02f3c3e75de745859146b73b",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-f8a418bca5bc78542b616c7a",
+          "quote_original_sha256": "20feeb68355ebc157ab8bc43d77e8ed07740929c0d23df2149a6131e5fad3be8"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-6f4b1f8fb5ebeac9c3741634:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "7dad1dbe3a3e4bd2c08913359e4b64a62b3630cf6e6a2cccc1c28a11c05ae5a0",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "d980505acaa39800d3390569922bfc81decead43a964bc944b5c06dc7d0db2c7",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "58eb4205f91fa5fa71e2a9140712e19eedb9d065eb325a9b9a88038381d0cedd",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-2d157361a930c1978c16cd26",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-45913436edd41bad2ad6ae09",
+          "quote_original_sha256": "c983dbb41f538b4a2042c16ccd8e4d45aa08516a7af7fc065346432e6436a8e0"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-6fe5345cad042228eeba84d9:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_review",
+      "original_answer_sha256": "048fe8ed5e970764bed011df2787c16c8be9dadf016995e6505730fe2cadc03e",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "08147194f106557a07e524910902ffa936354c5551551fc65363657d872a0c90",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "ca724ed0ee34eafba865402607178a6c4e2637c75de5543b3c11e6ff756848fc",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "BROAD2-778bb8d410a1d7c935bcb771",
+          "locator": "section4.4 Development and optimization of auxiliary antibodies, final paragraph",
+          "quote_original_sha256": "7eb5e42b07fbcd67dca34a79fa9dba816f06d5ed83e7906dab0406542aea07ca"
+        },
+        {
+          "evidence_id": "BROAD2-778bb8d410a1d7c935bcb771",
+          "locator": "section5.1 Drug discovery, protein-structure paragraph",
+          "quote_original_sha256": "725bfff283bd9b245b9c15c6d203a7b3eface8a2ec085121303c461cbbae38d9"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-70d178d6ed6cb3f882428168:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_review",
+      "original_answer_sha256": "6af3452374a6bbcda95489f757ad38663dbfb9f6bbb8bee65a3ad49941bee136",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "3f73d48d72aec4bc919a8d1f78308ae223223860d90f0c5a7f443d090807f982",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "ffb9c0b504053552fa905f80e2053228d7b44527b869d7c86504433d564e9fdf",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "AFUP-7ac11732f0e27be21cd1c5e3",
+          "locator": "/records/13/content",
+          "fact_id": "F-a1a5ab69c7096ee2feb77232",
+          "quote_original_sha256": "e9c535d6ea287bd3593922f571695bba3a7cbf6a2a2188393488ce7acde6d9fc"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-724acab1105d7daba567e03f:broad_membership",
+      "label": "yes",
+      "relation_basis": "mechanistically_connected_adjacent",
+      "original_answer_sha256": "182f0127509d2f4a1966aac814466a974c80daef24892a6e9301d231d2abe05a",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "fb61402d99b5fd826dee059219a4c84e49a0fafff0413f877eb29acabf2ba9e6",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "f4c983a8fc73b08f25eb294b41c6ab3cf2b75905d22b91624794474f8aadbcc6",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-8fc4a5a80f278930750f3128",
+          "locator": "/results/12/abstract_inverted_index",
+          "fact_id": "F-fb5f3a345f3d36f62a6732b7",
+          "quote_original_sha256": "bdbfd32077941642de7293b17b6bedc3031209ee3e57d40b1563b8a462d86b71"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-741650fb746db92c5e383287:broad_membership",
+      "label": "yes",
+      "relation_basis": "mechanistically_connected_adjacent",
+      "original_answer_sha256": "17bd2fae8890aa48208757a04891f71720b05dcc1fc443a30c800f609022c110",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "8ac2bfb510f23c4a79d270556729efc8419e4533512632d193358b1d90628e47",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "37afd40786bf23c0d1db19d72547a5b3d6682fe27201ea9bdde9e3ac28d7d080",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-216c24359dfca5ead40cc40e",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-7363592496afa1a2166de2c9",
+          "quote_original_sha256": "05b11a2c491b4ff5b8dc8eba6643016e1710c5e9d241b663496827c60f104cbb"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-7ae9cdab5634ab82043707b9:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_review",
+      "original_answer_sha256": "cc324341353131c69336e3c0fef9fdacdd33bf594f5c668ea500bce0789b7393",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "14f9df09efa8992902baff393339f99ee63706fb3ab16d90afd48aaf12acc91c",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "a744ae562b5e20a798dbec56e45b324b07e7f78719865e21e6c181cd061c7805",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-c4c7a799a8f49e0f3311706a",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-c9da9ad2548567cc156bbde9",
+          "quote_original_sha256": "f48dedf293b3aaa9558781befece188ae921500c602931dcd0f5458cf533cc34"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-7f813d8a40660f0fd4d34fd8:broad_membership",
+      "label": "yes",
+      "relation_basis": "mechanistically_connected_adjacent",
+      "original_answer_sha256": "dc2e97395e7df2a838ddd0320aa6f172dd017663226fe09a2f15b5857e0cb8c2",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "bd9d32066592dac44dce1ee261d1d24fee5c635ccae470724b21b6ca44b06f37",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "b28eb118a235d76d3814c6b4e782a8f5bae8f6d944da750185189c503e57e43d",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-8bbaae23d2e7b391e6caf202",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-28ecdb1a080a48fb31cf6868",
+          "quote_original_sha256": "cdc674127fbc969dafc0023aa5038f8623d15272dc76fc68e42cd216384b2e60"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-857868572899a9b7cc6dc202:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_review",
+      "original_answer_sha256": "0b9ed9a53921e47a23124d63442aee5a0d3abfb2e03dac178cf91806b8d7bf7c",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "5e60f77589d99f21e4ae5e0f9afeb1d2862cd89d6a87ba6b99f80210ccecc065",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "5f3d55ca919eee8a7405db839431d9802d05f09da1c58b6bae29382ef1c13cbd",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "BROAD2-e8fabd5339783652a04dc7a2",
+          "locator": "Perspective > Deep learning for protein structure prediction, complete subsection",
+          "quote_original_sha256": "0f7c5afb79daf1669582a48bf88a39f4c91182582970dff50f8c6138e1723080"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-85d5898588a5a0cfdd39aa0a:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "7d649b408de1890601f9bab9d1fd709776e1586ccdcc6ec21eff0ce879cda518",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "9bd491d746f41a5c702a62707984357a6d5b6809006b8fa0a2f13e935b66ba7e",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "e9d6d606510b2f2e082f31396cb6b5b8e9b5738a6cb6e274e801cdcc06a63a10",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-bf6ec561a6e08d80cbb2dff3",
+          "locator": "/results/18/abstract_inverted_index",
+          "fact_id": "F-a2b84f0c4e0887e89e34a5a1",
+          "quote_original_sha256": "5bfd54de8b120b3e7b02c2753a134ff1c1d15c6859fb45fe7ad7cbbe50093f11"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-87336ae9ac247efcbf1e12f2:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "bcfc9a9f2d16ab808bcc51b1d08352b17b2fd4c2660db98cd8fb1952e9d206c9",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "32ca04178199c1ca281b2ae00f56c7e96e5f5f94a38acfddb9775c1567464a17",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "117398cfd750425e86ea23b457d47eeac464dd5889f0c5d530e6de00f50b1cf4",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-8ea0d14b6ea64aa35267f6f4",
+          "locator": "/results/41/abstract_inverted_index",
+          "fact_id": "F-a6467d5a7823244aa0401cd4",
+          "quote_original_sha256": "b7b8f5996d3935bb197ea136c21f1bc2d06602d87a155f47b5e8d3032b854376"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-875c1efcb96fd45a7db4f1f1:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "1dbd9185c834dd7100bf99c2ed59efddebed235120cb3de11aa5d191aeb5e6aa",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "212a14dcd83637c028689bb38196ebef6c7039932fc4e2b550f9a409493f5814",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "c09fa54137ba527017ae8a889b263fdf41838ebb81c11fcdca3fb47ed71578ec",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-266d43b96ef7948c0d0d665e",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-257194d9ad746a29c37a3181",
+          "quote_original_sha256": "57c8b47eeeed6d0c9d76ba0715e9a2987be3d78350d1c92cfb5d720dcc0ec97b"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-88529576d3abd54fac21cbdb:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "024238e96494969383cc3b632ecd2ed938fa565fd5e662bff60f8b05a3d4f73d",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "f2044b1e671ce4ff1aed7d9be4be6cecccb2f677a7bddd2160a36e66cb61a800",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "59cd4024f1fdbdd1c4443f8a24824b5d0e4a5cd640b8719ce302967531b10d2b",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-77956831ebfe02709e0707db",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-32f68feb9e8beb64e7ec3287",
+          "quote_original_sha256": "411b025ec66e0adf533f592f7a43b190778d1782aae4286ce409ec2b327f41b7"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-8e19b5d6a34b824427e90dff:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "26e1078b0327fc35b9bc891650b86a63c4a91d2ca3cf56aaad5b2de99dd3222c",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "83d2c5b0bbc7c8ee070484637b6868eb5f9e152674eb64674dc5a7f0c9983a15",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "1b1cece8968db7885e41c77dbcc867120fa74f48668d60d19f2170ff895a2f9f",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-da9f3dc1ba7f96d5f145854f",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-020a4cfb9f32f9f2bf622fa2",
+          "quote_original_sha256": "22b0cea2edc617d3843360fa28ae5ae48821415a121fcc7302ff09ec5568c24b"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-8f2c59e7e501bbb4a5d6ebe1:broad_membership",
+      "label": "yes",
+      "relation_basis": "mechanistically_connected_adjacent",
+      "original_answer_sha256": "06306a2e7d497a1fd1851e70e09ff3a87352b2db86ac94f9ab426b4e97ec08d2",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "ea8dc7f06314da838892b01522a187598ded8aff2cbabe2e4ac96351d1f96e01",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "e6b72139cf0e42228f990cad1bb5034a64f80da270b6f7cf58e88dc621ca184d",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-2d569b1a096b9950a7ad628b",
+          "locator": "/results/1/abstract_inverted_index",
+          "fact_id": "F-1b35144d43a2cc7346138c93",
+          "quote_original_sha256": "2fe051623a506aafee0563e423eee0aacf42165a0f0114e36fc4046649281793"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-8f2f88e37c3343dbf21844e2:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "532e3e9dc1ad407de9d0a2d48886f088f8fa71bd67aaeb2a8d979dfac6973d52",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "e887782850baf3cba3a0a463f223464b091db21edb865d8fb86c64d3ca7bdd85",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "1a2b08b77a6e667fad417f219d8eb2c803de6656cc31338ee75423b6ecc14f56",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-66c9dfa436fb15226380be10",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-2062df0c9bb880a663a95028",
+          "quote_original_sha256": "c8c55b9b012a7f20aa776b65ed5a932016a7921ab6ed5a07daab14ce8ff97ad6"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-8fb91ad28ca2c7437ab52e2f:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "5b01d9c1649b8fa6f9e4fd98fcec04ea68965cbcde0114b4f4cb2c1d4098b32b",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "21b299689e654bed0c3fcd07b62a66cdd3373e3d24aa0763693cc907ae0aa72e",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "1daa81b3deb2620368e5c50b1434f7b91c5dd7774f0804f722c2a02fc8a483b3",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-6a6a3fb98a3edf8d2a2694e1",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-de9985ca044ed703d31cb7f6",
+          "quote_original_sha256": "2c91e837772f1eee76a9e8b8a7694d74623ca6a4dc4286d493d6d71568050d29"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-9035616606b5992b387a50a8:broad_membership",
+      "label": "no",
+      "relation_basis": "background_only",
+      "original_answer_sha256": "a0eee0707e30be990dc571fc57a6ffd5a97ba9fab08027d2f404aa34c24ed160",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "29e6c4601023d4c2c13e54f43531eaf9e753f6357bc9710a1f71a90667e44cb9",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "dd96d1474e5685ce970f2bbeee5decb1eae08b5b711be17e0bfb9a3064ca823a",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-1afd1e4780985a1fef508737",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-cbc9c3ab71ac9d20b21d0ccd",
+          "quote_original_sha256": "d77a00c5ddc3cbffd499c41da9365d6c7f24049368e79900283c9198c21d0621"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-9060af213a40fe780790ba0c:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_review",
+      "original_answer_sha256": "c53e7b95f9b582445e9340a080e6e3ca900359c88cf3045d82d5cc2715327a12",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "f7b30e198bca990c8ab9b75f7a72bbaeb67f0258acd29f2d82eec467e22377ae",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "0e7645211e4f5d220d9b00cd8ac2c12b53cc107979f93c08b58a8b82582ae811",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-fec87d64af096382006c0c5d",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-c575a548c8fc89d3f1ae7111",
+          "quote_original_sha256": "98512a9e974229b9b4e7cb69955a5766cf062f176bb9c5cb1dd33ccbe929a883"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-91b62b5e3a3131f1c0c43137:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "a490fed41a7350ecbb1af6a866ba722889947d79db8194a996e142097eac4fe7",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "d5de5dc462122944b13780f2c9177dc818d67d74ab2392e1573f9b4c05b8ee80",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "0020781a20370d93901324a7dd52ea22474e7aa4dea293421dab28e4c1023c28",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-3c3a26c77e7fe9d2c1304794",
+          "locator": "/results/33/abstract_inverted_index",
+          "fact_id": "F-cf4a5fbcea8ea382c3a54c6e",
+          "quote_original_sha256": "c1a45bc467753ff7157315199a3f277a685eae2892e656dcec29a292d2abb80f"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-93dbf019cc026a8fca3cddb7:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "b8f4ed28b9d14c6da658fc7ed32c4209c5b68eccadbea49a5efc3a557c5c7dc0",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "17bf1525c59b39a5231ff74aa54fde9c11f56ee439c3f22c675bc7c4ffc7e08d",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "0b128a2015bb5fe9d7b3cc3168a83186c532ee2605c00d26f558d8f0a1abc1f8",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-993e484e1b8e557ed5cbd056",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-e4b77b236fa87a32b9d8a195",
+          "quote_original_sha256": "3c470bf2cecd6e2e28b39f2dd24b59bd21b97a847727885f3249e25bf6e10904"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-9927b07482b4575d24852a3b:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "570081c934e296e99ac351625b2ab3d84a6a14720a61f552769f06816e8c1e3a",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "b5fae31491bc8f3158b81e3b346364071320bddb06ef4da9899a6363ff9340c4",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "5c242d2431983fbca633040276774f90caf64fb5cc4f5cdb3dbd9bce4dac25d0",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-d67a60e7854c66283bfacb89",
+          "locator": "/results/33/abstract_inverted_index",
+          "fact_id": "F-385313958116f528256efa01",
+          "quote_original_sha256": "d37f7f0a2e2db170dce31ceffaeee4e3f2203284d17becb17382f7193dfa5a07"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-9b8dc338652f10b7778b8c49:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "b506ed529a58485ac1dbd6a7230e5d9c68907c9640452b895f5a653b7ab6eb20",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "b6c770732145d720aef69a2d2f3dbaa3c0b1f7ad11c4d6765392c40b8d7a8a70",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "b9042554cdc53fc761d0d23c30d220c436073969e9657c3b6b8c12643e6f368b",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "AFUP-29e2d6c249c04bed06480af5",
+          "locator": "/records/0/content",
+          "fact_id": "F-cff7865e0bbcdec3278a6620",
+          "quote_original_sha256": "0f585de9e3845d65a46b3d8d8879629ca649ca0a9147c83eee11171c20891d1f"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-9e06aba10eb673c946072acb:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_review",
+      "original_answer_sha256": "cfca7f3cae0c858939a677d2e5975beb8f6d9b9da5be7cacc5bc555bfa0795f4",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "47b57333cfb2cddb5cc83a71cf9be1c3af2ee9eaad526358442ac85a217ad746",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "f069b36d5fe09880b38686fc45068e42685b3349b7e38a2d04ea72a38f1cd4e1",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-9cef10ab962d25d324324886",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-b78721c3b7d0cc702bd5b524",
+          "quote_original_sha256": "8d7d07fffbdbd9985c4a8ac0445ab5e41434a6fbe2f067d168cac91d24c2d8ea"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-9e900ca24d1d6a0f2bbb3b6a:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "e4742d29869dd450a8e4a2b8a879bc9067ee3b2aaf3da2b83bf8e356c827b901",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "4d1dd8b4f94fd7f187eaacc50846552716a03ccabf0e0525ba437557750bc725",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "8b8194cf612931333491f0cf46e4278ce72ad1ec774319906b489ca5b397c99b",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-f3d1dacb776621ff5de27281",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-5ad10a9efa8efab69a4a7b7a",
+          "quote_original_sha256": "c1f93dd2217a535493bb8d153d8794a4fdf8b55e064c1d5a0e1e2a10e1b97711"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-a0210a4d5d7a99a9220557c7:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "b614b37a46e6902fb230a2831eca7bdc8f7c65f0ac77596e0f469f6254143d15",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "ec2a9ff6e5f9337c8813a51ece2aed716afbc2c5c0b734c74c902a00f3c44082",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "ff775ebad5c05f34d63732c386d649bb6a7da5a55f8705c93cc8f1252dd8143c",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-d67a60e7854c66283bfacb89",
+          "locator": "/results/31/abstract_inverted_index",
+          "fact_id": "F-e8afc2c563ce55e2e687ef96",
+          "quote_original_sha256": "0fe42f909efc1bcb66be4662b4264229be51ae1517d9d2cfa531076f5beede73"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-a3a38ca8e4da0f2c87ee3022:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_review",
+      "original_answer_sha256": "365b5e46559650d5c40937cb8d6529b6afa70e42f5266d650c65b6816dfd14a2",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "bb94e39ed0d42e9ec02e1b1c75b72ee0216c9095683ae8a5a733a7e5cecd57c2",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "1c53268d5b31d42823397a48b1ff98449108dc846e3a1a011e890047ce496cbd",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "BROAD2-8529c704f83304c503fd8b90",
+          "locator": "physical PDF page15, section4, SEI rupture/reconstruction paragraphs",
+          "quote_original_sha256": "8e6fafdc1f606427109d79ed394dcf2645aebcb2dda6888884e54027e5dfe0c0"
+        },
+        {
+          "evidence_id": "BROAD2-8529c704f83304c503fd8b90",
+          "locator": "physical PDF page17, section5, carbon hybridization paragraph",
+          "quote_original_sha256": "68881e98e3ae3b1303deb5f5dc9b9391a904cc9f95c2d0afd745340747930a50"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-a9c951103811123b64ff9c7d:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "c82a69cf89bf0deb03b0e6c7db40cec703310ece737256abc2d50077d9848d1a",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "742a5c715ca9f5a70f88c4e15d562a8a16affdc455f0ff84c4cf2bbfc6abec41",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "67b8dedbe5519a8dd3470f7bfe093b8f2bfdc3bf02eb57e80cdfe6ebbd92a024",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-d67a60e7854c66283bfacb89",
+          "locator": "/results/38/abstract_inverted_index",
+          "fact_id": "F-fc8beba36431e1e643030c6e",
+          "quote_original_sha256": "5b725eec3fa2882584e6ea2cdaa9cf7090d03b36633c39c7a4ca47d3eb21ecb5"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-aa23ada76be0a3473eb79be0:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_review",
+      "original_answer_sha256": "e332c97797bbae79447eae815f9c1358690081d927b6c521ab7f1d9fc48bde1f",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "fc90f82d11113a1eeb08e3d1d3a6bfb162108f7e63cee822feb4cdb91fa1866a",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "db17d74f89a3b2f3a6a28fef5b89fdf224a5b7e842da547d2e24f89d5521e200",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "AFUP-9663cf01ee009a6360479270",
+          "locator": "#comment-body-321877 element 0",
+          "fact_id": "F-a8d71703ee8cdfaaaf232b27",
+          "quote_original_sha256": "af1810827a5e131cd84b56601dc65ab6464028c046c9c16c73eaf93eb42411eb"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-ab9faebfbdc06513863c6eea:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "9adb0d0cb9f10406d701f220ce222dfcfbfe9d3f2862e02759874a146235c952",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "d1090b019bfcc92b17b805016d97e99adad71e86036a706d06170562177f037d",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "4126537ae4f74236fe4c9624b27aa9dd3ed6ac895bbdbff556af9cb056b3a80e",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-9db9e8cf6653ea6614404d31",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-ff5a00731bf695e84afd0164",
+          "quote_original_sha256": "3d6847b75d287b47600f038f8f6e2e619567bb0ea0ea01602a78b5b6ce0d671f"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-ad2889449a3b5f7532de6a70:broad_membership",
+      "label": "yes",
+      "relation_basis": "mechanistically_connected_adjacent",
+      "original_answer_sha256": "39bf83aed69534bc71f7790416f55d131788e5c232e9f7016f7e5af1d5cf52de",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "8514f4130f53cc659329328a361c242f1971c27cc86b520183a26791273d002e",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "afd83bb08e287addb19781abd450f7462f2765aa2737b71493f7b9601680b4e3",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-6e29cd502168d68f084e91a3",
+          "locator": "/results/40/abstract_inverted_index",
+          "fact_id": "F-8fbb92b78734ce4f8b01dad1",
+          "quote_original_sha256": "b453706769416464566db5c01e2ac2489fd38a1f5f04869329d292a69e5b1d83"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-ae2e8465b161cd455b453156:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_application",
+      "original_answer_sha256": "ba1afd04866844142b7641e35f84686e476524afd45bbe21ed5e6ce447cac558",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "c97844c18fe58d3d80dc14273691f605568e2be4c72e2901f629868db9050673",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "19634afab9f764bfbdfd18d6b2fcab35a794f08c99481493d9923798ee50cfa3",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "BROAD2-5386b3970cad067de8726a9d",
+          "locator": "physical PDF page10, Table2 Notes (visually checked); section4.2",
+          "quote_original_sha256": "584c494c5b35aabde2421c4639b6b3ef42dcd386796f5f458943eb9338308889"
+        },
+        {
+          "evidence_id": "BROAD2-5386b3970cad067de8726a9d",
+          "locator": "physical PDF page11, section4.2, limitations paragraph",
+          "quote_original_sha256": "cb622fd61287b6be599ef26580dcef8e579eac833cd3faf4588ae3f03e96183c"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-af2a92bb78d5f1e01d06f583:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "c32b9c1fe6d501314252291949ca89845d846198f2fbc17f865a48958f34b32e",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "ee3c7cecc471fcf5ecff976e446cbc4241e08c01cfeea0cbf7aebbbe859e4819",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "6ed1813c48fcf6a2a04bdddc297be80166f0695920eb8c074b56a9529702911a",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "AFUP-7ac11732f0e27be21cd1c5e3",
+          "locator": "/records/15/content",
+          "fact_id": "F-960b5a2199291979378c04a1",
+          "quote_original_sha256": "0c4c57f683ccb600f773b021b1b00c4db49055cd9cb62a0e645f111bb59ae309"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-b26b7c56d5cb1cc3a910a26d:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "ef35fad50946b9da1ba15f120fab9db440afc5c3ec73298ea1f5bbce7a172471",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "0a92094a6f0d8435142e12a327049afb8c20b5758f47ed51bca79d2e809130da",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "fb27b55ced2a2cef3a85220194ba316e03ce7e4a147fa31ea40f463e758c3687",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-f4b50ff2b27dfa718d803660",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-10577821b2fab1c1cc3d942c",
+          "quote_original_sha256": "1836a82d7593d6c1c3853bb8b59182e4740a113deab12154a146ebb4d8001ace"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-b46ce22bd24e678ea16ee97b:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "c274e145fc334a2919d2362eba3d8014dcf402a364a251010d4185d6f9fce162",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "2701e3518479db5082491c76904604216577feaf6023b1027244827ed4d64f38",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "5f0894847852afd39a666da24c870adb3c43d63b02c2d5ace27bb08c7f37c655",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-518b62714bdc372923f308fc",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-8814f52b8bff6f9f4de0806f",
+          "quote_original_sha256": "15418571ae627a42543ce581fc474c20cf7387376b3e2c88625836c7107abfdc"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-b63c48451877d869b634192c:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_review",
+      "original_answer_sha256": "8994de89977b72c4c5969889f7c5f2afa130996a11c5ebb864da1302f42dc35d",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "f3f749c6af3d3552e87c346569e4cf2d2ed397bb02850e7c63f0dfe1e944d460",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "6579a6fbdb23d710e3291fb77343d327922491ea1db7928f1dcf087c53b54603",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "AFUP-7ac11732f0e27be21cd1c5e3",
+          "locator": "/records/3/content",
+          "fact_id": "F-18742f4aedf82e8ed7d2ee89",
+          "quote_original_sha256": "c4e94cc45c064134a57445e752b77ad8af5d7ebb2c14e95f168be5f42789aa5a"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-b70fbf59aa1bfdd8173df55f:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "f3587784a7050e4a42e291fb9a2e973efb19957f953101ed559b036c41bf26c8",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "dd7b85b77b4c36f9c03904a9ad305e05c3f289d75db0c2345ea9b8b705c71840",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "818248aaa7c484c0bc42be8a0ab9c87484880dd460df6bf5643d923fff9a4bcd",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-8ea0d14b6ea64aa35267f6f4",
+          "locator": "/results/0/abstract_inverted_index",
+          "fact_id": "F-4f2ed53b0f46954bf1399c91",
+          "quote_original_sha256": "48b1b7d73b3c18b055c328330f58c916eb19f17fe1e99614e7d5cb5e4708a32c"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-b79764c4bdae28e51ba92630:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_review",
+      "original_answer_sha256": "a546952861718b25000b53615a9f9f693423284f58d3ada5373e0b6044d93ec6",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "ccee9f6b9022ed3fe7f033804a17a049e3178e44d69ad2bc9c863b4945f2127a",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "c7439007e20dca51076325bbd1dc8400c36b1eddfc38e2dde4bcce4f27262c75",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-4a9edd19980c5644c734dbad",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-ea0634ed48ef63130f9d861c",
+          "quote_original_sha256": "ef7e2655195cb5bb21889a3f2050678f12d23cb7a71a6894604961e1d4c5d381"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-bb06be3b8c4a5a04df984e02:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_review",
+      "original_answer_sha256": "be31d34fe2cd0d6cbc3b39c9dc99e4e315cdafc616e1c788b901a705c907a23f",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "243de99a22a70bf6517a7944ec4854293b35e80e534f9236c88c170fd39f2d09",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "f6e4dbea342153e9b6cc8dfe7eee909f3ea415d0260fe9961c8bb23d66ff0a32",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "BROAD2-674725b3031dffb15ef939e1",
+          "locator": "section3 Computational Enzyme Discovery and Design, first and limitations paragraphs; Table2",
+          "quote_original_sha256": "c87a7441888e972cc1ef78efc412b0af6bcbb96ab37c1cce8998f0f323024f74"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-c7252f8bc5e05ee7177a8911:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_application",
+      "original_answer_sha256": "b651015f1452e1dd709aaf400876481f6554c7a53f34c6e9e2ccc3a7b3f51952",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "00d9194544b3cf613354ec08f9d85d65915aa10f36ec0eca363543fc3e4b99bf",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "0d8d7475320b849b3d01f996ad7b356dc9e9f3c050847b0deba35195f10690a4",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-a6f076b8c68b404e56224b8c",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-c7242cee86fb9fbfb4a5ec22",
+          "quote_original_sha256": "054d87d92a9f0d7225579395a4f64150043acc61b6d7c75c8ca52c192714cb51"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-c780eae6a18f0d43d6f4957e:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "53a4ca70f2c87d7dabfcf99ad65c20749382292389e7b5558a984bf2a9c691b9",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "2655d96147ad87fffaaae0f2293160df861058391e2393260053d03158f1f55f",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "12d39a8a912c246d467da85c9d61e8024786aa30f69e29dbb32b9b1418206fd3",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "BROAD2-7ff597f7d89f4aeaf2f2c50a",
+          "locator": "Introduction, paragraph before Continuum-discrete mapping",
+          "quote_original_sha256": "151f77dcb6afd56549d7664765849e58b14c88ca3aef0aad179fdd3e944558dd"
+        },
+        {
+          "evidence_id": "BROAD2-7ff597f7d89f4aeaf2f2c50a",
+          "locator": "Continuum-discrete mapping, opening and Eq.(2)",
+          "quote_original_sha256": "39b584e89682095aec4c083e4aaa8c89dc33be706a3a07806d6e7cf46937c59a"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-d062e7dfd01e40683b12264a:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "3d716f2ef6efe94c185417d7012110acdcd24b775db2f942317aeb5de53e744e",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "e89895e8e2d1f76aa8d95b5e4dfa5e42efb26051a21831d7c8ecb77e5790b743",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "8f2e7166710098a34a9e1c5da60c814ba2db66882cb43c5e6cade8b811e2941a",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-3537060b5e3820b99ec8ccdd",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-e924c8ff220dc9dba0647caa",
+          "quote_original_sha256": "b2993103327a640b6ffd3b26bacdd1d3f6255c044f73c534416c6fa90092fb56"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-d37915949160d01759c003c1:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "2c82f2288685de63dcd3fbdd93bef8830e0fd921d425e1051a9e171be9e99bd1",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "b3a84e391b2a13ee62ef37ab7afa11eb48214bf76b37ff1716d38713d86fb678",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "c112a33045d4e162bc158a6eb2401ddba98d03beda268b27ce73ee9a490295af",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-a28ce4be2bd41c526ce9a3bf",
+          "locator": "/results/43/abstract_inverted_index",
+          "fact_id": "F-44c9cfe217cbdc934265f980",
+          "quote_original_sha256": "0ce43f51358247e378786665932b50c57df3c8e5e9889915678d2110355d10e7"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-d3d143f9470a81b99aa5f123:broad_membership",
+      "label": "no",
+      "relation_basis": "background_only",
+      "original_answer_sha256": "b8df34bd5dbccb26b2fc9ee0d4b76ecd804ec1f7a8de9331cd86bd794fd0dba5",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "9119d02b34d7aaa9eada3094fb360adc9d2b149a7603f2e83539953432336cc7",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "553de4f22bd47809a0ef9cae1c0f8ec38133f604870948b2ec8ddad2e22ab36c",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-7d73587bc2d6175ea9fe739d",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-69b4778d37f5a3209a56bfb2",
+          "quote_original_sha256": "2100fd89a4f900b89ebd9d9dba1168c967e4a0b7b75aa3010402301d2639c3fe"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-d8b3b22e63738521d13c9b11:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_review",
+      "original_answer_sha256": "1fa93c2ccd4c20220fd4d67927bfea356d90ef90ec2a66325a22975aa6b05179",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "6197683b153020c0a6997ce358e606d163bcd4eb8fa590e14fca8c307175f161",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "8ca00aecf9b440722c44f6ebac9140f4b4a6d8beb01277babc94ce3dfa84e4b8",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "BROAD2-197a5a5ab513e4e0039da30b",
+          "locator": "Emerging technologies > AI-driven drug design, structure-guided approaches paragraph",
+          "quote_original_sha256": "cc5ea35aac794850e2b76c586c5bb1736668ede587789a970542e45bd5d62f7b"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-d9200bb4b0c13c6ebaedc6f0:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "ebdcd71fd3c8f25f3ddeb311f40025878895160e86e33e69474f15a08c257b56",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "af36a6e7b09c9fc61d1b95bea754a2dd701641668742211e8063699f65913f66",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "ea9cb38c05ea6584ed92006fd14e4d59aa840ceb24d9c856e627b0b6771dff85",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-4e51a73b127bc19ed6c15fb9",
+          "locator": "/results/29/abstract_inverted_index",
+          "fact_id": "F-70908510088b1f809752563f",
+          "quote_original_sha256": "78475a04263dead443a43e3e2570e7100c4a591e7c83dd0bf28b8f94a8cca2c4"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-d9307435223978174eb31876:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_review",
+      "original_answer_sha256": "d4c6b3921b0197a1b02eea0704ccf6e218320b7857fd92acda07f484a9443176",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "f618c80735e2ab90558170bfb721af29be7569fb753bbd49706e941ea0dd9339",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "f2231294ee94eb29a036e103269762386434abf2fc53e36536b2e92e7ee610c9",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-6142d737926321e7c5997d33",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-01be3aa173e9e1cca85e5f1e",
+          "quote_original_sha256": "f8119b77a71be37dd2bbf381efa21fb3ab51257ca3b0d05bf595ee27b933528b"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-df7ed6f68166be782ca38657:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "5bf0f8bef7f259b9bccf2be4504eb9cd62f3f6fece75dc7fa0c5dbf843d0c01b",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "04e90879d87a5f3e9043a2008102739bbea30c9fc773a4b836ae2c54d86ffb95",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "440f67f219bef24d4bdd1ca546d783b24567f40370d351727d0fd7fe6624f807",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-01298afa017167661e4b928a",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-16e84eb6c1a152e6d6db1051",
+          "quote_original_sha256": "88afa78b255e0052195d42f81d0c7de4e494e2667ace722f56416abfc0d3192a"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-dfa98b79eada3cd894b7881c:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "2623343402efa37b1987e145a0b76f67f23219a5d12870cfca294c99b0927e6a",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "c0959aeae1d1f6713ce8a836d2f3bd6d50202a4749af90013114063c10f93299",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "3b47380539682a0880899b5b415f2c85c513d202882b51249970c0a7be1eac3f",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-43ab9e9176af662b8fff8c2b",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-15351a0b42c214a49ebf6050",
+          "quote_original_sha256": "5a8171d915a49e7e91374fc7f1d4d407a5d432709f8a5e7d2becdaca5db3f0d1"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-e40c9423d3845abc381d52cb:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "4e0460f2a6fa6eb459bc6845f32add9b2c2833db827befd5492d396c4b7a9db0",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "be9f52697ed372fded272a6a45dda1acd7c24bdc7e3cad3dfeb4b1edafb1cf45",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "98b3c7bf9557db2ccaba098acc955fee15288bc257261f7777b03733f6313716",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-ee171c34e29a8f7deb374295",
+          "locator": "/results/56/abstract_inverted_index",
+          "fact_id": "F-877b1c6706548a1f229d08f4",
+          "quote_original_sha256": "75648093505b2a8c309e1c7750bc9a6c706cb58ffef73a32f7774472cc85be23"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-e8a0ab7775bf769b072826cc:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "ea88835fdca1a494f02d4400f4257307c2af428295429106365d8ca8f42b94d3",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "2f6b12a75628dad7623a2063a10291f1aafb2973efdf63fd7f1cf3b4eef7cd0c",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "4481a4520bb24d6b1678d93f560ff9088540ead6ee03ed063fa88926da43b62c",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-ba009cffe2d7c3cf5ce34cc2",
+          "locator": "/message/items/7/abstract",
+          "fact_id": "F-ace2332bb38859f230bdc323",
+          "quote_original_sha256": "4937c57cfed0e297cc84bf437cd7283d7bfa2bcd7b511a8951ef5ee68dcfc22e"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-ef29191fa0dbfefa6c8843ba:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_application",
+      "original_answer_sha256": "e3f1a3a248c8bb2a3959d5a4e8818b9f45c6fedf3b8f2af6c34323b614d98406",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "a596fdec863bad9183c4e79517f7cabb06f3db0aed68324a26215d22eb7aab43",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "af71bff755891be0716b15a27de9169bc89fe715dac31f18d4b08238547b4b56",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-8bb9e703b99a714c1f8083ae",
+          "locator": "/message/items/85/abstract",
+          "fact_id": "F-08bda7c8788875231f28164b",
+          "quote_original_sha256": "74e29b896c54fd4f0c1b844054dd24af086618a049570764ce2e1d85c78e1a17"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-f0478ce2ae5af011aedeeb30:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "9f6ffb74fe5ce86380dfccdaf89558b846c40077a626356bfb3d2b2f0855c0ab",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "3c542832c5f25b2c7e677d2964815e9a737e4d4bc42590ee169f83581c2e4f39",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "14b00ac44ae05159a5ffc6e776e629c82e65b66489c8459fe7729b35f379996d",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-50706ad16dfbf1c6012c298a",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-7f209ee478459fed82605dc9",
+          "quote_original_sha256": "1b578b3f0a65437edfa38ee2596a1ebe62a21c74771a555ac59a5ceedbe34ea1"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-f43999abf611be31efeaa488:broad_membership",
+      "label": "yes",
+      "relation_basis": "substantive_review",
+      "original_answer_sha256": "c0915c8d837500141e42f3eece24e7e4d3bf634eba3335244b5dc9809eb75e66",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "aa5b864f5505ab22f9c9ea7237c16d7b8044cfeb2e2c9a1372c351c67cbd37bb",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "eb0a249cd771fd650de845438ea87d6ddf34df730f53959152491489a097e49b",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "APUBLIC-47970246bd88b3d2c7438dc4",
+          "locator": ".abstract-content-abstract element 0",
+          "fact_id": "F-b60dabfe6d492d5b846e9a57",
+          "quote_original_sha256": "4dfa7e6daa842a31028a805ad173981c81eeab52956d0a6689b1c59e647692ce"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-f4cc5ef8d74139df0c6a4566:broad_membership",
+      "label": "yes",
+      "relation_basis": "core_topic",
+      "original_answer_sha256": "07dc5a9a0c2969c4164a9ac0bd6fbd010dd5a74595e202e0dd0b99835dc2ac14",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "07370418f6c26d4c03985bc5570c1f887c673df956a668fffbd69d19e1bee19c",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "8c1bdcb2c1fafae7923880f84c5c183aa190861dc9d5b8e5b8755f8f57d353bb",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-a69367e5c3af8a3547b93800",
+          "locator": "/abstract_inverted_index",
+          "fact_id": "F-f113f557426733cf8c055326",
+          "quote_original_sha256": "248398e5537581ff154aee07faf89baeee9576e9a766f32d40f345e36a1e858a"
+        }
+      ]
+    },
+    {
+      "question_id": "A-CAN-fd894ad338bbad8a697a2692:broad_membership",
+      "label": "yes",
+      "relation_basis": "mechanistically_connected_adjacent",
+      "original_answer_sha256": "e58b879ec8925aa519d989ade2512f2e3e7667bf5212ada71e38f291b5d1d7ef",
+      "working_notes": {
+        "rationale": {
+          "original_value_sha256": "c4a2855c5076cc3bc4016204aeb07ab32f8c214b1d7801e02e96a86f6c4dca3c",
+          "retained_locally": true
+        },
+        "candidate_binding": {
+          "original_value_sha256": "6c70c4f8ca32141f3943937d8f9a2d25ab771e51876dc09bd5d8d802ac80877f",
+          "retained_locally": true
+        }
+      },
+      "source_claims": [],
+      "evidence": [
+        {
+          "evidence_id": "ARAW-6d9a073f8848d376bd94ee2e",
+          "locator": "/results/48/abstract_inverted_index",
+          "fact_id": "F-d9ac5a4b520ef879323d5c68",
+          "quote_original_sha256": "9e6794c1717f68844d01c7459e21402966115d25e2df242c605881d72a8c2422"
+        }
+      ]
+    }
+  ]
+}

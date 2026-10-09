@@ -1,0 +1,141 @@
+{
+  "purpose": "Validate the publication harness in fresh disposable roots; historical observations unchanged.",
+  "python": "3.9.13 (main, Aug 25 2022, 18:29:29) \n[Clang 12.0.0 ]",
+  "platform": "darwin",
+  "dependencies": {
+    "pypdf": "6.19.0",
+    "requests": "2.28.1",
+    "beautifulsoup4": "4.11.1",
+    "Pillow": "9.2.0"
+  },
+  "runs": [
+    {
+      "task": "B",
+      "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+      "runs": [
+        {
+          "run": "b160",
+          "total": 160,
+          "passed": 148
+        }
+      ],
+      "all_passed": false,
+      "scope": "New packaging replay; historical records unchanged.",
+      "attempt": "b001",
+      "source_result_sha256": "453148a222aa376c8a731a67097aad7b2523c6a1ddc609a5c6372deff7921bef",
+      "observation_files": [
+        {
+          "path": "runs/b160/observations.json",
+          "sha256": "76a457ec0f1ca98760d53d26263dea6cfc8b7b8bb3ce1f94f000e45e1119e167"
+        }
+      ],
+      "environment_limitation": "Twelve cases could not bind the required disposable loopback server in the restricted execution sandbox. Preserved as a packaging attempt; not a frozen-product defect or a replacement benchmark score."
+    },
+    {
+      "task": "B",
+      "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+      "runs": [
+        {
+          "run": "b160",
+          "total": 160,
+          "passed": 160
+        }
+      ],
+      "all_passed": true,
+      "scope": "New packaging replay; historical records unchanged.",
+      "attempt": "b002",
+      "source_result_sha256": "4e0187f6b77e928654c8880dd55e2d4ef287d6d4bf9dc932edebc7e3b00a2dae",
+      "observation_files": [
+        {
+          "path": "runs/b160/observations.json",
+          "sha256": "53e78a2849f8fb9c19acbd8933149c37e032d1181eb59458e098ade304904fed"
+        }
+      ]
+    },
+    {
+      "task": "C",
+      "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+      "runs": [
+        {
+          "run": "c-retained",
+          "total": 52,
+          "passed": 52
+        },
+        {
+          "run": "c-current",
+          "total": 52,
+          "passed": 52
+        }
+      ],
+      "all_passed": true,
+      "scope": "New packaging replay; historical records unchanged.",
+      "attempt": "c001",
+      "source_result_sha256": "6b526d8a98b270e1e972719c718cbe60acd98ca361ee1702977776c9945f45a0",
+      "observation_files": [
+        {
+          "path": "runs/c-retained/observations.json",
+          "sha256": "7aba06a3e523d3cdcefe3397210cc5a967f316a176780bd7ae8ec4f793f97572"
+        },
+        {
+          "path": "runs/c-current/observations.json",
+          "sha256": "7052d7452e19f5e83b5c284e85e3b2ec61896c667cfdd6959cbb903c8b691ca8"
+        }
+      ]
+    },
+    {
+      "task": "B",
+      "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+      "runs": [
+        {
+          "run": "b160",
+          "total": 160,
+          "passed": 160
+        }
+      ],
+      "all_passed": true,
+      "scope": "New packaging replay; historical records unchanged.",
+      "attempt": "neutral-filename-b",
+      "source_result_sha256": "4e0187f6b77e928654c8880dd55e2d4ef287d6d4bf9dc932edebc7e3b00a2dae",
+      "observation_files": [
+        {
+          "path": "runs/b160/observations.json",
+          "sha256": "38b06a95718230bbf4e9d73909cfd3a596d843937cffaed5517bcb3ed8bb044c"
+        }
+      ]
+    },
+    {
+      "task": "C",
+      "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+      "runs": [
+        {
+          "run": "c-retained",
+          "total": 52,
+          "passed": 52
+        },
+        {
+          "run": "c-current",
+          "total": 52,
+          "passed": 52
+        }
+      ],
+      "all_passed": true,
+      "scope": "New packaging replay; historical records unchanged.",
+      "attempt": "neutral-filename-c",
+      "source_result_sha256": "6b526d8a98b270e1e972719c718cbe60acd98ca361ee1702977776c9945f45a0",
+      "observation_files": [
+        {
+          "path": "runs/c-current/observations.json",
+          "sha256": "801fc5be0b7bd24c0e0f1784839b33ba5c1d1cb1c592f33935769b4dab118063"
+        },
+        {
+          "path": "runs/c-retained/observations.json",
+          "sha256": "b8ecbcbc5231eee942b1ce0c77105cb5c990d0b3b3f2772aae8f31e4439bada7"
+        }
+      ]
+    }
+  ],
+  "final_B_passed": 160,
+  "final_C_passed": 104,
+  "product_source_files_verified_each_run": 393,
+  "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9"
+}

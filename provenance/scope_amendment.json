@@ -1,0 +1,32 @@
+{
+  "created_at": "2026-10-07T01:28:39.818577+00:00",
+  "original_packet_id": "GEWU-V4-539D00D-FULL-009",
+  "original_design_sha256": "7d3ec4fe93b9f390fafef455db67127895bd87f6a982960b71369d218127e604",
+  "original_data_sha256": "5f68f42c6fa8b994d76737590b98d69391eb0683d8ff075af7f18856df8ef86e",
+  "original_material_sha256": "5e6784143fb5334e890a6d40f5969e57f4a7243ef32538690bc0078bafde9788",
+  "timing": "After DeepSeek initial return and while Codex initial independent review was running; not preregistered before answers. Both initial reviews retained.",
+  "product_commit_unchanged": "539d00dd1a3b0f5857912223868ca232d56680c9",
+  "excluded_cases": [
+    {
+      "case_id": "A-CAN-d033e25f461717be1af763c5",
+      "question_ids": [
+        "A-CAN-d033e25f461717be1af763c5:membership",
+        "A-CAN-d033e25f461717be1af763c5:date",
+        "A-CAN-d033e25f461717be1af763c5:research_eligibility"
+      ],
+      "reason": "Explicit conference abstract, contrary to previously authorized screening scope",
+      "evidence_id": "APUBLIC-bcb7c43a1b9377d1ca64d5fe",
+      "locator": "physical pages 2 and 49; Book of Abstracts / one-page contribution",
+      "no_replacement": true,
+      "counts_as_product_pass": false
+    }
+  ],
+  "SI_clarification": "Actual document type, not presence of research details; attached SI is not a stand-alone complete research paper; full manuscripts remain eligible under the same content scope. Authorship/date stay separate.",
+  "new_external_sources": 0,
+  "existing_source_bytes_changed": 0,
+  "reassessment_scope": "Both models independently assessed the retained discovery questions. Initial and subsequent labels are preserved; the other reviewer answers and organizer labels were not supplied.",
+  "software_reruns_required": false,
+  "reason_no_software_rerun": "Only reviewer material/rules/navigation changed; frozen product and captured product outputs unchanged.",
+  "readiness_correction": "New explicit availability schema removes assertions that source identity or final answer has already been verified. Intrinsic source uncertainty remains permitted.",
+  "provisional_build": "A first local preflight used legacy availability flags; it was never dispatched and is preserved separately. This release is the active revision."
+}

@@ -1,0 +1,57 @@
+{
+  "queue_sha256": "425d53f0a74499176eec011bd5f91546d166735051c1d41607bdbfc21805d0c9",
+  "answers": [
+    {
+      "question_id": "A-CAN-0c90e736526800ea25602831:membership",
+      "label": "no"
+    },
+    {
+      "question_id": "A-CAN-2cf023c324ef2e522495f42f:membership",
+      "label": "no"
+    },
+    {
+      "question_id": "A-CAN-3eb176145a8c34cd27906626:membership",
+      "label": "yes"
+    },
+    {
+      "question_id": "A-CAN-41459ffb22a2da14a985a8bd:membership",
+      "label": "no"
+    },
+    {
+      "question_id": "A-CAN-5612bd466cde8f7799c2c3a0:membership",
+      "label": "no"
+    },
+    {
+      "question_id": "A-CAN-7f813d8a40660f0fd4d34fd8:membership",
+      "label": "no"
+    },
+    {
+      "question_id": "A-CAN-857868572899a9b7cc6dc202:membership",
+      "label": "no"
+    },
+    {
+      "question_id": "A-CAN-9060af213a40fe780790ba0c:research_eligibility",
+      "label": "yes"
+    },
+    {
+      "question_id": "A-CAN-aa23ada76be0a3473eb79be0:membership",
+      "label": "yes"
+    },
+    {
+      "question_id": "A-CAN-b6331e6f2c04d4cba2139931:research_eligibility",
+      "label": "yes"
+    },
+    {
+      "question_id": "A-CAN-d9f6a63feb1cde86ec4ae4c4:research_eligibility",
+      "label": "yes"
+    },
+    {
+      "question_id": "A-CAN-df03d3b475a2111837f10543:research_eligibility",
+      "label": "yes"
+    }
+  ],
+  "record_id": "8edb44f67c24ef3bfc0ec63b",
+  "received_at": "2026-10-07T13:41:59.473038+00:00",
+  "submitted_via": "human_review_ui",
+  "source": "actual_user_choices"
+}

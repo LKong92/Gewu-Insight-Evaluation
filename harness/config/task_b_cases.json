@@ -1,0 +1,3863 @@
+{
+  "schema": "evaluation-engineering-definitions-v1",
+  "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+  "product_schema": 22,
+  "status": "current_definitions_with_separate_observed_status",
+  "counts": {
+    "B1": 20,
+    "B2": 30,
+    "B3": 16,
+    "B4": 18,
+    "B5": 10,
+    "B6": 14,
+    "B7": 14,
+    "B8": 14,
+    "B9": 12,
+    "B10": 12
+  },
+  "cases": [
+    {
+      "case_id": "V4-B1-001",
+      "family": "B1",
+      "title": "same metadata",
+      "operation": "identity_observation",
+      "inputs": {},
+      "expected": true,
+      "contract": "Same DOI needs compatible identity; contradictory evidence is quarantined.",
+      "v3_requirement_source_id": "B1-001",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/0"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/0"
+      }
+    },
+    {
+      "case_id": "V4-B1-002",
+      "family": "B1",
+      "title": "extended author list",
+      "operation": "identity_observation",
+      "inputs": {
+        "authors": [
+          "A. Researcher",
+          "B. Author"
+        ]
+      },
+      "expected": true,
+      "contract": "Same DOI needs compatible identity; contradictory evidence is quarantined.",
+      "v3_requirement_source_id": "B1-002",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/1"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/1"
+      }
+    },
+    {
+      "case_id": "V4-B1-003",
+      "family": "B1",
+      "title": "accepted-manuscript title suffix",
+      "operation": "identity_observation",
+      "inputs": {
+        "title": "Benchmark quantum material: accepted manuscript"
+      },
+      "expected": true,
+      "contract": "Same DOI needs compatible identity; contradictory evidence is quarantined.",
+      "v3_requirement_source_id": "B1-003",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/2"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/2"
+      }
+    },
+    {
+      "case_id": "V4-B1-004",
+      "family": "B1",
+      "title": "journal abbreviation",
+      "operation": "identity_observation",
+      "inputs": {
+        "journal": "Phys. Rev. B"
+      },
+      "expected": true,
+      "contract": "Same DOI needs compatible identity; contradictory evidence is quarantined.",
+      "v3_requirement_source_id": "B1-004",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/3"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/3"
+      }
+    },
+    {
+      "case_id": "V4-B1-005",
+      "family": "B1",
+      "title": "matching DOI landing URL",
+      "operation": "identity_observation",
+      "inputs": {
+        "url": "https://doi.org/10.5555/v4-work"
+      },
+      "expected": true,
+      "contract": "Same DOI needs compatible identity; contradictory evidence is quarantined.",
+      "v3_requirement_source_id": "B1-005",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/4"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/4"
+      }
+    },
+    {
+      "case_id": "V4-B1-006",
+      "family": "B1",
+      "title": "non-DOI publisher landing URL",
+      "operation": "identity_observation",
+      "inputs": {
+        "url": "https://publisher.example/article"
+      },
+      "expected": true,
+      "contract": "Same DOI needs compatible identity; contradictory evidence is quarantined.",
+      "v3_requirement_source_id": "B1-006",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/5"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/5"
+      }
+    },
+    {
+      "case_id": "V4-B1-007",
+      "family": "B1",
+      "title": "conflicting biology work",
+      "operation": "identity_observation",
+      "inputs": {
+        "title": "Unrelated cellular pathway",
+        "journal": "Nature Cell Biology",
+        "authors": [
+          "C. Biologist"
+        ]
+      },
+      "expected": false,
+      "contract": "Same DOI needs compatible identity; contradictory evidence is quarantined.",
+      "v3_requirement_source_id": "B1-007",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/6"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/6"
+      }
+    },
+    {
+      "case_id": "V4-B1-008",
+      "family": "B1",
+      "title": "conflicting climate work",
+      "operation": "identity_observation",
+      "inputs": {
+        "title": "Unrelated ocean circulation",
+        "journal": "Journal of Climate",
+        "authors": [
+          "D. Oceanographer"
+        ]
+      },
+      "expected": false,
+      "contract": "Same DOI needs compatible identity; contradictory evidence is quarantined.",
+      "v3_requirement_source_id": "B1-008",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/7"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/7"
+      }
+    },
+    {
+      "case_id": "V4-B1-009",
+      "family": "B1",
+      "title": "conflicting clinical work",
+      "operation": "identity_observation",
+      "inputs": {
+        "title": "Unrelated clinical trial",
+        "journal": "The Lancet",
+        "authors": [
+          "E. Clinician"
+        ]
+      },
+      "expected": false,
+      "contract": "Same DOI needs compatible identity; contradictory evidence is quarantined.",
+      "v3_requirement_source_id": "B1-009",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/8"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/8"
+      }
+    },
+    {
+      "case_id": "V4-B1-010",
+      "family": "B1",
+      "title": "conflicting astronomy work",
+      "operation": "identity_observation",
+      "inputs": {
+        "title": "Unrelated stellar spectrum",
+        "journal": "Astrophysical Journal",
+        "authors": [
+          "F. Astronomer"
+        ]
+      },
+      "expected": false,
+      "contract": "Same DOI needs compatible identity; contradictory evidence is quarantined.",
+      "v3_requirement_source_id": "B1-010",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/9"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/9"
+      }
+    },
+    {
+      "case_id": "V4-B1-011",
+      "family": "B1",
+      "title": "conflicting DOI URL",
+      "operation": "identity_observation",
+      "inputs": {
+        "url": "https://doi.org/10.5555/other"
+      },
+      "expected": false,
+      "contract": "Same DOI needs compatible identity; contradictory evidence is quarantined.",
+      "v3_requirement_source_id": "B1-011",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/10"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/10"
+      }
+    },
+    {
+      "case_id": "V4-B1-012",
+      "family": "B1",
+      "title": "cross-registrant conflicting DOI URL",
+      "operation": "identity_observation",
+      "inputs": {
+        "url": "https://doi.org/10.7777/unrelated"
+      },
+      "expected": false,
+      "contract": "Same DOI needs compatible identity; contradictory evidence is quarantined.",
+      "v3_requirement_source_id": "B1-012",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/11"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/11"
+      }
+    },
+    {
+      "case_id": "V4-B1-013",
+      "family": "B1",
+      "title": "two provider IDs, one DOI",
+      "operation": "canonical_identity",
+      "inputs": {
+        "variant": "same_doi"
+      },
+      "expected": 1,
+      "contract": "docs/PAPER_IDENTITY.md: canonical explicit identifiers, compatibility, aliases and serialized writes.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/12"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/12"
+      }
+    },
+    {
+      "case_id": "V4-B1-014",
+      "family": "B1",
+      "title": "DOI URL/case normalization",
+      "operation": "canonical_identity",
+      "inputs": {
+        "variant": "normalized_doi"
+      },
+      "expected": 1,
+      "contract": "docs/PAPER_IDENTITY.md: canonical explicit identifiers, compatibility, aliases and serialized writes.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/13"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/13"
+      }
+    },
+    {
+      "case_id": "V4-B1-015",
+      "family": "B1",
+      "title": "exact arXiv identity across providers",
+      "operation": "canonical_identity",
+      "inputs": {
+        "variant": "arxiv"
+      },
+      "expected": 1,
+      "contract": "docs/PAPER_IDENTITY.md: canonical explicit identifiers, compatibility, aliases and serialized writes.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/14"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/14"
+      }
+    },
+    {
+      "case_id": "V4-B1-016",
+      "family": "B1",
+      "title": "same title with different DOIs stays distinct",
+      "operation": "canonical_identity",
+      "inputs": {
+        "variant": "different_doi"
+      },
+      "expected": 2,
+      "contract": "docs/PAPER_IDENTITY.md: canonical explicit identifiers, compatibility, aliases and serialized writes.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/15"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/15"
+      }
+    },
+    {
+      "case_id": "V4-B1-017",
+      "family": "B1",
+      "title": "same title without identifiers stays distinct",
+      "operation": "canonical_identity",
+      "inputs": {
+        "variant": "no_identifier"
+      },
+      "expected": 2,
+      "contract": "docs/PAPER_IDENTITY.md: canonical explicit identifiers, compatibility, aliases and serialized writes.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/16"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/16"
+      }
+    },
+    {
+      "case_id": "V4-B1-018",
+      "family": "B1",
+      "title": "late DOI completion preserves old key alias",
+      "operation": "canonical_identity",
+      "inputs": {
+        "variant": "late_doi"
+      },
+      "expected": true,
+      "contract": "docs/PAPER_IDENTITY.md: canonical explicit identifiers, compatibility, aliases and serialized writes.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/17"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/17"
+      }
+    },
+    {
+      "case_id": "V4-B1-019",
+      "family": "B1",
+      "title": "concurrent DOI ingestion has one owner",
+      "operation": "canonical_identity",
+      "inputs": {
+        "variant": "concurrent"
+      },
+      "expected": 1,
+      "contract": "docs/PAPER_IDENTITY.md: canonical explicit identifiers, compatibility, aliases and serialized writes.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/18"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/18"
+      }
+    },
+    {
+      "case_id": "V4-B1-020",
+      "family": "B1",
+      "title": "conflicting new provider observation cannot merge",
+      "operation": "canonical_identity",
+      "inputs": {
+        "variant": "conflict"
+      },
+      "expected": 1,
+      "contract": "docs/PAPER_IDENTITY.md: canonical explicit identifiers, compatibility, aliases and serialized writes.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/19"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/19"
+      }
+    },
+    {
+      "case_id": "V4-B2-001",
+      "family": "B2",
+      "title": "paper.pdf / preprint",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "publication_version",
+        "version": "preprint",
+        "name": "paper.pdf",
+        "parse": ""
+      },
+      "expected": "preprint",
+      "contract": "Current documented flat file vocabulary; retain legacy projection compatibility, not PDF semantic accuracy.",
+      "v3_requirement_source_id": "B2-001",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/20"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/20"
+      }
+    },
+    {
+      "case_id": "V4-B2-002",
+      "family": "B2",
+      "title": "paper.pdf / accepted_manuscript",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "publication_version",
+        "version": "accepted_manuscript",
+        "name": "paper.pdf",
+        "parse": ""
+      },
+      "expected": "accepted_manuscript",
+      "contract": "Current documented flat file vocabulary; retain legacy projection compatibility, not PDF semantic accuracy.",
+      "v3_requirement_source_id": "B2-002",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/21"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/21"
+      }
+    },
+    {
+      "case_id": "V4-B2-003",
+      "family": "B2",
+      "title": "paper.pdf / version_of_record",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "publication_version",
+        "version": "version_of_record",
+        "name": "paper.pdf",
+        "parse": ""
+      },
+      "expected": "published_version",
+      "contract": "Current documented flat file vocabulary; retain legacy projection compatibility, not PDF semantic accuracy.",
+      "v3_requirement_source_id": "B2-003",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/22"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/22"
+      }
+    },
+    {
+      "case_id": "V4-B2-004",
+      "family": "B2",
+      "title": "paper.pdf / first_published",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "publication_version",
+        "version": "first_published",
+        "name": "paper.pdf",
+        "parse": ""
+      },
+      "expected": "published_version",
+      "contract": "Current documented flat file vocabulary; retain legacy projection compatibility, not PDF semantic accuracy.",
+      "v3_requirement_source_id": "B2-004",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/23"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/23"
+      }
+    },
+    {
+      "case_id": "V4-B2-005",
+      "family": "B2",
+      "title": "paper.pdf / corrected_published_version",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "publication_version",
+        "version": "corrected_published_version",
+        "name": "paper.pdf",
+        "parse": ""
+      },
+      "expected": "corrected_published_version",
+      "contract": "Current documented flat file vocabulary; retain legacy projection compatibility, not PDF semantic accuracy.",
+      "v3_requirement_source_id": "B2-005",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/24"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/24"
+      }
+    },
+    {
+      "case_id": "V4-B2-006",
+      "family": "B2",
+      "title": "Author Correction.pdf / other",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "other",
+        "version": "",
+        "name": "Author Correction.pdf",
+        "parse": ""
+      },
+      "expected": "correction_notice",
+      "contract": "Current documented flat file vocabulary; retain legacy projection compatibility, not PDF semantic accuracy.",
+      "v3_requirement_source_id": "B2-006",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/25"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/25"
+      }
+    },
+    {
+      "case_id": "V4-B2-007",
+      "family": "B2",
+      "title": "Publisher Corrigendum.pdf / other",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "other",
+        "version": "",
+        "name": "Publisher Corrigendum.pdf",
+        "parse": ""
+      },
+      "expected": "correction_notice",
+      "contract": "Current documented flat file vocabulary; retain legacy projection compatibility, not PDF semantic accuracy.",
+      "v3_requirement_source_id": "B2-007",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/26"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/26"
+      }
+    },
+    {
+      "case_id": "V4-B2-008",
+      "family": "B2",
+      "title": "supporting information.pdf / supplement",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "supplement",
+        "version": "",
+        "name": "supporting information.pdf",
+        "parse": ""
+      },
+      "expected": "supplementary_material",
+      "contract": "Current documented flat file vocabulary; retain legacy projection compatibility, not PDF semantic accuracy.",
+      "v3_requirement_source_id": "B2-008",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/27"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/27"
+      }
+    },
+    {
+      "case_id": "V4-B2-009",
+      "family": "B2",
+      "title": "peer review file.pdf / peer_review",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "peer_review",
+        "version": "",
+        "name": "peer review file.pdf",
+        "parse": ""
+      },
+      "expected": "peer_review_file",
+      "contract": "Current documented flat file vocabulary; retain legacy projection compatibility, not PDF semantic accuracy.",
+      "v3_requirement_source_id": "B2-009",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/28"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/28"
+      }
+    },
+    {
+      "case_id": "V4-B2-010",
+      "family": "B2",
+      "title": "decision letter.pdf / other",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "other",
+        "version": "",
+        "name": "decision letter.pdf",
+        "parse": ""
+      },
+      "expected": "peer_review_file",
+      "contract": "Current documented flat file vocabulary; retain legacy projection compatibility, not PDF semantic accuracy.",
+      "v3_requirement_source_id": "B2-010",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/29"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/29"
+      }
+    },
+    {
+      "case_id": "V4-B2-011",
+      "family": "B2",
+      "title": "dataset.csv / data",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "data",
+        "version": "",
+        "name": "dataset.csv",
+        "parse": ""
+      },
+      "expected": "other",
+      "contract": "Current documented flat file vocabulary; retain legacy projection compatibility, not PDF semantic accuracy.",
+      "v3_requirement_source_id": "B2-011",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/30"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/30"
+      }
+    },
+    {
+      "case_id": "V4-B2-012",
+      "family": "B2",
+      "title": "readable mystery.pdf / no classification",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "",
+        "version": "",
+        "name": "readable mystery.pdf",
+        "parse": ""
+      },
+      "expected": "unknown",
+      "contract": "Current documented flat file vocabulary; retain legacy projection compatibility, not PDF semantic accuracy.",
+      "v3_requirement_source_id": "B2-012",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/31"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/31"
+      }
+    },
+    {
+      "case_id": "V4-B2-013",
+      "family": "B2",
+      "title": "article.pdf / other",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "publication_version",
+        "version": "other",
+        "name": "article.pdf",
+        "parse": "invalid"
+      },
+      "expected": "invalid_file",
+      "contract": "Current documented flat file vocabulary; retain legacy projection compatibility, not PDF semantic accuracy.",
+      "v3_requirement_source_id": "B2-013",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/32"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/32"
+      }
+    },
+    {
+      "case_id": "V4-B2-014",
+      "family": "B2",
+      "title": "main article with appended supplement.pdf / version_of_record",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "publication_version",
+        "version": "version_of_record",
+        "name": "main article with appended supplement.pdf",
+        "parse": ""
+      },
+      "expected": "published_version",
+      "contract": "Current documented flat file vocabulary; retain legacy projection compatibility, not PDF semantic accuracy.",
+      "v3_requirement_source_id": "B2-014",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/33"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/33"
+      }
+    },
+    {
+      "case_id": "V4-B2-015",
+      "family": "B2",
+      "title": "Nature Accelerated Article Preview.pdf / accepted_manuscript",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "publication_version",
+        "version": "accepted_manuscript",
+        "name": "Nature Accelerated Article Preview.pdf",
+        "parse": ""
+      },
+      "expected": "accepted_manuscript",
+      "contract": "Current documented flat file vocabulary; retain legacy projection compatibility, not PDF semantic accuracy.",
+      "v3_requirement_source_id": "B2-015",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/34"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/34"
+      }
+    },
+    {
+      "case_id": "V4-B2-016",
+      "family": "B2",
+      "title": "Science First Release.pdf / accepted_manuscript",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "publication_version",
+        "version": "accepted_manuscript",
+        "name": "Science First Release.pdf",
+        "parse": ""
+      },
+      "expected": "accepted_manuscript",
+      "contract": "Current documented flat file vocabulary; retain legacy projection compatibility, not PDF semantic accuracy.",
+      "v3_requirement_source_id": "B2-016",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/35"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/35"
+      }
+    },
+    {
+      "case_id": "V4-B2-017",
+      "family": "B2",
+      "title": "publisher article plus appendix.pdf / version_of_record",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "publication_version",
+        "version": "version_of_record",
+        "name": "publisher article plus appendix.pdf",
+        "parse": ""
+      },
+      "expected": "published_version",
+      "contract": "Current documented flat file vocabulary; retain legacy projection compatibility, not PDF semantic accuracy.",
+      "v3_requirement_source_id": "B2-017",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/36"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/36"
+      }
+    },
+    {
+      "case_id": "V4-B2-018",
+      "family": "B2",
+      "title": "corrected article.pdf / corrected_version",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "publication_version",
+        "version": "corrected_version",
+        "name": "corrected article.pdf",
+        "parse": ""
+      },
+      "expected": "corrected_published_version",
+      "contract": "Current documented flat file vocabulary; retain legacy projection compatibility, not PDF semantic accuracy.",
+      "v3_requirement_source_id": "B2-018",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/37"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/37"
+      }
+    },
+    {
+      "case_id": "V4-B2-019",
+      "family": "B2",
+      "title": "reviewer report 2.pdf / other",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "other",
+        "version": "",
+        "name": "reviewer report 2.pdf",
+        "parse": ""
+      },
+      "expected": "peer_review_file",
+      "contract": "Current documented flat file vocabulary; retain legacy projection compatibility, not PDF semantic accuracy.",
+      "v3_requirement_source_id": "B2-019",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/38"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/38"
+      }
+    },
+    {
+      "case_id": "V4-B2-020",
+      "family": "B2",
+      "title": "lab notes.txt / note",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "note",
+        "version": "",
+        "name": "lab notes.txt",
+        "parse": ""
+      },
+      "expected": "other",
+      "contract": "Current documented flat file vocabulary; retain legacy projection compatibility, not PDF semantic accuracy.",
+      "v3_requirement_source_id": "B2-020",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/39"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/39"
+      }
+    },
+    {
+      "case_id": "V4-B2-021",
+      "family": "B2",
+      "title": "Retraction: work",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "other",
+        "version": "",
+        "name": "Retraction: work.pdf",
+        "parse": ""
+      },
+      "expected": "retraction_notice",
+      "contract": "Publication notice labels are separate file types.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/40"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/40"
+      }
+    },
+    {
+      "case_id": "V4-B2-022",
+      "family": "B2",
+      "title": "Expression of concern: work",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "other",
+        "version": "",
+        "name": "Expression of concern: work.pdf",
+        "parse": ""
+      },
+      "expected": "expression_of_concern",
+      "contract": "Publication notice labels are separate file types.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/41"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/41"
+      }
+    },
+    {
+      "case_id": "V4-B2-023",
+      "family": "B2",
+      "title": "Withdrawal: work",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "other",
+        "version": "",
+        "name": "Withdrawal: work.pdf",
+        "parse": ""
+      },
+      "expected": "withdrawal_notice",
+      "contract": "Publication notice labels are separate file types.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/42"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/42"
+      }
+    },
+    {
+      "case_id": "V4-B2-024",
+      "family": "B2",
+      "title": "Addendum: work",
+      "operation": "legacy_type",
+      "inputs": {
+        "role": "other",
+        "version": "",
+        "name": "Addendum: work.pdf",
+        "parse": ""
+      },
+      "expected": "addendum",
+      "contract": "Publication notice labels are separate file types.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/43"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/43"
+      }
+    },
+    {
+      "case_id": "V4-B2-025",
+      "family": "B2",
+      "title": "current flat type perspective",
+      "operation": "normalize_type",
+      "inputs": {
+        "value": "perspective"
+      },
+      "expected": "perspective",
+      "contract": "Explicit current file-type vocabulary must survive normalization.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/44"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/44"
+      }
+    },
+    {
+      "case_id": "V4-B2-026",
+      "family": "B2",
+      "title": "current flat type news_and_views",
+      "operation": "normalize_type",
+      "inputs": {
+        "value": "news_and_views"
+      },
+      "expected": "news_and_views",
+      "contract": "Explicit current file-type vocabulary must survive normalization.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/45"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/45"
+      }
+    },
+    {
+      "case_id": "V4-B2-027",
+      "family": "B2",
+      "title": "current flat type summary",
+      "operation": "normalize_type",
+      "inputs": {
+        "value": "summary"
+      },
+      "expected": "summary",
+      "contract": "Explicit current file-type vocabulary must survive normalization.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/46"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/46"
+      }
+    },
+    {
+      "case_id": "V4-B2-028",
+      "family": "B2",
+      "title": "current flat type analysis",
+      "operation": "normalize_type",
+      "inputs": {
+        "value": "analysis"
+      },
+      "expected": "analysis",
+      "contract": "Explicit current file-type vocabulary must survive normalization.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/47"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/47"
+      }
+    },
+    {
+      "case_id": "V4-B2-029",
+      "family": "B2",
+      "title": "current flat type source_data",
+      "operation": "normalize_type",
+      "inputs": {
+        "value": "source_data"
+      },
+      "expected": "source_data",
+      "contract": "Explicit current file-type vocabulary must survive normalization.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/48"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/48"
+      }
+    },
+    {
+      "case_id": "V4-B2-030",
+      "family": "B2",
+      "title": "current flat type source_code",
+      "operation": "normalize_type",
+      "inputs": {
+        "value": "source_code"
+      },
+      "expected": "source_code",
+      "contract": "Explicit current file-type vocabulary must survive normalization.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/49"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/49"
+      }
+    },
+    {
+      "case_id": "V4-B3-001",
+      "family": "B3",
+      "title": "Default: preprint",
+      "operation": "default",
+      "inputs": {
+        "types": [
+          "preprint"
+        ],
+        "manual": null
+      },
+      "expected": "preprint",
+      "contract": "Version priority corrected > published > accepted > preprint; secondary excluded; manual preserved until explicit clear.",
+      "v3_requirement_source_id": "B3-001",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/50"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/50"
+      }
+    },
+    {
+      "case_id": "V4-B3-002",
+      "family": "B3",
+      "title": "Default: preprint,accepted_manuscript",
+      "operation": "default",
+      "inputs": {
+        "types": [
+          "preprint",
+          "accepted_manuscript"
+        ],
+        "manual": null
+      },
+      "expected": "accepted_manuscript",
+      "contract": "Version priority corrected > published > accepted > preprint; secondary excluded; manual preserved until explicit clear.",
+      "v3_requirement_source_id": "B3-002",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/51"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/51"
+      }
+    },
+    {
+      "case_id": "V4-B3-003",
+      "family": "B3",
+      "title": "Default: preprint,accepted_manuscript,published_version",
+      "operation": "default",
+      "inputs": {
+        "types": [
+          "preprint",
+          "accepted_manuscript",
+          "published_version"
+        ],
+        "manual": null
+      },
+      "expected": "published_version",
+      "contract": "Version priority corrected > published > accepted > preprint; secondary excluded; manual preserved until explicit clear.",
+      "v3_requirement_source_id": "B3-003",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/52"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/52"
+      }
+    },
+    {
+      "case_id": "V4-B3-004",
+      "family": "B3",
+      "title": "Default: published_version,corrected_published_version",
+      "operation": "default",
+      "inputs": {
+        "types": [
+          "published_version",
+          "corrected_published_version"
+        ],
+        "manual": null
+      },
+      "expected": "corrected_published_version",
+      "contract": "Version priority corrected > published > accepted > preprint; secondary excluded; manual preserved until explicit clear.",
+      "v3_requirement_source_id": "B3-004",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/53"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/53"
+      }
+    },
+    {
+      "case_id": "V4-B3-005",
+      "family": "B3",
+      "title": "Default: published_version,correction_notice",
+      "operation": "default",
+      "inputs": {
+        "types": [
+          "published_version",
+          "correction_notice"
+        ],
+        "manual": null
+      },
+      "expected": "published_version",
+      "contract": "Version priority corrected > published > accepted > preprint; secondary excluded; manual preserved until explicit clear.",
+      "v3_requirement_source_id": "B3-005",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/54"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/54"
+      }
+    },
+    {
+      "case_id": "V4-B3-006",
+      "family": "B3",
+      "title": "Default: supplementary_material,peer_review_file",
+      "operation": "default",
+      "inputs": {
+        "types": [
+          "supplementary_material",
+          "peer_review_file"
+        ],
+        "manual": null
+      },
+      "expected": null,
+      "contract": "Version priority corrected > published > accepted > preprint; secondary excluded; manual preserved until explicit clear.",
+      "v3_requirement_source_id": "B3-006",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/55"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/55"
+      }
+    },
+    {
+      "case_id": "V4-B3-007",
+      "family": "B3",
+      "title": "Default: published_version,supplementary_material,correction_notice",
+      "operation": "default",
+      "inputs": {
+        "types": [
+          "published_version",
+          "supplementary_material",
+          "correction_notice"
+        ],
+        "manual": null
+      },
+      "expected": "published_version",
+      "contract": "Version priority corrected > published > accepted > preprint; secondary excluded; manual preserved until explicit clear.",
+      "v3_requirement_source_id": "B3-007",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/56"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/56"
+      }
+    },
+    {
+      "case_id": "V4-B3-008",
+      "family": "B3",
+      "title": "Default: preprint,invalid_file",
+      "operation": "default",
+      "inputs": {
+        "types": [
+          "preprint",
+          "invalid_file"
+        ],
+        "manual": null
+      },
+      "expected": "preprint",
+      "contract": "Version priority corrected > published > accepted > preprint; secondary excluded; manual preserved until explicit clear.",
+      "v3_requirement_source_id": "B3-008",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/57"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/57"
+      }
+    },
+    {
+      "case_id": "V4-B3-009",
+      "family": "B3",
+      "title": "Default: preprint,published_version,corrected_published_version / manual=0",
+      "operation": "default",
+      "inputs": {
+        "types": [
+          "preprint",
+          "published_version",
+          "corrected_published_version"
+        ],
+        "manual": 0
+      },
+      "expected": "preprint",
+      "contract": "Version priority corrected > published > accepted > preprint; secondary excluded; manual preserved until explicit clear.",
+      "v3_requirement_source_id": "B3-009",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/58"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/58"
+      }
+    },
+    {
+      "case_id": "V4-B3-010",
+      "family": "B3",
+      "title": "Default: published_version,retraction_notice",
+      "operation": "default",
+      "inputs": {
+        "types": [
+          "published_version",
+          "retraction_notice"
+        ],
+        "manual": null
+      },
+      "expected": "published_version",
+      "contract": "Version priority corrected > published > accepted > preprint; secondary excluded; manual preserved until explicit clear.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/59"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/59"
+      }
+    },
+    {
+      "case_id": "V4-B3-011",
+      "family": "B3",
+      "title": "Default: published_version,expression_of_concern",
+      "operation": "default",
+      "inputs": {
+        "types": [
+          "published_version",
+          "expression_of_concern"
+        ],
+        "manual": null
+      },
+      "expected": "published_version",
+      "contract": "Version priority corrected > published > accepted > preprint; secondary excluded; manual preserved until explicit clear.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/60"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/60"
+      }
+    },
+    {
+      "case_id": "V4-B3-012",
+      "family": "B3",
+      "title": "Default: preprint,withdrawal_notice",
+      "operation": "default",
+      "inputs": {
+        "types": [
+          "preprint",
+          "withdrawal_notice"
+        ],
+        "manual": null
+      },
+      "expected": "preprint",
+      "contract": "Version priority corrected > published > accepted > preprint; secondary excluded; manual preserved until explicit clear.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/61"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/61"
+      }
+    },
+    {
+      "case_id": "V4-B3-013",
+      "family": "B3",
+      "title": "Default: published_version,addendum",
+      "operation": "default",
+      "inputs": {
+        "types": [
+          "published_version",
+          "addendum"
+        ],
+        "manual": null
+      },
+      "expected": "published_version",
+      "contract": "Version priority corrected > published > accepted > preprint; secondary excluded; manual preserved until explicit clear.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/62"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/62"
+      }
+    },
+    {
+      "case_id": "V4-B3-014",
+      "family": "B3",
+      "title": "Default: source_data,source_code,analysis",
+      "operation": "default",
+      "inputs": {
+        "types": [
+          "source_data",
+          "source_code",
+          "analysis"
+        ],
+        "manual": null
+      },
+      "expected": null,
+      "contract": "Version priority corrected > published > accepted > preprint; secondary excluded; manual preserved until explicit clear.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/63"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/63"
+      }
+    },
+    {
+      "case_id": "V4-B3-015",
+      "family": "B3",
+      "title": "Default: unknown,published_version",
+      "operation": "default",
+      "inputs": {
+        "types": [
+          "unknown",
+          "published_version"
+        ],
+        "manual": null
+      },
+      "expected": "published_version",
+      "contract": "Version priority corrected > published > accepted > preprint; secondary excluded; manual preserved until explicit clear.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/64"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/64"
+      }
+    },
+    {
+      "case_id": "V4-B3-016",
+      "family": "B3",
+      "title": "Default: preprint,published_version / manual=clear_after",
+      "operation": "default",
+      "inputs": {
+        "types": [
+          "preprint",
+          "published_version"
+        ],
+        "manual": "clear_after"
+      },
+      "expected": "published_version",
+      "contract": "Version priority corrected > published > accepted > preprint; secondary excluded; manual preserved until explicit clear.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/65"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/65"
+      }
+    },
+    {
+      "case_id": "V4-B4-001",
+      "family": "B4",
+      "title": "Preserve file set: published_version,correction_notice",
+      "operation": "notice_files",
+      "inputs": {
+        "types": [
+          "published_version",
+          "correction_notice"
+        ]
+      },
+      "expected": {
+        "types": [
+          "correction_notice",
+          "published_version"
+        ],
+        "default": "published_version"
+      },
+      "contract": "Notice bytes remain separate resources; corrected full text remains an article version.",
+      "v3_requirement_source_id": "B4-001",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/66"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/66"
+      }
+    },
+    {
+      "case_id": "V4-B4-002",
+      "family": "B4",
+      "title": "Preserve file set: published_version,correction_notice,corrected_published_version",
+      "operation": "notice_files",
+      "inputs": {
+        "types": [
+          "published_version",
+          "correction_notice",
+          "corrected_published_version"
+        ]
+      },
+      "expected": {
+        "types": [
+          "corrected_published_version",
+          "correction_notice",
+          "published_version"
+        ],
+        "default": "corrected_published_version"
+      },
+      "contract": "Notice bytes remain separate resources; corrected full text remains an article version.",
+      "v3_requirement_source_id": "B4-002",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/67"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/67"
+      }
+    },
+    {
+      "case_id": "V4-B4-003",
+      "family": "B4",
+      "title": "Preserve file set: correction_notice",
+      "operation": "notice_files",
+      "inputs": {
+        "types": [
+          "correction_notice"
+        ]
+      },
+      "expected": {
+        "types": [
+          "correction_notice"
+        ],
+        "default": null
+      },
+      "contract": "Notice bytes remain separate resources; corrected full text remains an article version.",
+      "v3_requirement_source_id": "B4-003",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/68"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/68"
+      }
+    },
+    {
+      "case_id": "V4-B4-004",
+      "family": "B4",
+      "title": "Preserve file set: preprint,correction_notice",
+      "operation": "notice_files",
+      "inputs": {
+        "types": [
+          "preprint",
+          "correction_notice"
+        ]
+      },
+      "expected": {
+        "types": [
+          "correction_notice",
+          "preprint"
+        ],
+        "default": "preprint"
+      },
+      "contract": "Notice bytes remain separate resources; corrected full text remains an article version.",
+      "v3_requirement_source_id": "B4-004",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/69"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/69"
+      }
+    },
+    {
+      "case_id": "V4-B4-005",
+      "family": "B4",
+      "title": "Preserve file set: accepted_manuscript,correction_notice",
+      "operation": "notice_files",
+      "inputs": {
+        "types": [
+          "accepted_manuscript",
+          "correction_notice"
+        ]
+      },
+      "expected": {
+        "types": [
+          "accepted_manuscript",
+          "correction_notice"
+        ],
+        "default": "accepted_manuscript"
+      },
+      "contract": "Notice bytes remain separate resources; corrected full text remains an article version.",
+      "v3_requirement_source_id": "B4-005",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/70"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/70"
+      }
+    },
+    {
+      "case_id": "V4-B4-006",
+      "family": "B4",
+      "title": "Preserve file set: published_version,corrected_published_version",
+      "operation": "notice_files",
+      "inputs": {
+        "types": [
+          "published_version",
+          "corrected_published_version"
+        ]
+      },
+      "expected": {
+        "types": [
+          "corrected_published_version",
+          "published_version"
+        ],
+        "default": "corrected_published_version"
+      },
+      "contract": "Notice bytes remain separate resources; corrected full text remains an article version.",
+      "v3_requirement_source_id": "B4-006",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/71"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/71"
+      }
+    },
+    {
+      "case_id": "V4-B4-007",
+      "family": "B4",
+      "title": "Linked publication event correction_notice",
+      "operation": "notice_event",
+      "inputs": {
+        "title": "Correction: benchmark",
+        "variant": "linked"
+      },
+      "expected": {
+        "papers": 1,
+        "events": 1,
+        "status": "linked",
+        "kind": "correction_notice"
+      },
+      "contract": "Explicit notice targets original DOI; no standalone paper identity.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/72"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/72"
+      }
+    },
+    {
+      "case_id": "V4-B4-008",
+      "family": "B4",
+      "title": "Linked publication event retraction_notice",
+      "operation": "notice_event",
+      "inputs": {
+        "title": "Retraction: benchmark",
+        "variant": "linked"
+      },
+      "expected": {
+        "papers": 1,
+        "events": 1,
+        "status": "linked",
+        "kind": "retraction_notice"
+      },
+      "contract": "Explicit notice targets original DOI; no standalone paper identity.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/73"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/73"
+      }
+    },
+    {
+      "case_id": "V4-B4-009",
+      "family": "B4",
+      "title": "Linked publication event expression_of_concern",
+      "operation": "notice_event",
+      "inputs": {
+        "title": "Expression of concern: benchmark",
+        "variant": "linked"
+      },
+      "expected": {
+        "papers": 1,
+        "events": 1,
+        "status": "linked",
+        "kind": "expression_of_concern"
+      },
+      "contract": "Explicit notice targets original DOI; no standalone paper identity.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/74"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/74"
+      }
+    },
+    {
+      "case_id": "V4-B4-010",
+      "family": "B4",
+      "title": "Linked publication event withdrawal_notice",
+      "operation": "notice_event",
+      "inputs": {
+        "title": "Withdrawal: benchmark",
+        "variant": "linked"
+      },
+      "expected": {
+        "papers": 1,
+        "events": 1,
+        "status": "linked",
+        "kind": "withdrawal_notice"
+      },
+      "contract": "Explicit notice targets original DOI; no standalone paper identity.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/75"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/75"
+      }
+    },
+    {
+      "case_id": "V4-B4-011",
+      "family": "B4",
+      "title": "Linked publication event addendum",
+      "operation": "notice_event",
+      "inputs": {
+        "title": "Addendum: benchmark",
+        "variant": "linked"
+      },
+      "expected": {
+        "papers": 1,
+        "events": 1,
+        "status": "linked",
+        "kind": "addendum"
+      },
+      "contract": "Explicit notice targets original DOI; no standalone paper identity.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/76"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/76"
+      }
+    },
+    {
+      "case_id": "V4-B4-012",
+      "family": "B4",
+      "title": "Unresolved notice stays an event",
+      "operation": "notice_event",
+      "inputs": {
+        "title": "Correction: benchmark",
+        "variant": "unresolved"
+      },
+      "expected": {
+        "papers": 1,
+        "events": 1,
+        "status": "needs_relation",
+        "kind": "correction_notice"
+      },
+      "contract": "docs/PUBLICATION_NOTICES.md: explicit outgoing relation, immutable linked target, no original/notice conflation.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/77"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/77"
+      }
+    },
+    {
+      "case_id": "V4-B4-013",
+      "family": "B4",
+      "title": "Multiple targets require review",
+      "operation": "notice_event",
+      "inputs": {
+        "title": "Correction: benchmark",
+        "variant": "ambiguous"
+      },
+      "expected": {
+        "papers": 1,
+        "events": 1,
+        "status": "needs_relation",
+        "kind": "correction_notice"
+      },
+      "contract": "docs/PUBLICATION_NOTICES.md: explicit outgoing relation, immutable linked target, no original/notice conflation.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/78"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/78"
+      }
+    },
+    {
+      "case_id": "V4-B4-014",
+      "family": "B4",
+      "title": "Self-target does not link",
+      "operation": "notice_event",
+      "inputs": {
+        "title": "Correction: benchmark",
+        "variant": "self_target"
+      },
+      "expected": {
+        "papers": 1,
+        "events": 1,
+        "status": "needs_relation",
+        "kind": "correction_notice"
+      },
+      "contract": "docs/PUBLICATION_NOTICES.md: explicit outgoing relation, immutable linked target, no original/notice conflation.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/79"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/79"
+      }
+    },
+    {
+      "case_id": "V4-B4-015",
+      "family": "B4",
+      "title": "Repeated notice is idempotent",
+      "operation": "notice_event",
+      "inputs": {
+        "title": "Correction: benchmark",
+        "variant": "repeat"
+      },
+      "expected": {
+        "papers": 1,
+        "events": 1,
+        "status": "linked",
+        "kind": "correction_notice"
+      },
+      "contract": "docs/PUBLICATION_NOTICES.md: explicit outgoing relation, immutable linked target, no original/notice conflation.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/80"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/80"
+      }
+    },
+    {
+      "case_id": "V4-B4-016",
+      "family": "B4",
+      "title": "Original retraction flag is not a notice",
+      "operation": "notice_event",
+      "inputs": {
+        "title": "Correction: benchmark",
+        "variant": "original_flag"
+      },
+      "expected": false,
+      "contract": "docs/PUBLICATION_NOTICES.md: explicit outgoing relation, immutable linked target, no original/notice conflation.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/81"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/81"
+      }
+    },
+    {
+      "case_id": "V4-B4-017",
+      "family": "B4",
+      "title": "Corrected full article is not a notice",
+      "operation": "notice_event",
+      "inputs": {
+        "title": "Correction: benchmark",
+        "variant": "corrected_full"
+      },
+      "expected": false,
+      "contract": "docs/PUBLICATION_NOTICES.md: explicit outgoing relation, immutable linked target, no original/notice conflation.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/82"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/82"
+      }
+    },
+    {
+      "case_id": "V4-B4-018",
+      "family": "B4",
+      "title": "Changed relation cannot overwrite existing event",
+      "operation": "notice_event",
+      "inputs": {
+        "title": "Correction: benchmark",
+        "variant": "relation_conflict"
+      },
+      "expected": true,
+      "contract": "docs/PUBLICATION_NOTICES.md: explicit outgoing relation, immutable linked target, no original/notice conflation.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/83"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/83"
+      }
+    },
+    {
+      "case_id": "V4-B5-001",
+      "family": "B5",
+      "title": "clean one page",
+      "operation": "annotation",
+      "inputs": {
+        "variant": "detect",
+        "content": "clean"
+      },
+      "expected": "unannotated",
+      "contract": "PDF annotation evidence and explicit manual overrides; different bytes must survive.",
+      "v3_requirement_source_id": "B5-001",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/84"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/84"
+      }
+    },
+    {
+      "case_id": "V4-B5-002",
+      "family": "B5",
+      "title": "text annotation",
+      "operation": "annotation",
+      "inputs": {
+        "variant": "detect",
+        "content": "text"
+      },
+      "expected": "annotated",
+      "contract": "PDF annotation evidence and explicit manual overrides; different bytes must survive.",
+      "v3_requirement_source_id": "B5-002",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/85"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/85"
+      }
+    },
+    {
+      "case_id": "V4-B5-003",
+      "family": "B5",
+      "title": "clean two pages",
+      "operation": "annotation",
+      "inputs": {
+        "variant": "detect",
+        "content": "two_pages"
+      },
+      "expected": "unannotated",
+      "contract": "PDF annotation evidence and explicit manual overrides; different bytes must survive.",
+      "v3_requirement_source_id": "B5-003",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/86"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/86"
+      }
+    },
+    {
+      "case_id": "V4-B5-004",
+      "family": "B5",
+      "title": "manual unannotated override",
+      "operation": "annotation",
+      "inputs": {
+        "variant": "override",
+        "content": "text"
+      },
+      "expected": "unannotated",
+      "contract": "PDF annotation evidence and explicit manual overrides; different bytes must survive.",
+      "v3_requirement_source_id": "B5-004",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/87"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/87"
+      }
+    },
+    {
+      "case_id": "V4-B5-005",
+      "family": "B5",
+      "title": "clean and annotated coexist",
+      "operation": "annotation",
+      "inputs": {
+        "variant": "coexist",
+        "content": "text"
+      },
+      "expected": 2,
+      "contract": "PDF annotation evidence and explicit manual overrides; different bytes must survive.",
+      "v3_requirement_source_id": "B5-005",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/88"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/88"
+      }
+    },
+    {
+      "case_id": "V4-B5-006",
+      "family": "B5",
+      "title": "different page count is not annotation",
+      "operation": "annotation",
+      "inputs": {
+        "variant": "coexist",
+        "content": "two_pages"
+      },
+      "expected": 2,
+      "contract": "PDF annotation evidence and explicit manual overrides; different bytes must survive.",
+      "v3_requirement_source_id": "B5-006",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/89"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/89"
+      }
+    },
+    {
+      "case_id": "V4-B5-007",
+      "family": "B5",
+      "title": "highlight annotation",
+      "operation": "annotation",
+      "inputs": {
+        "variant": "detect",
+        "content": "highlight"
+      },
+      "expected": "annotated",
+      "contract": "PDF annotation evidence and explicit manual overrides; different bytes must survive.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/90"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/90"
+      }
+    },
+    {
+      "case_id": "V4-B5-008",
+      "family": "B5",
+      "title": "link annotation alone",
+      "operation": "annotation",
+      "inputs": {
+        "variant": "detect",
+        "content": "link"
+      },
+      "expected": "unannotated",
+      "contract": "PDF annotation evidence and explicit manual overrides; different bytes must survive.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/91"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/91"
+      }
+    },
+    {
+      "case_id": "V4-B5-009",
+      "family": "B5",
+      "title": "manual annotated override",
+      "operation": "annotation",
+      "inputs": {
+        "variant": "override_annotated",
+        "content": "clean"
+      },
+      "expected": "annotated",
+      "contract": "PDF annotation evidence and explicit manual overrides; different bytes must survive.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/92"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/92"
+      }
+    },
+    {
+      "case_id": "V4-B5-010",
+      "family": "B5",
+      "title": "override persists after reopen",
+      "operation": "annotation",
+      "inputs": {
+        "variant": "override_restart",
+        "content": "text"
+      },
+      "expected": "unannotated",
+      "contract": "PDF annotation evidence and explicit manual overrides; different bytes must survive.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/93"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/93"
+      }
+    },
+    {
+      "case_id": "V4-B6-001",
+      "family": "B6",
+      "title": "exact-byte append reused",
+      "operation": "preservation",
+      "inputs": {
+        "variant": "duplicate"
+      },
+      "expected": {
+        "count": 1,
+        "same_id": true
+      },
+      "contract": "docs/RESOURCE_DEDUPLICATION.md: exact bytes/path idempotence, changed bytes retained, ownership boundaries.",
+      "v3_requirement_source_id": "B6-001",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/94"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/94"
+      }
+    },
+    {
+      "case_id": "V4-B6-002",
+      "family": "B6",
+      "title": "preprint and accepted retained",
+      "operation": "preservation",
+      "inputs": {
+        "variant": "versions",
+        "types": [
+          "preprint",
+          "accepted_manuscript"
+        ]
+      },
+      "expected": true,
+      "contract": "docs/RESOURCE_DEDUPLICATION.md: exact bytes/path idempotence, changed bytes retained, ownership boundaries.",
+      "v3_requirement_source_id": "B6-002",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/95"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/95"
+      }
+    },
+    {
+      "case_id": "V4-B6-003",
+      "family": "B6",
+      "title": "accepted and published retained",
+      "operation": "preservation",
+      "inputs": {
+        "variant": "versions",
+        "types": [
+          "accepted_manuscript",
+          "published_version"
+        ]
+      },
+      "expected": true,
+      "contract": "docs/RESOURCE_DEDUPLICATION.md: exact bytes/path idempotence, changed bytes retained, ownership boundaries.",
+      "v3_requirement_source_id": "B6-003",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/96"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/96"
+      }
+    },
+    {
+      "case_id": "V4-B6-004",
+      "family": "B6",
+      "title": "published/corrected/notice retained",
+      "operation": "preservation",
+      "inputs": {
+        "variant": "versions",
+        "types": [
+          "published_version",
+          "corrected_published_version",
+          "correction_notice"
+        ]
+      },
+      "expected": true,
+      "contract": "docs/RESOURCE_DEDUPLICATION.md: exact bytes/path idempotence, changed bytes retained, ownership boundaries.",
+      "v3_requirement_source_id": "B6-004",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/97"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/97"
+      }
+    },
+    {
+      "case_id": "V4-B6-005",
+      "family": "B6",
+      "title": "article/supplement/review retained",
+      "operation": "preservation",
+      "inputs": {
+        "variant": "versions",
+        "types": [
+          "published_version",
+          "supplementary_material",
+          "peer_review_file"
+        ]
+      },
+      "expected": true,
+      "contract": "docs/RESOURCE_DEDUPLICATION.md: exact bytes/path idempotence, changed bytes retained, ownership boundaries.",
+      "v3_requirement_source_id": "B6-005",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/98"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/98"
+      }
+    },
+    {
+      "case_id": "V4-B6-006",
+      "family": "B6",
+      "title": "metadata URL does not create file",
+      "operation": "preservation",
+      "inputs": {
+        "variant": "metadata_only"
+      },
+      "expected": 0,
+      "contract": "docs/RESOURCE_DEDUPLICATION.md: exact bytes/path idempotence, changed bytes retained, ownership boundaries.",
+      "v3_requirement_source_id": "B6-006",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/99"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/99"
+      }
+    },
+    {
+      "case_id": "V4-B6-007",
+      "family": "B6",
+      "title": "same size different bytes retained",
+      "operation": "preservation",
+      "inputs": {
+        "variant": "same_size"
+      },
+      "expected": 2,
+      "contract": "docs/RESOURCE_DEDUPLICATION.md: exact bytes/path idempotence, changed bytes retained, ownership boundaries.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/100"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/100"
+      }
+    },
+    {
+      "case_id": "V4-B6-008",
+      "family": "B6",
+      "title": "same normalized path reused",
+      "operation": "preservation",
+      "inputs": {
+        "variant": "same_path"
+      },
+      "expected": true,
+      "contract": "docs/RESOURCE_DEDUPLICATION.md: exact bytes/path idempotence, changed bytes retained, ownership boundaries.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/101"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/101"
+      }
+    },
+    {
+      "case_id": "V4-B6-009",
+      "family": "B6",
+      "title": "renamed duplicate preserves original file",
+      "operation": "preservation",
+      "inputs": {
+        "variant": "renamed"
+      },
+      "expected": true,
+      "contract": "docs/RESOURCE_DEDUPLICATION.md: exact bytes/path idempotence, changed bytes retained, ownership boundaries.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/102"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/102"
+      }
+    },
+    {
+      "case_id": "V4-B6-010",
+      "family": "B6",
+      "title": "same bytes scoped to separate works",
+      "operation": "preservation",
+      "inputs": {
+        "variant": "different_work"
+      },
+      "expected": 2,
+      "contract": "docs/RESOURCE_DEDUPLICATION.md: exact bytes/path idempotence, changed bytes retained, ownership boundaries.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/103"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/103"
+      }
+    },
+    {
+      "case_id": "V4-B6-011",
+      "family": "B6",
+      "title": "changed-byte same filename retained",
+      "operation": "preservation",
+      "inputs": {
+        "variant": "same_name"
+      },
+      "expected": 2,
+      "contract": "docs/RESOURCE_DEDUPLICATION.md: exact bytes/path idempotence, changed bytes retained, ownership boundaries.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/104"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/104"
+      }
+    },
+    {
+      "case_id": "V4-B6-012",
+      "family": "B6",
+      "title": "manual Default survives duplicate attach",
+      "operation": "preservation",
+      "inputs": {
+        "variant": "manual_default"
+      },
+      "expected": true,
+      "contract": "docs/RESOURCE_DEDUPLICATION.md: exact bytes/path idempotence, changed bytes retained, ownership boundaries.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/105"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/105"
+      }
+    },
+    {
+      "case_id": "V4-B6-013",
+      "family": "B6",
+      "title": "repeat attach after database reopen",
+      "operation": "preservation",
+      "inputs": {
+        "variant": "restart"
+      },
+      "expected": {
+        "count": 1,
+        "same_id": true
+      },
+      "contract": "docs/RESOURCE_DEDUPLICATION.md: exact bytes/path idempotence, changed bytes retained, ownership boundaries.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/106"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/106"
+      }
+    },
+    {
+      "case_id": "V4-B6-014",
+      "family": "B6",
+      "title": "concurrent exact-byte attach",
+      "operation": "preservation",
+      "inputs": {
+        "variant": "concurrent"
+      },
+      "expected": 1,
+      "contract": "docs/RESOURCE_DEDUPLICATION.md: exact bytes/path idempotence, changed bytes retained, ownership boundaries.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/107"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/107"
+      }
+    },
+    {
+      "case_id": "V4-B7-001",
+      "family": "B7",
+      "title": "PDF parser: empty",
+      "operation": "pdf_validation",
+      "inputs": {
+        "content": "empty"
+      },
+      "expected": false,
+      "contract": "Structural parser-level readability, page presence and decryptability; magic header alone is insufficient.",
+      "v3_requirement_source_id": "B7-001",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/108"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/108"
+      }
+    },
+    {
+      "case_id": "V4-B7-002",
+      "family": "B7",
+      "title": "PDF parser: text",
+      "operation": "pdf_validation",
+      "inputs": {
+        "content": "text"
+      },
+      "expected": false,
+      "contract": "Structural parser-level readability, page presence and decryptability; magic header alone is insufficient.",
+      "v3_requirement_source_id": "B7-002",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/109"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/109"
+      }
+    },
+    {
+      "case_id": "V4-B7-003",
+      "family": "B7",
+      "title": "PDF parser: header_only",
+      "operation": "pdf_validation",
+      "inputs": {
+        "content": "header_only"
+      },
+      "expected": false,
+      "contract": "Structural parser-level readability, page presence and decryptability; magic header alone is insufficient.",
+      "v3_requirement_source_id": "B7-003",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/110"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/110"
+      }
+    },
+    {
+      "case_id": "V4-B7-004",
+      "family": "B7",
+      "title": "PDF parser: fake_objects",
+      "operation": "pdf_validation",
+      "inputs": {
+        "content": "fake_objects"
+      },
+      "expected": false,
+      "contract": "Structural parser-level readability, page presence and decryptability; magic header alone is insufficient.",
+      "v3_requirement_source_id": "B7-004",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/111"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/111"
+      }
+    },
+    {
+      "case_id": "V4-B7-005",
+      "family": "B7",
+      "title": "PDF parser: half",
+      "operation": "pdf_validation",
+      "inputs": {
+        "content": "half"
+      },
+      "expected": false,
+      "contract": "Structural parser-level readability, page presence and decryptability; magic header alone is insufficient.",
+      "v3_requirement_source_id": "B7-005",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/112"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/112"
+      }
+    },
+    {
+      "case_id": "V4-B7-006",
+      "family": "B7",
+      "title": "PDF parser: missing_eof",
+      "operation": "pdf_validation",
+      "inputs": {
+        "content": "missing_eof"
+      },
+      "expected": false,
+      "contract": "Structural parser-level readability, page presence and decryptability; magic header alone is insufficient.",
+      "v3_requirement_source_id": "B7-006",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/113"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/113"
+      }
+    },
+    {
+      "case_id": "V4-B7-007",
+      "family": "B7",
+      "title": "PDF parser: fake_prefix",
+      "operation": "pdf_validation",
+      "inputs": {
+        "content": "fake_prefix"
+      },
+      "expected": false,
+      "contract": "Structural parser-level readability, page presence and decryptability; magic header alone is insufficient.",
+      "v3_requirement_source_id": "B7-007",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/114"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/114"
+      }
+    },
+    {
+      "case_id": "V4-B7-008",
+      "family": "B7",
+      "title": "PDF parser: clean",
+      "operation": "pdf_validation",
+      "inputs": {
+        "content": "clean"
+      },
+      "expected": true,
+      "contract": "Structural parser-level readability, page presence and decryptability; magic header alone is insufficient.",
+      "v3_requirement_source_id": "B7-008",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/115"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/115"
+      }
+    },
+    {
+      "case_id": "V4-B7-009",
+      "family": "B7",
+      "title": "PDF parser: two_pages",
+      "operation": "pdf_validation",
+      "inputs": {
+        "content": "two_pages"
+      },
+      "expected": true,
+      "contract": "Structural parser-level readability, page presence and decryptability; magic header alone is insufficient.",
+      "v3_requirement_source_id": "B7-009",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/116"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/116"
+      }
+    },
+    {
+      "case_id": "V4-B7-010",
+      "family": "B7",
+      "title": "PDF parser: empty_password",
+      "operation": "pdf_validation",
+      "inputs": {
+        "content": "empty_password"
+      },
+      "expected": true,
+      "contract": "Structural parser-level readability, page presence and decryptability; magic header alone is insufficient.",
+      "v3_requirement_source_id": "B7-010",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/117"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/117"
+      }
+    },
+    {
+      "case_id": "V4-B7-011",
+      "family": "B7",
+      "title": "PDF parser: password",
+      "operation": "pdf_validation",
+      "inputs": {
+        "content": "password"
+      },
+      "expected": false,
+      "contract": "Structural parser-level readability, page presence and decryptability; magic header alone is insufficient.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/118"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/118"
+      }
+    },
+    {
+      "case_id": "V4-B7-012",
+      "family": "B7",
+      "title": "PDF parser: html",
+      "operation": "pdf_validation",
+      "inputs": {
+        "content": "html"
+      },
+      "expected": false,
+      "contract": "Structural parser-level readability, page presence and decryptability; magic header alone is insufficient.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/119"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/119"
+      }
+    },
+    {
+      "case_id": "V4-B7-013",
+      "family": "B7",
+      "title": "PDF parser: zero_pages",
+      "operation": "pdf_validation",
+      "inputs": {
+        "content": "zero_pages"
+      },
+      "expected": false,
+      "contract": "Structural parser-level readability, page presence and decryptability; magic header alone is insufficient.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/120"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/120"
+      }
+    },
+    {
+      "case_id": "V4-B7-014",
+      "family": "B7",
+      "title": "PDF parser: broken_xref",
+      "operation": "pdf_validation",
+      "inputs": {
+        "content": "broken_xref"
+      },
+      "expected": false,
+      "contract": "Structural parser-level readability, page presence and decryptability; magic header alone is insufficient.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/121"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/121"
+      }
+    },
+    {
+      "case_id": "V4-B8-001",
+      "family": "B8",
+      "title": "Source: https://arxiv.org/pdf/2601.00001",
+      "operation": "source",
+      "inputs": {
+        "url": "https://arxiv.org/pdf/2601.00001",
+        "via": "download"
+      },
+      "expected": "preprint_server",
+      "contract": "Source classification is independent metadata; host suffix boundary cannot match lookalike domains.",
+      "v3_requirement_source_id": "B8-001",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/122"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/122"
+      }
+    },
+    {
+      "case_id": "V4-B8-002",
+      "family": "B8",
+      "title": "Source: https://www.biorxiv.org/content/1.pdf",
+      "operation": "source",
+      "inputs": {
+        "url": "https://www.biorxiv.org/content/1.pdf",
+        "via": "download"
+      },
+      "expected": "preprint_server",
+      "contract": "Source classification is independent metadata; host suffix boundary cannot match lookalike domains.",
+      "v3_requirement_source_id": "B8-002",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/123"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/123"
+      }
+    },
+    {
+      "case_id": "V4-B8-003",
+      "family": "B8",
+      "title": "Source: https://repository.example.edu/item/paper.pdf",
+      "operation": "source",
+      "inputs": {
+        "url": "https://repository.example.edu/item/paper.pdf",
+        "via": "download"
+      },
+      "expected": "institutional_repository",
+      "contract": "Source classification is independent metadata; host suffix boundary cannot match lookalike domains.",
+      "v3_requirement_source_id": "B8-003",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/124"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/124"
+      }
+    },
+    {
+      "case_id": "V4-B8-004",
+      "family": "B8",
+      "title": "Source: https://eprints.example.ac.uk/1.pdf",
+      "operation": "source",
+      "inputs": {
+        "url": "https://eprints.example.ac.uk/1.pdf",
+        "via": "download"
+      },
+      "expected": "institutional_repository",
+      "contract": "Source classification is independent metadata; host suffix boundary cannot match lookalike domains.",
+      "v3_requirement_source_id": "B8-004",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/125"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/125"
+      }
+    },
+    {
+      "case_id": "V4-B8-005",
+      "family": "B8",
+      "title": "Source: https://nature.com/articles/x.pdf",
+      "operation": "source",
+      "inputs": {
+        "url": "https://nature.com/articles/x.pdf",
+        "via": "publisher_download"
+      },
+      "expected": "publisher",
+      "contract": "Source classification is independent metadata; host suffix boundary cannot match lookalike domains.",
+      "v3_requirement_source_id": "B8-005",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/126"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/126"
+      }
+    },
+    {
+      "case_id": "V4-B8-006",
+      "family": "B8",
+      "title": "Source: https://science.org/doi/pdf/x",
+      "operation": "source",
+      "inputs": {
+        "url": "https://science.org/doi/pdf/x",
+        "via": "aaas_download"
+      },
+      "expected": "publisher",
+      "contract": "Source classification is independent metadata; host suffix boundary cannot match lookalike domains.",
+      "v3_requirement_source_id": "B8-006",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/127"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/127"
+      }
+    },
+    {
+      "case_id": "V4-B8-007",
+      "family": "B8",
+      "title": "Source: manual",
+      "operation": "source",
+      "inputs": {
+        "url": "",
+        "via": "manual"
+      },
+      "expected": "user_import",
+      "contract": "Source classification is independent metadata; host suffix boundary cannot match lookalike domains.",
+      "v3_requirement_source_id": "B8-007",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/128"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/128"
+      }
+    },
+    {
+      "case_id": "V4-B8-008",
+      "family": "B8",
+      "title": "Source: inventory_import",
+      "operation": "source",
+      "inputs": {
+        "url": "",
+        "via": "inventory_import"
+      },
+      "expected": "user_import",
+      "contract": "Source classification is independent metadata; host suffix boundary cannot match lookalike domains.",
+      "v3_requirement_source_id": "B8-008",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/129"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/129"
+      }
+    },
+    {
+      "case_id": "V4-B8-009",
+      "family": "B8",
+      "title": "Source: https://files.example.net/paper.pdf",
+      "operation": "source",
+      "inputs": {
+        "url": "https://files.example.net/paper.pdf",
+        "via": "download"
+      },
+      "expected": "other",
+      "contract": "Source classification is independent metadata; host suffix boundary cannot match lookalike domains.",
+      "v3_requirement_source_id": "B8-009",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/130"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/130"
+      }
+    },
+    {
+      "case_id": "V4-B8-010",
+      "family": "B8",
+      "title": "Source: absent",
+      "operation": "source",
+      "inputs": {
+        "url": "",
+        "via": ""
+      },
+      "expected": "unknown",
+      "contract": "Source classification is independent metadata; host suffix boundary cannot match lookalike domains.",
+      "v3_requirement_source_id": "B8-010",
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/131"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/131"
+      }
+    },
+    {
+      "case_id": "V4-B8-011",
+      "family": "B8",
+      "title": "Source: browser_capture",
+      "operation": "source",
+      "inputs": {
+        "url": "",
+        "via": "browser_capture"
+      },
+      "expected": "user_import",
+      "contract": "Source classification is independent metadata; host suffix boundary cannot match lookalike domains.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/132"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/132"
+      }
+    },
+    {
+      "case_id": "V4-B8-012",
+      "family": "B8",
+      "title": "Source: https://arxiv.org.evil.example/paper.pdf",
+      "operation": "source",
+      "inputs": {
+        "url": "https://arxiv.org.evil.example/paper.pdf",
+        "via": "download"
+      },
+      "expected": "other",
+      "contract": "Source classification is independent metadata; host suffix boundary cannot match lookalike domains.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/133"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/133"
+      }
+    },
+    {
+      "case_id": "V4-B8-013",
+      "family": "B8",
+      "title": "Source: https://nature.com.evil.example/paper.pdf",
+      "operation": "source",
+      "inputs": {
+        "url": "https://nature.com.evil.example/paper.pdf",
+        "via": "download"
+      },
+      "expected": "other",
+      "contract": "Source classification is independent metadata; host suffix boundary cannot match lookalike domains.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/134"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/134"
+      }
+    },
+    {
+      "case_id": "V4-B8-014",
+      "family": "B8",
+      "title": "Source: https://medrxiv.org/content/1",
+      "operation": "source",
+      "inputs": {
+        "url": "https://medrxiv.org/content/1",
+        "via": "download"
+      },
+      "expected": "preprint_server",
+      "contract": "Source classification is independent metadata; host suffix boundary cannot match lookalike domains.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/135"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/135"
+      }
+    },
+    {
+      "case_id": "V4-B9-001",
+      "family": "B9",
+      "title": "Saved DOI preserves Key and bytes",
+      "operation": "metadata_correction",
+      "inputs": {
+        "variant": "save_doi"
+      },
+      "expected": true,
+      "contract": "docs/METADATA_REFRESH.md and identifier correction contract: user intent, fresh exact identifier, stable Key/files/default, stale result rejection.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/136"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/136"
+      }
+    },
+    {
+      "case_id": "V4-B9-002",
+      "family": "B9",
+      "title": "Explicit clear preserves files",
+      "operation": "metadata_correction",
+      "inputs": {
+        "variant": "clear_doi"
+      },
+      "expected": true,
+      "contract": "docs/METADATA_REFRESH.md and identifier correction contract: user intent, fresh exact identifier, stable Key/files/default, stale result rejection.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/137"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/137"
+      }
+    },
+    {
+      "case_id": "V4-B9-003",
+      "family": "B9",
+      "title": "Other Key DOI collision rejected",
+      "operation": "metadata_correction",
+      "inputs": {
+        "variant": "collision"
+      },
+      "expected": true,
+      "contract": "docs/METADATA_REFRESH.md and identifier correction contract: user intent, fresh exact identifier, stable Key/files/default, stale result rejection.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/138"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/138"
+      }
+    },
+    {
+      "case_id": "V4-B9-004",
+      "family": "B9",
+      "title": "Malformed DOI rejected",
+      "operation": "metadata_correction",
+      "inputs": {
+        "variant": "invalid"
+      },
+      "expected": true,
+      "contract": "docs/METADATA_REFRESH.md and identifier correction contract: user intent, fresh exact identifier, stable Key/files/default, stale result rejection.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/139"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/139"
+      }
+    },
+    {
+      "case_id": "V4-B9-005",
+      "family": "B9",
+      "title": "Saved correction remains pending before source match",
+      "operation": "metadata_correction",
+      "inputs": {
+        "variant": "pending"
+      },
+      "expected": true,
+      "contract": "docs/METADATA_REFRESH.md and identifier correction contract: user intent, fresh exact identifier, stable Key/files/default, stale result rejection.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/140"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/140"
+      }
+    },
+    {
+      "case_id": "V4-B9-006",
+      "family": "B9",
+      "title": "Matching fresh metadata replaces stale bibliography",
+      "operation": "metadata_correction",
+      "inputs": {
+        "variant": "matched_refresh"
+      },
+      "expected": true,
+      "contract": "docs/METADATA_REFRESH.md and identifier correction contract: user intent, fresh exact identifier, stable Key/files/default, stale result rejection.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/141"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/141"
+      }
+    },
+    {
+      "case_id": "V4-B9-007",
+      "family": "B9",
+      "title": "Wrong returned identifier rejected",
+      "operation": "metadata_correction",
+      "inputs": {
+        "variant": "mismatched_refresh"
+      },
+      "expected": true,
+      "contract": "docs/METADATA_REFRESH.md and identifier correction contract: user intent, fresh exact identifier, stable Key/files/default, stale result rejection.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/142"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/142"
+      }
+    },
+    {
+      "case_id": "V4-B9-008",
+      "family": "B9",
+      "title": "Unavailable metadata preserves previous fields",
+      "operation": "metadata_correction",
+      "inputs": {
+        "variant": "missing_refresh"
+      },
+      "expected": true,
+      "contract": "docs/METADATA_REFRESH.md and identifier correction contract: user intent, fresh exact identifier, stable Key/files/default, stale result rejection.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/143"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/143"
+      }
+    },
+    {
+      "case_id": "V4-B9-009",
+      "family": "B9",
+      "title": "Repeated correction does not duplicate history",
+      "operation": "metadata_correction",
+      "inputs": {
+        "variant": "repeat_refresh"
+      },
+      "expected": true,
+      "contract": "docs/METADATA_REFRESH.md and identifier correction contract: user intent, fresh exact identifier, stable Key/files/default, stale result rejection.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/144"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/144"
+      }
+    },
+    {
+      "case_id": "V4-B9-010",
+      "family": "B9",
+      "title": "Concurrent identifier edit invalidates old fetch",
+      "operation": "metadata_correction",
+      "inputs": {
+        "variant": "stale_refresh"
+      },
+      "expected": true,
+      "contract": "docs/METADATA_REFRESH.md and identifier correction contract: user intent, fresh exact identifier, stable Key/files/default, stale result rejection.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/145"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/145"
+      }
+    },
+    {
+      "case_id": "V4-B9-011",
+      "family": "B9",
+      "title": "Explicit arXiv identifier stored with files retained",
+      "operation": "metadata_correction",
+      "inputs": {
+        "variant": "arxiv_edit"
+      },
+      "expected": true,
+      "contract": "docs/METADATA_REFRESH.md and identifier correction contract: user intent, fresh exact identifier, stable Key/files/default, stale result rejection.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/146"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/146"
+      }
+    },
+    {
+      "case_id": "V4-B9-012",
+      "family": "B9",
+      "title": "Quick batch uses same correction service",
+      "operation": "metadata_correction",
+      "inputs": {
+        "variant": "quick_refresh"
+      },
+      "expected": true,
+      "contract": "docs/METADATA_REFRESH.md and identifier correction contract: user intent, fresh exact identifier, stable Key/files/default, stale result rejection.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/147"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/147"
+      }
+    },
+    {
+      "case_id": "V4-B10-001",
+      "family": "B10",
+      "title": "Metadata-only creates no placeholder file",
+      "operation": "mcp_import",
+      "inputs": {
+        "variant": "metadata_only"
+      },
+      "expected": true,
+      "contract": "docs/AI_ACCESS.md: actual isolated HTTP endpoint, supplied metadata, separate read/write grants, immutable retries, no implicit Resolve.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/148"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/148"
+      }
+    },
+    {
+      "case_id": "V4-B10-002",
+      "family": "B10",
+      "title": "Exact import retry is idempotent",
+      "operation": "mcp_import",
+      "inputs": {
+        "variant": "retry"
+      },
+      "expected": true,
+      "contract": "docs/AI_ACCESS.md: actual isolated HTTP endpoint, supplied metadata, separate read/write grants, immutable retries, no implicit Resolve.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/149"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/149"
+      }
+    },
+    {
+      "case_id": "V4-B10-003",
+      "family": "B10",
+      "title": "Later PDF preserves metadata-only Key",
+      "operation": "mcp_import",
+      "inputs": {
+        "variant": "later_pdf"
+      },
+      "expected": true,
+      "contract": "docs/AI_ACCESS.md: actual isolated HTTP endpoint, supplied metadata, separate read/write grants, immutable retries, no implicit Resolve.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/150"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/150"
+      }
+    },
+    {
+      "case_id": "V4-B10-004",
+      "family": "B10",
+      "title": "Supplied invalid upload is not silently ignored",
+      "operation": "mcp_import",
+      "inputs": {
+        "variant": "invalid_upload"
+      },
+      "expected": true,
+      "contract": "docs/AI_ACCESS.md: actual isolated HTTP endpoint, supplied metadata, separate read/write grants, immutable retries, no implicit Resolve.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/151"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/151"
+      }
+    },
+    {
+      "case_id": "V4-B10-005",
+      "family": "B10",
+      "title": "Read access is not destination write permission",
+      "operation": "mcp_import",
+      "inputs": {
+        "variant": "destination_denied"
+      },
+      "expected": true,
+      "contract": "docs/AI_ACCESS.md: actual isolated HTTP endpoint, supplied metadata, separate read/write grants, immutable retries, no implicit Resolve.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/152"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/152"
+      }
+    },
+    {
+      "case_id": "V4-B10-006",
+      "family": "B10",
+      "title": "Import cannot adopt unreadable private placement",
+      "operation": "mcp_import",
+      "inputs": {
+        "variant": "private_cache"
+      },
+      "expected": true,
+      "contract": "docs/AI_ACCESS.md: actual isolated HTTP endpoint, supplied metadata, separate read/write grants, immutable retries, no implicit Resolve.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/153"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/153"
+      }
+    },
+    {
+      "case_id": "V4-B10-007",
+      "family": "B10",
+      "title": "Uncollected provider identity can be adopted without broad read expansion",
+      "operation": "mcp_import",
+      "inputs": {
+        "variant": "public_cache"
+      },
+      "expected": true,
+      "contract": "docs/AI_ACCESS.md: actual isolated HTTP endpoint, supplied metadata, separate read/write grants, immutable retries, no implicit Resolve.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/154"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/154"
+      }
+    },
+    {
+      "case_id": "V4-B10-008",
+      "family": "B10",
+      "title": "Different imported version preserves manual Default",
+      "operation": "mcp_import",
+      "inputs": {
+        "variant": "manual_default"
+      },
+      "expected": true,
+      "contract": "docs/AI_ACCESS.md: actual isolated HTTP endpoint, supplied metadata, separate read/write grants, immutable retries, no implicit Resolve.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/155"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/155"
+      }
+    },
+    {
+      "case_id": "V4-B10-009",
+      "family": "B10",
+      "title": "Incomplete metadata rejected without Resolve",
+      "operation": "mcp_import",
+      "inputs": {
+        "variant": "missing_metadata"
+      },
+      "expected": true,
+      "contract": "docs/AI_ACCESS.md: actual isolated HTTP endpoint, supplied metadata, separate read/write grants, immutable retries, no implicit Resolve.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/156"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/156"
+      }
+    },
+    {
+      "case_id": "V4-B10-010",
+      "family": "B10",
+      "title": "Same request ID with changed payload conflicts",
+      "operation": "mcp_import",
+      "inputs": {
+        "variant": "request_conflict"
+      },
+      "expected": true,
+      "contract": "docs/AI_ACCESS.md: actual isolated HTTP endpoint, supplied metadata, separate read/write grants, immutable retries, no implicit Resolve.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/157"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/157"
+      }
+    },
+    {
+      "case_id": "V4-B10-011",
+      "family": "B10",
+      "title": "Revoked connection cannot import",
+      "operation": "mcp_import",
+      "inputs": {
+        "variant": "revoked"
+      },
+      "expected": true,
+      "contract": "docs/AI_ACCESS.md: actual isolated HTTP endpoint, supplied metadata, separate read/write grants, immutable retries, no implicit Resolve.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/158"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/158"
+      }
+    },
+    {
+      "case_id": "V4-B10-012",
+      "family": "B10",
+      "title": "Papers-read-only connection cannot import",
+      "operation": "mcp_import",
+      "inputs": {
+        "variant": "file_scope"
+      },
+      "expected": true,
+      "contract": "docs/AI_ACCESS.md: actual isolated HTTP endpoint, supplied metadata, separate read/write grants, immutable retries, no implicit Resolve.",
+      "v3_requirement_source_id": null,
+      "material_kind": "synthetic_engineering_fixture",
+      "scientific_ai_reference": false,
+      "source_definition": {
+        "path": "provenance/stage_inputs/task_b_cases.json",
+        "pointer": "/cases/159"
+      },
+      "observed_status": {
+        "path": "results/execution_status.json",
+        "pointer": "/B/159"
+      }
+    }
+  ],
+  "limitations": [
+    "Synthetic engineering cases do not establish real-file semantic accuracy.",
+    "No historical observed values or AI reference labels are imported.",
+    "Some retained V3 input contrasts are intentionally similar; count is cases, not independent statistical trials."
+  ],
+  "source_definition": "provenance/stage_inputs/task_b_cases.json",
+  "observed_status": "results/execution_status.json",
+  "role": "Executable case definitions; observations and publication adoption are separate records."
+}

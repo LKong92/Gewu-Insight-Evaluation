@@ -1,0 +1,9 @@
+{
+  "discovery_candidates": 421,
+  "engineering_scenarios": 160,
+  "workflow_scenarios": 104,
+  "workflow_families": 26,
+  "coverage_not_accuracy": true,
+  "base_review_fields": 1263,
+  "broad_review_fields": 110
+}

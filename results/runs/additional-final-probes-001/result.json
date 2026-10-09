@@ -1,0 +1,26 @@
+{
+  "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+  "synthetic_only": true,
+  "independent_benchmark_denominator_increment": 0,
+  "legacy_persisted_key_read_not_tested": true,
+  "cases": [
+    {
+      "label": "calendar",
+      "exit_code": 0,
+      "output": "Sunday-first product calendar: September and October2026 alignment passed for Journal and Subject; synthetic counts only.\n",
+      "error": ""
+    },
+    {
+      "label": "crypto-build",
+      "exit_code": 0,
+      "output": "",
+      "error": ""
+    },
+    {
+      "label": "crypto-run",
+      "exit_code": 0,
+      "output": "{\n  \"ordinaryCrypto\" : true,\n  \"passed\" : [\n    \"AES-GCM roundtrip\",\n    \"SHA-256\",\n    \"raw key import\\/export\",\n    \"ordinary IndexedDB object roundtrip\",\n    \"nested CryptoKey rejected 0\",\n    \"nested CryptoKey rejected 1\",\n    \"nested CryptoKey rejected 2\",\n    \"nested CryptoKey rejected 3\",\n    \"nested CryptoKey rejected 4\",\n    \"nested CryptoKey rejected 5\",\n    \"nested CryptoKey rejected 6\",\n    \"nested CryptoKey rejected 7\",\n    \"nested CryptoKey rejected 8\",\n    \"nested CryptoKey rejected 9\",\n    \"nested CryptoKey rejected 10\",\n    \"nested CryptoKey rejected 11\",\n    \"nested CryptoKey rejected 12\",\n    \"nested CryptoKey rejected 13\",\n    \"nested CryptoKey rejected 14\",\n    \"nested CryptoKey rejected 15\",\n    \"nested CryptoKey rejected 16\",\n    \"nested CryptoKey rejected 17\",\n    \"nested CryptoKey rejected 18\",\n    \"nested CryptoKey rejected 19\",\n    \"nested CryptoKey rejected 20\",\n    \"nested CryptoKey rejected 21\",\n    \"nested CryptoKey rejected 22\",\n    \"nested CryptoKey rejected 23\",\n    \"worker serialization rejected\"\n  ],\n  \"workerRejected\" : true,\n  \"rejectedWrites\" : 24,\n  \"ordinaryStorage\" : true\n}\n44 fixed-version WebCrypto policy checks passed; ephemeral store, no user profile or external network.\n",
+      "error": ""
+    }
+  ]
+}

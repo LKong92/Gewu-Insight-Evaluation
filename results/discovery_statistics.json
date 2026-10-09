@@ -1,0 +1,931 @@
+{
+  "schema": "full010.A.panel-and-weighted-bounds.v1",
+  "reference_status": "final_reference_with_two_explicit_identity_unknowns",
+  "reference_sha256": "03d5c5961916de1c7931160ce7db5dd8b9f6381c869ad5a2c44493c8b0e8e644",
+  "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+  "A_panel": 421,
+  "results": {
+    "journal": {
+      "fields": {
+        "membership": {
+          "total": 145,
+          "yes": 145,
+          "no": 0,
+          "unresolved": 0,
+          "panel_rate_bounds": [
+            1.0,
+            1.0
+          ],
+          "weighted_ratio_bounds": [
+            1.0,
+            1.0
+          ],
+          "sum_inverse_probability_weights": 1948.8000000000056,
+          "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+        },
+        "date": {
+          "total": 145,
+          "yes": 145,
+          "no": 0,
+          "unresolved": 0,
+          "panel_rate_bounds": [
+            1.0,
+            1.0
+          ],
+          "weighted_ratio_bounds": [
+            1.0,
+            1.0
+          ],
+          "sum_inverse_probability_weights": 1948.8000000000056,
+          "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+        },
+        "research_eligibility": {
+          "total": 145,
+          "yes": 137,
+          "no": 8,
+          "unresolved": 0,
+          "panel_rate_bounds": [
+            0.9448275862068966,
+            0.9448275862068966
+          ],
+          "weighted_ratio_bounds": [
+            0.9448275862068967,
+            0.9448275862068967
+          ],
+          "sum_inverse_probability_weights": 1948.8000000000052,
+          "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+        }
+      },
+      "all_three_conditions": {
+        "total": 145,
+        "yes": 137,
+        "no": 8,
+        "unresolved": 0,
+        "panel_rate_bounds": [
+          0.9448275862068966,
+          0.9448275862068966
+        ],
+        "weighted_ratio_bounds": [
+          0.9448275862068967,
+          0.9448275862068967
+        ],
+        "sum_inverse_probability_weights": 1948.8000000000052,
+        "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+      }
+    },
+    "subject": {
+      "fields": {
+        "membership": {
+          "total": 110,
+          "yes": 78,
+          "no": 32,
+          "unresolved": 0,
+          "panel_rate_bounds": [
+            0.7090909090909091,
+            0.7090909090909091
+          ],
+          "weighted_ratio_bounds": [
+            0.7090909090909091,
+            0.7090909090909091
+          ],
+          "sum_inverse_probability_weights": 110.0,
+          "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+        },
+        "date": {
+          "total": 110,
+          "yes": 99,
+          "no": 11,
+          "unresolved": 0,
+          "panel_rate_bounds": [
+            0.9,
+            0.9
+          ],
+          "weighted_ratio_bounds": [
+            0.9,
+            0.9
+          ],
+          "sum_inverse_probability_weights": 110.0,
+          "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+        },
+        "research_eligibility": {
+          "total": 110,
+          "yes": 107,
+          "no": 3,
+          "unresolved": 0,
+          "panel_rate_bounds": [
+            0.9727272727272728,
+            0.9727272727272728
+          ],
+          "weighted_ratio_bounds": [
+            0.9727272727272728,
+            0.9727272727272728
+          ],
+          "sum_inverse_probability_weights": 110.0,
+          "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+        }
+      },
+      "all_three_conditions": {
+        "total": 110,
+        "yes": 67,
+        "no": 43,
+        "unresolved": 0,
+        "panel_rate_bounds": [
+          0.6090909090909091,
+          0.6090909090909091
+        ],
+        "weighted_ratio_bounds": [
+          0.6090909090909091,
+          0.6090909090909091
+        ],
+        "sum_inverse_probability_weights": 110.0,
+        "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+      }
+    },
+    "author": {
+      "fields": {
+        "membership": {
+          "total": 166,
+          "yes": 156,
+          "no": 8,
+          "unresolved": 2,
+          "panel_rate_bounds": [
+            0.9397590361445783,
+            0.9518072289156626
+          ],
+          "weighted_ratio_bounds": [
+            0.9193463803914118,
+            0.9302755082652481
+          ],
+          "sum_inverse_probability_weights": 877.1666666666674,
+          "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+        },
+        "date": {
+          "total": 166,
+          "yes": 96,
+          "no": 70,
+          "unresolved": 0,
+          "panel_rate_bounds": [
+            0.5783132530120482,
+            0.5783132530120482
+          ],
+          "weighted_ratio_bounds": [
+            0.5729735892076763,
+            0.5729735892076763
+          ],
+          "sum_inverse_probability_weights": 877.1666666666658,
+          "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+        },
+        "research_eligibility": {
+          "total": 166,
+          "yes": 156,
+          "no": 10,
+          "unresolved": 0,
+          "panel_rate_bounds": [
+            0.9397590361445783,
+            0.9397590361445783
+          ],
+          "weighted_ratio_bounds": [
+            0.9204864145924379,
+            0.9204864145924379
+          ],
+          "sum_inverse_probability_weights": 877.1666666666674,
+          "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+        }
+      },
+      "all_three_conditions": {
+        "total": 166,
+        "yes": 95,
+        "no": 71,
+        "unresolved": 0,
+        "panel_rate_bounds": [
+          0.572289156626506,
+          0.572289156626506
+        ],
+        "weighted_ratio_bounds": [
+          0.5675090252707582,
+          0.5675090252707582
+        ],
+        "sum_inverse_probability_weights": 877.1666666666658,
+        "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+      }
+    },
+    "all": {
+      "fields": {
+        "membership": {
+          "total": 421,
+          "yes": 379,
+          "no": 40,
+          "unresolved": 2,
+          "panel_rate_bounds": [
+            0.9002375296912114,
+            0.9049881235154394
+          ],
+          "weighted_ratio_bounds": [
+            0.9650041440070847,
+            0.968269394520828
+          ],
+          "sum_inverse_probability_weights": 2935.966666666672,
+          "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+        },
+        "date": {
+          "total": 421,
+          "yes": 340,
+          "no": 81,
+          "unresolved": 0,
+          "panel_rate_bounds": [
+            0.8076009501187649,
+            0.8076009501187649
+          ],
+          "weighted_ratio_bounds": [
+            0.868672441785216,
+            0.868672441785216
+          ],
+          "sum_inverse_probability_weights": 2935.966666666672,
+          "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+        },
+        "research_eligibility": {
+          "total": 421,
+          "yes": 400,
+          "no": 21,
+          "unresolved": 0,
+          "panel_rate_bounds": [
+            0.9501187648456056,
+            0.9501187648456056
+          ],
+          "weighted_ratio_bounds": [
+            0.9386005744842698,
+            0.9386005744842698
+          ],
+          "sum_inverse_probability_weights": 2935.9666666666717,
+          "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+        }
+      },
+      "all_three_conditions": {
+        "total": 421,
+        "yes": 299,
+        "no": 122,
+        "unresolved": 0,
+        "panel_rate_bounds": [
+          0.7102137767220903,
+          0.7102137767220903
+        ],
+        "weighted_ratio_bounds": [
+          0.8195188410404299,
+          0.8195188410404299
+        ],
+        "sum_inverse_probability_weights": 2935.9666666666717,
+        "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+      }
+    }
+  },
+  "monitor_strata": {
+    "Nature Communications": {
+      "total": 58,
+      "yes": 58,
+      "no": 0,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        1.0,
+        1.0
+      ],
+      "weighted_ratio_bounds": [
+        1.0,
+        1.0
+      ],
+      "sum_inverse_probability_weights": 779.520000000001,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "Nature": {
+      "total": 9,
+      "yes": 9,
+      "no": 0,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        1.0,
+        1.0
+      ],
+      "weighted_ratio_bounds": [
+        1.0,
+        1.0
+      ],
+      "sum_inverse_probability_weights": 120.96,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "Science Advances": {
+      "total": 18,
+      "yes": 17,
+      "no": 1,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.9444444444444444,
+        0.9444444444444444
+      ],
+      "weighted_ratio_bounds": [
+        0.9444444444444444,
+        0.9444444444444444
+      ],
+      "sum_inverse_probability_weights": 241.92,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "Reviews of Modern Physics": {
+      "total": 2,
+      "yes": 2,
+      "no": 0,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        1.0,
+        1.0
+      ],
+      "weighted_ratio_bounds": [
+        1.0,
+        1.0
+      ],
+      "sum_inverse_probability_weights": 26.88,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "Nano Letters": {
+      "total": 21,
+      "yes": 20,
+      "no": 1,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.9523809523809523,
+        0.9523809523809523
+      ],
+      "weighted_ratio_bounds": [
+        0.9523809523809524,
+        0.9523809523809524
+      ],
+      "sum_inverse_probability_weights": 282.24,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "Nature Materials": {
+      "total": 1,
+      "yes": 1,
+      "no": 0,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        1.0,
+        1.0
+      ],
+      "weighted_ratio_bounds": [
+        1.0,
+        1.0
+      ],
+      "sum_inverse_probability_weights": 13.44,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "Physical Review Letters": {
+      "total": 21,
+      "yes": 21,
+      "no": 0,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        1.0,
+        1.0
+      ],
+      "weighted_ratio_bounds": [
+        1.0,
+        1.0
+      ],
+      "sum_inverse_probability_weights": 282.24,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "Science": {
+      "total": 7,
+      "yes": 2,
+      "no": 5,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.2857142857142857,
+        0.2857142857142857
+      ],
+      "weighted_ratio_bounds": [
+        0.2857142857142857,
+        0.2857142857142857
+      ],
+      "sum_inverse_probability_weights": 94.08,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "Physical Review X": {
+      "total": 3,
+      "yes": 3,
+      "no": 0,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        1.0,
+        1.0
+      ],
+      "weighted_ratio_bounds": [
+        1.0,
+        1.0
+      ],
+      "sum_inverse_probability_weights": 40.32,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "Nature Physics": {
+      "total": 2,
+      "yes": 1,
+      "no": 1,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.5,
+        0.5
+      ],
+      "weighted_ratio_bounds": [
+        0.5,
+        0.5
+      ],
+      "sum_inverse_probability_weights": 26.88,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "Nature Nanotechnology": {
+      "total": 1,
+      "yes": 1,
+      "no": 0,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        1.0,
+        1.0
+      ],
+      "weighted_ratio_bounds": [
+        1.0,
+        1.0
+      ],
+      "sum_inverse_probability_weights": 13.44,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "Nature Photonics": {
+      "total": 2,
+      "yes": 2,
+      "no": 0,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        1.0,
+        1.0
+      ],
+      "weighted_ratio_bounds": [
+        1.0,
+        1.0
+      ],
+      "sum_inverse_probability_weights": 26.88,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "NONEQUILIBRIUM_QUANTUM": {
+      "total": 9,
+      "yes": 7,
+      "no": 2,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.7777777777777778,
+        0.7777777777777778
+      ],
+      "weighted_ratio_bounds": [
+        0.7777777777777778,
+        0.7777777777777778
+      ],
+      "sum_inverse_probability_weights": 9.0,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "PEROVSKITE_STABILITY": {
+      "total": 6,
+      "yes": 6,
+      "no": 0,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        1.0,
+        1.0
+      ],
+      "weighted_ratio_bounds": [
+        1.0,
+        1.0
+      ],
+      "sum_inverse_probability_weights": 6.0,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "SOLID_STATE_INTERFACES": {
+      "total": 39,
+      "yes": 20,
+      "no": 19,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.5128205128205128,
+        0.5128205128205128
+      ],
+      "weighted_ratio_bounds": [
+        0.5128205128205128,
+        0.5128205128205128
+      ],
+      "sum_inverse_probability_weights": 39.0,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "PROTEIN_STRUCTURE": {
+      "total": 32,
+      "yes": 13,
+      "no": 19,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.40625,
+        0.40625
+      ],
+      "weighted_ratio_bounds": [
+        0.40625,
+        0.40625
+      ],
+      "sum_inverse_probability_weights": 32.0,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "TWO_DIMENSIONAL_MAGNETISM": {
+      "total": 16,
+      "yes": 15,
+      "no": 1,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.9375,
+        0.9375
+      ],
+      "weighted_ratio_bounds": [
+        0.9375,
+        0.9375
+      ],
+      "sum_inverse_probability_weights": 16.0,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "OCEAN_CARBON": {
+      "total": 8,
+      "yes": 6,
+      "no": 2,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.75,
+        0.75
+      ],
+      "weighted_ratio_bounds": [
+        0.75,
+        0.75
+      ],
+      "sum_inverse_probability_weights": 8.0,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "AUTHOR-01": {
+      "total": 15,
+      "yes": 4,
+      "no": 11,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.26666666666666666,
+        0.26666666666666666
+      ],
+      "weighted_ratio_bounds": [
+        0.2666666666666666,
+        0.2666666666666666
+      ],
+      "sum_inverse_probability_weights": 71.90000000000002,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "AUTHOR-08": {
+      "total": 17,
+      "yes": 3,
+      "no": 14,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.17647058823529413,
+        0.17647058823529413
+      ],
+      "weighted_ratio_bounds": [
+        0.17647058823529413,
+        0.17647058823529413
+      ],
+      "sum_inverse_probability_weights": 81.48666666666668,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "AUTHOR-09": {
+      "total": 9,
+      "yes": 7,
+      "no": 2,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.7777777777777778,
+        0.7777777777777778
+      ],
+      "weighted_ratio_bounds": [
+        0.7777777777777778,
+        0.7777777777777778
+      ],
+      "sum_inverse_probability_weights": 43.14,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "AUTHOR-16": {
+      "total": 6,
+      "yes": 6,
+      "no": 0,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        1.0,
+        1.0
+      ],
+      "weighted_ratio_bounds": [
+        1.0,
+        1.0
+      ],
+      "sum_inverse_probability_weights": 28.76,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "AUTHOR-02": {
+      "total": 5,
+      "yes": 4,
+      "no": 1,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.8,
+        0.8
+      ],
+      "weighted_ratio_bounds": [
+        0.8,
+        0.8
+      ],
+      "sum_inverse_probability_weights": 23.96666666666667,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "AUTHOR-03": {
+      "total": 10,
+      "yes": 8,
+      "no": 2,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.8,
+        0.8
+      ],
+      "weighted_ratio_bounds": [
+        0.8,
+        0.8
+      ],
+      "sum_inverse_probability_weights": 47.93333333333334,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "AUTHOR-11": {
+      "total": 6,
+      "yes": 4,
+      "no": 2,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.6666666666666666,
+        0.6666666666666666
+      ],
+      "weighted_ratio_bounds": [
+        0.6666666666666666,
+        0.6666666666666666
+      ],
+      "sum_inverse_probability_weights": 28.760000000000005,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "AUTHOR-07": {
+      "total": 10,
+      "yes": 4,
+      "no": 6,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.4,
+        0.4
+      ],
+      "weighted_ratio_bounds": [
+        0.4,
+        0.4
+      ],
+      "sum_inverse_probability_weights": 47.93333333333334,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "AUTHOR-14": {
+      "total": 7,
+      "yes": 5,
+      "no": 2,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.7142857142857143,
+        0.7142857142857143
+      ],
+      "weighted_ratio_bounds": [
+        0.7142857142857143,
+        0.7142857142857143
+      ],
+      "sum_inverse_probability_weights": 33.553333333333335,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "AUTHOR-04": {
+      "total": 7,
+      "yes": 7,
+      "no": 0,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        1.0,
+        1.0
+      ],
+      "weighted_ratio_bounds": [
+        1.0,
+        1.0
+      ],
+      "sum_inverse_probability_weights": 33.553333333333335,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "AUTHOR-13": {
+      "total": 2,
+      "yes": 0,
+      "no": 2,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.0,
+        0.0
+      ],
+      "weighted_ratio_bounds": [
+        0.0,
+        0.0
+      ],
+      "sum_inverse_probability_weights": 9.586666666666668,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "AUTHOR-12": {
+      "total": 14,
+      "yes": 6,
+      "no": 8,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.42857142857142855,
+        0.42857142857142855
+      ],
+      "weighted_ratio_bounds": [
+        0.4285714285714286,
+        0.4285714285714286
+      ],
+      "sum_inverse_probability_weights": 67.10666666666667,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "AUTHOR-05": {
+      "total": 2,
+      "yes": 2,
+      "no": 0,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        1.0,
+        1.0
+      ],
+      "weighted_ratio_bounds": [
+        1.0,
+        1.0
+      ],
+      "sum_inverse_probability_weights": 9.586666666666668,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "AUTHOR-17": {
+      "total": 9,
+      "yes": 9,
+      "no": 0,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        1.0,
+        1.0
+      ],
+      "weighted_ratio_bounds": [
+        1.0,
+        1.0
+      ],
+      "sum_inverse_probability_weights": 57.599999999999994,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "AUTHOR-15": {
+      "total": 8,
+      "yes": 6,
+      "no": 2,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.75,
+        0.75
+      ],
+      "weighted_ratio_bounds": [
+        0.75,
+        0.75
+      ],
+      "sum_inverse_probability_weights": 29.599999999999998,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "AUTHOR-18": {
+      "total": 7,
+      "yes": 6,
+      "no": 1,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.8571428571428571,
+        0.8571428571428571
+      ],
+      "weighted_ratio_bounds": [
+        0.8571428571428572,
+        0.8571428571428572
+      ],
+      "sum_inverse_probability_weights": 40.599999999999994,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "AUTHOR-19": {
+      "total": 4,
+      "yes": 2,
+      "no": 2,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.5,
+        0.5
+      ],
+      "weighted_ratio_bounds": [
+        0.5,
+        0.5
+      ],
+      "sum_inverse_probability_weights": 110.8,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "AUTHOR-23": {
+      "total": 4,
+      "yes": 1,
+      "no": 3,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.25,
+        0.25
+      ],
+      "weighted_ratio_bounds": [
+        0.25,
+        0.25
+      ],
+      "sum_inverse_probability_weights": 34.8,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "AUTHOR-21": {
+      "total": 9,
+      "yes": 8,
+      "no": 1,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.8888888888888888,
+        0.8888888888888888
+      ],
+      "weighted_ratio_bounds": [
+        0.8888888888888888,
+        0.8888888888888888
+      ],
+      "sum_inverse_probability_weights": 22.5,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "AUTHOR-24": {
+      "total": 7,
+      "yes": 2,
+      "no": 5,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.2857142857142857,
+        0.2857142857142857
+      ],
+      "weighted_ratio_bounds": [
+        0.2857142857142857,
+        0.2857142857142857
+      ],
+      "sum_inverse_probability_weights": 23.8,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "AUTHOR-22": {
+      "total": 6,
+      "yes": 1,
+      "no": 5,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.16666666666666666,
+        0.16666666666666666
+      ],
+      "weighted_ratio_bounds": [
+        0.16666666666666669,
+        0.16666666666666669
+      ],
+      "sum_inverse_probability_weights": 28.2,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    },
+    "AUTHOR-20": {
+      "total": 2,
+      "yes": 0,
+      "no": 2,
+      "unresolved": 0,
+      "panel_rate_bounds": [
+        0.0,
+        0.0
+      ],
+      "weighted_ratio_bounds": [
+        0.0,
+        0.0
+      ],
+      "sum_inverse_probability_weights": 2.0,
+      "uncertainty_interval_type": "identification_bounds_not_confidence_interval"
+    }
+  },
+  "limits": [
+    "Bounds retain every sampled item, including unresolved questions. They are not confidence intervals.",
+    "Weighted ratios describe the screened evaluated scope with recorded inclusion probabilities, not unrestricted raw-feed precision or exhaustive recall.",
+    "Per-axis estimates are primary. The all-axis weighted ratio has an additional frame-composition interpretation and must not replace them.",
+    "All-three-conditions is the conjunction of membership, date-window and research eligibility; a definite no settles this conjunction while other field-level unknowns remain recorded.",
+    "B160, C104 and B24 are separate denominators, not added to A accuracy."
+  ],
+  "reference_file": "data/base_reference.json"
+}

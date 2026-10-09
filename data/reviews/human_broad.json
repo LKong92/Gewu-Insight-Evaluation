@@ -1,0 +1,17 @@
+{
+  "queue_sha256": "ef500e5d91dbdcb2b8f8593ca141482a6c82b6bf0b759d83cc098254ebf03ed6",
+  "answers": [
+    {
+      "question_id": "A-CAN-3019cca49594db03e8218a10:broad_membership",
+      "label": "yes"
+    },
+    {
+      "question_id": "A-CAN-57049cde7388c86e19048b50:broad_membership",
+      "label": "yes"
+    }
+  ],
+  "record_id": "249159379deb02f02afe8ee4",
+  "received_at": "2026-10-07T15:49:12.205337+00:00",
+  "submitted_via": "human_review_ui",
+  "source": "actual_user_choices"
+}

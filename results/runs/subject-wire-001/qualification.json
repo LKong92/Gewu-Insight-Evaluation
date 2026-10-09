@@ -1,0 +1,87 @@
+{
+  "phase": "fixed_version_execution",
+  "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
+  "cases": [
+    {
+      "scenario": "ordinary_control",
+      "http_status": 200,
+      "error": null,
+      "visible_papers": 2,
+      "counts": {
+        "papers": 2,
+        "publication_notices": 0,
+        "theme_results": 2
+      },
+      "expected_http_status": 200,
+      "expected_visible_papers": 2,
+      "passed": true,
+      "restart_invariants_passed": true
+    },
+    {
+      "scenario": "notice_first",
+      "http_status": 200,
+      "error": null,
+      "visible_papers": 2,
+      "counts": {
+        "papers": 2,
+        "publication_notices": 1,
+        "theme_results": 2
+      },
+      "expected_http_status": 200,
+      "expected_visible_papers": 2,
+      "passed": true,
+      "restart_invariants_passed": true
+    },
+    {
+      "scenario": "notice_middle",
+      "http_status": 200,
+      "error": null,
+      "visible_papers": 2,
+      "counts": {
+        "papers": 2,
+        "publication_notices": 1,
+        "theme_results": 2
+      },
+      "expected_http_status": 200,
+      "expected_visible_papers": 2,
+      "passed": true,
+      "restart_invariants_passed": true
+    },
+    {
+      "scenario": "notice_last",
+      "http_status": 200,
+      "error": null,
+      "visible_papers": 2,
+      "counts": {
+        "papers": 2,
+        "publication_notices": 1,
+        "theme_results": 2
+      },
+      "expected_http_status": 200,
+      "expected_visible_papers": 2,
+      "passed": true,
+      "restart_invariants_passed": true
+    },
+    {
+      "scenario": "all_notices",
+      "http_status": 200,
+      "error": null,
+      "visible_papers": 0,
+      "counts": {
+        "papers": 0,
+        "publication_notices": 2,
+        "theme_results": 0
+      },
+      "expected_http_status": 200,
+      "expected_visible_papers": 0,
+      "passed": true,
+      "restart_invariants_passed": true
+    }
+  ],
+  "formal_result": false,
+  "network_live": false,
+  "historical_labels_imported": false,
+  "boundary": "raw synthetic Crossref JSON through native parser, Subject HTTP route, storage and UI response; all other source wire responses explicitly empty",
+  "production_data_accessed": false,
+  "product_code_changed": false
+}

@@ -1,0 +1,134 @@
+{
+  "version": "V4-fixed-20261005-001",
+  "phase": "design_implementation",
+  "formal_data_acquired": false,
+  "subjects": [
+    {
+      "key": "two_dimensional_magnetism",
+      "name": "Two-dimensional magnetism",
+      "queries": [
+        "two-dimensional magnetism",
+        "van der Waals magnet",
+        "2D magnetism"
+      ],
+      "include": "Magnetic order, excitations or control in two-dimensional or layered van der Waals materials as a primary research concern.",
+      "exclude": "Exclude general two-dimensional electronics without magnetism and incidental background mentions."
+    },
+    {
+      "key": "nonequilibrium_quantum",
+      "name": "Nonequilibrium quantum dynamics",
+      "queries": [
+        "nonequilibrium quantum dynamics",
+        "quantum quench",
+        "Floquet quantum"
+      ],
+      "include": "Nonequilibrium evolution, quenches, thermalization or periodic driving in quantum many-body systems as a primary concern.",
+      "exclude": "Exclude classical dynamics and equilibrium phase diagrams without a dynamics question."
+    },
+    {
+      "key": "perovskite_stability",
+      "name": "Perovskite photovoltaic stability",
+      "queries": [
+        "perovskite solar cell stability",
+        "perovskite photovoltaic degradation",
+        "stable perovskite photovoltaics"
+      ],
+      "include": "Stability, ageing, degradation mechanisms or lifetime improvements in perovskite photovoltaics.",
+      "exclude": "Exclude LEDs, detectors and efficiency improvements without stability data or analysis."
+    },
+    {
+      "key": "solid_state_interfaces",
+      "name": "Solid-state battery interfaces",
+      "queries": [
+        "solid-state battery interface",
+        "solid electrolyte interphase",
+        "solid electrolyte interface"
+      ],
+      "include": "Electrode interfaces, interfacial reactions and transport in all-solid-state batteries or solid-electrolyte systems as a primary concern.",
+      "exclude": "Exclude general liquid-battery SEI studies without a solid-electrolyte or solid-state-battery connection."
+    },
+    {
+      "key": "ml_catalysis",
+      "name": "Machine learning in catalysis",
+      "queries": [
+        "machine learning catalysis",
+        "machine learning catalyst",
+        "active learning catalysis"
+      ],
+      "include": "Machine learning for catalyst design, reaction or adsorption prediction, catalytic simulation or experiment selection, with a contribution to catalysis.",
+      "exclude": "Exclude general molecular-property or materials learning without a catalytic object and incidental AI mentions."
+    },
+    {
+      "key": "gravitational_wave_analysis",
+      "name": "Gravitational-wave data analysis",
+      "queries": [
+        "gravitational wave data analysis",
+        "gravitational wave parameter estimation",
+        "gravitational wave inference"
+      ],
+      "include": "Signal detection, inference, parameter estimation, waveform models for data analysis or noise processing.",
+      "exclude": "Exclude hardware-only studies and astrophysics without a waveform or signal-inference connection."
+    },
+    {
+      "key": "protein_structure",
+      "name": "Protein structure prediction",
+      "queries": [
+        "protein structure prediction",
+        "protein folding prediction",
+        "protein complex prediction"
+      ],
+      "include": "A primary contribution to three-dimensional protein or complex structure prediction, prediction evaluation or structural inference.",
+      "exclude": "Exclude downstream use of predicted structures without a contribution to the prediction problem."
+    },
+    {
+      "key": "ocean_carbon",
+      "name": "Ocean carbon cycling",
+      "queries": [
+        "ocean carbon cycle",
+        "ocean carbon sink",
+        "marine carbon cycling"
+      ],
+      "include": "Marine carbon storage, exchange, transport, biogeochemistry or links to climate as a primary research concern.",
+      "exclude": "Exclude terrestrial-only carbon studies and incidental mentions of ocean uptake."
+    }
+  ],
+  "windows": {
+    "journal": [
+      "2026-09-01",
+      "2026-09-30"
+    ],
+    "subject": [
+      "2026-09-01",
+      "2026-09-30"
+    ],
+    "author": [
+      "2026-01-01",
+      "2026-09-30"
+    ]
+  },
+  "sampling": {
+    "unit": "monitor-work pair after within-monitor work deduplication",
+    "n_per_axis": 150,
+    "design": "simple random sample without replacement per axis",
+    "seed": "gewu-v4-fixed-20261005-A-sampling-01",
+    "shortfall": "retain actual eligible frame size; no outcome-driven roster/window replacement"
+  },
+  "human_audit_seed": "gewu-v4-fixed-20261005-human-audit-01",
+  "collection_deadline_hours": 48,
+  "transport": "anonymous public requests unless a separately documented source configuration is locked; record actual access failures; no original App credentials copied",
+  "paper_eligibility": "research articles, reviews, methods, analyses, theory and substantive research perspectives; exclude news, editorials and standalone notices; uncertain retained",
+  "date_rule": "first explicit online publication date, otherwise print date; unknown or contradictory evidence stays uncertain",
+  "source_limits_status": "Native source limits and completion interpretation explicitly recorded; verify actual attempts at acquisition.",
+  "source_limits_manifest": "config/source_limits_fixed.json",
+  "subject_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07",
+    "2026-08",
+    "2026-09"
+  ]
+}

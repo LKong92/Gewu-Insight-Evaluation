@@ -1,0 +1,25 @@
+{
+  "reviewers": [
+    {
+      "reviewer": "Codex",
+      "model_display_name": "GPT-6 Astra",
+      "basis": "User confirmation"
+    },
+    {
+      "reviewer": "DeepSeek",
+      "model_name": "DeepSeek V4.1 Flash",
+      "configuration": "Max",
+      "model_display_name": "DeepSeek V4.1 Flash Max",
+      "observed_selector_text": "DeepSeek-V41-Flash Max",
+      "client_name": "DeepSeek Harness",
+      "client_role": "Client application used to run the model",
+      "recorded_client_model_alias": "deepseek-flash",
+      "basis": "User confirmation and supplied model-selector screenshot",
+      "confirmation_date": "2026-10-08",
+      "selector_screenshot_sha256": "7ddb53cf7e27bd8d8fb073512c180ba98b9e5bdc851f754a9a36aea31c94989e",
+      "selector_screenshot_retained_locally": true,
+      "backend_snapshot": "not_exposed"
+    }
+  ],
+  "scope": "Publication metadata correction only; independent review answers and their execution records are unchanged."
+}
