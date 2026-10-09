@@ -63,3 +63,18 @@ Additional product regression and platform probes remain supporting records unde
 ## Hashes
 
 `MANIFEST.json` covers every release file except itself. Source byte hashes and released byte hashes have distinct meanings; both are retained in export provenance. Canonical JSON uses sorted keys, UTF-8, compact separators and no trailing newline. File hashes use exact bytes.
+
+## Human review of sampled consensus cases
+
+The human-review sample contains 30 candidate records and 60 field-level judgments. It is separate from the 14 adjudications used to resolve model disagreements. The new review does not change the reference or either model's answer tables.
+
+| File | Content |
+|---|---|
+| `protocols/human_review_protocol.json` | Eligibility, fixed seed, selection and display-order rules, field scope and input hashes |
+| `data/human_review_sampling_frame.json` | Eligible IDs by channel and excluded prior-adjudication cases |
+| `data/human_review_sample.json` | Selected IDs, probabilities and source materials provided |
+| `data/reviews/human_review.json` | Final human choices keyed by sample and question ID |
+| `results/human_review_summary.json` | Recalculated agreement by channel and field, with label counts |
+| `provenance/human_review_export.json` | Source-record hashes and final-choice export description |
+
+`sample_id` preserves the displayed P01-P30 identifier. `axis` uses `journal`, `subject` (topic) or `author`. Journal cases have membership, date and research-eligibility judgments; topic cases have strict `membership` and `broad_membership`; author cases have membership only. `materials_provided` lists sources available in the review interface, not asserted reading locations. Responses are choice-only; written rationales and item-level reading locations were not collected. `agreed` means equal labels, including equal negative labels; it does not mean every candidate meets the condition. The two topic fields apply to the same ten candidates.

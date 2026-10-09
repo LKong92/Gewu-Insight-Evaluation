@@ -1,0 +1,49 @@
+{
+  "schema": "human-review-protocol-1",
+  "sampling_protocol_recorded_at": "2026-10-09T21:43:46.988563+00:00",
+  "seed": "gewu-consensus-human-pilot-20261010-001",
+  "selection": "For each axis, sort eligible case IDs by SHA256(seed + \"|select|\" + axis + \"|\" + case_id), then take the first 10.",
+  "display_order": "Sort selected case IDs by SHA256(seed + \"|display|\" + case_id), then assign P01 through P30.",
+  "sampling_unit": "monitor-work candidate record, not necessarily globally unique paper",
+  "pool_definition": "Retained Task A candidates with agreement in all three accepted base fields and, for subjects, broad relevance; exclude any candidate with any prior human adjudication. Shared uncertain labels remain eligible. No selection using label value, ease, evidence availability or product outcome.",
+  "n_per_axis": {
+    "journal": 10,
+    "subject": 10,
+    "author": 10
+  },
+  "fields": {
+    "journal": [
+      "membership",
+      "date",
+      "research_eligibility"
+    ],
+    "subject": [
+      "membership",
+      "broad_membership"
+    ],
+    "author": [
+      "membership"
+    ]
+  },
+  "no_replacement": true,
+  "allowed_labels": [
+    "yes",
+    "no",
+    "uncertain"
+  ],
+  "reviewer": "L.K.",
+  "response_mode": "Human choices recorded through the local review interface. Written rationales and item-level reading locations were not collected.",
+  "reporting": "Agreement between final human judgments and the accepted two-model consensus on the sampled candidates.",
+  "input_file_sha256": {
+    "data/cases.json": "0556cc555c6b45cc287074de9e195ee85b74c431909ce246a740e736c817eab9",
+    "data/reviews/codex_base.json": "2ee4bcbb4366611032be3f4b9a16fb57549a013ff9795014645197391842ff99",
+    "data/reviews/deepseek_base.json": "434d88d5ef3db36551fb82396286fcc66d0ecb7b64695e43cff5d1ef4f4e194d",
+    "data/reviews/codex_broad.json": "66227f6710317251793781fa98b76981a41875702512360bcc88b0997b5864ec",
+    "data/reviews/deepseek_broad.json": "a817f809d3d00f85d557fdbde9d81b1a72738c28763bfe72bda550470abbc3a1",
+    "data/reviews/human_base.json": "bb390656a4cf0785f17819380060dc51c497004c859503f191ecff83b7ef185d",
+    "data/reviews/human_broad.json": "0921e2640d8d04bc7fc36e1791e6cb39ead70f5bb3f79e2643a211727ad08b4a",
+    "protocols/base_rubric.md": "99110e1f714dc8125fee20478f8da594468ce2ebe31e2ed1424bcb81ddcb968e",
+    "protocols/broad_topic_rubric.md": "a5836011a12040f3f373b010c0839a85bf626344df7287fce774951b4cf68a35"
+  },
+  "reference_labels_changed": false
+}

@@ -7,10 +7,14 @@ Codex (GPT-6 Astra) and DeepSeek V4.1 Flash Max independently evaluated the same
 
 Journal success required journal membership, date-window compliance and eligible research-document type jointly. Target-author attribution was reported separately from date/type compliance. Strict topic relevance required a primary research concern; broad relevance also admitted substantive methodological, application, review or mechanistic connections while excluding incidental mentions. The reporting amendments and original auxiliary measurements are preserved in provenance.
 
+A stratified human review sampled ten candidates from each discovery channel. Eligible candidates had agreement between the accepted model answers and no prior human adjudication on any field. The eligible pools contained 145 journal, 99 topic and 163 author candidates. Selection used a fixed-seed SHA-256 rank without replacement. Human review assessed journal membership, date and document eligibility; strict and broad topic relevance; and target-author attribution, for 30 candidates and 60 field-level judgments. Final human choices were compared with the accepted model consensus.
+
 Results
 Journal success was 137/145 (94.48%). Target-author attribution was confirmed in 156/166 (93.98%), rejected in eight and unresolved in two. Strict topic relevance was confirmed in 78/110 (70.91%). Broad relevance was confirmed in 104/110 (94.55%), with five negative and one unresolved judgment. All strict-positive cases were broad-positive.
 
 Initial agreement was 1,225/1,263 (96.99%; Cohen's kappa 0.8519) for the base discovery fields and 100/110 (90.91%) for broad relevance. After shared supplements and scoped corrections, agreement before human adjudication was 1,251/1,263 (99.05%; kappa 0.9534) and 108/110 (98.18%; kappa 0.8487), respectively. These are inter-model agreement measurements.
+
+The final human judgments agreed with the two-model consensus for all 30 sampled candidates and all 60 reviewed fields (journal 30/30, topic 20/20 and author 10/10). No discrepancies remained in the reviewed sample.
 
 All 160 engineering checks across ten families and all 104 workflow scenarios across 26 families passed their recorded assertions on the frozen revision. Workflow observations cover isolated interface, database, file and restart behavior.
 

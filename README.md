@@ -19,6 +19,8 @@ The discovery panel contains **421 candidates**: 145 journal, 110 topic and 166 
 
 Codex (GPT-6 Astra) and DeepSeek V4.1 Flash Max independently assessed **1,263 base discovery fields** and **110 broad-topic fields** each. Initial agreement was 1,225/1,263 (96.99%) and 100/110 (90.91%). After shared evidence supplementation and scoped corrections, agreement before human adjudication was 1,251/1,263 (99.05%) and 108/110 (98.18%). Fourteen human choices resolved the remaining evaluable disagreements. Three fields remain explicitly uncertain. The reference contains 1,373 judgments.
 
+Human review covered a stratified sample of **30 discovery candidates** (10 journal, 10 topic and 10 author candidates), comprising **60 field-level judgments**. The final human judgments agreed with the two-model consensus in all 60 comparisons. The [human-review report](reports/human_review.md) provides the sampling method and results.
+
 Journal discovery uses a September 2026 window; topic and author candidates use January–September 2026. The reported proportions describe the evaluated panel. Original date/type and joint-condition measurements, sampling probabilities and reporting amendments are retained in the data and provenance. Discovery observations were replayed from preserved source responses through the frozen software.
 
 ## Verify and use the data
@@ -31,7 +33,7 @@ python3 score_results.py
 python3 check_consistency.py
 ```
 
-These commands verify released bytes, reconstruct the reference from both reviewers and human choices, recalculate results, and check consistency across the release.
+These commands verify released bytes, reconstruct the reference from both reviewers and human choices, recalculate results, reproduce the human-review sample and agreement, and check consistency across the release.
 
 The [release definition](protocols/release_definition.json) identifies the current scope. [Execution status](results/execution_status.json) links each engineering and workflow case to its preserved observation. The [data dictionary](DATA_DICTIONARY.md) explains historical stage markers and discovery-screening events.
 
@@ -48,4 +50,4 @@ See [REPRODUCTION.md](REPRODUCTION.md), [DATA_DICTIONARY.md](DATA_DICTIONARY.md)
 
 ## Citation and data availability
 
-The [evaluation release](https://github.com/LKong92/Gewu-Insight-Evaluation/releases/tag/manuscript-evaluation) provides the ZIP and SHA-256 checksum. Citation metadata are in [CITATION.cff](CITATION.cff); manuscript wording is in [DATA_AVAILABILITY.md](DATA_AVAILABILITY.md).
+The [evaluation release](https://github.com/LKong92/Gewu-Insight-Evaluation/releases/tag/evaluation-20261010) provides the ZIP and SHA-256 checksum. Citation metadata are in [CITATION.cff](CITATION.cff); manuscript wording is in [DATA_AVAILABILITY.md](DATA_AVAILABILITY.md).

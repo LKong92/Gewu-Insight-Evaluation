@@ -23,3 +23,7 @@ The release excludes research libraries, application databases, credentials, con
 ## Current status and historical stages
 
 `protocols/release_definition.json` defines the current scope. Per-case execution adoption, author processing and candidate-level screening are separately mapped to preserved records. Historical stage flags are not current completion flags; their meanings and source relationships are explained in `DATA_DICTIONARY.md`. Superseded draft coverage and sampling manifests remain in the controlled publication-history archive, identified by hashes in `provenance/publication_preparation.json`. This preparation does not rerun the product or alter any reviewer answer.
+
+## Human review
+
+The release also includes a stratified human review of 30 consensus candidates, ten per discovery channel. The final 60 field-level human judgments agree with the two-model consensus. The sample, final choices, source-material pointers and reproducible comparison are included. This sample review leaves the discovery reference and all existing model, adjudication and product-execution records unchanged.

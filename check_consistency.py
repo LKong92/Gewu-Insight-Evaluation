@@ -9,12 +9,14 @@ from pathlib import Path
 import re
 import score_results
 import release_checks
+import verify_human_review
 
 ROOT=Path(__file__).resolve().parent
 def load(name):return json.loads((ROOT/name).read_text())
 def sha(path):return hashlib.sha256(path.read_bytes()).hexdigest()
 def main():
     status_checks=release_checks.check()
+    human_review=verify_human_review.check()
     with contextlib.redirect_stdout(io.StringIO()):calc=score_results.main()
     assert calc==load('results/recalculated_release.json'),'Stored recalculation differs'
     summary=load('results/summary.json');coverage=load('results/coverage.json')
@@ -75,5 +77,5 @@ def main():
     print(json.dumps({'consistent':True,'discovery_candidates':421,'reference_fields':1373,
                       'engineering_passed':160,'workflow_passed':104,'review_answers_changed':False,
                       'checked_text_files':count,'source_mappings_verified':True,
-                      'scope_and_status':status_checks}))
+                      'scope_and_status':status_checks,'human_review':human_review}))
 if __name__=='__main__':main()

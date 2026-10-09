@@ -51,3 +51,9 @@ Reviewers were Codex (GPT-6 Astra) and DeepSeek V4.1 Flash Max. DeepSeek Harness
 Compare the release ZIP with `SHA256SUMS.txt`, extract it into a new directory, and run the three commands above. Original controlled source archives have separate hashes; their byte identity is not inferred from the released manifest.
 
 For a local package comparison, run `python3 verify_package.py /path/to/Gewu-Insight-Evaluation.zip /path/to/SHA256SUMS.txt` from the corresponding repository checkout. It requires the ZIP to contain exactly the checkout's manifested files plus the manifest, with identical bytes and no duplicate paths. The published tag, repository tree and attached ZIP refer to the same prepared files.
+
+## Reproduce the human-review comparison
+
+Run `python3 verify_human_review.py` to reconstruct the eligible sampling frame from the accepted model answers and earlier adjudication records, reproduce the fixed-seed selection and display order, and compare the 60 final human choices with the accepted model consensus. This check is also included in `check_consistency.py`.
+
+The eligible frame has 145 journal, 99 topic and 163 author candidates. Ten candidates are selected from each channel without replacement. The selection unit is a monitor-work candidate record. The report counts 30 sampled candidates and 60 field-level judgments; it does not treat the two topic fields as separate sampled papers. Source-material hashes identify archived inputs rather than a fresh online retrieval.

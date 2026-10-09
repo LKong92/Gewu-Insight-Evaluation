@@ -1,0 +1,2326 @@
+{
+  "samples": [
+    {
+      "sample_id": "P01",
+      "case_id": "A-CAN-2597eb05f0ee5d146806cc81",
+      "axis": "author",
+      "title": "Electric-Field-Tuned Consecutive Topological Phase Transitions between Distinct Correlated Insulators in Moiré Heterobilayer",
+      "fields": [
+        "membership"
+      ],
+      "inclusion_probability": 0.06134969325153374,
+      "selection_rank_hash": "0d4dd504b67eaad6af96b612b6aa4989286479593d70bd338c692e3a70dbf7bc",
+      "materials_provided": [
+        {
+          "source_id": "APUBLIC-74e262eec3f9c178e9be8a02",
+          "status": "available",
+          "url": "https://journals.aps.org/prl/abstract/10.1103/gt9l-954n",
+          "captured_at": "2026-10-06T02:06:34.120172+00:00",
+          "kind": "html",
+          "group": "document",
+          "sha256": "74e262eec3f9c178e9be8a0234d55f73ce32d18a083d205f77f8035e586629dc",
+          "view_sha256": "aac9d1a5342bdbb8c807abf08de7755be7944b7c7e1687ff0632a33eb64f3e2e"
+        },
+        {
+          "source_id": "APUBLIC-cb7d4ef672759d5ed37c2793",
+          "status": "available",
+          "url": "https://journals.aps.org/prl/abstract/10.1103/gt9l-954n",
+          "captured_at": "2026-10-06T02:06:34.117784+00:00",
+          "kind": "html",
+          "group": "document",
+          "sha256": "cb7d4ef672759d5ed37c279303358ca44ec008ee57216e8846c82fdafff2bcb4",
+          "view_sha256": "5a017ca1c2c2aa43086ddae06280a95aac3bc16bbb34ca2634da359bc4fc72b8"
+        },
+        {
+          "source_id": "ATEXT-fe677927063d7c1377b7ad8b",
+          "status": "available",
+          "url": "https://journals.aps.org/prl/abstract/10.1103/gt9l-954n",
+          "captured_at": "2026-10-06T02:06:34.119060+00:00",
+          "kind": "text",
+          "group": "document",
+          "sha256": "fe677927063d7c1377b7ad8badd89e5c1239e7b2e79a640a34e299e9d95a6a9a",
+          "view_sha256": "a9c6fcdb8c84d14218c39c5f5f6d7d68a85cf435f3bdeaa2ae7af0a0ddd5284d"
+        },
+        {
+          "source_id": "AREPAIR-8763ebdc261c352816746dd1",
+          "status": "available",
+          "url": "https://api.openalex.org/works?search=Electric-Field-Tuned%20Consecutive%20Topological%20Phase%20Transitions%20between%20Distinct%20Correlated%20Insulators%20in%20Moir%C3%A9%20Heterobilayer&per-page=5",
+          "captured_at": "2026-10-06T00:50:29.195308+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "8763ebdc261c352816746dd141d5047306f1d4e4ed88b18dfec33df167afea06",
+          "view_sha256": "606a7641ee919ee3af0a5c023156d5fc8a4de0c7a2a323e1dbd7c0b7df79e4cd"
+        },
+        {
+          "source_id": "AREPAIR-5195a6f630a7c00e417915f8",
+          "status": "available",
+          "url": "https://api.crossref.org/works?query.bibliographic=Electric-Field-Tuned%20Consecutive%20Topological%20Phase%20Transitions%20between%20Distinct%20Correlated%20Insulators%20in%20Moir%C3%A9%20Heterobilayer&rows=5",
+          "captured_at": "2026-10-06T00:49:58.185434+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "5195a6f630a7c00e417915f8d87394aad232c27bc05c852143ef5f34e2c13f74",
+          "view_sha256": "afa929b69c3211cbf2a93c8231b3b8d214d1e93398403f56d28ccb042f147828"
+        },
+        {
+          "source_id": "APUBLIC-5d767b7be2170a09471325aa",
+          "status": "available",
+          "url": "https://doi.org/10.1103/gt9l-954n",
+          "captured_at": "2026-10-06T02:06:34.119472+00:00",
+          "kind": "html",
+          "group": "document",
+          "sha256": "5d767b7be2170a09471325aa38984960df8eb0117e7088b5e288ec9ecb1694cb",
+          "view_sha256": "2996742f7f72414c045b41feb61de9b5fec70da9fcdc6e32886a92051f94dd5f"
+        },
+        {
+          "source_id": "AID-890bbb5beb33c995280a087f",
+          "status": "available",
+          "url": "https://www.duffield.cornell.edu/people/jie-shan/",
+          "captured_at": "2026-10-01T05:04:16.180917+00:00",
+          "kind": "html",
+          "group": "identity",
+          "sha256": "890bbb5beb33c995280a087f2508c7018d335b19e50db92209b83b6be2cf54f4",
+          "view_sha256": "37edaf320f7ece709b591073ff91b2a42f675bd2dba78151eb038c68d178660e"
+        },
+        {
+          "source_id": "ARAW-55d97241ef560a396b17e5d6",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=brqDdPwAAAAJ&hl=en&cstart=100&pagesize=100",
+          "captured_at": "2026-10-05T17:04:58.395976+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "55d97241ef560a396b17e5d60c2fb2798ddcaec61ed231f0bf69633bd89da516",
+          "view_sha256": "c015076bb7f07fffe37295e967eda609134ac7313f534e39f54e565639a5d42e"
+        },
+        {
+          "source_id": "ARAW-4a23c744fd09a2d2e7419297",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=brqDdPwAAAAJ&hl=en&cstart=0&pagesize=100",
+          "captured_at": "2026-10-05T17:04:33.368728+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "4a23c744fd09a2d2e7419297f3ad79109213a609a0ebeac4447910d4b886faff",
+          "view_sha256": "2dffae2df95451f6d3f700700f4812c7ea185fe984c69f3411638a0fc519af66"
+        },
+        {
+          "source_id": "ARAW-c34bfcda32f4cc746d621f5c",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=brqDdPwAAAAJ&hl=en&cstart=200&pagesize=100",
+          "captured_at": "2026-10-05T17:05:21.122068+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "c34bfcda32f4cc746d621f5c3076a06fd211352f153f1b935baa88acca9747f6",
+          "view_sha256": "f69e555176ed5c2472ed7ccb460c54f908e9ab836efeaefca4b2a50b2445bfb6"
+        }
+      ]
+    },
+    {
+      "sample_id": "P02",
+      "case_id": "A-CAN-2718061dff3a4ae2a7a4bb4b",
+      "axis": "author",
+      "title": "Numerical Investigation of Compression-After-Lightning Strike Characteristics of Carbon/Epoxy Laminates",
+      "fields": [
+        "membership"
+      ],
+      "inclusion_probability": 0.06134969325153374,
+      "selection_rank_hash": "05cb561e7e0bc3b0ef9146af391ade44027d30e47db6b1ca3910e2cb81d1b0ab",
+      "materials_provided": [
+        {
+          "source_id": "AFUP-4ea18fa4b20f1bb0d4713384",
+          "status": "available",
+          "url": "",
+          "captured_at": "2026-10-06T07:39:16.630031+00:00",
+          "kind": "text",
+          "group": "document",
+          "sha256": "4ea18fa4b20f1bb0d4713384f6d3c8cabd378f00895efa8b06f471c302cd8b30",
+          "view_sha256": "37ed3ae4c7679e0fb0b4adbf15018f086c6019981785014ec37320f1ca1cccb3"
+        },
+        {
+          "source_id": "AFUP-29e2d6c249c04bed06480af5",
+          "status": "available",
+          "url": "",
+          "captured_at": "2026-10-06T07:39:16.630031+00:00",
+          "kind": "text",
+          "group": "document",
+          "sha256": "29e2d6c249c04bed06480af5cd447fb92774147029c3ee93b54264a7ba113c07",
+          "view_sha256": "d8133ba8a32edea1b647acf4b48a909416daa26f63c567b252b09cf8bb5d0bf9"
+        },
+        {
+          "source_id": "AREPAIR-4add354476118815fadcbd60",
+          "status": "available",
+          "url": "https://api.crossref.org/works?query.bibliographic=Numerical%20Investigation%20of%20Compression-After-Lightning%20Strike%20Characteristics%20of%20Carbon%2FEpoxy%20Laminates&rows=5",
+          "captured_at": "2026-10-06T00:49:59.770896+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "4add354476118815fadcbd60a4a72bea5bb6b6565e2feb5015de43cfe9f2599f",
+          "view_sha256": "1669367936acef898b18688392d7556451f3bfe9a8ac6ce46f18305ddfe45ebf"
+        },
+        {
+          "source_id": "AREPAIR-637337257a19f9ea3eb07398",
+          "status": "available",
+          "url": "https://api.openalex.org/works?search=Numerical%20Investigation%20of%20Compression-After-Lightning%20Strike%20Characteristics%20of%20Carbon%2FEpoxy%20Laminates&per-page=5",
+          "captured_at": "2026-10-06T00:50:31.140320+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "637337257a19f9ea3eb073984e3fa3a1a5fb03197a24b716fece81971ec484e6",
+          "view_sha256": "7593dc966d638b0af4c914035f8d515885f5a315e5690b86a7b723f1617bc115"
+        },
+        {
+          "source_id": "AFUP-f16a23c39287dc5ea38eb956",
+          "status": "available",
+          "url": "https://infoscience.epfl.ch/bitstreams/207e4d77-9bb0-4a0a-977d-67bd51815e40/download",
+          "captured_at": "2026-10-06T07:39:16.630031+00:00",
+          "kind": "html",
+          "group": "document",
+          "sha256": "f16a23c39287dc5ea38eb95616433bd43d2ef53352730f72e3e2b304209941e0",
+          "view_sha256": "556b15d738c96261782522af0247fa91b47ae6a1edbe3261bd84512502384293"
+        },
+        {
+          "source_id": "APUBLIC-2a5e2c38de76a80f784db88f",
+          "status": "available",
+          "url": "https://uwe-repository.worktribe.com/9731926/1/Numerical%20investigation%20of%20compression-after-lightning%20strike%20characteristics%20of%20Carbon%2Fepoxy%20laminates",
+          "captured_at": "2026-10-06T02:06:34.121126+00:00",
+          "kind": "html",
+          "group": "document",
+          "sha256": "2a5e2c38de76a80f784db88f1d6197259fa1533131714cda2b1d836af2be198b",
+          "view_sha256": "06c4d065e3a517ab7c00ece0340b7f3ad0868ba4e5ca51015d3685fd1177df35"
+        },
+        {
+          "source_id": "AVPN-cd9d1b06403a294c17fc496f",
+          "status": "available",
+          "url": "https://uwe-repository.worktribe.com/9731926/1/Numerical%20investigation%20of%20compression-after-lightning%20strike%20characteristics%20of%20Carbon%2Fepoxy%20laminates",
+          "captured_at": "2026-10-06T02:45:30.599151+00:00",
+          "kind": "html",
+          "group": "document",
+          "sha256": "cd9d1b06403a294c17fc496f46b9ac162b150bb4e24ad11a3593a8fdb2a8e3f3",
+          "view_sha256": "f4e4cd893475946f89fa30f398d1990bc5d257df0303ff0c3ba4a537a2c588be"
+        },
+        {
+          "source_id": "SUPP003-E03-01-r1-raw",
+          "status": "available",
+          "url": "https://profiles.stanford.edu/xiaodong-xu",
+          "captured_at": "2026-10-07T12:05:29.053272+00:00",
+          "kind": "html",
+          "group": "identity",
+          "sha256": "f2e255983fde3677644192fe1584ff26dccd32d75dfacc4c53a50d6e77fca058",
+          "view_sha256": "f0aa037380085b1fbae1ebcea073a4d3d5f72707afc010959ea7c596d4f6a829"
+        },
+        {
+          "source_id": "SUPP003-E03-01-r1-txt",
+          "status": "available",
+          "url": "https://profiles.stanford.edu/xiaodong-xu",
+          "captured_at": "2026-10-07T12:05:29.053272+00:00",
+          "kind": "text",
+          "group": "identity",
+          "sha256": "317ade21e039285fbfe9edc6ef16dfaf84d22a29ab07eacc6e13651a501fd3b7",
+          "view_sha256": "c904fc3533b093c7881e8a88264561730146c6fd6b65bae161c69c9f25c6735e"
+        },
+        {
+          "source_id": "SUPP003-E03-02-r1-raw",
+          "status": "available",
+          "url": "https://www.cranfield.ac.uk/people/dr-xiaodong-xu-37439814",
+          "captured_at": "2026-10-07T12:05:29.053773+00:00",
+          "kind": "html",
+          "group": "identity",
+          "sha256": "6dffeb330164e646ce2f07394cf47636fc0440d1c7dcb8430b462a67f8b30647",
+          "view_sha256": "e4035a2e696540cb205d07d7679ee40e207d30ada3f81eb33fe69a192a6fe511"
+        },
+        {
+          "source_id": "SUPP003-E03-02-r1-txt",
+          "status": "available",
+          "url": "https://www.cranfield.ac.uk/people/dr-xiaodong-xu-37439814",
+          "captured_at": "2026-10-07T12:05:29.053773+00:00",
+          "kind": "text",
+          "group": "identity",
+          "sha256": "966b42309708c6cca555d6d19529d1e95ed9d44d6043319a9f97cde2a9862731",
+          "view_sha256": "388653a953715d3b58e63ff43bd4d6445f671afaa0b985a84615e764f4fc7b73"
+        },
+        {
+          "source_id": "AID-6ed104fbbe647a00ad30887a",
+          "status": "available",
+          "url": "https://xuqeolab.stanford.edu/",
+          "captured_at": "2026-10-01T05:27:58.846039+00:00",
+          "kind": "html",
+          "group": "identity",
+          "sha256": "6ed104fbbe647a00ad30887a813f1cd2679dca777770144af16e37b4bb4a27a2",
+          "view_sha256": "c3f50cb758eda38e952695925e1282f4971bddc24eb41cd7654b09d946d0ea0a"
+        },
+        {
+          "source_id": "ARAW-4611e9e70237d6c405a3d564",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=kjJzDmQAAAAJ&hl=en&cstart=600&pagesize=100",
+          "captured_at": "2026-10-05T17:03:24.656323+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "4611e9e70237d6c405a3d5645c0353a66bab3077eb4a433be1f557c4bd6102c7",
+          "view_sha256": "0f3aeed5e47205776e5737c082c2e0c2f20f15f011922ee495e6e5f1b532a459"
+        },
+        {
+          "source_id": "ARAW-35afce13aff7fe4e4818367b",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=kjJzDmQAAAAJ&hl=en&cstart=100&pagesize=100",
+          "captured_at": "2026-10-05T17:01:39.153050+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "35afce13aff7fe4e4818367b2404b36fe7b0ea056823ea34f0af7ec476dc1a41",
+          "view_sha256": "5f980975d35e7b1323f24aafc462481528f672f1c88aa42e675f425565a82904"
+        },
+        {
+          "source_id": "ARAW-52d8d6c6e2b22e75c49397e0",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=kjJzDmQAAAAJ&hl=en&cstart=200&pagesize=100",
+          "captured_at": "2026-10-05T17:02:03.898753+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "52d8d6c6e2b22e75c49397e04573ed08bf9361866e8ad016ca96fa1a715742e9",
+          "view_sha256": "47ecf0a6a0b1d4c57897376f0a2372052d8d87541e44446550bd56a45cdd0182"
+        },
+        {
+          "source_id": "ARAW-f6de13ae9cbfc82d1ce20058",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=kjJzDmQAAAAJ&hl=en&cstart=300&pagesize=100",
+          "captured_at": "2026-10-05T17:02:27.856042+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "f6de13ae9cbfc82d1ce200587c92eb2824833a205251d3e1c3fd1df8e98788c7",
+          "view_sha256": "5660cd2eb4323a11fb7848b70af0fa2d9f017a569f79c6b6633540bb2200b15c"
+        },
+        {
+          "source_id": "ARAW-9a60f2d0a06ea4e99be3aeab",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=kjJzDmQAAAAJ&hl=en&cstart=400&pagesize=100",
+          "captured_at": "2026-10-05T17:02:43.493591+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "9a60f2d0a06ea4e99be3aeabbb7bac21c3b6decdd2a1ec4788e856fd6620aa23",
+          "view_sha256": "2d1497ba014cfda7775d60410afb0acb15c41f49d178fac92e0c3e2c61e9269c"
+        },
+        {
+          "source_id": "ARAW-b6187990e6232a636ca4b0b4",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=kjJzDmQAAAAJ&hl=en&cstart=500&pagesize=100",
+          "captured_at": "2026-10-05T17:03:08.480281+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "b6187990e6232a636ca4b0b48c02327040eb29224af8ab762a0233ee190adab9",
+          "view_sha256": "1c35ccb640819fa74fda6dd5f4671be75d6cd9815057a94600a7cc01db6f5389"
+        },
+        {
+          "source_id": "ARAW-9bff02cf6f92eb03b680d86e",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=kjJzDmQAAAAJ&hl=en&cstart=0&pagesize=100",
+          "captured_at": "2026-10-05T17:01:13.194025+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "9bff02cf6f92eb03b680d86efc21f270d72729bd51d62b9b0f965442cc49dc04",
+          "view_sha256": "4cd1db7cf226107c76088b2df1ce35665e2a4a0021eef5a693447b5068fb223b"
+        },
+        {
+          "source_id": "ARAW-8e5991e852ee1fc8d4cbfbf4",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=kjJzDmQAAAAJ&hl=en&cstart=700&pagesize=100",
+          "captured_at": "2026-10-05T17:03:43.855775+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "8e5991e852ee1fc8d4cbfbf46b1594733788bfd2cdc5af69932cac7736a236b5",
+          "view_sha256": "e308919ac5560583b9f0f4ebd24a73c0ac86fec9e1cad7c351d1245d7c1897cb"
+        },
+        {
+          "source_id": "ARAW-0700447886c05135aa4dbfb1",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=kjJzDmQAAAAJ&hl=en&cstart=800&pagesize=100",
+          "captured_at": "2026-10-05T17:04:03.839167+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "0700447886c05135aa4dbfb16a015f2997b4891dbc3b9e27181ed62f50b13dda",
+          "view_sha256": "0663b45edd26de7135a66fc863ffeae15e1f27a636a493f81a072bb193e16ced"
+        }
+      ]
+    },
+    {
+      "sample_id": "P03",
+      "case_id": "A-CAN-d65c80f6a0f6788f45a3d61e",
+      "axis": "author",
+      "title": "A snag for nutrient fertilization: decoupled production and export",
+      "fields": [
+        "membership"
+      ],
+      "inclusion_probability": 0.06134969325153374,
+      "selection_rank_hash": "06d5ed9edd94e886ea1118a03924b3443ef2e72bbddfa1a9bf9168ebc72f96b0",
+      "materials_provided": [
+        {
+          "source_id": "TEXT-PRI-040",
+          "status": "available",
+          "url": "https://eartharxiv.org/repository/view/12376/",
+          "captured_at": "2026-10-06T20:54:08.409617+00:00",
+          "kind": "text",
+          "group": "document",
+          "sha256": "2d2b584e40a9d397dc441991fc8192e82f5adbc8712a3106fa576a6a0e8e9bb9",
+          "view_sha256": "a37f252578eb9ff05113f46ab1c8a285055150b43bc45c23f8db7285a8590f0c"
+        },
+        {
+          "source_id": "PRIM-PRI-040",
+          "status": "available",
+          "url": "https://eartharxiv.org/repository/view/12376/",
+          "captured_at": "2026-10-06T20:54:08.409617+00:00",
+          "kind": "html",
+          "group": "document",
+          "sha256": "67089a3f826e8d9e191560b22ab80ddec4250b1a132cc00c126a53984961b7d2",
+          "view_sha256": "cadfba4bb2f51471fffaefef0231c6d2e7ffa21637e96bd689c8108dd80267a7"
+        },
+        {
+          "source_id": "NIDENT-9ab8699e84a415cc9f608d64",
+          "status": "available",
+          "url": "https://research-portal.uea.ac.uk/en/persons/corinne-le-quere/",
+          "captured_at": "2026-10-01T05:04:26.945389+00:00",
+          "kind": "html",
+          "group": "identity",
+          "sha256": "9ab8699e84a415cc9f608d6477d0010dac32a2286ecc0602d40af9f061b5c666",
+          "view_sha256": "d8aff83410b8b9a3b4ec39abadf7e445aedc114986948ac81140bfeb91df2e00"
+        },
+        {
+          "source_id": "NLIST-3b6ab0b474b0cb38cdc5fae3",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=9uZs_GEAAAAJ&hl=en&cstart=300&pagesize=100",
+          "captured_at": "Original capture time recorded in source lineage",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "3b6ab0b474b0cb38cdc5fae34de116639cff0f055282c3a87609d0d92a340597",
+          "view_sha256": "704f882ddaa77e072c2ac4d8c4163836825d8126fd82d135c2f56f702deacde5"
+        }
+      ]
+    },
+    {
+      "sample_id": "P04",
+      "case_id": "A-CAN-5a04d0c98b8e84bd6f6a79e3",
+      "axis": "subject",
+      "title": "An ancient evolutionary origin for IL-1 cytokines.",
+      "fields": [
+        "membership",
+        "broad_membership"
+      ],
+      "inclusion_probability": 0.10101010101010101,
+      "selection_rank_hash": "0dbe94bdb2ac0fb0bb9f05ce79b036277469bbaf0a03c7c6814b68092ea86f55",
+      "materials_provided": [
+        {
+          "source_id": "ARAW-d3d39b3c79b6f7f288244c46",
+          "status": "available",
+          "url": "https://api.openalex.org/works/https://doi.org/10.1038/s41559-026-03191-2",
+          "captured_at": "2026-10-05T17:39:17.936208+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "d3d39b3c79b6f7f288244c46285bb65cb518973d7d86762dd1a68d25ca39408a",
+          "view_sha256": "406935b6968a55aa3c50cb7856ced9b66603801ccfa4045c56272f3b19422750"
+        },
+        {
+          "source_id": "AREPAIR-609df0cf21f2f548dccfe716",
+          "status": "available",
+          "url": "https://api.crossref.org/works/10.1038%2Fs41559-026-03191-2",
+          "captured_at": "2026-10-06T00:51:24.031266+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "609df0cf21f2f548dccfe7161c7241767f9a4b431239aeae7a3e46069a27f340",
+          "view_sha256": "4db1e692401636f53dd9c498dd6194ae09a352d6f81ef796c4163fe358c86fd9"
+        }
+      ]
+    },
+    {
+      "sample_id": "P05",
+      "case_id": "A-CAN-22b9ae34510650bd57d58aa1",
+      "axis": "journal",
+      "title": "Weyl-Transition-Driven Giant Reversible Orbital Hall Conductivity",
+      "fields": [
+        "membership",
+        "date",
+        "research_eligibility"
+      ],
+      "inclusion_probability": 0.06896551724137931,
+      "selection_rank_hash": "042046598d9910bc95bc7320311ad6ba93d57783a10b5d0743967ccdb1499cc4",
+      "materials_provided": [
+        {
+          "source_id": "ARAW-5f26c05d781accd3c35bb6de",
+          "status": "available",
+          "url": "https://pubs.acs.org/nalefd/article/doi/10.1021/acs.nanolett.6c04069/5440490/Weyl-Transition-Driven-Giant-Reversible-Orbital",
+          "captured_at": "2026-10-05T16:45:20.289914+00:00",
+          "kind": "html",
+          "group": "document",
+          "sha256": "5f26c05d781accd3c35bb6de2efb5924dad9502d932c316ecaed31b09fab3afc",
+          "view_sha256": "758d0c79bead8077790fb0e8b79ef5ec945f7fe30be6016a743b39e8bbe139fd"
+        },
+        {
+          "source_id": "ARAW-d67a60e7854c66283bfacb89",
+          "status": "available",
+          "url": "https://api.openalex.org/works?search=two-dimensional+magnetism&filter=from_publication_date%3A2026-09-01%2Cto_publication_date%3A2026-09-30&per-page=50&cursor=%2A&sort=publication_date%3Adesc",
+          "captured_at": "2026-10-05T16:59:55.297306+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "d67a60e7854c66283bfacb896d4a0c7b4a535b45da0d29b3a2a836c14c950d44",
+          "view_sha256": "355670c7b3c4b72a063b2c7ec5ba6490d3b28a10d554a3dcbf1715fb6ad6d0ac"
+        },
+        {
+          "source_id": "AREPAIR-36a7ea2b58f63f2b04b25c91",
+          "status": "available",
+          "url": "https://api.openalex.org/works/https://doi.org/10.1021/acs.nanolett.6c04069",
+          "captured_at": "2026-10-06T00:50:20.583021+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "36a7ea2b58f63f2b04b25c9167d6b4f058dad23e95f44ebf6065915601cbc792",
+          "view_sha256": "d222eea21ac7e553b72abea08e4d169c86fae3b614dc9030e9692eae23f7095e"
+        },
+        {
+          "source_id": "ARAW-25bbb510c5a3549c0bf2a191",
+          "status": "available",
+          "url": "https://api.crossref.org/journals/1530-6984/works?filter=from-pub-date%3A2026-09-01%2Cuntil-pub-date%3A2026-09-30%2Ctype%3Ajournal-article&rows=100&cursor=MTc5MDQzNDkzODAwMCwxMC4xMDIxJTJGYWNzLm5hbm9sZXR0LjZjMDI0MDk%3D&select=DOI%2CURL%2Ctitle%2Ccontainer-title%2Cauthor%2Cpublished-print%2Cpublished-online%2Cpublished%2Cissued%2Cvolume%2Cissue%2Cpage%2Carticle-number%2Ctype%2Cabstract%2Cupdate-to",
+          "captured_at": "2026-10-05T16:37:25.276886+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "25bbb510c5a3549c0bf2a191193198b2f5ad6fcbded435d52be987187b80f4c7",
+          "view_sha256": "a1b9b464e22766002fd54c39a7b1a7052d01820854cb30924c0e06783aca4a88"
+        }
+      ]
+    },
+    {
+      "sample_id": "P06",
+      "case_id": "A-CAN-ef950cff16e339a4658b99bf",
+      "axis": "journal",
+      "title": "Spatially Resolved Temperature Measurement Using Rydberg Doppler Broadening Thermometry",
+      "fields": [
+        "membership",
+        "date",
+        "research_eligibility"
+      ],
+      "inclusion_probability": 0.06896551724137931,
+      "selection_rank_hash": "07a6cda607c4a844c515b3329953b132870408c37bd707343bbf6a47ec00fadc",
+      "materials_provided": [
+        {
+          "source_id": "AVPN-fca1a65505585acb3b0c6222",
+          "status": "available",
+          "url": "https://api.openalex.org/works/https://doi.org/10.1103/kbfx-l9zk",
+          "captured_at": "2026-10-06T02:45:30.838953+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "fca1a65505585acb3b0c6222470efdab4ca16736ce55a94f5fd0391cb6d88296",
+          "view_sha256": "ffabbbf7f04c45d8e9518561b23f292a7cd4c55ac0baa59e27a26d18476e0c43"
+        },
+        {
+          "source_id": "ARAW-71d2a4a681d3d813728858d2",
+          "status": "available",
+          "url": "https://api.crossref.org/journals/1079-7114/works?filter=from-pub-date%3A2026-09-01%2Cuntil-pub-date%3A2026-09-30%2Ctype%3Ajournal-article&rows=100&cursor=MTc4NTUwMjM3NTAwMCwxMC4xMTAzJTJGNXB2Zi1tY3Ix&select=DOI%2CURL%2Ctitle%2Ccontainer-title%2Cauthor%2Cpublished-print%2Cpublished-online%2Cpublished%2Cissued%2Cvolume%2Cissue%2Cpage%2Carticle-number%2Ctype%2Cabstract%2Cupdate-to",
+          "captured_at": "2026-10-05T15:55:39.880827+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "71d2a4a681d3d813728858d251bad4f805005ba051035f942288ecdfc52c7b74",
+          "view_sha256": "cd2252563949bc326604e8e68168d25b971a628644b70249fe4fdbb193bf05fe"
+        }
+      ]
+    },
+    {
+      "sample_id": "P07",
+      "case_id": "A-CAN-ee725f2d6b335a50c294702c",
+      "axis": "journal",
+      "title": "Substrate heterogeneity promotes cancer cell dissemination through interface roughening",
+      "fields": [
+        "membership",
+        "date",
+        "research_eligibility"
+      ],
+      "inclusion_probability": 0.06896551724137931,
+      "selection_rank_hash": "01b36ace81ab9ff81c15df4cbcb13347ac12ca9f2bac3fc247430c28cad3c628",
+      "materials_provided": [
+        {
+          "source_id": "ARAW-508c6e9db3db4a1f6a18d76c",
+          "status": "available",
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A%2F%2Fopenalex.org%2FS2737427234%2Cfrom_publication_date%3A2026-09-01%2Cto_publication_date%3A2026-09-30&per-page=100&cursor=IlsxNzg5NTE2ODAwMDAwLCAnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c3MjEzNDEyMjkyJ10i&sort=publication_date%3Adesc",
+          "captured_at": "2026-10-05T16:35:25.507155+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "508c6e9db3db4a1f6a18d76c3e8e9cda5751afa30ed6e2d37e025824a5751cc6",
+          "view_sha256": "38460a26053531fd0bc2d3a84e8320c17050d3fe6b8101c01398033cdd179008"
+        },
+        {
+          "source_id": "AVPN-d1e53de0ba6da6894b4f17df",
+          "status": "available",
+          "url": "https://api.openalex.org/works/https://doi.org/10.1126/sciadv.aed0587",
+          "captured_at": "2026-10-06T02:45:30.836824+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "d1e53de0ba6da6894b4f17df8c56f2808e35e814f8e943e19f041c82f56825f0",
+          "view_sha256": "4b99eb24535b23df32fbb989056d480d5e071d241da28dd61392384077dfe9f0"
+        },
+        {
+          "source_id": "ARAW-5766666681a98ce46c91a337",
+          "status": "available",
+          "url": "https://api.crossref.org/journals/2375-2548/works?filter=from-pub-date%3A2026-09-01%2Cuntil-pub-date%3A2026-09-30%2Ctype%3Ajournal-article&rows=100&cursor=%2A&select=DOI%2CURL%2Ctitle%2Ccontainer-title%2Cauthor%2Cpublished-print%2Cpublished-online%2Cpublished%2Cissued%2Cvolume%2Cissue%2Cpage%2Carticle-number%2Ctype%2Cabstract%2Cupdate-to",
+          "captured_at": "2026-10-05T16:35:09.825474+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "5766666681a98ce46c91a3376d447e92e2192ccda4aac6372c19883c554823f8",
+          "view_sha256": "ebee3b137aefcec515550049b3934b0e37dc35804d984c472afeee53507c7604"
+        }
+      ]
+    },
+    {
+      "sample_id": "P08",
+      "case_id": "A-CAN-2c42db6a57c3c8497493b25b",
+      "axis": "subject",
+      "title": "Kitaev interaction and proximate higher-order skyrmion crystal in the triangular lattice van der Waals antiferromagnet NiI₂",
+      "fields": [
+        "membership",
+        "broad_membership"
+      ],
+      "inclusion_probability": 0.10101010101010101,
+      "selection_rank_hash": "022db72ae1fa5f30851ea21f379a465dc65d3af705d2049b4d2283f4fb13ce03",
+      "materials_provided": [
+        {
+          "source_id": "ARAW-9d50b737cc9be8fd7d14079a",
+          "status": "available",
+          "url": "https://api.openalex.org/works?search=two-dimensional+magnetism&filter=from_publication_date%3A2026-01-01%2Cto_publication_date%3A2026-01-31&per-page=50&cursor=%2A&sort=publication_date%3Adesc",
+          "captured_at": "2026-10-05T16:46:02.489034+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "9d50b737cc9be8fd7d14079a6a41112dbbd3706aae7bf4d1f956f3468dfa4858",
+          "view_sha256": "4fcb8f8d503c1cda5acf9ce3f6982ae8165be455e17a5b6cf4ad7c01198e578a"
+        },
+        {
+          "source_id": "AREPAIR-3f7e029a1e926649cf0f5ccd",
+          "status": "available",
+          "url": "https://api.openalex.org/works/https://doi.org/10.1038/s41535-026-00851-1",
+          "captured_at": "2026-10-06T00:50:43.235477+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "3f7e029a1e926649cf0f5ccdc3f0aff89a9fafff87e1b15bb034304c885d5749",
+          "view_sha256": "5710dd18f7cb8e64eb07745f2482da949cb9f5d81ca8796cdea0a3d4232f06db"
+        },
+        {
+          "source_id": "AREPAIR-9c4fe0694cafb7a945bcb4ec",
+          "status": "available",
+          "url": "https://api.crossref.org/works/10.1038%2Fs41535-026-00851-1",
+          "captured_at": "2026-10-06T00:50:04.803792+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "9c4fe0694cafb7a945bcb4ece4b3a53725d008d90ffc60638a063315aa9ffd9d",
+          "view_sha256": "4e5a549bd2ebf6382a5047e0195d7c6850fa86beb24f1f203e88de83fd3ea965"
+        }
+      ]
+    },
+    {
+      "sample_id": "P09",
+      "case_id": "A-CAN-e5d9dd4818f356fefd5df42f",
+      "axis": "author",
+      "title": "Single-qubit detection by collective phase imprinting",
+      "fields": [
+        "membership"
+      ],
+      "inclusion_probability": 0.06134969325153374,
+      "selection_rank_hash": "02b48ad6ae0b753db6b5d95768e02a8843e5e794f23bcccb91d66aa07703277f",
+      "materials_provided": [
+        {
+          "source_id": "APUBLIC-5dcd792b9049d9d4429aac90",
+          "status": "available",
+          "url": "https://export.arxiv.org/api/query?id_list=2608.06970",
+          "captured_at": "2026-10-06T02:06:34.314932+00:00",
+          "kind": "text",
+          "group": "document",
+          "sha256": "5dcd792b9049d9d4429aac90e71a9af204660fd71ec6c52c6212f0bd2ae9a545",
+          "view_sha256": "7785503ca35094c4c7922d089fa50dfc3aeccf8d4725198605f165e0e73ea189"
+        },
+        {
+          "source_id": "AREPAIR-4b0791248eadaefaff4cd739",
+          "status": "available",
+          "url": "https://api.crossref.org/works?query.bibliographic=Single-qubit%20detection%20by%20collective%20phase%20imprinting&rows=5",
+          "captured_at": "2026-10-06T00:54:42.384810+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "4b0791248eadaefaff4cd7391b721c01e93e3600b77b26a6ccee51bc204c0a6b",
+          "view_sha256": "88c33ec501a69e4c0e66d29772fb3fa3193891f196798dabba5c494a25d08c9f"
+        },
+        {
+          "source_id": "AVPN-d8dd3f27a56f4165b3a460c8",
+          "status": "available",
+          "url": "https://api.openalex.org/works?search=Single-qubit%20detection%20by%20collective%20phase%20imprinting&per-page=5",
+          "captured_at": "2026-10-06T02:45:30.811570+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "d8dd3f27a56f4165b3a460c84820f946067daf03132a03a4150a2a9b4cffcdf2",
+          "view_sha256": "3fc9bbf0f349983b7d207d89910114a6c1fca8461b9ac5f6897608145a596063"
+        },
+        {
+          "source_id": "AID-a6274aab86c0e15fe114c23a",
+          "status": "available",
+          "url": "https://www.quantum-munich.de/104554/bloch-immanuel-prof-dr",
+          "captured_at": "2026-10-01T05:27:58.847441+00:00",
+          "kind": "html",
+          "group": "identity",
+          "sha256": "a6274aab86c0e15fe114c23ae2dddc7448f29c705bd24e5f3c35380b40da0984",
+          "view_sha256": "df1a5b2e74ce59312881561929ccaae99b480b4024014aab96e121ecbbabd43b"
+        },
+        {
+          "source_id": "ARAW-5df03c10a39ebde0c4018b17",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=kX5_lc8AAAAJ&hl=en&cstart=300&pagesize=100",
+          "captured_at": "2026-10-05T17:06:28.987605+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "5df03c10a39ebde0c4018b172d8d0edc47d5c591f5844ff13c2f53a69f5e2e4a",
+          "view_sha256": "d08212197c4fd1b9745caf058ba9ad4094f0b6369172bcd90fc467c98150604a"
+        },
+        {
+          "source_id": "ARAW-9a9c42bfa46a2d5f5231e6ac",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=kX5_lc8AAAAJ&hl=en&cstart=0&pagesize=100",
+          "captured_at": "2026-10-05T17:05:30.025923+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "9a9c42bfa46a2d5f5231e6ac7eb5eb6bc9d9e7d35a50ccea519a8fdf85977dc5",
+          "view_sha256": "9e3fba91ada93c4775f3afb55c2223d23dd65f95ba55dd6552b77025c88f7884"
+        },
+        {
+          "source_id": "ARAW-678df96872b9292fcbd5f52e",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=kX5_lc8AAAAJ&hl=en&cstart=100&pagesize=100",
+          "captured_at": "2026-10-05T17:05:45.697916+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "678df96872b9292fcbd5f52ebe2e778a47eb8eeb6119320316a13589da13dbbc",
+          "view_sha256": "ea9ffbd11b3c05615f55603a80073d9f10adbfba6e51ed76ba133337352d7a43"
+        },
+        {
+          "source_id": "ARAW-7dca1b246c459ed4d5dc064d",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=kX5_lc8AAAAJ&hl=en&cstart=200&pagesize=100",
+          "captured_at": "2026-10-05T17:06:08.983742+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "7dca1b246c459ed4d5dc064dee0e5e54018ed2e1589d9f6e21498b567bf7aa47",
+          "view_sha256": "a988f34eadeb57a6be52c44b1491004b9f7a56a5b07381c5a8c34ecd7991ccb6"
+        },
+        {
+          "source_id": "ARAW-ed77de1b602f73135397a644",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=kX5_lc8AAAAJ&hl=en&cstart=400&pagesize=100",
+          "captured_at": "2026-10-05T17:06:46.776121+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "ed77de1b602f73135397a6447db0ca69de9f32923144b5f274bf975aeefc5bd1",
+          "view_sha256": "d2a403b22efe9da190c200b0f4b2c77e12d117eb695ef53c6201180aa10839ea"
+        }
+      ]
+    },
+    {
+      "sample_id": "P10",
+      "case_id": "A-CAN-0e124e507002ebb6d5ff8941",
+      "axis": "subject",
+      "title": "In Situ Polymerized \"Solvated-Ionic-Liquid in Oligomer\" Composite Electrolyte with Multiscale Anion Immobilization for Solid-State Lithium-Metal Batteries.",
+      "fields": [
+        "membership",
+        "broad_membership"
+      ],
+      "inclusion_probability": 0.10101010101010101,
+      "selection_rank_hash": "009bf1f53405b4738d2e44c5c92cb70d11f14a180ce8ca734592e9da3c8e2d73",
+      "materials_provided": [
+        {
+          "source_id": "ARAW-02ab861cb50365f0a05c72df",
+          "status": "available",
+          "url": "https://api.openalex.org/works/https://doi.org/10.1021/acs.nanolett.6c00087",
+          "captured_at": "2026-10-05T17:38:25.805587+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "02ab861cb50365f0a05c72df1cd5db24f600ed2a0dca7b3f9c0cf4b34dc2d85f",
+          "view_sha256": "d9524fa2b12d2aa40749ad3e2d26f11b9f27ccf975f19756837c248526fd6163"
+        },
+        {
+          "source_id": "AREPAIR-10ec2e7b8a05312ef9dfba77",
+          "status": "available",
+          "url": "https://api.crossref.org/works/10.1021%2Facs.nanolett.6c00087",
+          "captured_at": "2026-10-06T00:49:28.200272+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "10ec2e7b8a05312ef9dfba7774ca8a7d94f822c8fbf0e2ad7b689918969e935d",
+          "view_sha256": "4e03b899641d137367c8ce71eeac206b6dacd1f770cd1cb52f48b82b5f665838"
+        }
+      ]
+    },
+    {
+      "sample_id": "P11",
+      "case_id": "A-CAN-9b8dc338652f10b7778b8c49",
+      "axis": "subject",
+      "title": "Advanced halide/sulfide all-solid-state lithium metal batteries with fluorinated interface layer.",
+      "fields": [
+        "membership",
+        "broad_membership"
+      ],
+      "inclusion_probability": 0.10101010101010101,
+      "selection_rank_hash": "065aa7851f513e5c3a95966fed2556739acc6b8690eec7eb6bb22617704d30a8",
+      "materials_provided": [
+        {
+          "source_id": "AFUP-a6fcbf380798568f9f45614d",
+          "status": "available",
+          "url": "",
+          "captured_at": "2026-10-06T07:39:16.630031+00:00",
+          "kind": "text",
+          "group": "document",
+          "sha256": "a6fcbf380798568f9f45614df54a5ebca3837315e2a6cb3df4e03d3271e50a52",
+          "view_sha256": "62e0b497e55e8f63011fd2210cbb425ec456323572b2afec8f1c7eef82f66358"
+        },
+        {
+          "source_id": "AFUP-29e2d6c249c04bed06480af5",
+          "status": "available",
+          "url": "",
+          "captured_at": "2026-10-06T07:39:16.630031+00:00",
+          "kind": "text",
+          "group": "document",
+          "sha256": "29e2d6c249c04bed06480af5cd447fb92774147029c3ee93b54264a7ba113c07",
+          "view_sha256": "20b5b25ff720890c388c7b0977090b4886b1ac5cd0d9f696ac0ae64496766f50"
+        },
+        {
+          "source_id": "ARAW-1a92336e2e359c65098d5b92",
+          "status": "available",
+          "url": "https://api.openalex.org/works/https://doi.org/10.1039/d5cc05658f",
+          "captured_at": "2026-10-05T17:39:58.499953+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "1a92336e2e359c65098d5b9230fc81480040fd7644e1087fd77bdd14c3970afc",
+          "view_sha256": "5186cf1f2f6fd4d76a4c2badfa6da372b2dd611384c55184ba419fa97992e592"
+        },
+        {
+          "source_id": "AREPAIR-f182c4e8d105144102c31f3f",
+          "status": "available",
+          "url": "https://api.crossref.org/works/10.1039%2Fd5cc05658f",
+          "captured_at": "2026-10-06T00:52:50.398134+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "f182c4e8d105144102c31f3f15dc6907aafb0f1f4e5ea9234ffa7f36617eaa31",
+          "view_sha256": "ec53c437d128927b59d57c60176aa94e35858ca086df8f6fab2e44ff51f5a7e7"
+        }
+      ]
+    },
+    {
+      "sample_id": "P12",
+      "case_id": "A-CAN-88529576d3abd54fac21cbdb",
+      "axis": "subject",
+      "title": "Compatible Dynamically Wetting Electrolyte-Electrode Interface Design for Solid-State Lithium-Sulfur Batteries.",
+      "fields": [
+        "membership",
+        "broad_membership"
+      ],
+      "inclusion_probability": 0.10101010101010101,
+      "selection_rank_hash": "06a5a4aea3b81750011010f4ddfa8821a87d299826b8ad0fe5eeec54faadd880",
+      "materials_provided": [
+        {
+          "source_id": "ARAW-77956831ebfe02709e0707db",
+          "status": "available",
+          "url": "https://api.openalex.org/works/https://doi.org/10.1002/anie.1261984",
+          "captured_at": "2026-10-05T17:39:44.582745+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "77956831ebfe02709e0707dbcbd7a649035e3704412987066bcb69fc036016fa",
+          "view_sha256": "a0802bc36ef0286dc76fc92c2f3fa2158fa77b34cd10a8d1507957f03c7bbf5f"
+        },
+        {
+          "source_id": "AREPAIR-010b401ca7b9bf8616c9f3a7",
+          "status": "available",
+          "url": "https://api.crossref.org/works/10.1002%2Fanie.1261984",
+          "captured_at": "2026-10-06T00:52:30.004731+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "010b401ca7b9bf8616c9f3a7f907a0c171c820c726b55407f04b17ebfac6cb9a",
+          "view_sha256": "2160e1a9d04aad97d156e9c6ba696f0e5420ec6c044c97cf0339b26d40bd30af"
+        }
+      ]
+    },
+    {
+      "sample_id": "P13",
+      "case_id": "A-CAN-cc32492c289255318b4cc554",
+      "axis": "journal",
+      "title": "Research at gunpoint",
+      "fields": [
+        "membership",
+        "date",
+        "research_eligibility"
+      ],
+      "inclusion_probability": 0.06896551724137931,
+      "selection_rank_hash": "0412be3c7c3bfbd37c18fb6607b447a39d433139a6f492419bc35cda602176f6",
+      "materials_provided": [
+        {
+          "source_id": "AFUP-2fb2816084766c478d000e91",
+          "status": "available",
+          "url": "",
+          "captured_at": "2026-10-06T07:28:31.131151+00:00",
+          "kind": "text",
+          "group": "document",
+          "sha256": "2fb2816084766c478d000e9119c6bfb859f9e3898b303673b1137b2ff777d73d",
+          "view_sha256": "37155d1052cb6e25b08ebdd43c0276cc248556f3d23f87814beecd743d48152b"
+        },
+        {
+          "source_id": "A71-f11c664cc36375f31696e43e",
+          "status": "available",
+          "url": "https://nupem.ufrj.br/pesquisa-de-campo-sob-ameaca-carta-assinada-por-professora-do-nupem-na-revista-science-alerta-para-os-riscos-enfrentados-por-pesquisadores-da-biodiversidade/",
+          "captured_at": "2026-10-06T10:50:40.337262+00:00",
+          "kind": "text",
+          "group": "document",
+          "sha256": "247910ce135ef365893b6e3dfdc82eea94765488fa86ee47d53b743e0d963665",
+          "view_sha256": "350e1473dc3bae419c0db44607ec3ec6075f71861bc8dbd15baa37b94accefb3"
+        },
+        {
+          "source_id": "A71-7f2066ae76cd6c44af4621cd",
+          "status": "available",
+          "url": "https://nupem.ufrj.br/pesquisa-de-campo-sob-ameaca-carta-assinada-por-professora-do-nupem-na-revista-science-alerta-para-os-riscos-enfrentados-por-pesquisadores-da-biodiversidade/",
+          "captured_at": "2026-10-06T10:50:40.337262+00:00",
+          "kind": "html",
+          "group": "document",
+          "sha256": "9c216f6405955ffda6484f1f4c7ff4c6406f2eac6828eee48ea5798bc175d3c3",
+          "view_sha256": "c4e021683df43abb420629ce3ac8d325ed5c0334706d92a297670a8314f52bc9"
+        },
+        {
+          "source_id": "A71-eb3aa406d5f2aec5b983af4f",
+          "status": "available",
+          "url": "https://nupem.ufrj.br/wp-content/uploads/2026/09/Pesquisa-sob-a-mira-de-uma-arma-traducao.pdf",
+          "captured_at": "2026-10-06T10:50:40.337262+00:00",
+          "kind": "pdf",
+          "group": "document",
+          "sha256": "43a1818878d6e149ffb59bdaa22acfbab27b840d9bbb6052d0200db5ed81f156",
+          "view_sha256": "e7375eefcc826ed83c3c46b4ad186db253223becb046df64b9ff11978d14b1f0"
+        },
+        {
+          "source_id": "A71-b2eaf00e175c8215fb696647",
+          "status": "available",
+          "url": "https://nupem.ufrj.br/wp-content/uploads/2026/09/Pesquisa-sob-a-mira-de-uma-arma-traducao.pdf",
+          "captured_at": "2026-10-06T10:50:40.337262+00:00",
+          "kind": "text",
+          "group": "document",
+          "sha256": "46ce296316d63ddc40298ea204b3cc49e8b5de744059d05cd5832adea57ff3a4",
+          "view_sha256": "42181fac6243e194fc46e94f9aa29c25fc637cae85ff1bdfc32906adb66e8c4b"
+        },
+        {
+          "source_id": "AFUP-7ac11732f0e27be21cd1c5e3",
+          "status": "available",
+          "url": "",
+          "captured_at": "2026-10-06T07:28:31.131151+00:00",
+          "kind": "text",
+          "group": "document",
+          "sha256": "7ac11732f0e27be21cd1c5e358db2e3840419897d94617af3fb6ef263a3725f7",
+          "view_sha256": "9fc27b63f4273aaa6d6d255acafe19565b5f1c06a8c0c735828c45908520b3ae"
+        },
+        {
+          "source_id": "ARAW-bb6bd91aa12159e9d85be9ac",
+          "status": "available",
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A%2F%2Fopenalex.org%2FS3880285%2Cfrom_publication_date%3A2026-09-01%2Cto_publication_date%3A2026-09-30&per-page=100&cursor=%2A&sort=publication_date%3Adesc",
+          "captured_at": "2026-10-05T15:51:16.801710+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "bb6bd91aa12159e9d85be9ac8d1e521075e0a64b1c07481fc70fb36c5694ade1",
+          "view_sha256": "dd7a4349c319eac5b0fc11a78bc5e52a4459e2278a2c8184b2925dd33d376c2d"
+        },
+        {
+          "source_id": "AVPN-b46b1ff8def9d15a572ac18d",
+          "status": "available",
+          "url": "https://api.openalex.org/works/https://doi.org/10.1126/science.aek0179",
+          "captured_at": "2026-10-06T02:45:30.759490+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "b46b1ff8def9d15a572ac18d1428d2dd4bb02a7b8cace17ff1972d8a326cf43d",
+          "view_sha256": "189a7c7e5414e1ce64578cd9bd5af15d09c17583849f857e17a5d16c4f7e8a56"
+        },
+        {
+          "source_id": "AREPAIR-9c52f3a1e53a8d7f87cb1304",
+          "status": "available",
+          "url": "https://api.crossref.org/works/10.1126%2Fscience.aek0179",
+          "captured_at": "2026-10-06T01:13:44.804995+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "9c52f3a1e53a8d7f87cb1304bada4fa1bd9ab11adf8cb392aa59af9bd647eaf7",
+          "view_sha256": "5d65cd26a5b58187632b1855155a3a3a5da772c8a92fefe875311c8c7cf8e085"
+        },
+        {
+          "source_id": "ARAW-e0554aae19ed3e474d77b2dc",
+          "status": "available",
+          "url": "https://api.crossref.org/journals/1095-9203/works?filter=from-pub-date%3A2026-09-01%2Cuntil-pub-date%3A2026-09-30%2Ctype%3Ajournal-article&rows=100&cursor=MTc4OTY2ODE3MTAwMCwxMC4xMTI2JTJGc2NpZW5jZS5hZWszODMy&select=DOI%2CURL%2Ctitle%2Ccontainer-title%2Cauthor%2Cpublished-print%2Cpublished-online%2Cpublished%2Cissued%2Cvolume%2Cissue%2Cpage%2Carticle-number%2Ctype%2Cabstract%2Cupdate-to",
+          "captured_at": "2026-10-05T15:51:09.197047+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "e0554aae19ed3e474d77b2dcf279ca4eef372cc4217d4e00c098d9863c8fc7ca",
+          "view_sha256": "f44fab1038200ecbb528e9dadaead11d88fe7ad2b5d4474b11a4f9ef414f5362"
+        },
+        {
+          "source_id": "A60-43edfc4f5d2110d117ac17ba",
+          "status": "available",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42784698/",
+          "captured_at": "2026-10-06T09:38:08.229199+00:00",
+          "kind": "html",
+          "group": "document",
+          "sha256": "b454dd125ce1c73d7647e3d0c802226b2d2b3acef405149b84b9d12ef1f3148f",
+          "view_sha256": "d595edcfa3483daf2a25d2b3c17fa6e54b264d451f225c4960e55968015a4e93"
+        },
+        {
+          "source_id": "APUBLIC-70e0ba73a161bac691956ee9",
+          "status": "available",
+          "url": "https://doi.org/10.1126/science.aek0179",
+          "captured_at": "2026-10-06T02:06:34.275513+00:00",
+          "kind": "html",
+          "group": "document",
+          "sha256": "70e0ba73a161bac691956ee9d7086e11c86d0b046d72ebc4bddf45856edac452",
+          "view_sha256": "2cf9bd9be7ec689b8407bfec040c1c38717daac4966f61261dab69a2d7e345c3"
+        }
+      ]
+    },
+    {
+      "sample_id": "P14",
+      "case_id": "A-CAN-4664f73a602985a6abad7962",
+      "axis": "journal",
+      "title": "Radical enantioconvergent meta-C─H alkylation of pyridines",
+      "fields": [
+        "membership",
+        "date",
+        "research_eligibility"
+      ],
+      "inclusion_probability": 0.06896551724137931,
+      "selection_rank_hash": "05ab5cef9c03efc9cbbc61c430b7a679d1f63ffeb5392cddb1512dd0db085070",
+      "materials_provided": [
+        {
+          "source_id": "ARAW-508c6e9db3db4a1f6a18d76c",
+          "status": "available",
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A%2F%2Fopenalex.org%2FS2737427234%2Cfrom_publication_date%3A2026-09-01%2Cto_publication_date%3A2026-09-30&per-page=100&cursor=IlsxNzg5NTE2ODAwMDAwLCAnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c3MjEzNDEyMjkyJ10i&sort=publication_date%3Adesc",
+          "captured_at": "2026-10-05T16:35:25.507155+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "508c6e9db3db4a1f6a18d76c3e8e9cda5751afa30ed6e2d37e025824a5751cc6",
+          "view_sha256": "3cd6035220fa570ecca64e554e467bd7d4075e57975ccc97a35b7bb836adb275"
+        },
+        {
+          "source_id": "AREPAIR-7ea22c20242730962bd5c5f6",
+          "status": "available",
+          "url": "https://api.openalex.org/works/https://doi.org/10.1126/sciadv.aec7499",
+          "captured_at": "2026-10-06T00:51:54.305263+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "7ea22c20242730962bd5c5f696b65eacb6497c2ee8bd75aaf5930ef6f9c21c9d",
+          "view_sha256": "6a86d384967ecb93144c06164f6dbf7fcbaf07015673c598d3a14cf389089985"
+        },
+        {
+          "source_id": "ARAW-8ec42a818ab5336debd6e092",
+          "status": "available",
+          "url": "https://api.crossref.org/journals/2375-2548/works?filter=from-pub-date%3A2026-09-01%2Cuntil-pub-date%3A2026-09-30%2Ctype%3Ajournal-article&rows=100&cursor=MTc4ODk3NjcyNzAwMCwxMC4xMTI2JTJGc2NpYWR2LmFlZDM3NjQ%3D&select=DOI%2CURL%2Ctitle%2Ccontainer-title%2Cauthor%2Cpublished-print%2Cpublished-online%2Cpublished%2Cissued%2Cvolume%2Cissue%2Cpage%2Carticle-number%2Ctype%2Cabstract%2Cupdate-to",
+          "captured_at": "2026-10-05T16:35:12.524031+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "8ec42a818ab5336debd6e0920e0f4a76975c66ff6a44a2dcc8eb49a9171406fd",
+          "view_sha256": "3f4566a0ae51a32aef2f527a76e6d385a41c9f98c666feec8e34d96b319ba156"
+        }
+      ]
+    },
+    {
+      "sample_id": "P15",
+      "case_id": "A-CAN-86db7c69c077af3cf91fb4d2",
+      "axis": "journal",
+      "title": "A ubiquitin carboxyl-terminal hydrolase facilitates H2A.Z removal in response to phosphate starvation",
+      "fields": [
+        "membership",
+        "date",
+        "research_eligibility"
+      ],
+      "inclusion_probability": 0.06896551724137931,
+      "selection_rank_hash": "030ab1a4b90d9ad7ccf495dfc0ec8c118f8a2b82aaed81b4b8802ccf13d62638",
+      "materials_provided": [
+        {
+          "source_id": "ARAW-2347338745fda95742872bdf",
+          "status": "available",
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A%2F%2Fopenalex.org%2FS64187185%2Cfrom_publication_date%3A2026-09-01%2Cto_publication_date%3A2026-09-30&per-page=100&cursor=IlsxNzg5OTQ4ODAwMDAwLCAnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c3MjEzOTI4MjI0J10i&sort=publication_date%3Adesc",
+          "captured_at": "2026-10-05T15:58:10.822575+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "2347338745fda95742872bdfd4a8e5f9393cda071c5000f372ca4cc5346fa3c4",
+          "view_sha256": "f09fecd7bc4859232813541b6191c47b61d22b31dccaf3ff08afd901723f2921"
+        },
+        {
+          "source_id": "AREPAIR-1e0efbfdefe625681f9561ab",
+          "status": "available",
+          "url": "https://api.openalex.org/works/https://doi.org/10.1038/s41467-026-77882-6",
+          "captured_at": "2026-10-06T00:54:24.078485+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "1e0efbfdefe625681f9561ab4c183f45a4b9623c292a957bac4f28e462c003c4",
+          "view_sha256": "271fd41b8344f9f397af833018587577f3bc45cd65be80a2d8ef46478fbfd2b5"
+        },
+        {
+          "source_id": "ARAW-8cd92f805d78c41b924d35c6",
+          "status": "available",
+          "url": "https://api.crossref.org/journals/2041-1723/works?filter=from-pub-date%3A2026-09-01%2Cuntil-pub-date%3A2026-09-30%2Ctype%3Ajournal-article&rows=100&cursor=MTc4OTU2NDUzNzAwMCwxMC4xMDM4JTJGczQxNDY3LTAyNi03NzYyMi13&select=DOI%2CURL%2Ctitle%2Ccontainer-title%2Cauthor%2Cpublished-print%2Cpublished-online%2Cpublished%2Cissued%2Cvolume%2Cissue%2Cpage%2Carticle-number%2Ctype%2Cabstract%2Cupdate-to",
+          "captured_at": "2026-10-05T15:57:51.632672+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "8cd92f805d78c41b924d35c6117195f9c49c607f411095f4233c71c0bae549c8",
+          "view_sha256": "c553c5b8b2b29ee37f238db191b824b6806018b9e46fa38ba7d83256d11dbc01"
+        }
+      ]
+    },
+    {
+      "sample_id": "P16",
+      "case_id": "A-CAN-f14e4d965c26847b11e75657",
+      "axis": "author",
+      "title": "Accelign: a GPU-based library for accelerating pairwise sequence alignment",
+      "fields": [
+        "membership"
+      ],
+      "inclusion_probability": 0.06134969325153374,
+      "selection_rank_hash": "01d884619d9119f3d7b14221e66c5fc236e9f10dee94430d59c87b11f771cb73",
+      "materials_provided": [
+        {
+          "source_id": "TEXT-PRI-045",
+          "status": "available",
+          "url": "https://link.springer.com/article/10.1186/s12859-026-06521-0",
+          "captured_at": "2026-10-06T20:54:14.578461+00:00",
+          "kind": "text",
+          "group": "document",
+          "sha256": "dc0d519d5099158a82bb7e08f02ffea0823bbfec35606e66502baef5dca6d665",
+          "view_sha256": "96edbab531bee8a605c6d3eed64eff17cfca3222d69d70298d0307787488b3e0"
+        },
+        {
+          "source_id": "PRIM-PRI-045",
+          "status": "available",
+          "url": "https://link.springer.com/article/10.1186/s12859-026-06521-0",
+          "captured_at": "2026-10-06T20:54:14.578461+00:00",
+          "kind": "html",
+          "group": "document",
+          "sha256": "6cecdf11e68a591a9c90c17827063c584771bed70b453f309da16315a4a50d8b",
+          "view_sha256": "2e82de44f8ab8ddf0162a6046799668ee079effe2b344c16a8ba598f8bae81ad"
+        },
+        {
+          "source_id": "EXACT-9c28861ff4fdd073d6cf33ad",
+          "status": "available",
+          "url": "https://api.crossref.org/works?query.bibliographic=Accelign%3A%20a%20GPU-based%20library%20for%20accelerating%20pairwise%20sequence%20alignment&rows=5",
+          "captured_at": "2026-10-06T20:27:18.571806+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "2092c6241483f8378cd0a164677852e8fa64b79b4d7df70415803f2f23ba5361",
+          "view_sha256": "686d30ed9bef71cb65bb7444aedb0519868b7586a7d73199faf67957b6bd76ce"
+        },
+        {
+          "source_id": "NIDENT-ac4ccf835e66e4f511ed7fc1",
+          "status": "available",
+          "url": "https://steineggerlab.com/en/authors/admin/",
+          "captured_at": "2026-10-01T07:25:40.016644+00:00",
+          "kind": "html",
+          "group": "identity",
+          "sha256": "ac4ccf835e66e4f511ed7fc13004a0a417f3cfba557d2008734121b02ab51882",
+          "view_sha256": "cf2ee24659b89249e4fbaf22ff8c5621c257dc271700e5bb1f06edfbd4923a87"
+        },
+        {
+          "source_id": "NLIST-d24705e49ff18195e5ebcc9d",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=_D9XIZUAAAAJ&hl=en&cstart=100&pagesize=100",
+          "captured_at": "Original capture time recorded in source lineage",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "d24705e49ff18195e5ebcc9d2d241c5f0aa78d1f040a6dda69d2d945d62c935c",
+          "view_sha256": "d29f177a8af6a13f095a512b19cc1d7cde3d0a3ed1d5d23b38045792f403caa2"
+        }
+      ]
+    },
+    {
+      "sample_id": "P17",
+      "case_id": "A-CAN-3de81571bfc0a879ef03dc86",
+      "axis": "journal",
+      "title": "CNIH₄ regulates systemic metabolism and exercise adaptations in male mice primarily through the modulation of β-adrenergic receptor trafficking",
+      "fields": [
+        "membership",
+        "date",
+        "research_eligibility"
+      ],
+      "inclusion_probability": 0.06896551724137931,
+      "selection_rank_hash": "05dd580a14c7cb7336ee0e7af3d1e5ace767931d82500350e7a0340c743f5057",
+      "materials_provided": [
+        {
+          "source_id": "ARAW-ce762be60c9aac337b7b5619",
+          "status": "available",
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A%2F%2Fopenalex.org%2FS64187185%2Cfrom_publication_date%3A2026-09-01%2Cto_publication_date%3A2026-09-30&per-page=100&cursor=IlsxNzg4OTk4NDAwMDAwLCAnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c3MjEyMTgyNDgwJ10i&sort=publication_date%3Adesc",
+          "captured_at": "2026-10-05T15:58:18.550829+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "ce762be60c9aac337b7b56193b4fa24df328ed3b038940d062ae8c5ccd2f50b7",
+          "view_sha256": "fd096e6d734997e23aa9c65b6ff46b615c9b8ceb3137b57462b80266a3991ec7"
+        },
+        {
+          "source_id": "AREPAIR-7f513e82fd78f849c0f69111",
+          "status": "available",
+          "url": "https://api.openalex.org/works/https://doi.org/10.1038/s41467-026-77408-0",
+          "captured_at": "2026-10-06T00:51:26.764654+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "7f513e82fd78f849c0f69111403857d865d8bf4f51285c09be9961ec97992a9a",
+          "view_sha256": "7f9623c5b5ac382c587866a72da87b5eb3e1986a61959fa301fcdccb4346fe6b"
+        },
+        {
+          "source_id": "ARAW-3598631a25ace7ad6f24f889",
+          "status": "available",
+          "url": "https://api.crossref.org/journals/2041-1723/works?filter=from-pub-date%3A2026-09-01%2Cuntil-pub-date%3A2026-09-30%2Ctype%3Ajournal-article&rows=100&cursor=MTc4ODYxOTQ5OTAwMCwxMC4xMDM4JTJGczQxNDY3LTAyNi03NzUxNy13&select=DOI%2CURL%2Ctitle%2Ccontainer-title%2Cauthor%2Cpublished-print%2Cpublished-online%2Cpublished%2Cissued%2Cvolume%2Cissue%2Cpage%2Carticle-number%2Ctype%2Cabstract%2Cupdate-to",
+          "captured_at": "2026-10-05T15:57:44.911784+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "3598631a25ace7ad6f24f889c46950c22193fb2c09ffa67b373c180d5d31b991",
+          "view_sha256": "027524453cfdb1b2c2fb53ffb7cfc6cb9ac836a0e65eafe942c53ec46b80168c"
+        }
+      ]
+    },
+    {
+      "sample_id": "P18",
+      "case_id": "A-CAN-71805b96830a778a9c3d99e3",
+      "axis": "journal",
+      "title": "Multichannel, biomimetic scaffolds improve functional connectivity following traumatic long-gap peripheral nerve injury",
+      "fields": [
+        "membership",
+        "date",
+        "research_eligibility"
+      ],
+      "inclusion_probability": 0.06896551724137931,
+      "selection_rank_hash": "0034de309fbacc59d5316642a101be38cc0c13e9f8a8182c145a85360d2cd6f2",
+      "materials_provided": [
+        {
+          "source_id": "ARAW-109c97a60e93aab2273d286f",
+          "status": "available",
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A%2F%2Fopenalex.org%2FS64187185%2Cfrom_publication_date%3A2026-09-01%2Cto_publication_date%3A2026-09-30&per-page=100&cursor=IlsxNzkwMTIxNjAwMDAwLCAnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c3MjA0MDI5ODk1J10i&sort=publication_date%3Adesc",
+          "captured_at": "2026-10-05T15:58:08.371486+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "109c97a60e93aab2273d286f9f53b9a5c798f1dfda1792b63915bf5b63341acd",
+          "view_sha256": "68223b4a9d586ba4fbf0be7ce4fb8511eecbe149c23a8d3da1d874523e5e9b63"
+        },
+        {
+          "source_id": "AREPAIR-7e2a29c56fd09f63ff100a57",
+          "status": "available",
+          "url": "https://api.openalex.org/works/https://doi.org/10.1038/s41467-026-77537-6",
+          "captured_at": "2026-10-06T00:53:46.750756+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "7e2a29c56fd09f63ff100a571c449cd6a93ebf662c650b19703fce58c92ea547",
+          "view_sha256": "dbe4dcde275171e7bb2ff2967dcc8130be54ead8ed52a40ae7f7b52d73d04fdd"
+        },
+        {
+          "source_id": "ARAW-83871ec1e0ee07120a9a163a",
+          "status": "available",
+          "url": "https://api.crossref.org/journals/2041-1723/works?filter=from-pub-date%3A2026-09-01%2Cuntil-pub-date%3A2026-09-30%2Ctype%3Ajournal-article&rows=100&cursor=MTc4OTgzMzg2NTAwMCwxMC4xMDM4JTJGczQxNDY3LTAyNi03Nzc5OC0x&select=DOI%2CURL%2Ctitle%2Ccontainer-title%2Cauthor%2Cpublished-print%2Cpublished-online%2Cpublished%2Cissued%2Cvolume%2Cissue%2Cpage%2Carticle-number%2Ctype%2Cabstract%2Cupdate-to",
+          "captured_at": "2026-10-05T15:57:54.644477+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "83871ec1e0ee07120a9a163a3e70adc28536b005c3315ca2f42f80ae9202228b",
+          "view_sha256": "b0e5f9a7b434ab59797dfc62bcb80b2a32c9448f3c540118b1dcd1973fee090b"
+        }
+      ]
+    },
+    {
+      "sample_id": "P19",
+      "case_id": "A-CAN-a8815c146e53bcb55a58c1bc",
+      "axis": "journal",
+      "title": "Giant Ferroelectric Domain Wall Conductance in MoS₂/PbTiO₃ Heterostructure for High-Density Memory",
+      "fields": [
+        "membership",
+        "date",
+        "research_eligibility"
+      ],
+      "inclusion_probability": 0.06896551724137931,
+      "selection_rank_hash": "067aa1fb58dd9e9cd4b01e1963675f002605915e01f9eaafa752ab1b49a4cc16",
+      "materials_provided": [
+        {
+          "source_id": "ARAW-42c18a96f2fc3e8c71fc33c2",
+          "status": "available",
+          "url": "https://pubs.acs.org/nalefd/article/26/38/12876/5431809/Giant-Ferroelectric-Domain-Wall-Conductance-in",
+          "captured_at": "2026-10-05T16:41:07.879728+00:00",
+          "kind": "html",
+          "group": "document",
+          "sha256": "42c18a96f2fc3e8c71fc33c26b391b89f8d104e6952c8a41d1ad94626c5bc272",
+          "view_sha256": "5380788a3ff3f31166c790204f70d07d1780b3535dfd3927e94bb68484897242"
+        },
+        {
+          "source_id": "AVPN-ea1d98a62ad33997b1a67fda",
+          "status": "available",
+          "url": "https://api.openalex.org/works/https://doi.org/10.1021/acs.nanolett.6c02965",
+          "captured_at": "2026-10-06T02:45:30.629934+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "ea1d98a62ad33997b1a67fdac101eec0da9f29e58fdd2f62b3245b771ccf2332",
+          "view_sha256": "6e68f3b26337bce1cc7db2e0772fbeda06e832e2c579b8bc36450e5e6671c1c4"
+        },
+        {
+          "source_id": "ARAW-e97a19467c19a6a915ef5e60",
+          "status": "available",
+          "url": "https://api.crossref.org/journals/1530-6984/works?filter=from-pub-date%3A2026-09-01%2Cuntil-pub-date%3A2026-09-30%2Ctype%3Ajournal-article&rows=100&cursor=MTc4OTYyNDkyMjAwMCwxMC4xMDIxJTJGYWNzLm5hbm9sZXR0LjZjMDE4NjI%3D&select=DOI%2CURL%2Ctitle%2Ccontainer-title%2Cauthor%2Cpublished-print%2Cpublished-online%2Cpublished%2Cissued%2Cvolume%2Cissue%2Cpage%2Carticle-number%2Ctype%2Cabstract%2Cupdate-to",
+          "captured_at": "2026-10-05T16:37:23.850612+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "e97a19467c19a6a915ef5e6036213ed6344a187d1b3e5a8e2dcca01349a26b47",
+          "view_sha256": "a7c52bbcfb2a1c2cb5ed31876e73629c99584e80c937be1948e1322f4782e036"
+        }
+      ]
+    },
+    {
+      "sample_id": "P20",
+      "case_id": "A-CAN-65204f5424991b9ae5ec4302",
+      "axis": "author",
+      "title": "In Situ Light-Induced Degradation of Hybrid Perovskites by NMR Spectroscopy",
+      "fields": [
+        "membership"
+      ],
+      "inclusion_probability": 0.06134969325153374,
+      "selection_rank_hash": "0a6ed5ab763edda32d37d777f87075ab067dc6c2dc7c25c4439120d5a66555f7",
+      "materials_provided": [
+        {
+          "source_id": "AFUP-b1784607f7e495d5d524afce",
+          "status": "available",
+          "url": "",
+          "captured_at": "2026-10-06T07:39:16.630031+00:00",
+          "kind": "text",
+          "group": "document",
+          "sha256": "b1784607f7e495d5d524afce6ecd82042c2bf164c1d842dc4d1b24087d8f582b",
+          "view_sha256": "ed0b431481a5b822a9489d501a573235b454c0ead58a85a1b0e793fb8a05ea42"
+        },
+        {
+          "source_id": "AFUP-29e2d6c249c04bed06480af5",
+          "status": "available",
+          "url": "",
+          "captured_at": "2026-10-06T07:39:16.630031+00:00",
+          "kind": "text",
+          "group": "document",
+          "sha256": "29e2d6c249c04bed06480af5cd447fb92774147029c3ee93b54264a7ba113c07",
+          "view_sha256": "d6241561471611c8988e46c598b7ceee5c046694305a5b3ed6a24da43cef42a0"
+        },
+        {
+          "source_id": "AREPAIR-14d29ad56e074de99fe22a90",
+          "status": "available",
+          "url": "https://api.openalex.org/works?search=In%20Situ%20Light-Induced%20Degradation%20of%20Hybrid%20Perovskites%20by%20NMR%20Spectroscopy&per-page=5",
+          "captured_at": "2026-10-06T00:53:16.590111+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "14d29ad56e074de99fe22a900dc9d95489810c120b7db8fa42aeb3bb1efa22ce",
+          "view_sha256": "be4b9298f8beea2bc14019346a0b174726298c92076bd64e48d6be9aa7623023"
+        },
+        {
+          "source_id": "AREPAIR-243a7c86c0909dad277dd1eb",
+          "status": "available",
+          "url": "https://api.crossref.org/works?query.bibliographic=In%20Situ%20Light-Induced%20Degradation%20of%20Hybrid%20Perovskites%20by%20NMR%20Spectroscopy&rows=5",
+          "captured_at": "2026-10-06T00:51:40.879694+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "243a7c86c0909dad277dd1eb1b9aaeab9645eeb0e810534f5041737991013276",
+          "view_sha256": "85071348ba2b2d878402ebf241dd9fc6d7d4b274c8acc593033770bc11d3ac2c"
+        },
+        {
+          "source_id": "AFUP-1ef241dafd5ac4d4fba0f811",
+          "status": "available",
+          "url": "https://pubs.acs.org/doi/10.1021/jacs.6c04176",
+          "captured_at": "2026-10-06T06:59:17.131999+00:00",
+          "kind": "html",
+          "group": "document",
+          "sha256": "1ef241dafd5ac4d4fba0f811965616540e81c1655381e0f361b8a42607d668ce",
+          "view_sha256": "c806ddb7bb3e2042b70ec626310bfd0c63549d9de45ff58e9ea930e7d9cc8cea"
+        },
+        {
+          "source_id": "AID-10ea074e5bd73885fafc9e9a",
+          "status": "available",
+          "url": "https://athenauni.eu/professor-michael-graetzel-in-athena-sci-cafe/",
+          "captured_at": "2026-10-01T07:20:13.086034+00:00",
+          "kind": "html",
+          "group": "identity",
+          "sha256": "10ea074e5bd73885fafc9e9a6ed38e1ff295de8a6fadf5440c713cd9ecfd190c",
+          "view_sha256": "133b55014a0ca30f038f3a3a5f12dd1f5acf5bcb38bdde08f9e169a8814a29ea"
+        },
+        {
+          "source_id": "ARAW-462a0fe97a41c6ad692ee8b9",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=600&pagesize=100",
+          "captured_at": "2026-10-05T17:12:47.677288+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "462a0fe97a41c6ad692ee8b9a909a9ed586b8410a1665cb2e30ef8863bf43e2c",
+          "view_sha256": "aff0e9658fc8fdd3e78fbbfb1367181c4a6eac29d52114eac5b7c759aa37488c"
+        },
+        {
+          "source_id": "ARAW-c091459e22501ecb325122f4",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=700&pagesize=100",
+          "captured_at": "2026-10-05T17:13:10.931034+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "c091459e22501ecb325122f49f5f09d9026d2cf4e98dc982d86bc051e28cdace",
+          "view_sha256": "bbfe7193e7c330f2d9a4f45e3cefb21eb9556b03cdb0e0a631a3a23c45d84c3d"
+        },
+        {
+          "source_id": "ARAW-e9045eba4485ff844984feee",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=200&pagesize=100",
+          "captured_at": "2026-10-05T17:11:05.040971+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "e9045eba4485ff844984feee45568cb0e0e215b5cd0f28acd5a70bfa04f09c2d",
+          "view_sha256": "bba76f5adf4efa936f002146473a4f6328f5fef963fec74b42708184f6c637eb"
+        },
+        {
+          "source_id": "ARAW-70433585edd88392e8ba9e8c",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=400&pagesize=100",
+          "captured_at": "2026-10-05T17:11:56.251202+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "70433585edd88392e8ba9e8c60b161a73467d63a5dafc5e8c6ae826ae417eec9",
+          "view_sha256": "af8bc94362894030d6494b9e2c22545381215bbe4e0b4c33583d94ef3d5b139f"
+        },
+        {
+          "source_id": "ARAW-34960440620ef9a0b12cebd1",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=1000&pagesize=100",
+          "captured_at": "2026-10-05T17:14:04.050739+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "34960440620ef9a0b12cebd1bdfe441f68504babed47b44554582eda53f582da",
+          "view_sha256": "4ad702f4b36b15089c388419d51895f3aeae343d025cb0b27e1b042454e52aee"
+        },
+        {
+          "source_id": "ARAW-ae794b715306719cb5d6f225",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=300&pagesize=100",
+          "captured_at": "2026-10-05T17:11:30.758924+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "ae794b715306719cb5d6f225effbfd5a1c9106a366b03e7b984cd1cc2a86fbf3",
+          "view_sha256": "a645ac0b121f2b861855dade7a752778050c82994c2348906cecc4fd40dea94d"
+        },
+        {
+          "source_id": "ARAW-ae6944b07b77f41e5a848ec2",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=800&pagesize=100",
+          "captured_at": "2026-10-05T17:13:26.910116+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "ae6944b07b77f41e5a848ec2e812d2fa8e96d7467b2a6788f0b16cc37831e4b2",
+          "view_sha256": "414d9b97ac5ff5d2a7a70e8a37ed46529ee54ad9401287c7b76d7cf503ea2cb6"
+        },
+        {
+          "source_id": "ARAW-61641cb33bf3f2df88248861",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=900&pagesize=100",
+          "captured_at": "2026-10-05T17:13:43.679396+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "61641cb33bf3f2df8824886186d3d7d2052933d9393c16240886a462ce53d58b",
+          "view_sha256": "e67cfcb6612877a7a2492d17ff5de8d57ced9ef8b976e6b5b3e17fb930e6ee31"
+        },
+        {
+          "source_id": "ARAW-71a722dbf550fcd2264f1fbf",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=500&pagesize=100",
+          "captured_at": "2026-10-05T17:12:21.512850+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "71a722dbf550fcd2264f1fbf096c06c524b8c99f1d55e762b5f85ef2eeb8f2c6",
+          "view_sha256": "9a48163eee5fe7e88a17c9d2717cf8139ad0b3bc289b5fb9669c8223ba7ff1e9"
+        },
+        {
+          "source_id": "ARAW-77911c696787f3856339f313",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=100&pagesize=100",
+          "captured_at": "2026-10-05T17:10:42.095475+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "77911c696787f3856339f313d6409f39f326a37d6c00a2e0fedd7bfb80747773",
+          "view_sha256": "02cd98aaa78aa6aa02e5117266a1d1cd10f25642165bc3d31820c1f0b5a91a80"
+        },
+        {
+          "source_id": "ARAW-8cfa57f54ce664f57095d5cd",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=1300&pagesize=100",
+          "captured_at": "2026-10-05T17:15:11.545650+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "8cfa57f54ce664f57095d5cdcb30d65e91aefcdeb15b99f3da302389e3565252",
+          "view_sha256": "3afcd56c1e17b1dd8e8649ccb66a72a7683681129632da9d34130db862e30540"
+        },
+        {
+          "source_id": "ARAW-02477cd9ddc66137727ecb4c",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=1100&pagesize=100",
+          "captured_at": "2026-10-05T17:14:27.316959+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "02477cd9ddc66137727ecb4cdd012a07605fa8d7978a8572fc019e58f160fab1",
+          "view_sha256": "64d563d7caac4ae3be447a576bcc843a32b07e17134e4a8b2c9462aef6727b68"
+        },
+        {
+          "source_id": "ARAW-7e6d57251fd6034b101da55d",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=1400&pagesize=100",
+          "captured_at": "2026-10-05T17:15:38.574780+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "7e6d57251fd6034b101da55dc822e03b26e71af6efa3ffec3bf39f94f549a451",
+          "view_sha256": "5ee42606d3a4544c183dc7e0a58cce3958b428c6cf26038989388ccaee4416a8"
+        },
+        {
+          "source_id": "ARAW-5bd3dcf7171a64cac7cd455d",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=1200&pagesize=100",
+          "captured_at": "2026-10-05T17:14:49.209135+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "5bd3dcf7171a64cac7cd455db353129f3238642a7cee6424609d2b26de1cf173",
+          "view_sha256": "744dc1239f7f9af9f588211b85879eae30d50277460bbbe4b685d49e5b36d5d1"
+        },
+        {
+          "source_id": "ARAW-1750acbf78d448a45049a278",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=0&pagesize=100",
+          "captured_at": "2026-10-05T17:10:19.701411+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "1750acbf78d448a45049a278cb29ff76ed8e1c30639b3e2acfe185c4d32d9e86",
+          "view_sha256": "e08e426db219e97af8f52d1b45ea3083ec3cce8902de491b73336de57a362ced"
+        },
+        {
+          "source_id": "ARAW-ee9da69435fbfdbf0ec7f272",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=2100&pagesize=100",
+          "captured_at": "2026-10-05T17:18:11.127032+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "ee9da69435fbfdbf0ec7f272008f3d7412994ebd13bcc303b9d0d2b57d6c05d7",
+          "view_sha256": "aa3c062286ca058d56149be8550fae7d232463af03887bb9a32a33a293a4a50d"
+        },
+        {
+          "source_id": "ARAW-2df1f3d67ce4aa545dd12905",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=1500&pagesize=100",
+          "captured_at": "2026-10-05T17:15:54.744827+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "2df1f3d67ce4aa545dd12905ed5742dce40d910dfe0b8ced5a1ee70b3b7b4937",
+          "view_sha256": "169f60bb228dbe65c85adccd1f80c06137866733fd41f140ec5133b267e0ffbb"
+        },
+        {
+          "source_id": "ARAW-e11876356fb16ccd79176b14",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=2000&pagesize=100",
+          "captured_at": "2026-10-05T17:17:48.400644+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "e11876356fb16ccd79176b14963b44abc93bb81035884745bb7d428fd954f7ce",
+          "view_sha256": "635a52133110eb0e8885f0a788fe51208f9a7fb376c94a0c210575ad7c9220e6"
+        },
+        {
+          "source_id": "ARAW-44a4851c2cad4f92e962ed55",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=1600&pagesize=100",
+          "captured_at": "2026-10-05T17:16:19.932547+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "44a4851c2cad4f92e962ed552dcf94fbfff06616fff0a0722e2c0acf7ebeced4",
+          "view_sha256": "8d272fc6b21f40aa16ec86a595ba79ba2e8c500a494e5e96ebe65bac42c59817"
+        },
+        {
+          "source_id": "ARAW-dbf44d8ec9cbb0ee12a9ae08",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=1900&pagesize=100",
+          "captured_at": "2026-10-05T17:17:27.040921+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "dbf44d8ec9cbb0ee12a9ae0874a3784a8c429fb4d64860c70c8948e5fecd454d",
+          "view_sha256": "eac6a43ee5cc5c56bb3e42d6e33739238c0ee2d73b4faf62c5a6e766ae10778a"
+        },
+        {
+          "source_id": "ARAW-f50c9384aa1e3bf0ec02813c",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=1800&pagesize=100",
+          "captured_at": "2026-10-05T17:17:01.054499+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "f50c9384aa1e3bf0ec02813c92721aae8398eca7ed973217a51a67163947e3c2",
+          "view_sha256": "9b07fe6cbdd29b9c1653f54e2260958302aa03dac91cc5171556a26651985c23"
+        },
+        {
+          "source_id": "ARAW-60e1159d974fbafc72a4391c",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=2200&pagesize=100",
+          "captured_at": "2026-10-05T17:18:31.768356+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "60e1159d974fbafc72a4391c2102ee647ff7aa3e06ba587b0a543f65571920e6",
+          "view_sha256": "7010f3c3b90ac0ea28f32b2dcc9c8e99859b1c207a413d77a4a14c6ab8fc7541"
+        },
+        {
+          "source_id": "ARAW-125fda63dfaf9b106a59fcf5",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=2300&pagesize=100",
+          "captured_at": "2026-10-05T17:18:48.228362+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "125fda63dfaf9b106a59fcf56f34fc8ef102a8fb5f57c81f64156da8ef81fc3b",
+          "view_sha256": "46ef7c0229b00df8a8d78dcfdae6cfd588ea831a6ee7734f204e35a95c64e9dc"
+        },
+        {
+          "source_id": "ARAW-31f7023ae8caac26c20a3f18",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=1700&pagesize=100",
+          "captured_at": "2026-10-05T17:16:42.850060+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "31f7023ae8caac26c20a3f1809dfc2d3e99ba62691101365cd3a8f726dd61d42",
+          "view_sha256": "9ef7ef4c67fe2dc632e3024272109382a168cc5589fedad54e42e8a060e135bf"
+        },
+        {
+          "source_id": "ARAW-fbe8a5b2849b272baa1776e9",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=2400&pagesize=100",
+          "captured_at": "2026-10-05T17:19:08.856343+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "fbe8a5b2849b272baa1776e927a179cb98cc9f86e18b4db55c87ce0dc84b8b6c",
+          "view_sha256": "51e8fed4ab2599eef86c12801d68b3249d833701fb3cf5b79b05e7e455a718fd"
+        },
+        {
+          "source_id": "ARAW-36b8c5e242088bd3f3f79ab8",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=2500&pagesize=100",
+          "captured_at": "2026-10-05T17:19:33.910887+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "36b8c5e242088bd3f3f79ab8b56407a6034dd9b56a15c2931e510b44de3aca17",
+          "view_sha256": "1ba59491a7a55893101d9e9252ec9ba13c1404940775e9da76a96afb89bbc9de"
+        },
+        {
+          "source_id": "ARAW-1256f26cd4a096b6b517aacc",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=B0h47WAAAAAJ&hl=en&cstart=2600&pagesize=100",
+          "captured_at": "2026-10-05T17:19:54.384412+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "1256f26cd4a096b6b517aacc75a72b200d976fff5de103d0101a37234e2bae07",
+          "view_sha256": "796db2d35e84cc948ef9418f7558a08dd98c53077b2e558d194706935ed61707"
+        }
+      ]
+    },
+    {
+      "sample_id": "P21",
+      "case_id": "A-CAN-8f2f88e37c3343dbf21844e2",
+      "axis": "subject",
+      "title": "Realizing ≥99.9% Li Plating/Stripping Coulombic Efficiency in a Solid-State Li Metal Battery via Constant Interfacial Contact-Targeted Zero-Volume-Change Host Design.",
+      "fields": [
+        "membership",
+        "broad_membership"
+      ],
+      "inclusion_probability": 0.10101010101010101,
+      "selection_rank_hash": "079311298ef70227bb00e69d2a8348b45c553c525602926be54fa1ab8051a8cb",
+      "materials_provided": [
+        {
+          "source_id": "ARAW-66c9dfa436fb15226380be10",
+          "status": "available",
+          "url": "https://api.openalex.org/works/https://doi.org/10.1021/acsnano.5c18814",
+          "captured_at": "2026-10-05T17:39:48.037391+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "66c9dfa436fb15226380be106dfde357aec374728b96c36a85630f910753ab90",
+          "view_sha256": "eb746ddfad7427187a7605ee799f84a0c4681eb2aab90035b4a9813fb011d9d3"
+        },
+        {
+          "source_id": "AREPAIR-3e7cf7deddc94d27f5508dc2",
+          "status": "available",
+          "url": "https://api.crossref.org/works/10.1021%2Facsnano.5c18814",
+          "captured_at": "2026-10-06T00:52:38.612458+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "3e7cf7deddc94d27f5508dc23a8d5e7d8f9754a2089fc18cc079c8de07d657fc",
+          "view_sha256": "11d6a50bc77680c2ae4891bb49a48f42950ea4ebdeed56ce2e720adc4861dbc0"
+        }
+      ]
+    },
+    {
+      "sample_id": "P22",
+      "case_id": "A-CAN-ad2889449a3b5f7532de6a70",
+      "axis": "subject",
+      "title": "Unveiling Mechanisms of SEI Formation and Sodium Loss in Sodium Batteries via Interface Reactor Sampling",
+      "fields": [
+        "membership",
+        "broad_membership"
+      ],
+      "inclusion_probability": 0.10101010101010101,
+      "selection_rank_hash": "081eecbff55e66f1baa74bc18bac4f81b0822d005921fc6756ba43d7f963ed7c",
+      "materials_provided": [
+        {
+          "source_id": "ARAW-6e29cd502168d68f084e91a3",
+          "status": "available",
+          "url": "https://api.openalex.org/works?search=solid-state+battery+interface&filter=from_publication_date%3A2026-07-01%2Cto_publication_date%3A2026-07-31&per-page=50&cursor=%2A&sort=publication_date%3Adesc",
+          "captured_at": "2026-10-05T16:53:35.791146+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "6e29cd502168d68f084e91a3b9103f2c38ef9f8cfdbec20d21b80a9999b8563c",
+          "view_sha256": "78765c7e7d628c675fbd7f8b2aeedc5e3bb53b19e80f7560d69599f2c508c52b"
+        },
+        {
+          "source_id": "AVPN-5f3186f3d0a76d5e00ce10d5",
+          "status": "available",
+          "url": "https://api.openalex.org/works/https://doi.org/10.1002/advs.76808",
+          "captured_at": "2026-10-06T02:45:30.644031+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "5f3186f3d0a76d5e00ce10d5a6fbfc1bc27b5a4284da06699e3f55c026aed412",
+          "view_sha256": "35e96db86316da47c3024756adaea465c434c4a3b9f3bc75de8ea07952059bfc"
+        },
+        {
+          "source_id": "AREPAIR-eeaed8bf6bb561dcbd996898",
+          "status": "available",
+          "url": "https://api.crossref.org/works/10.1002%2Fadvs.76808",
+          "captured_at": "2026-10-06T00:53:21.930374+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "eeaed8bf6bb561dcbd996898f91697393239472dc04e71274abcf1de55dd4c2b",
+          "view_sha256": "8d5e28b8f0ac52304ad363ff7ee1469d3441bf65a68c0ca98ab514fa0a8198ef"
+        }
+      ]
+    },
+    {
+      "sample_id": "P23",
+      "case_id": "A-CAN-ba579a532295f18be61e798e",
+      "axis": "journal",
+      "title": "Helicobacter pylori triggers gastric mucosal remodeling toward a fetal-like transcriptional program via stromal IL-1β signaling",
+      "fields": [
+        "membership",
+        "date",
+        "research_eligibility"
+      ],
+      "inclusion_probability": 0.06896551724137931,
+      "selection_rank_hash": "04530ab9fb64088d5447c22753a94c957ecdde2633c54973624c460794ba8202",
+      "materials_provided": [
+        {
+          "source_id": "ARAW-2cea01d65931d1a159e20c13",
+          "status": "available",
+          "url": "https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A%2F%2Fopenalex.org%2FS64187185%2Cfrom_publication_date%3A2026-09-01%2Cto_publication_date%3A2026-09-30&per-page=100&cursor=IlsxNzg4NzM5MjAwMDAwLCAnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c3MjExOTAzNzkwJ10i&sort=publication_date%3Adesc",
+          "captured_at": "2026-10-05T15:58:20.975007+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "2cea01d65931d1a159e20c137b4b64605c9d71a2e6cb5a73422f867911412684",
+          "view_sha256": "3eff6fbd30dbb2ae5e0f878179b7a2860668b82a097fc78a40038b67e6dddd7f"
+        },
+        {
+          "source_id": "AVPN-4ee26f5c20929f3e9068b1f8",
+          "status": "available",
+          "url": "https://api.openalex.org/works/https://doi.org/10.1038/s41467-026-77520-1",
+          "captured_at": "2026-10-06T02:45:30.699827+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "4ee26f5c20929f3e9068b1f87c24567ee4320fab203fa585c324dc0bb45fc9ab",
+          "view_sha256": "9704f92bf9666dcd512f51351173884fe4105024771407fd8e0a429e64c60369"
+        },
+        {
+          "source_id": "ARAW-3598631a25ace7ad6f24f889",
+          "status": "available",
+          "url": "https://api.crossref.org/journals/2041-1723/works?filter=from-pub-date%3A2026-09-01%2Cuntil-pub-date%3A2026-09-30%2Ctype%3Ajournal-article&rows=100&cursor=MTc4ODYxOTQ5OTAwMCwxMC4xMDM4JTJGczQxNDY3LTAyNi03NzUxNy13&select=DOI%2CURL%2Ctitle%2Ccontainer-title%2Cauthor%2Cpublished-print%2Cpublished-online%2Cpublished%2Cissued%2Cvolume%2Cissue%2Cpage%2Carticle-number%2Ctype%2Cabstract%2Cupdate-to",
+          "captured_at": "2026-10-05T15:57:44.911784+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "3598631a25ace7ad6f24f889c46950c22193fb2c09ffa67b373c180d5d31b991",
+          "view_sha256": "d4c6fb39b550df0487d658b1d226095a359c5accb18af2e4278b01233a780b61"
+        }
+      ]
+    },
+    {
+      "sample_id": "P24",
+      "case_id": "A-CAN-7b72931cbf3dea546f81cda9",
+      "axis": "author",
+      "title": "Light Absorption and Recycling in Hybrid Metal Halide Perovskite Photovoltaic Devices Jay B. Patel, Adam D. Wright, Kilian B. Lohmann, Kun Peng, Chelsea Q. Xia, James M. Ball …",
+      "fields": [
+        "membership"
+      ],
+      "inclusion_probability": 0.06134969325153374,
+      "selection_rank_hash": "0732213d49a65b7d2923dcd5183ccb413b2114c9bde237b0a08af4278bb33ae7",
+      "materials_provided": [
+        {
+          "source_id": "AVPN-d6df42e0fc6667414b136932",
+          "status": "available",
+          "url": "https://www-thz.physics.ox.ac.uk/papers/Patel2020_4506.pdf?TB_iframe=true&height=250&keepThis=true&width=720",
+          "captured_at": "2026-10-06T03:00:24.066109+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "d6df42e0fc6667414b136932dbfd175b2875f6f73200252e84a69e8c1275435c",
+          "view_sha256": "348bdd100a34fe762b43c43fe20e6d53243e1744a9f8f0a47cc30bb43443f583"
+        },
+        {
+          "source_id": "AVPN-e39fc2e2a9371cfe5c6399da",
+          "status": "available",
+          "url": "https://www-thz.physics.ox.ac.uk/papers/Patel2020_4506.pdf?TB_iframe=true&height=250&keepThis=true&width=720",
+          "captured_at": "2026-10-06T03:00:24.064093+00:00",
+          "kind": "pdf",
+          "group": "document",
+          "sha256": "e39fc2e2a9371cfe5c6399da8b3bd4abe3be20ecd28f53ffbba4b5c289705e59",
+          "view_sha256": "a0ac28bc82053afcd23b8c42e021825ac88149a904b2086b23ceb3d857b9794e"
+        },
+        {
+          "source_id": "AREPAIR-587640517e68a46ed40475a9",
+          "status": "available",
+          "url": "https://api.crossref.org/works?query.bibliographic=Light%20Absorption%20and%20Recycling%20in%20Hybrid%20Metal%20Halide%20Perovskite%20Photovoltaic%20Devices%20Jay%20B.%20Patel%2C%20Adam%20D.%20Wright%2C%20Kilian%20B.%20Lohmann%2C%20Kun%20Peng%2C%20Chelsea%20Q.%20Xia%2C%20James%20M.%20Ball%20%E2%80%A6&rows=5",
+          "captured_at": "2026-10-06T00:52:12.441612+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "587640517e68a46ed40475a9f4c78ed59cedb5b2c44c155e752c7c500cca9234",
+          "view_sha256": "e291beca8ca50bf37122368a0bbeceacafce0337d91530b043c560053e80d315"
+        },
+        {
+          "source_id": "AREPAIR-af0e62c7a200608028466695",
+          "status": "available",
+          "url": "https://api.openalex.org/works?search=Light%20Absorption%20and%20Recycling%20in%20Hybrid%20Metal%20Halide%20Perovskite%20Photovoltaic%20Devices%20Jay%20B.%20Patel%2C%20Adam%20D.%20Wright%2C%20Kilian%20B.%20Lohmann%2C%20Kun%20Peng%2C%20Chelsea%20Q.%20Xia%2C%20James%20M.%20Ball%20%E2%80%A6&per-page=5",
+          "captured_at": "2026-10-06T00:53:59.772663+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "af0e62c7a200608028466695730f07408ba645ab6994ef8f0b14de4610c5b5cf",
+          "view_sha256": "200834508938934e147c578480790ceee697eba103cf4b83b21cd45485806035"
+        },
+        {
+          "source_id": "AID-d649d38a519fa022bd08151c",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=I2D3pUMAAAAJ&hl=en",
+          "captured_at": "2026-10-01T14:45:32.463257+00:00",
+          "kind": "html",
+          "group": "identity",
+          "sha256": "d649d38a519fa022bd08151c3cee05bf32bd8b71e4afe32d02b547855673a9d3",
+          "view_sha256": "576a2233d01623f00f26772c44a18f89f3b4e78db4b9345ba955b3021e08f5cf"
+        },
+        {
+          "source_id": "AID-f25d338563e12337484c0005",
+          "status": "available",
+          "url": "https://www.physics.ox.ac.uk/our-people/snaith",
+          "captured_at": "",
+          "kind": "html",
+          "group": "identity",
+          "sha256": "f25d338563e12337484c00050ed31485a7181d1c7d5d3c6f3dfa9ea760f69857",
+          "view_sha256": "0071a99d142f82c2bf2716405754f3b8f1cb6be8ac00c88e6f2df178e031bd5c"
+        },
+        {
+          "source_id": "ARAW-eb07715c20350271f421978e",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=I2D3pUMAAAAJ&hl=en&cstart=200&pagesize=100",
+          "captured_at": "2026-10-05T17:07:59.033072+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "eb07715c20350271f421978e093e31f20e9ee0bfd76e00bea7be022a484519f7",
+          "view_sha256": "28a389f72568441987206d35f380ac14e1e4919bc4249f85a4b031196c1e3e40"
+        },
+        {
+          "source_id": "ARAW-e668cabeca5e1e18e3be6465",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=I2D3pUMAAAAJ&hl=en&cstart=300&pagesize=100",
+          "captured_at": "2026-10-05T17:08:19.014477+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "e668cabeca5e1e18e3be6465545624619ea2a8c4ab77ed3b6f05de32ffc5d279",
+          "view_sha256": "86fad610e7ea23e5467825ac08eed9653900ca0dbf200720f58c9788a1a974ed"
+        },
+        {
+          "source_id": "ARAW-46406654d312203b8627895e",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=I2D3pUMAAAAJ&hl=en&cstart=100&pagesize=100",
+          "captured_at": "2026-10-05T17:07:41.325721+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "46406654d312203b8627895e61862fce8ccd827726ae31f0de7538a493697372",
+          "view_sha256": "ed01b5d8c1669b8dabb56bc2523e30b76a4277f85bcbc72bea2f14ef92d6f915"
+        },
+        {
+          "source_id": "ARAW-14a85e2b51f9b8dbd2cdfefb",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=I2D3pUMAAAAJ&hl=en&cstart=400&pagesize=100",
+          "captured_at": "2026-10-05T17:08:42.376241+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "14a85e2b51f9b8dbd2cdfefb85d06f2dbf97e51ee462abd9d88afcb7871e6b3f",
+          "view_sha256": "8ef04cfde87c89fe0ec025607803c8cc39c8a23d18b297a89097fa394e3b10d4"
+        },
+        {
+          "source_id": "ARAW-3b1b196e4aa021414dfa4d9c",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=I2D3pUMAAAAJ&hl=en&cstart=0&pagesize=100",
+          "captured_at": "2026-10-05T17:07:16.533669+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "3b1b196e4aa021414dfa4d9c6106ea7dbc6b2ef5979baabf1c41bdc91ecee397",
+          "view_sha256": "ed296f480a44d1054c6f8bea19b14c3fcb179c394048b9bd4896a605a0f53769"
+        },
+        {
+          "source_id": "ARAW-8bcb858c335d18818330d2e8",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=I2D3pUMAAAAJ&hl=en&cstart=600&pagesize=100",
+          "captured_at": "2026-10-05T17:09:34.111116+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "8bcb858c335d18818330d2e8369245138c22a24caac24e4c90f1868a45957490",
+          "view_sha256": "efaab4a1bb34118badcacc9bf3f239b0bf263d707380668b513a437d898677dd"
+        },
+        {
+          "source_id": "ARAW-baf5f8f87b342e53f705a1e6",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=I2D3pUMAAAAJ&hl=en&cstart=700&pagesize=100",
+          "captured_at": "2026-10-05T17:09:50.283952+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "baf5f8f87b342e53f705a1e6791911d2d3ca6dd91a0942b560a4ea8a09721e2c",
+          "view_sha256": "877e687852f47b9e4f2df41d18624428939d94b1cf80b663005226c6e153cde5"
+        },
+        {
+          "source_id": "ARAW-3710f984d1f3d1359c6fa496",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=I2D3pUMAAAAJ&hl=en&cstart=500&pagesize=100",
+          "captured_at": "2026-10-05T17:09:07.228771+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "3710f984d1f3d1359c6fa4964e256dbaac8d4812c139de22362f06e638d35ed1",
+          "view_sha256": "217db782fd9ca1604af7b7b22073d11d8791a3f8e31ccb9e80a5a34fa2fa6630"
+        },
+        {
+          "source_id": "ARAW-a515bb969aee18c81a98197c",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=I2D3pUMAAAAJ&hl=en&cstart=800&pagesize=100",
+          "captured_at": "2026-10-05T17:10:10.236606+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "a515bb969aee18c81a98197c96e2425220fede94f552d9bc8365727426e92e0f",
+          "view_sha256": "a2fd021eb1cd1feddd510619af017fbc38032cb709d6797081908b1f0e710be1"
+        }
+      ]
+    },
+    {
+      "sample_id": "P25",
+      "case_id": "A-CAN-60bb4c2813beac555310eb29",
+      "axis": "subject",
+      "title": "Comment on egusphere-2025-6405",
+      "fields": [
+        "membership",
+        "broad_membership"
+      ],
+      "inclusion_probability": 0.10101010101010101,
+      "selection_rank_hash": "06b7217e8ddecf15122965eea372124a2e6503b3e336f2333c525590f230698a",
+      "materials_provided": [
+        {
+          "source_id": "AFUP-a89a7a0047cdbcd3c195988f",
+          "status": "available",
+          "url": "https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6405/",
+          "captured_at": "2026-10-06T06:59:17.131999+00:00",
+          "kind": "html",
+          "group": "document",
+          "sha256": "a89a7a0047cdbcd3c195988f30f8a58a6fb72533e9c3bb9a3b96c75fd20be53d",
+          "view_sha256": "ed13dd7c86dc68416c356daffea1483ce2bde2ac6079718dd97014c0e4cad233"
+        },
+        {
+          "source_id": "ARAW-b1e45968a9dc2e001c102ea0",
+          "status": "available",
+          "url": "https://api.openalex.org/works?search=ocean+carbon+cycle&filter=from_publication_date%3A2026-01-01%2Cto_publication_date%3A2026-01-31&per-page=50&cursor=%2A&sort=publication_date%3Adesc",
+          "captured_at": "2026-10-05T16:46:25.193062+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "b1e45968a9dc2e001c102ea080417e26a8071f1c1ead35a697aff3dd426a681a",
+          "view_sha256": "312bb7c9886be80502084f3d8aea74465c969719f77a31e0bd26adf7014e6efa"
+        },
+        {
+          "source_id": "AREPAIR-94c8d18510fd6ce3cdd8b4d5",
+          "status": "available",
+          "url": "https://api.openalex.org/works/https://doi.org/10.5194/egusphere-2025-6405-rc1",
+          "captured_at": "2026-10-06T00:53:00.808491+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "94c8d18510fd6ce3cdd8b4d5c1da16ffb8432b5e7723410df60dd3b5f621026c",
+          "view_sha256": "c510d4a7bb6655dab48b0fcb0d223031d4ec9d15578def08fccbb9f4100597aa"
+        },
+        {
+          "source_id": "AREPAIR-50a162ed936b6e0a227a1ead",
+          "status": "available",
+          "url": "https://api.crossref.org/works/10.5194%2Fegusphere-2025-6405-rc1",
+          "captured_at": "2026-10-06T00:51:32.625875+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "50a162ed936b6e0a227a1ead75db8dd146b61aa39a9abf758003c1317815d39c",
+          "view_sha256": "d7739811c27a53a766c77f7c8f5ea58d7acc898a025f3740a4aec138c10dc0af"
+        },
+        {
+          "source_id": "AFUP-7c65a74e2fac99ebeb0603a4",
+          "status": "available",
+          "url": "https://egusphere.copernicus.org/preprints/2026/egusphere-2025-6405#RC1",
+          "captured_at": "2026-10-06T06:59:17.131999+00:00",
+          "kind": "html",
+          "group": "document",
+          "sha256": "7c65a74e2fac99ebeb0603a4510c46526c30f0702729d3d5dcd7572f6dd57e3d",
+          "view_sha256": "a085a7e9915a6d0dd285449a315d33bf75337d13571ecd85188fd4f37c56bd2c"
+        }
+      ]
+    },
+    {
+      "sample_id": "P26",
+      "case_id": "A-CAN-458ec1f9de0e6f1ca2040544",
+      "axis": "subject",
+      "title": "Electrochemical Properties of Interface-Modified Li-Metal All-Solid-State Batteries: Li/LLZTO/LVO Cell.",
+      "fields": [
+        "membership",
+        "broad_membership"
+      ],
+      "inclusion_probability": 0.10101010101010101,
+      "selection_rank_hash": "189f6439bab235d2fb117a0cc07e3152a687ab14a88e262b58cf2403ad01d0a1",
+      "materials_provided": [
+        {
+          "source_id": "ARAW-8e90b961c1f46f483c34fdeb",
+          "status": "available",
+          "url": "https://api.openalex.org/works/https://doi.org/10.1021/acsami.5c21304",
+          "captured_at": "2026-10-05T17:39:02.751438+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "8e90b961c1f46f483c34fdeba9ff255a5cc00d3b606b593574ae20166f5a44c8",
+          "view_sha256": "081c2ec85288bbe7a69455ea2d48ba12ca2eb8f40b1c6fff3f135331ad4d49b8"
+        },
+        {
+          "source_id": "AREPAIR-eaa3c8e51e7ea6b4aa5f1c7d",
+          "status": "available",
+          "url": "https://api.crossref.org/works/10.1021%2Facsami.5c21304",
+          "captured_at": "2026-10-06T00:50:49.335664+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "eaa3c8e51e7ea6b4aa5f1c7de17eccaecbba15a68bd43aa557400beda73828db",
+          "view_sha256": "71045a3406103721b50b0bfb99e2439e6b11e857e2541b1c0ec6d0eca05f46fb"
+        }
+      ]
+    },
+    {
+      "sample_id": "P27",
+      "case_id": "A-CAN-bf4875f12907f3f358533985",
+      "axis": "author",
+      "title": "ANI-1: A data set of 20M off-equilibrium DFT calculations for organic molecules",
+      "fields": [
+        "membership"
+      ],
+      "inclusion_probability": 0.06134969325153374,
+      "selection_rank_hash": "05ec14cd8b1fc28fc65009e0ba46ff340ca4ecb36aa6079fb4ab120ee7bce4c5",
+      "materials_provided": [
+        {
+          "source_id": "TEXT-PRI-036",
+          "status": "available",
+          "url": "https://www.nature.com/articles/sdata2017193",
+          "captured_at": "2026-10-06T20:54:14.806763+00:00",
+          "kind": "text",
+          "group": "document",
+          "sha256": "2cd82e7a5caa506b1f08da8a2b7d307378cbaea065ddedaad1b6706da2f0bdbe",
+          "view_sha256": "a06be2655edb7c3be33b26361ab2e6f2409f90984be8f47b62f6bfa3f8713ea7"
+        },
+        {
+          "source_id": "PRIM-PRI-036",
+          "status": "available",
+          "url": "https://www.nature.com/articles/sdata2017193",
+          "captured_at": "2026-10-06T20:54:14.806763+00:00",
+          "kind": "html",
+          "group": "document",
+          "sha256": "e71978dfa1c37f34a8ef42c7f1e344fffea6189fe3bad2c88e1b1eacc777fb02",
+          "view_sha256": "221f99592ed0ce76d06015783fc220a41c2c5d66722cecf5f4550e65527e1bf1"
+        },
+        {
+          "source_id": "EXACT-abda2688111c4e87ec550c05",
+          "status": "available",
+          "url": "https://api.crossref.org/works?query.bibliographic=ANI-1%3A%20A%20data%20set%20of%2020M%20off-equilibrium%20DFT%20calculations%20for%20organic%20molecules&rows=5",
+          "captured_at": "2026-10-06T20:26:33.746731+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "52f05a4370ba34962000f81ad7bfe30811fb386344ce7e58f628e1d8379baef5",
+          "view_sha256": "278d0fcec96802bcc8fcf55d5b59af7ca26cd309b669a71181b764b3692552b2"
+        },
+        {
+          "source_id": "NIDENT-7b9bb7333dbfe4dccdbd8816",
+          "status": "available",
+          "url": "https://olexandrisayev.com/",
+          "captured_at": "2026-10-01T07:22:01.921925+00:00",
+          "kind": "html",
+          "group": "identity",
+          "sha256": "7b9bb7333dbfe4dccdbd881608bc5deb958d06ea20493c188613ea2f9fb90257",
+          "view_sha256": "8bca447135a15efefb196f2edbfd9d04a7abd6e65b41971e0a225cec111cacc9"
+        },
+        {
+          "source_id": "NLIST-c0f6fef2ece3406da0c1730a",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=7ICaR4EAAAAJ&hl=en&cstart=200&pagesize=100",
+          "captured_at": "Original capture time recorded in source lineage",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "c0f6fef2ece3406da0c1730a5b00e0a10c6e47df7529ff664a2fb6d87eb8e2b2",
+          "view_sha256": "521e2ed03092a9e1b7535b17f5266542a18a98f3518a0dfa4897f6c7003283c5"
+        }
+      ]
+    },
+    {
+      "sample_id": "P28",
+      "case_id": "A-CAN-d2ae57a69e56f1220165a7a9",
+      "axis": "author",
+      "title": "Guidelines for correlative imaging and analysis of reactive alkali metal battery materials",
+      "fields": [
+        "membership"
+      ],
+      "inclusion_probability": 0.06134969325153374,
+      "selection_rank_hash": "0b1fad6098baacbb9dd897d971bc274bf788671ca912284a4406722c4707b510",
+      "materials_provided": [
+        {
+          "source_id": "AVPN-1199aabf1e142d70c8a50b61",
+          "status": "available",
+          "url": "https://api.openalex.org/works?search=Guidelines%20for%20correlative%20imaging%20and%20analysis%20of%20reactive%20alkali%20metal%20battery%20materials&per-page=5",
+          "captured_at": "2026-10-06T02:45:30.773859+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "1199aabf1e142d70c8a50b61c36c43a6574e78ebec584774a46b99e73a1b0fe0",
+          "view_sha256": "6b9910e3e73e7b22b4b21cbdb71958d7418bca4a0cbf52a4b38bb2938a57de7f"
+        },
+        {
+          "source_id": "AREPAIR-30a2b7b9bf832b6575a38006",
+          "status": "available",
+          "url": "https://api.crossref.org/works?query.bibliographic=Guidelines%20for%20correlative%20imaging%20and%20analysis%20of%20reactive%20alkali%20metal%20battery%20materials&rows=5",
+          "captured_at": "2026-10-06T00:54:19.659129+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "30a2b7b9bf832b6575a38006ee5f980ae807f6e1248a90f5ca2c94bc8386a12a",
+          "view_sha256": "9921ff0c1cfeb9ede9475267a2dbd13f3d600aa2ec26a0eaed5055561ecd693b"
+        },
+        {
+          "source_id": "APUBLIC-b9dcf5c001013852ca75e848",
+          "status": "available",
+          "url": "https://linkinghub.elsevier.com/retrieve/pii/S2542435125004921",
+          "captured_at": "2026-10-06T02:06:34.275893+00:00",
+          "kind": "html",
+          "group": "document",
+          "sha256": "b9dcf5c001013852ca75e84809661ce60261322e53dacef592aa999317043432",
+          "view_sha256": "ea1e79c3bea2aa8c3197420f1d0fd7c079d93491a48258a0443abdb286605048"
+        },
+        {
+          "source_id": "ATEXT-e55fb1a1d731153e943b6884",
+          "status": "available",
+          "url": "https://linkinghub.elsevier.com/retrieve/pii/S254243511730082X",
+          "captured_at": "2026-10-06T02:06:34.084936+00:00",
+          "kind": "text",
+          "group": "document",
+          "sha256": "e55fb1a1d731153e943b68844af12dcce8bfac917c98ffdea64c80da0607dd47",
+          "view_sha256": "93a5e8b777c2e7883e514e631f1299955bf30ade574c59b497b7a6096e368ec5"
+        },
+        {
+          "source_id": "AID-b3298896ea274d334ec3413a",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=PRXluo4AAAAJ&hl=en",
+          "captured_at": "2026-10-01T14:46:06.947874+00:00",
+          "kind": "html",
+          "group": "identity",
+          "sha256": "b3298896ea274d334ec3413a6b45d8850591b725f67fea20fe1a1dabfb969597",
+          "view_sha256": "9ed60ac0f464492eed2aea81b4e60e8a3397d27bd0baacbb6806b444a8495c3d"
+        },
+        {
+          "source_id": "AID-93df7baa173a11b18fc8dfae",
+          "status": "available",
+          "url": "https://pme.uchicago.edu/directory/y-shirley-meng",
+          "captured_at": "",
+          "kind": "html",
+          "group": "identity",
+          "sha256": "93df7baa173a11b18fc8dfae66a2e96e8728623c31208004f76b3c765d1fcd00",
+          "view_sha256": "2bb65ea4014122e80515af47887a94c7f14b2171b3f59bb1750c947f98dc41a7"
+        },
+        {
+          "source_id": "ARAW-f4cc59d4f561ddfecebc352c",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=PRXluo4AAAAJ&hl=en&cstart=100&pagesize=100",
+          "captured_at": "2026-10-05T17:24:07.353178+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "f4cc59d4f561ddfecebc352cd43f89ea4a5f9e84d9992ec33a9cceda97137cc3",
+          "view_sha256": "039a042d50d4f81b8d2ac66093d04686962a953bd2bf0e6aba76a2e47ba7d75e"
+        },
+        {
+          "source_id": "ARAW-2e34c436e74cc7e58332b1ca",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=PRXluo4AAAAJ&hl=en&cstart=200&pagesize=100",
+          "captured_at": "2026-10-05T17:24:24.883340+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "2e34c436e74cc7e58332b1ca27ac8daac3b88f58648fb8c1b0397c67fae75759",
+          "view_sha256": "0a9629723fcd1334281d1e503b4bfdcfc50eab313b5f4605d54666f10b389f0d"
+        },
+        {
+          "source_id": "ARAW-064a32d1f8c0f8a2c93fd066",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=PRXluo4AAAAJ&hl=en&cstart=0&pagesize=100",
+          "captured_at": "2026-10-05T17:23:46.566055+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "064a32d1f8c0f8a2c93fd06627b5f483dbde7f8b3e895d746199e4576bcbf900",
+          "view_sha256": "f8648d2e0084b1a7a2ca28c9afdd47378962f426cae0c02d1b02a23aaed8f3cc"
+        },
+        {
+          "source_id": "ARAW-4c3c281a8b5a8aa657fceaed",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=PRXluo4AAAAJ&hl=en&cstart=600&pagesize=100",
+          "captured_at": "2026-10-05T17:25:52.589920+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "4c3c281a8b5a8aa657fceaed18c9122d16e3af19cc9e511a6faa4940d9e72aa1",
+          "view_sha256": "be5c8736a5d25af3242602b5e6ff7ced0b72d7db5d7e0db88c46da8d12c0c08c"
+        },
+        {
+          "source_id": "ARAW-160c6af7797329e101415238",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=PRXluo4AAAAJ&hl=en&cstart=300&pagesize=100",
+          "captured_at": "2026-10-05T17:24:52.855380+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "160c6af7797329e1014152386e947246eccefb28e38359d7033f696028a78e8a",
+          "view_sha256": "b182792f7d547b9807d17fbe012650a47d6a468ef776253bd204412501977db8"
+        },
+        {
+          "source_id": "ARAW-36b59949c835b9addb06a32d",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=PRXluo4AAAAJ&hl=en&cstart=400&pagesize=100",
+          "captured_at": "2026-10-05T17:25:14.902076+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "36b59949c835b9addb06a32d28b314aa124071e1704741df5377c3d8e073b1ce",
+          "view_sha256": "f3d86099ef14311e86ddc0da4d974b94ec8311d0517fce18f99041414c2048ac"
+        },
+        {
+          "source_id": "ARAW-411239ed63240b4cbd556307",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=PRXluo4AAAAJ&hl=en&cstart=500&pagesize=100",
+          "captured_at": "2026-10-05T17:25:31.268697+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "411239ed63240b4cbd55630752f01bd0bb0f2889a6daf0c7930abe8a972074e3",
+          "view_sha256": "68b9db0e7866725a39128e922da0d2f7db189bf0975537556c566ac2fa1b20e6"
+        },
+        {
+          "source_id": "ARAW-eb7afc19ce7a514d50f99b4b",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=PRXluo4AAAAJ&hl=en&cstart=700&pagesize=100",
+          "captured_at": "2026-10-05T17:26:09.602010+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "eb7afc19ce7a514d50f99b4b012b7b22e98bf0da56aa7511e7e01747f291542b",
+          "view_sha256": "1567f8fa0750d062e9a68ae3ca653d822685c461e8f1b31555c3cc16e9643f56"
+        }
+      ]
+    },
+    {
+      "sample_id": "P29",
+      "case_id": "A-CAN-d8ce24db627f176bd3d433ad",
+      "axis": "author",
+      "title": "Magnetic-field-induced superconductivity in hexalayer rhombohedral graphene",
+      "fields": [
+        "membership"
+      ],
+      "inclusion_probability": 0.06134969325153374,
+      "selection_rank_hash": "07cd9c45b01c30c89c3d9e151589105ac75562cde88d96913f7eef80858865a2",
+      "materials_provided": [
+        {
+          "source_id": "ASUPRAW-4a5a817be45c5e1a6864543f",
+          "status": "available",
+          "url": "https://export.arxiv.org/api/query?id_list=2603.13498",
+          "captured_at": "2026-10-05T17:40:28.793083+00:00",
+          "kind": "text",
+          "group": "document",
+          "sha256": "4a5a817be45c5e1a6864543f9610d027f8eea0b89dae1b1b553ecdabfef338b3",
+          "view_sha256": "c16145526f03fca9bcc0de4a5d858748fffe8d2af6c7b1ea0c3765f4f9f059d6"
+        },
+        {
+          "source_id": "ARAW-60d060ca4fd7a37efa275191",
+          "status": "available",
+          "url": "https://api.openalex.org/works?filter=authorships.author.id%3AA5008937064&per-page=100&cursor=IlswLCAnLUluZmluaXR5JywgMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyOTI3MjExNjM4J10i&sort=cited_by_count%3Adesc",
+          "captured_at": "2026-10-05T17:04:14.644217+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "60d060ca4fd7a37efa275191bc35f979ccaebc03125213a18dd6c3cc8e343487",
+          "view_sha256": "4abd4fdc1298cd1dbafa16bdfb297e18c220f446247f8cef321377062a99afdc"
+        },
+        {
+          "source_id": "AVPN-aca122fd94bc1131012cb4b5",
+          "status": "available",
+          "url": "https://api.openalex.org/works/https://doi.org/10.48550/arxiv.2603.13498",
+          "captured_at": "2026-10-06T02:45:30.785056+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "aca122fd94bc1131012cb4b55c58e67b22dba373a6b6a18e0b843e93ce4562b1",
+          "view_sha256": "53f29e5314223a0ed9dcb035d1cda6b817125f726230e0cf6c3e1f0c5d2d6196"
+        },
+        {
+          "source_id": "AREPAIR-ae8462e3af85ca7577aaa97f",
+          "status": "available",
+          "url": "https://api.crossref.org/works/10.48550%2Farxiv.2602.17349",
+          "captured_at": "2026-10-06T00:49:14.295408+00:00",
+          "kind": "text",
+          "group": "document",
+          "sha256": "ae8462e3af85ca7577aaa97ff22a194f9dfd7fada58cf4944b53d2fdfa7b1f92",
+          "view_sha256": "d708bc067c8c2136b5b0d54c67c72ed3c0900c37526d6906babb69e443e3086e"
+        },
+        {
+          "source_id": "AID-890bbb5beb33c995280a087f",
+          "status": "available",
+          "url": "https://www.duffield.cornell.edu/people/jie-shan/",
+          "captured_at": "2026-10-01T05:04:16.180917+00:00",
+          "kind": "html",
+          "group": "identity",
+          "sha256": "890bbb5beb33c995280a087f2508c7018d335b19e50db92209b83b6be2cf54f4",
+          "view_sha256": "37edaf320f7ece709b591073ff91b2a42f675bd2dba78151eb038c68d178660e"
+        },
+        {
+          "source_id": "ARAW-55d97241ef560a396b17e5d6",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=brqDdPwAAAAJ&hl=en&cstart=100&pagesize=100",
+          "captured_at": "2026-10-05T17:04:58.395976+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "55d97241ef560a396b17e5d60c2fb2798ddcaec61ed231f0bf69633bd89da516",
+          "view_sha256": "c015076bb7f07fffe37295e967eda609134ac7313f534e39f54e565639a5d42e"
+        },
+        {
+          "source_id": "ARAW-4a23c744fd09a2d2e7419297",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=brqDdPwAAAAJ&hl=en&cstart=0&pagesize=100",
+          "captured_at": "2026-10-05T17:04:33.368728+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "4a23c744fd09a2d2e7419297f3ad79109213a609a0ebeac4447910d4b886faff",
+          "view_sha256": "2dffae2df95451f6d3f700700f4812c7ea185fe984c69f3411638a0fc519af66"
+        },
+        {
+          "source_id": "ARAW-c34bfcda32f4cc746d621f5c",
+          "status": "available",
+          "url": "https://scholar.google.com/citations?user=brqDdPwAAAAJ&hl=en&cstart=200&pagesize=100",
+          "captured_at": "2026-10-05T17:05:21.122068+00:00",
+          "kind": "html",
+          "group": "listing",
+          "sha256": "c34bfcda32f4cc746d621f5c3076a06fd211352f153f1b935baa88acca9747f6",
+          "view_sha256": "f69e555176ed5c2472ed7ccb460c54f908e9ab836efeaefca4b2a50b2445bfb6"
+        }
+      ]
+    },
+    {
+      "sample_id": "P30",
+      "case_id": "A-CAN-65b73d1227d88d81b20558a0",
+      "axis": "subject",
+      "title": "Reactive reconstruction and embedded passivation of heterointerfaces for intrinsically stable perovskite photovoltaics.",
+      "fields": [
+        "membership",
+        "broad_membership"
+      ],
+      "inclusion_probability": 0.10101010101010101,
+      "selection_rank_hash": "134707145caee123d9242c226321353e2de40c005a9be513be16adc808e99b03",
+      "materials_provided": [
+        {
+          "source_id": "ARAW-771ec87cb39f986faa9b7137",
+          "status": "available",
+          "url": "https://api.openalex.org/works/https://doi.org/10.1126/sciadv.aef6596",
+          "captured_at": "2026-10-05T17:39:22.286948+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "771ec87cb39f986faa9b713752870f9395ac141cd1daf3000a2a3c96af1a250c",
+          "view_sha256": "7472a0a66b993dcc93b82e61de7090319df33e15c34d209ae36f4b18453d59ec"
+        },
+        {
+          "source_id": "AREPAIR-33a223f364083f923080392e",
+          "status": "available",
+          "url": "https://api.crossref.org/works/10.1126%2Fsciadv.aef6596",
+          "captured_at": "2026-10-06T00:51:42.182383+00:00",
+          "kind": "json",
+          "group": "document",
+          "sha256": "33a223f364083f923080392ee642371c82d75b17d03240c1f3304763c089013f",
+          "view_sha256": "d61903f23e1ac4ba1e9c91d6b4f6cd41415d5e4dd6ea3ee25a7f9ef42ad138e6"
+        }
+      ]
+    }
+  ],
+  "material_role": "Source materials provided for each sampled candidate; not an item-level reading log.",
+  "source_content": "Archived source bytes remain in the controlled source archive; source identifiers and hashes are released."
+}

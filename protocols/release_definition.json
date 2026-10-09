@@ -3,7 +3,7 @@
   "status": "current_publication_scope",
   "product_commit": "539d00dd1a3b0f5857912223868ca232d56680c9",
   "product_schema": 22,
-  "release_tag": "manuscript-evaluation",
+  "release_tag": "evaluation-20261010",
   "repository_url": "https://github.com/LKong92/Gewu-Insight-Evaluation",
   "discovery": {
     "candidates": 421,
@@ -87,5 +87,17 @@
   "raw_stage_inputs": [
     "provenance/stage_inputs/task_b_cases.json",
     "provenance/stage_inputs/author_roster.json"
-  ]
+  ],
+  "human_review": {
+    "sampled_candidates": 30,
+    "judgments": 60,
+    "candidate_counts": {
+      "journal": 10,
+      "subject": 10,
+      "author": 10
+    },
+    "agreed_fields": 60,
+    "reference_changed": false,
+    "summary_file": "results/human_review_summary.json"
+  }
 }

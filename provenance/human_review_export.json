@@ -1,0 +1,22 @@
+{
+  "schema": "human-review-export-1",
+  "source_records": {
+    "sampling_protocol_sha256": "64338952cba55d3d04a9cc07e4f47863f428c1cdc283a2e1e16601bdf5733c2b",
+    "sampling_frame_sha256": "23c24f9a0d20e8905ed597a966d41d85022a2e59e0ab2e1bb30201db2d9eb5b5",
+    "sample_record_sha256": "36db8fb5a552bc03efb53b7f3a55396103119bfdba399e8182da29b110a6c713",
+    "provided_material_sha256": "8cf5d93917d3f0f8ec7f85880f10f14b65275bada1fe3f096ecd2c1857caef6c",
+    "final_response_record_sha256": "290a921ba0675b0a078f2e91fd4a5b6fd568961041449f5e2fcd62b3559f8c2b"
+  },
+  "projection": "Final labels are copied from the confirmed human response record. Sample IDs, case bindings, selection hashes and probabilities are preserved. No label is inferred or supplied by the export process.",
+  "source_archive": "Controlled author archive",
+  "response_fields": [
+    "reviewer",
+    "submitted_at",
+    "submitted_via",
+    "answers"
+  ],
+  "answers": 60,
+  "sampled_candidates": 30,
+  "materials_provided_entries": 190,
+  "existing_reference_and_model_answers_unchanged": true
+}

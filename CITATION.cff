@@ -2,16 +2,16 @@ cff-version: 1.2.0
 message: "Please cite the Gewu Insight Evaluation dataset."
 title: "Gewu Insight Evaluation"
 type: dataset
-version: "2026-10-09"
-date-released: 2026-10-09
+version: "2026-10-10"
+date-released: 2026-10-10
 authors:
   - family-names: Kong
     given-names: Lingyuan
   - family-names: Wu
     given-names: Zhengran
 repository-code: "https://github.com/LKong92/Gewu-Insight-Evaluation"
-url: "https://github.com/LKong92/Gewu-Insight-Evaluation/releases/tag/manuscript-evaluation"
-abstract: "Structured evaluation data, independent model decisions, human adjudications, frozen-software provenance and reproducibility tools for the Gewu Insight evaluation."
+url: "https://github.com/LKong92/Gewu-Insight-Evaluation/releases/tag/evaluation-20261010"
+abstract: "Structured evaluation data, independent model decisions, human adjudications and sampled human review, frozen-software provenance and reproducibility tools for the Gewu Insight evaluation."
 keywords:
   - research information infrastructure
   - literature discovery
